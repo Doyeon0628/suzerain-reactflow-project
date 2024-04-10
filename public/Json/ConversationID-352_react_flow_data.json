@@ -1,0 +1,1723 @@
+{
+    "nodes": [
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Do you know what this is about?\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I was told to come and get you, Your Majesty. I believe there is an important situation that needs your immediate attention.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen we arrived at the doors to the Council of Chambers, Uncle Hugo greeted me."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita approached me with a calm demeanor that contrasted with the anxious atmosphere inside. She bowed and spoke."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"An act of war? I'm sure there's a misunderstanding.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Approximately an hour ago, a violent exchange erupted between our soldiers and Palesian forces at our border near Fort Ales.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Elena Werner\n\n\"Yes. Navar Castle is one of the most well-preserved Rezenid-era paleaccis outside of Pales. It is on a small islet on the River Alca -- directly at our border.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"I agree. The timing is too perfect. We were about to sign the deal to transfer the extraction rights of Aureus to us.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Perhaps we may need to.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And the casualties?\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I would advise caution, Your Majesty.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Of course, Your Majesty.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHugo sighed heavily."
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"However, the report of the commanding officer implicitly states they were 'attacked' while they were on patrol duty.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"There is something incredibly shady about this. The timing and how the incident took place.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I agree. We need more details.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"According to one onlooker, the first shot was fired from our side directly from the paleaccis. But I find it hard to believe that.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What say you of this incursion, Hugo, Your Grace?\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What if it's a false flag? This can be exactly what they are trying to make us think.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And who might that be?\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"That is a possibility we must seriously consider, Your Majesty.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What if it's an inside job? Someone who knows our patrols, our weaknesses at the border.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"One obvious explanation is that this was an inside job. Someone who knows our patrols and our weaknesses at the borders.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen we arrived at the doors to the council chambers, Hugo and Vina greeted me."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Apologies for disturbing both of you at this hour. Thank you for being here so quickly.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"We'll talk about how to handle this situation. Could you tell us the details first, Duchess Azaro?\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm getting really worried. Please make it quick.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Unfortunately, not yet, Your Majesty.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It is too early to be certain of anything. We cannot act so hastily while the Princess is in Pales.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"What if it's neither Pales nor treachery within, but another player on the world stage seeking to embroil us in conflict?\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We must not leap to the drumbeat of war, nor to conclusions. We will investigate this thoroughly. Establish communications with Pales immediately. We will not act until I talk to the Duke myself and demand an explanation.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_190",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe councillors fell silent, a shocked look on their faces."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe councillors fell silent, a resolved look on their faces."
+            },
+            "position": {
+                "x": 16740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Understood, Your Majesty. I will let the commander know about your orders immediately.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe councillors fell silent, a questioning look on their faces."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Understood, Your Majesty, but let us not delay. Every moment we ponder, Pales grows bolder.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I agree with your decision, Your Majesty. We have to be calm if we want to find out the truth and reach an understanding with Pales.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"The squad on duty was forced to fall back. As a result, the Palesians managed to enter the castle. The commander reported they have surrounded them but waiting for orders before taking any actions.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Their other two vessels were immediately surrounded. They are still being kept at the location of the incident.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"According to our reports, a small fleet of three Palesian ships advanced directly at our ships despite repeated warnings.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"We'll talk about how to handle this situation. Could you tell us the details first, Duchess Azaro?\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't have time to read all that. Tell me exactly what happened.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Unfortunately, not yet, Your Majesty.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Elena Werner\n\n\"That's true. Our fleet only acted in defense of our nation's asset. But this is still a disaster. The sinking of a ship is a grave matter.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And the casualties?\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Perhaps we may need to.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"The admiral is waiting for your orders on how to deal with the situation.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"We're still ascertaining the full extent, but preliminary reports suggest multiple injuries aboard the Valero.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHugo sighed heavily."
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_249",
+            "type": "customNode",
+            "data": {
+                "label": "NavalIncidentHub\n\nNavalIncidentHub"
+            },
+            "position": {
+                "x": 12150,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_258",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"How did the engagement come to pass?\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_262",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I've heard enough. We can't spend any more time on this. We need to talk action.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"The Valero's propulsion system is heavily damaged, rendering the ship immobile. It is currently running on emergency power, but the flooding is critical.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thank you for the reports. How do you think we should respond?\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And the Palesian ship?\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"It sustained catastrophic damage post-collision. Seconds after the collision, it was shot at by multiple shots by our frigates. It capsized minutes after the ramming.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And the remaining Palesian vessels?\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_288",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"I agree. The admiral is waiting for our decision.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_295",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Additionally, it is reported that there are survivors from the colliding ship. These are perilous waters, Your Majesty, so we do not know if we'll be able to manage a complete rescue operation without any help arriving.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What's the distance to the nearest Rizian port for additional support?\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_310",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Your Majesty, the sailors from the capsized vessel are in deep waters. Our frigates are currently occupied with both containing the situation aboard the RRN Valero and maintaining a perimeter around the remaining Palesian ships.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Vina, what do you think?\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_331",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Alright. Here is what we'll do...\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "NavalIncidentHub2\n\nNavalIncidentHub2"
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_334",
+            "type": "customNode",
+            "data": {
+                "label": "NavalIncidentDecision\n\nNavalIncidentDecision"
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Halaita.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_337",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Halaita.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"May St. Wruhec embrace their souls.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"May St. Wruhec embrace their souls.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_340",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"May the Divine grant you strength, Your Majesty.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_346",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"What does that mean, Your Majesty?\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_352",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Enough! Pales has dared to attack us, and such insolence demands retribution. I will show them the might of our kingdom. Prepare for war!\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Our first duty is to our own. Focus all efforts on the RRN Valero. Dispatch a rescue team from the mainland for the Palesian sailors, but our immediate priority is saving the Valero and its crew. Keep the frigates focused on the Palesian ships.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We must attempt both rescues. Divert our frigates to aid the Palesian sailors as well as to continue to assist the Valero. Send for the mainland rescue team as backup.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_356",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Release the surrounded Palesian ships and instruct them to assist their sailors. Our frigates will focus on the Valero.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We will not attempt any rescue attempts for their sailors. Focus all rescue efforts on the RRN Valero. Dispatch a rescue team from the mainland for the flagship, but make sure our frigates are locked onto the Palesian ships in the meantime.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_361",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Without a greenlight from Lespia, the Duke would never do something like this. I think the connection is obvious.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_364",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Understood, Your Majesty. I will let the admiral know about your orders immediately.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_368",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You already know about my intentions. We were waiting for them to initiate the attack -- and they did. It's time for us to bring them the war they wanted.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_381",
+            "type": "customNode",
+            "data": {
+                "label": "Elena Werner\n\n\"Juggling both responsibilities will be a challenge, but it may be the best course to mitigate broader consequences.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_382",
+            "type": "customNode",
+            "data": {
+                "label": "Elena Werner\n\n\"Releasing their ships is regrettable, but it may be the best course to mitigate broader consequences.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_385",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"This action may have diplomatic repercussions, Your Majesty.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_392",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"I believe His Majesty has already made his decision.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_393",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe councillors fell silent."
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_394",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I believe His Majesty has already made his decision.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"This is the best course of action in my opinion.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_404",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You've all already heard my decision. We'll call it here.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_410",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Was there anything else?\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_413",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was complete silence."
+            },
+            "position": {
+                "x": 16740,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_415",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"I didn't expect to hear this, to say the least.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_417",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"We've all heard the King, Mr. Esquibel.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_426",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm surprised you're not on Mr. Esquibel's side.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I wish it had not come to this. But our military is ready to rise to the challenge.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Elena Werner\n\n\"But in this instance, I cannot ignore the potential economic boom the Aureus field represents...\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_438",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Any other questions or comments?\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_441",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Have we considered all diplomatic avenues? Are we prepared for the repercussions?"
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_442",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Oh...\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_446",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If they do, call their bluff. Duke Reinhart knows better than to mess with the Royal Family.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_448",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLaurento looked at me in shock."
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_449",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're speaking my language, Ms. Werner.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_454",
+            "type": "customNode",
+            "data": {
+                "label": "Elena Werner\n\n\"Why? There is a time for diplomacy, and a time for action.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e8_to_36",
+            "source": "node_8",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_142",
+            "source": "node_11",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_142",
+            "source": "node_12",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_336",
+            "source": "node_39",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_336",
+            "source": "node_45",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_41",
+            "source": "node_56",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_149",
+            "source": "node_57",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_84",
+            "source": "node_61",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_87",
+            "source": "node_76",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_61",
+            "source": "node_81",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_72",
+            "source": "node_82",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_338",
+            "source": "node_86",
+            "target": "node_338",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_339",
+            "source": "node_87",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_99",
+            "source": "node_89",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_211",
+            "source": "node_90",
+            "target": "node_211",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_63",
+            "source": "node_96",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_92",
+            "source": "node_98",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_110",
+            "source": "node_103",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_134",
+            "source": "node_113",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_125",
+            "source": "node_127",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_173",
+            "source": "node_135",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_456",
+            "source": "node_136",
+            "target": "node_456",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_456",
+            "source": "node_140",
+            "target": "node_456",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_13",
+            "source": "node_144",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_20",
+            "source": "node_147",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_466",
+            "source": "node_151",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_96",
+            "source": "node_155",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_96",
+            "source": "node_156",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_102",
+            "source": "node_162",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_135",
+            "source": "node_170",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_135",
+            "source": "node_177",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e190_to_214",
+            "source": "node_190",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_413",
+            "source": "node_192",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_384",
+            "source": "node_193",
+            "target": "node_384",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_478",
+            "source": "node_202",
+            "target": "node_478",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_385",
+            "source": "node_203",
+            "target": "node_385",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_395",
+            "source": "node_205",
+            "target": "node_395",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_205",
+            "source": "node_210",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_101",
+            "source": "node_211",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_228",
+            "source": "node_213",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_467",
+            "source": "node_219",
+            "target": "node_467",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_215",
+            "source": "node_223",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_215",
+            "source": "node_224",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_215",
+            "source": "node_227",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_366",
+            "source": "node_228",
+            "target": "node_366",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_255",
+            "source": "node_233",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_271",
+            "source": "node_241",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_297",
+            "source": "node_242",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_337",
+            "source": "node_248",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e249_to_278",
+            "source": "node_249",
+            "target": "node_278",
+            "type": "step"
+        },
+        {
+            "id": "e258_to_233",
+            "source": "node_258",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e262_to_259",
+            "source": "node_262",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_250",
+            "source": "node_270",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_280",
+            "source": "node_272",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_250",
+            "source": "node_278",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_270",
+            "source": "node_281",
+            "target": "node_270",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_270",
+            "source": "node_286",
+            "target": "node_270",
+            "type": "step"
+        },
+        {
+            "id": "e288_to_242",
+            "source": "node_288",
+            "target": "node_242",
+            "type": "step"
+        },
+        {
+            "id": "e295_to_330",
+            "source": "node_295",
+            "target": "node_330",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_311",
+            "source": "node_299",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e310_to_334",
+            "source": "node_310",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_359",
+            "source": "node_324",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e331_to_341",
+            "source": "node_331",
+            "target": "node_341",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_363",
+            "source": "node_333",
+            "target": "node_363",
+            "type": "step"
+        },
+        {
+            "id": "e334_to_332",
+            "source": "node_334",
+            "target": "node_332",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_480",
+            "source": "node_336",
+            "target": "node_480",
+            "type": "step"
+        },
+        {
+            "id": "e337_to_249",
+            "source": "node_337",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_88",
+            "source": "node_338",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_88",
+            "source": "node_339",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e340_to_249",
+            "source": "node_340",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e346_to_335",
+            "source": "node_346",
+            "target": "node_335",
+            "type": "step"
+        },
+        {
+            "id": "e352_to_349",
+            "source": "node_352",
+            "target": "node_349",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_192",
+            "source": "node_354",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_371",
+            "source": "node_355",
+            "target": "node_371",
+            "type": "step"
+        },
+        {
+            "id": "e356_to_372",
+            "source": "node_356",
+            "target": "node_372",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_373",
+            "source": "node_357",
+            "target": "node_373",
+            "type": "step"
+        },
+        {
+            "id": "e361_to_348",
+            "source": "node_361",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e364_to_348",
+            "source": "node_364",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e368_to_230",
+            "source": "node_368",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e381_to_392",
+            "source": "node_381",
+            "target": "node_392",
+            "type": "step"
+        },
+        {
+            "id": "e382_to_397",
+            "source": "node_382",
+            "target": "node_397",
+            "type": "step"
+        },
+        {
+            "id": "e385_to_204",
+            "source": "node_385",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e392_to_387",
+            "source": "node_392",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e393_to_478",
+            "source": "node_393",
+            "target": "node_478",
+            "type": "step"
+        },
+        {
+            "id": "e394_to_411",
+            "source": "node_394",
+            "target": "node_411",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_478",
+            "source": "node_395",
+            "target": "node_478",
+            "type": "step"
+        },
+        {
+            "id": "e404_to_478",
+            "source": "node_404",
+            "target": "node_478",
+            "type": "step"
+        },
+        {
+            "id": "e410_to_415",
+            "source": "node_410",
+            "target": "node_415",
+            "type": "step"
+        },
+        {
+            "id": "e413_to_476",
+            "source": "node_413",
+            "target": "node_476",
+            "type": "step"
+        },
+        {
+            "id": "e415_to_481",
+            "source": "node_415",
+            "target": "node_481",
+            "type": "step"
+        },
+        {
+            "id": "e417_to_426",
+            "source": "node_417",
+            "target": "node_426",
+            "type": "step"
+        },
+        {
+            "id": "e426_to_434",
+            "source": "node_426",
+            "target": "node_434",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_444",
+            "source": "node_432",
+            "target": "node_444",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_394",
+            "source": "node_433",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e438_to_433",
+            "source": "node_438",
+            "target": "node_433",
+            "type": "step"
+        },
+        {
+            "id": "e441_to_394",
+            "source": "node_441",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e442_to_418",
+            "source": "node_442",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e446_to_430",
+            "source": "node_446",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e448_to_432",
+            "source": "node_448",
+            "target": "node_432",
+            "type": "step"
+        },
+        {
+            "id": "e449_to_432",
+            "source": "node_449",
+            "target": "node_432",
+            "type": "step"
+        },
+        {
+            "id": "e454_to_423",
+            "source": "node_454",
+            "target": "node_423",
+            "type": "step"
+        }
+    ]
+}

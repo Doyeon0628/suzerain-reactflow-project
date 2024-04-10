@@ -1,0 +1,805 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Let's get back to the topic.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I can't believe you are supporting this too.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"While I respect her, I doubt that she's capable of creating major obstacles for us. But we have to keep close eyes on her.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"She's not our main problem here.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will make sure she stays in line.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes, keep an eye on her. We can't let her sabotage us.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"We already know that the Old Guards would block any reforms to the Constitution. So, they would definitely want to work with you to preserve it, if that's still what you want to do.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I... Don't get me wrong. I am with you. I was only saying that you could go over the draft. I didn't notice if that came out wrong.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Maybe we can first go over the draft of the amendments that the committee prepared for reforms. You do not have to approve it.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fine. Let's hear it.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"That's troublesome.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I've heard the security reports. Now is not the time for reform.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I just do not trust the Chief Justice in delivering any promises. I'm afraid that ignoring the demands for reform might create some future problems for our administration.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe left the room and slammed the door behind her."
+            },
+            "position": {
+                "x": 1890,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I think we can figure something out. You can call a meeting with Orso Hawker. We are not here to destroy the legacy of Tarquin Soll. Why not work with them?\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You too?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I understand, Mr. President.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Work with the reformists on writing a more democratic Constitution for Sordland. Change cannot be stopped.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"How about you, Petr?\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe didn't respond."
+            },
+            "position": {
+                "x": 1890,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good day to you too, Mrs. Morgna.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Of course, sir. Let's proceed to the draft.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Have a good day.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Come now, I can't have you all go against me on this.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe looked at me in shock. She had no words to say."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I appreciate your thoughts. Now let's move on.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Even though I do not trust the Chief Justice, I think we can set up a meeting with him to discuss working together to handle the opposition.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe grabbed her notes and went towards the door."
+            },
+            "position": {
+                "x": 7560,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So you came here to tell me not to do this.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I do not. I have already explained Mr. President my position on working with the Old Guards.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia stood up with rage."
+            },
+            "position": {
+                "x": 1890,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "BackToAutocrat\n\nBackToAutocrat"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I can't believe this!\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Blocking the way of the reforms will create many enemies for us. Our best bet would definitely be working with the Old Guards...\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"YES. I thought I already explained myself.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I am disappointed in you, Mrs. Morgna.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, let's try to work with the reformists on a new Constitution.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I see.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Watch your words, Mrs. Morgna.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Of course, sir.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"With all due respect, I have to say that I feel disappointed. I thought this administration was going to bring real change. It seems Sollism still lives on.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Excuse me gentlemen. The reforms are not just *some* problem, they are absolutely necessary to democratize this country.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Okay. Let's see what these suggested reforms are.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Look, I will not reform the Constitution. We have other problems.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"So we're officially against the constitutional reforms?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Looks like it.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sollism will never die.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_97",
+            "source": "node_2",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_36",
+            "source": "node_5",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_46",
+            "source": "node_6",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_3",
+            "source": "node_8",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_3",
+            "source": "node_11",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_11",
+            "source": "node_12",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_10",
+            "source": "node_13",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_6",
+            "source": "node_14",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_61",
+            "source": "node_15",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_21",
+            "source": "node_17",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_5",
+            "source": "node_18",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_7",
+            "source": "node_19",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_62",
+            "source": "node_20",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_59",
+            "source": "node_21",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_19",
+            "source": "node_24",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_21",
+            "source": "node_25",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_15",
+            "source": "node_26",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_17",
+            "source": "node_30",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_16",
+            "source": "node_31",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_25",
+            "source": "node_32",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_16",
+            "source": "node_33",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_29",
+            "source": "node_35",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_67",
+            "source": "node_36",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_34",
+            "source": "node_37",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_30",
+            "source": "node_38",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_16",
+            "source": "node_39",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_44",
+            "source": "node_42",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_49",
+            "source": "node_43",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_37",
+            "source": "node_44",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_30",
+            "source": "node_45",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_32",
+            "source": "node_46",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_41",
+            "source": "node_47",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_55",
+            "source": "node_48",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_16",
+            "source": "node_50",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_43",
+            "source": "node_51",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_57",
+            "source": "node_52",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_50",
+            "source": "node_53",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_36",
+            "source": "node_54",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_51",
+            "source": "node_55",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_33",
+            "source": "node_56",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_51",
+            "source": "node_57",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_23",
+            "source": "node_58",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_58",
+            "source": "node_59",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_66",
+            "source": "node_60",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_62",
+            "source": "node_61",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_54",
+            "source": "node_62",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_55",
+            "source": "node_63",
+            "target": "node_55",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,652 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe door slowly opened and Pabel entered, a fluffy towel in his arms. He hung it on a hook on the wall."
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Your Majesty... How much have you been told about your father's death?\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Funny you should mention digging.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"That was the official explanation, yes.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Back when my dad was still alive, he showed me every single plant in the Palas Rezna gardens.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Why didn't you ever tell me about this plant?\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"A few days afterwards, I went out to the part of the garden where my father had planted the mandragora. Nothing but a smooth patch of dirt.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Who was around the palace that night?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"There were so few people he trusted by the end. If my suspicions are correct, it means one of them took advantage of that trust.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thank you. You're dismissed.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I don't know whom I can trust, to be honest.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel spoke the next words slowly."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"A few months before that, maybe. I remembered the flowers blooming.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"The Queen Mother, obviously. Grand Wiseman Ignacius. Titus and his men. Ah, and your uncle was meeting with Lucita Azaro prior to her council appointment.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Valero Poison Qs\n\nValero Poison Qs"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If he was poisoned, the coroner would have caught it.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I see. I'm going to have to look into this further.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Even if you're right, this isn't worth pursuing. Nobody's going to murder me.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm not seeing it, Pabel. It's too fantastical.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Of course. I would never hide anything from you. You and I go too far back for that.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel drew his breath in through his teeth."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"You're right, Romus. Forget I even brought it up.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n'I *know* I'm right. Who would possibly want to kill me?\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI heard Pabel sigh quietly."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Why would I even be telling you all this, then?\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Speaking of backs, can you give mine a scrub while you're here?\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If you've said all you have to say, you're dismissed.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I will. Gladly.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel nodded."
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What do you think I should do next?\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I'll keep an ear out myself. Palace gossip gets around.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm sorry about that. I didn't know any better.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took a warm, soapy washcloth and scrubbed my back in a businesslike manner."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I'll take my leave before your water gets too cold.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe finished the phrase with a gentle smile, then rose from his seat."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe laughed."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_185",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm happy there's one member of my inner circle I can trust.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"As my king commands.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_531",
+            "source": "node_2",
+            "target": "node_531",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_36",
+            "source": "node_3",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_54",
+            "source": "node_12",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_54",
+            "source": "node_13",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_54",
+            "source": "node_14",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_57",
+            "source": "node_19",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_58",
+            "source": "node_23",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_59",
+            "source": "node_25",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_63",
+            "source": "node_26",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_58",
+            "source": "node_33",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_182",
+            "source": "node_45",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_195",
+            "source": "node_52",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_24",
+            "source": "node_58",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_91",
+            "source": "node_62",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_83",
+            "source": "node_67",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_88",
+            "source": "node_68",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_27",
+            "source": "node_97",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_114",
+            "source": "node_98",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_116",
+            "source": "node_99",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_147",
+            "source": "node_101",
+            "target": "node_147",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_196",
+            "source": "node_106",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_140",
+            "source": "node_112",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_143",
+            "source": "node_114",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_190",
+            "source": "node_115",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_196",
+            "source": "node_120",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_185",
+            "source": "node_135",
+            "target": "node_185",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_152",
+            "source": "node_137",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_103",
+            "source": "node_139",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_196",
+            "source": "node_142",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_103",
+            "source": "node_144",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_107",
+            "source": "node_147",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_196",
+            "source": "node_148",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_2",
+            "source": "node_168",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_2",
+            "source": "node_169",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_172",
+            "source": "node_173",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_172",
+            "source": "node_176",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e185_to_174",
+            "source": "node_185",
+            "target": "node_174",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_2",
+            "source": "node_187",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

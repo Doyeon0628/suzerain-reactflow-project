@@ -1,0 +1,91 @@
+{
+    "nodes": [
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"And quite distressingly, the Rizian People's Party seems to be getting popular among the electorate.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"The House has recently sent me their report on public opinion.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"It paints a worrying picture. It seems to have decreased quite a bit.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"However, one difference of this election is that a huge number of new voters have been registered - Wehzeks, Qinalis, Derdians and more...\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"However, there's still a long way to go and we'll have to wait and see the results first.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e16_to_56",
+            "source": "node_16",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_44",
+            "source": "node_22",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_9",
+            "source": "node_35",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_10",
+            "source": "node_38",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_6",
+            "source": "node_43",
+            "target": "node_6",
+            "type": "step"
+        }
+    ]
+}

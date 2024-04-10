@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"We haven't gotten a chance to speak since Her Highness' engagement.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_486",
+            "source": "node_2",
+            "target": "node_486",
+            "type": "step"
+        }
+    ]
+}

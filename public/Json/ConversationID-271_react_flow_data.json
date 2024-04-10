@@ -1,0 +1,244 @@
+{
+    "nodes": [
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou pointed the gun at the soldier. A young man, no more than Franc's age, unfairly asked to die for his country.\\n\\nTwo more men burst in and started yelling at you to lower your weapon in broken Sordish.\\n\\nYou..."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...thought there might still be a way out of this."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...closed your eyes and accepted whatever might happen."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey laughed after detaining you. They started taking photos with you.\\n\\nThey cheerfully carried you to a personnel truck while singing Rumburgian victory songs."
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe young soldier collapsed motionless. \\n\\nSwearing, his reinforcements aimed their rifles at you. You managed to kill another one in the melee.\\n\\nWhen the gunfire ended, you looked down to your body."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...prayed the soldiers would spare them."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou started to feel so tired that you couldn't keep your eyes open. You decided to rest for just a moment.\\n\\nAfter taking a deep breath, you closed your eyes."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou blacked out."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey laughed after detaining you. They started taking photos with you.\\n\\nOne of them grabbed the arms of your family. Their screams were heartbreaking.\\n\\nYou..."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA soldier approached and hit you with the headstock of his rifle."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe soldier reeled back, then re-trained his gun on you, sneering.\\n\\nMonica cried out your name. You prepared for the end.\\n\\nAnother one of the men approached you and hit you with the headstock of his rifle."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIn Rumburg, they locked you in a prison cell.\\n\\nHours turned into days and days turned into weeks. Guards and soldiers tormented you from dusk until dawn, scarring your mind and body long after you'd told them everything you knew about Sordland and your presidency.\\n\\nYou asked about your family, but none of your questions were answered."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou looked at the other side of the room. Monica, Deana and Franc were yelling and reaching out to you.\\n\\nSoldiers grabbed their arms. Their screams were heartbreaking.\\n\\nAs you were fading away, you..."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou looked at the other side of the room. Monica and Deana were yelling and reaching out to you.\\n\\nSoldiers grabbed their arms. Their screams were heartbreaking.\\n\\nAs you were fading away, you..."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e11_to_39",
+            "source": "node_11",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_22",
+            "source": "node_14",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_44",
+            "source": "node_16",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_43",
+            "source": "node_19",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_68",
+            "source": "node_24",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_74",
+            "source": "node_26",
+            "target": "node_74",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_23",
+            "source": "node_30",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_18",
+            "source": "node_42",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_20",
+            "source": "node_46",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_36",
+            "source": "node_47",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_19",
+            "source": "node_51",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_23",
+            "source": "node_67",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_34",
+            "source": "node_86",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_29",
+            "source": "node_87",
+            "target": "node_29",
+            "type": "step"
+        }
+    ]
+}

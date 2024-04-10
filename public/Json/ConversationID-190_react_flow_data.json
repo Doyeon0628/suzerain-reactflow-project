@@ -1,0 +1,108 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"It concerns the Bernard Circas assassination.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Excellent, sir.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's honestly not surprising.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. The sooner the better.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, let this be our little secret for now.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I assume Mrs. Morgna will want to take action on this immediately. They could go to trial by the end of the month.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_51",
+            "source": "node_2",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_21",
+            "source": "node_10",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_2",
+            "source": "node_13",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_13",
+            "source": "node_23",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_20",
+            "source": "node_27",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_23",
+            "source": "node_34",
+            "target": "node_23",
+            "type": "step"
+        }
+    ]
+}

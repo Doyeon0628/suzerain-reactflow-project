@@ -1,0 +1,1298 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe sun was starting to peek through the blinds of my suite in The Grand Chariot Hotel in Anrica."
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Morning, Lucian.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"It's about your investigation into the Oligarchs.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I've just received an update regarding the investigation you ordered into the opposition:\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Great. What'd they dig up on the NFP?\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It had better be juicy after this long.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It had better be juicy after this long.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian left the room. I finished putting on my tie and reread my notes for the morning's speech."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian pulled out a folder and opened it."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I told you, Lucian, you're vice president now. You don't need to keep calling me 'sir'.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"About goddamn time.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Trust me, there's more to the Old Guard than Hawker and the Supreme Court.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Now that that's settled, I'll let you prepare for your rally.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Before I begin, I have to ask if you're sure you wish to follow through on this investigation. After all, Tusk has been an ally throughout your term.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't care. Give me the dirt on Tusk.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good point. Maybe I don't need to hear the results.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Campaign Rally\n\nCampaign Rally"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Now that that's settled, I'll let you prepare for your rally.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA few hours later, I was waiting in the wings at the Norsord Auditorium in Anrica. In the audience were several thousand of my conservative supporters."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\n\"Victory Is Close.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"'I bless the Raynes down in Anrica.'\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't want his support.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnrica Mayor Curtan Leste gave a short introductory speech. I couldn't look at him without thinking about how I'd let Monica down."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEveryone cheered as I walked onstage -- except for a scowling Mayor Curtan Leste. He had tried to escape my shadow by joining the NFP, only to be defeated once more when our parties became allies."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGloria gave a short speech introducing me. Then, it was my turn."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have pulled Sordland's economy from the depths of recession.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As protests threaten to tear us apart, I promise I will uphold law and order.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As protests threaten to tear us apart, I promise I will restore harmony.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under my presidency, we have enjoyed unprecedented harmony.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"And I will continue to root out corruption and wrongdoing, even within the institutions we hold dear.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I remain committed to stamping out the corruption that has plagued Sordish politics for far too long.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"And I remain committed to stamping out the corruption that has plagued Sordish politics for far too long.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will continue to fight for the constitutional reforms Sordland deserves.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will continue to uphold Tarquin Soll's constitution until Sordland is ready for reform.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will continue to defend Sordland against threats, whether internal or external.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will continue to seek retribution from our enemies, both at home and abroad.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I and Vice President Tory shall lead Sordland into a bright new era!\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I and Vice President Clavin shall lead Sordland into a bright new era!\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I and Vice President Vectern shall not back down until we finish what we started!\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The youth and determination of my new vice president Albin Clavin shall help guide us into a brilliant future!\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I shall run for re-election with Gloria Tory, Sordland's first-ever female vice president!\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The experience and expertise of Vice President Galade will help guide us into a brilliant future!\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A Morgna wes core!\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So remember: Vote Rayne '57!\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy re-election campaign had officially begun."
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Tooth to tooth, eye to eye! FC Anrica!\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_232",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\n\"For a United Sordland.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Together, we managed to get the economic crisis under control.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Together, we will get the economic crisis under control.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As armed militants threaten to tear us apart, I promise I will uphold law and order.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As violence on the streets threaten to tear us apart, I promise I will restore harmony.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will continue my fight against the enemies of Sordland, both internal and external.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We brought change to our broken constitution.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will continue to fight for the constitutional reforms Sordland deserves.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nMy re-election campaign had officially begun."
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have cleaned such corruption from Sordland's court system to ensure true justice for all.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_271",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"For too long, crooked businessmen were able to buy and sell Sordish politicians. Those days are over.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have purged Sordland of its wealthy elite so that the masses have a chance to thrive.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Meanwhile, I dared to envision a brave new direction for our party: towards the liberalism of our western neighbors.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have devoted an unprecedented amount of effort towards making the USP as great as it can be. We will not lose!\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_300",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have devoted an unprecedented amount of effort towards making Sordland's economy the best in the world. We will not lose!\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_301",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I promise you, there is no way we can lose!\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Some have accused me of straying from the values of the USP. To them I say: I *am* the USP.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has changed, but the USP remains as strong as ever.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEveryone cheered as I walked onstage. Though Mayor Curtan Leste was now part of the opposition as a member of the NFP, it seemed most of Anrica was still on my side."
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"By our side is Kesaro Kibener! A true patriot! The USP and NFP will campaign side by side to ensure victory!\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"By our side is Frens Ricter! A true reformer! The USP and the PFJP will campaign side by side to ensure victory!\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA roar shook the hall."
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It is time, my fellow Sords. A new dawn is upon us and it begins right here and right now!\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThunderous applause erupted."
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There has been tremendous progress made in this term and more is to come!\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"As you know, the police failed to turn up any evidence on Marcel Koronti. But there's been a very interesting update regarding Mr. Tusk.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_434",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"As you know, Marcel Koronti is no longer under investigation. But there's been a very interesting update regarding Mr. Tusk.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_439",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"He's worn out his usefulness. Time to bring him down.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_441",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"As you wish.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_669",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnrica Mayor Curtan Leste gave a short introductory speech. It was hard to forget how the Benfi event went down."
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_712",
+            "source": "node_1",
+            "target": "node_712",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_71",
+            "source": "node_7",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_46",
+            "source": "node_17",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_31",
+            "source": "node_18",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_686",
+            "source": "node_26",
+            "target": "node_686",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_1",
+            "source": "node_27",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_1",
+            "source": "node_28",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_689",
+            "source": "node_29",
+            "target": "node_689",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_436",
+            "source": "node_36",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_7",
+            "source": "node_40",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_71",
+            "source": "node_42",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_45",
+            "source": "node_47",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_1",
+            "source": "node_54",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_1",
+            "source": "node_60",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_440",
+            "source": "node_61",
+            "target": "node_440",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_441",
+            "source": "node_62",
+            "target": "node_441",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_442",
+            "source": "node_63",
+            "target": "node_442",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_102",
+            "source": "node_64",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_64",
+            "source": "node_97",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_201",
+            "source": "node_98",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_259",
+            "source": "node_102",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_30",
+            "source": "node_103",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_671",
+            "source": "node_109",
+            "target": "node_671",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_311",
+            "source": "node_110",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_661",
+            "source": "node_119",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_235",
+            "source": "node_134",
+            "target": "node_235",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_236",
+            "source": "node_141",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_153",
+            "source": "node_142",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_153",
+            "source": "node_143",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_264",
+            "source": "node_149",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_264",
+            "source": "node_150",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_264",
+            "source": "node_151",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_248",
+            "source": "node_160",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_146",
+            "source": "node_161",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_146",
+            "source": "node_162",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_146",
+            "source": "node_163",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_317",
+            "source": "node_171",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_317",
+            "source": "node_176",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_317",
+            "source": "node_177",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_317",
+            "source": "node_178",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_317",
+            "source": "node_179",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_317",
+            "source": "node_180",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_317",
+            "source": "node_181",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_614",
+            "source": "node_182",
+            "target": "node_614",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_198",
+            "source": "node_186",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_188",
+            "source": "node_196",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e232_to_509",
+            "source": "node_232",
+            "target": "node_509",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_107",
+            "source": "node_233",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_139",
+            "source": "node_234",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_145",
+            "source": "node_238",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_153",
+            "source": "node_239",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_153",
+            "source": "node_245",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_146",
+            "source": "node_246",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_146",
+            "source": "node_247",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_146",
+            "source": "node_248",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_320",
+            "source": "node_267",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e271_to_320",
+            "source": "node_271",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_320",
+            "source": "node_272",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_296",
+            "source": "node_286",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_173",
+            "source": "node_299",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e300_to_173",
+            "source": "node_300",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e301_to_173",
+            "source": "node_301",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_173",
+            "source": "node_302",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_296",
+            "source": "node_303",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_719",
+            "source": "node_313",
+            "target": "node_719",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_113",
+            "source": "node_314",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_184",
+            "source": "node_315",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_184",
+            "source": "node_316",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_184",
+            "source": "node_318",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_184",
+            "source": "node_319",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_303",
+            "source": "node_320",
+            "target": "node_303",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_448",
+            "source": "node_433",
+            "target": "node_448",
+            "type": "step"
+        },
+        {
+            "id": "e434_to_437",
+            "source": "node_434",
+            "target": "node_437",
+            "type": "step"
+        },
+        {
+            "id": "e439_to_37",
+            "source": "node_439",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e441_to_37",
+            "source": "node_441",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e669_to_122",
+            "source": "node_669",
+            "target": "node_122",
+            "type": "step"
+        }
+    ]
+}

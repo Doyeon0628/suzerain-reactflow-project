@@ -1,0 +1,448 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Dear citizens.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Good people of Sordland.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI waved my hand at the crowd."
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe crowd started cheering. Soldiers and military staff stood up and saluted me at the same time."
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“If they want war, so be it! War it is!”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I announce that Sordland is hereby declaring war on Rumburg.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“A Morgna wes core! Vectern sis da!”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Greci Sordland!”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The Sordish army is standing ready and vigilant to defend our country against any threat.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“As Sordish citizens, we have all sworn an oath to this country and we are prepared to defend it to our last breath.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“As the strong and proud Sordland, we have many enemies. Because they are jealous of us! Of our prosperity!”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was standing at the exact same podium overlooking the Hill of Pride where my inauguration took place. However, the mood this time was far from cheerful."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy name was announced. I stepped forward as the cameras flashed. The crowd started clapping."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I promise you this. We will be victorious!”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Offense War Speech\n\nOffense War Speech"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“As the strong and proud Sordland, we have many enemies. Because they are jealous of us! Of our prosperity!”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They used our good intentions to maintain peace against us for far too long. So I say, that's enough.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Unfortunately, the times of peace are coming to an end due to the aggressive actions of Rumburg.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“As Sordish citizens, we have all sworn an oath to this country and we are prepared to defend it to our last breath.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They will tremble before our might!”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Rumburg has put our people, our territories and our home in grave danger. We will not stand by idle. We will counter attack.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It is my duty as your President to inform you I will not allow our country to be targeted with more heinous attacks by our enemy.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“God bless Sordland.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I promise you this. We will be victorious!”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They dare to attack Sordland. My Sordland! There is a price to pay and they will pay with their lives!”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRegardless of my bravado during my speech, I was worried about what the future would bring."
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_28",
+            "source": "node_1",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_38",
+            "source": "node_4",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_38",
+            "source": "node_9",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_45",
+            "source": "node_14",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_10",
+            "source": "node_15",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_45",
+            "source": "node_16",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_219",
+            "source": "node_20",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_200",
+            "source": "node_21",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_219",
+            "source": "node_22",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_9",
+            "source": "node_23",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_7",
+            "source": "node_25",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_19",
+            "source": "node_27",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_97",
+            "source": "node_29",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_14",
+            "source": "node_39",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_14",
+            "source": "node_40",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_68",
+            "source": "node_47",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_67",
+            "source": "node_49",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_67",
+            "source": "node_50",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_70",
+            "source": "node_53",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_76",
+            "source": "node_55",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_67",
+            "source": "node_57",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_220",
+            "source": "node_60",
+            "target": "node_220",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_220",
+            "source": "node_62",
+            "target": "node_220",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_201",
+            "source": "node_64",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_63",
+            "source": "node_70",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_74",
+            "source": "node_76",
+            "target": "node_74",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "nodes": [
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We are at risk of losing the territory of Zille to Wehlen. I would humbly call upon your great warrior culture for assistance.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled slightly."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"If the rest of your Golden Guard is as skilled as Captain Gordion, that may be true.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Can they be relied on to fight for the Rizian Crown?\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"It will scare your enemies more.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have no need for your mercenaries. But I will gladly purchase your missiles.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"We will help you fight with honor, Your Majesty.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I respect your decision, Your Majesty. I wish you strength for the battles ahead.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"We are happy to help our brethren.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We have a long war ahead of us. We will purchase both your missiles and the service of your mercenaries.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e6_to_102",
+            "source": "node_6",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_103",
+            "source": "node_7",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_111",
+            "source": "node_36",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_111",
+            "source": "node_37",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_111",
+            "source": "node_40",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_101",
+            "source": "node_44",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_2",
+            "source": "node_54",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_22",
+            "source": "node_58",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_56",
+            "source": "node_62",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_2",
+            "source": "node_100",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,924 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI couldn't tell if the sky was growing darker, or if it was just the tinted windows of the armored car."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs my mother had instructed him to, the driver veered down a side street that led toward the coast."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'll have it fixed up one day. It'll be our summer home again.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"No. Not after that horrible civil war. The only way they could have stayed is if I hadn't convinced Valero to get Wehlen involved in our affairs.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA silver stretch limousine was parked just in front of the square. Our driver stopped and we exited the car, flanked by our guards."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Actually, Mr. President, this *is* my home. I spent my childhood summers here.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Grateful for what? If I hadn't convinced Valero to get Wehlen involved in our affairs, they never would have had to leave.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA semicircular stage was set up in front of the tanks. The crowd roared as we crossed the square and made our way over to it. Looking up into the grandstands, I noticed armed guards standing on every level."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"Together, we have overcome war, repaired our economy and made great strides in science and industry.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI stood up and grabbed a microphone. I heard gasps and hushed whispers coming from the grandstands."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI sat back in my chair and kept silent."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I know. I can't believe this guy.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What did you just say?\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"Even the decision of the Toras family to ally with Rumburg, a nation that obviously wishes Wehlen harm, could not diminish the beautiful bond we have formed.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"They are heirs to a long, proud legacy. One that would have been shattered had Wehlen and Rizia not made the fateful decision to work hand in hand.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Brothers and sisters!\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Long live our friendship!\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Glovurius axa Rizia!\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Glory to Rizia!\" echoed the Rizian side of the stands. Wiktor gave me an appraising glance, then readjusted the microphone."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"All hail Wehlen!\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBoth sides of the stands applauded. Wiktor gave me an appraising glance, then readjusted the microphone."
+            },
+            "position": {
+                "x": 11610,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLoud applause broke out from the Wehzeks in the audience. Wiktor shot me an appraising glance, then turned back to his microphone."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"What a speech! The king's got charisma!\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe tank on the left fired, sending a plume of gold-colored smoke high over the stands. The crowd gasped in excitement."
+            },
+            "position": {
+                "x": 6480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"Two!\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe gun mounted to the tank on the right went off. This time, the smoke was magenta."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If he was so upstanding, he wouldn't have agreed to stomp out a democratic revolution.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's not your fault. Father should have reneged on the agreement immediately after the assassination.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Would you have done any differently if Vina was in danger?\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"I don't--\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA deafening blast, much louder than the two that had preceded it, echoed from the opposite end of the square."
+            },
+            "position": {
+                "x": 7020,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI dove from the dais and flung myself onto the ground."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI rushed towards the stands."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI rushed away from the stands."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Never mind.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Mother. What happened?\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"None of this was Wehlen's fault. It was the superpowers trying to use the country as a pawn.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"It'll be your turn to speak in a minute, Your Majesty.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI turned to face the crowd. The Rizian side of the stands erupted in loud, authentic-sounding applause."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My loyal subjects!\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It pained me when my father signed away this beautiful part of Rizia. Yet I knew it was for the greater good.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Today marks a chance to make a clean break with the past and begin looking towards the future.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have come here to send Wiktor Smolak a warning. If Zille is not returned, he will face Rizia's full retaliation.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In one year, Rizia will resume governorship of Zille. But I hope that will not mean an end to our countries' friendly cooperation.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I commend Wiktor Smolak for his exemplary leadership in the face of war and terrorism.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"To the Rizians here today, I say: Do not forget your motherland. Be ready to defend her if necessary.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I know that I can count on the President of Wehlen to do what's best for Zille until it is back in Rizia's custody.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yet I commend Wiktor Smolak for his exemplary leadership in the face of war and terrorism.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I call on the people of Rizia to resist your Wehzek oppressors. Remind them in whose country they reside.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wiktor, I know you are a man of honor. When the time comes, you will do what is right.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"Let's not allow King Romus to spoil the mood on this fine day. It's time to commemorate the occasion with a traditional three-tank salute!\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"YOUR MAJESTY!\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Romus!\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI turned towards the source of the sound and saw the Wehzek side of the stands engulfed in flames."
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_296",
+            "source": "node_1",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_18",
+            "source": "node_25",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_82",
+            "source": "node_56",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_83",
+            "source": "node_57",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_84",
+            "source": "node_58",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_191",
+            "source": "node_62",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_305",
+            "source": "node_81",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_189",
+            "source": "node_85",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_113",
+            "source": "node_91",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_87",
+            "source": "node_104",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_197",
+            "source": "node_105",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_92",
+            "source": "node_111",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_92",
+            "source": "node_112",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_92",
+            "source": "node_114",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_93",
+            "source": "node_115",
+            "target": "node_93",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_109",
+            "source": "node_122",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_109",
+            "source": "node_123",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_300",
+            "source": "node_124",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_301",
+            "source": "node_125",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_299",
+            "source": "node_126",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_302",
+            "source": "node_127",
+            "target": "node_302",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_299",
+            "source": "node_128",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_299",
+            "source": "node_129",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_303",
+            "source": "node_133",
+            "target": "node_303",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_133",
+            "source": "node_140",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_304",
+            "source": "node_141",
+            "target": "node_304",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_188",
+            "source": "node_147",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_53",
+            "source": "node_150",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_53",
+            "source": "node_153",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_53",
+            "source": "node_154",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_297",
+            "source": "node_155",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_260",
+            "source": "node_156",
+            "target": "node_260",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_287",
+            "source": "node_157",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_288",
+            "source": "node_158",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_285",
+            "source": "node_181",
+            "target": "node_285",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_11",
+            "source": "node_187",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_155",
+            "source": "node_188",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_67",
+            "source": "node_196",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_110",
+            "source": "node_206",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_121",
+            "source": "node_208",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_109",
+            "source": "node_209",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_227",
+            "source": "node_210",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_227",
+            "source": "node_213",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_127",
+            "source": "node_216",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_230",
+            "source": "node_217",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_230",
+            "source": "node_218",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_127",
+            "source": "node_220",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_127",
+            "source": "node_221",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_234",
+            "source": "node_225",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_127",
+            "source": "node_230",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_300",
+            "source": "node_242",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_132",
+            "source": "node_243",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_268",
+            "source": "node_255",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_268",
+            "source": "node_259",
+            "target": "node_268",
+            "type": "step"
+        }
+    ]
+}

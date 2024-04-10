@@ -1,0 +1,278 @@
+{
+    "nodes": [
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I did not want to go to war myself. But I did what I had to for the good of my kingdom.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"At the beginning of his reign, His Majesty hinted he would take a conciliatory approach towards international politics. Unfortunately, that no longer appears to be true.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"As I was saying. Now that we are engaged in this unfortunate conflict, measures must be taken to mitigate its impact on ordinary citizens.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"In the name of equity, the RPP is proposing an excess profits tax on the businesses and industries that stand to generate the most revenue from the Pales campaign.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Daria de Rava\n\n\"Your Majesty, the RNC does not condone this decree at all.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Ms. de Rava, I know you are used to being in charge of these proceedings, but I beg you to remember that is no longer the case.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Such as what, Ms. de Rava? Your party issued an official disproval of His Majesty's landowner tax decree. Is your only solution to place the burden on those who can least afford it?\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"The House of Delegates supports this proposal by a high margin. Therefore, it will be passed on to the King to enact as he sees fit.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Ms. de Rava's party issued an official disproval of His Majesty's inheritance tax decree. Her preferred solution, it seems, is to place the burden on those who can least afford it.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe turned a page in her binder."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Daria de Rava\n\n\"Certainly, Your Majesty. I'll make sure it reaches your desk.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I had hoped it would go through some sort of legislative process. But good news regardless.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDaria frowned in consternation."
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Daria de Rava\n\n\"The next item is an update on our progress with Zille.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am confident that our victory in Pales will be swift enough that such a measure will not be called for.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Ms. de Rava's party issued an official disproval of His Majesty's landowner and inheritence tax decrees. Her preferred solution, it seems, is to place the burden on those who can least afford it.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e12_to_27",
+            "source": "node_12",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_11",
+            "source": "node_18",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_83",
+            "source": "node_37",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_33",
+            "source": "node_40",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_102",
+            "source": "node_90",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_110",
+            "source": "node_97",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_145",
+            "source": "node_107",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_98",
+            "source": "node_110",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_160",
+            "source": "node_111",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_142",
+            "source": "node_127",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_159",
+            "source": "node_128",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_155",
+            "source": "node_132",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_128",
+            "source": "node_142",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_2",
+            "source": "node_158",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_153",
+            "source": "node_164",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_135",
+            "source": "node_168",
+            "target": "node_135",
+            "type": "step"
+        }
+    ]
+}

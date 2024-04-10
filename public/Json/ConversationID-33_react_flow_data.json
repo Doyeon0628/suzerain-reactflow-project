@@ -1,0 +1,346 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n\"Good morning, Mr. President.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey placed the draft for the Emergency act in front of me."
+            },
+            "position": {
+                "x": 810,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"It's because Mr. Ricter made it known that our administration is blocking the reforms. Many are protesting against that now too.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNot long after, Orso and Lucian arrived."
+            },
+            "position": {
+                "x": 810,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Greetings.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was walking to my office. Today was the day to finally write the Emergency Act and order the execution of the decree."
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Livia Suno\n\n\"Fine, thank you.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTalks with the leading figures of the Old Guards were fruitful and the preparation for the emergency was already underway."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLivia left to hang up my coat. I walked into my office and sat down."
+            },
+            "position": {
+                "x": 1350,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy secretary greeted me at the entrance to my presidential office."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Livia Suno\n\n\"Good morning, Mr. President.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I'm about to make stressful decisions. So, not feeling that great.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"How are you today?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You may be right. But I just don't see any other way out of this.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Livia Suno\n\n\"That's good to hear.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe averted her eyes away from me and smiled."
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Livia Suno\n\n\"How are you today, sir?\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter carefully examining the draft and my own notes, I buried myself in the papers."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n\"Regardless of who they are or what they support, the situation is clear. Let's see how we'll proceed with the President's decree.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe paused before taking my coat. It looked like she had something on her mind."
+            },
+            "position": {
+                "x": 0,
+                "y": 400
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_10",
+            "source": "node_1",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_34",
+            "source": "node_3",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_39",
+            "source": "node_4",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_35",
+            "source": "node_5",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_18",
+            "source": "node_6",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_14",
+            "source": "node_9",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_36",
+            "source": "node_10",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_31",
+            "source": "node_11",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_30",
+            "source": "node_13",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_37",
+            "source": "node_16",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_3",
+            "source": "node_18",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_29",
+            "source": "node_20",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_37",
+            "source": "node_22",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_9",
+            "source": "node_26",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_25",
+            "source": "node_28",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_37",
+            "source": "node_29",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_13",
+            "source": "node_31",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_13",
+            "source": "node_32",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_5",
+            "source": "node_34",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_12",
+            "source": "node_36",
+            "target": "node_12",
+            "type": "step"
+        }
+    ]
+}

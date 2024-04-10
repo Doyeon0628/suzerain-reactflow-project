@@ -1,0 +1,295 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI entered the palace's residential wing and began making my way to my quarters."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Was this really such an urgent matter?\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Very well. I've gotten all your clothes ready for tomorrow.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"She's been in her room this entire time.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI rushed back down the hallway to Vina's room. Bruno was standing there, barking in front of a wide-open door."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"I knew she'd been feeling down lately, so I came to check up on her. I opened the door, and she was gone.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I've received word that one of my men left his shift early just now. He was complaining of indigestion.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy mother shrugged."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Your real problem is explaining to the international press that the Kingdom of Rizia can't hold on to its princesses.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy mother shrugged."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was pain in his eyes as he looked at me."
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This is just cold feet. She'll come back eventually.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This is just a tantrum. I'm sure she'll come back eventually.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And Hugo. What do I tell Hugo?\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"You tell him that he's your new successor.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Not to mention our family's line of succession.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe sighed."
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_784",
+            "source": "node_2",
+            "target": "node_784",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_50",
+            "source": "node_54",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_133",
+            "source": "node_58",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_133",
+            "source": "node_59",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_133",
+            "source": "node_60",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_23",
+            "source": "node_81",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_86",
+            "source": "node_93",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_130",
+            "source": "node_117",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_139",
+            "source": "node_127",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_124",
+            "source": "node_129",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_157",
+            "source": "node_131",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_123",
+            "source": "node_136",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_165",
+            "source": "node_142",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_131",
+            "source": "node_145",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_172",
+            "source": "node_154",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_168",
+            "source": "node_156",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_161",
+            "source": "node_165",
+            "target": "node_161",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen he arrived to my chambers, he entered the room with quick steps and closed the door behind him."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe looked at me with fury in his eyes."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe walked up to my desk and placed his pin on it."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"It pains me deeply, but I must let go of my title and responsibilities as the Grand Vizier.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_83",
+            "source": "node_3",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_27",
+            "source": "node_40",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_46",
+            "source": "node_55",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_56",
+            "source": "node_65",
+            "target": "node_56",
+            "type": "step"
+        }
+    ]
+}

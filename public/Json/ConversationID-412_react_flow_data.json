@@ -1,0 +1,40 @@
+{
+    "nodes": [
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Prison House Fallouts Hub\n\nPrison House Fallouts Hub"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Epilogue Taddeus Coup Arrest\n\nEpilogue Taddeus Coup Arrest"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e36_to_84",
+            "source": "node_36",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_71",
+            "source": "node_82",
+            "target": "node_71",
+            "type": "step"
+        }
+    ]
+}

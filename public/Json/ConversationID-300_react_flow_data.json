@@ -1,0 +1,2624 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was low tide. The waves of the Antacean Sea lapped at the sands below the cliffs of Monqiz."
+            },
+            "position": {
+                "x": 19980,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAt the bottom of the trail was a sheltered cove where Pabel had laid out a picnic lunch. I dismounted and sat down next to Vina."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I wanted to. It's been ages since we had time together.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Ah. I knew there was another reason.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe picked up a lobster salad sandwich from the picnic basket and nibbled at it. A solemn silence descended as we stared out at the waves."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"I can't even dip my toe in the water, or it'll all come rushing back.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'd still declare you next in line. Rizia needs a queen like you, and the rules were meant to be broken.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"He'd become my successor, of course. Those are the rules. But you'll still be a duchess.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It'll get easier over time. It did for me.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Grief isn't a straight line, my daughter. It ebbs and flows like the tide.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"But you must be feeling the same way about Mother. Otherwise, you would've remarried by now.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What makes you think Rizia will still be ruled by a monarch by the time I die?\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I just wanted to relish the sight of this beautiful, Sord-free beach.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe tide was beginning to lap at the edge of our blanket. We stood up and pulled it away from the water."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Never mind. Who knows if it will even happen.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Father? One more thing.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What?\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"It's just...\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"No, but do *you*? Are you going to marry me off, like your father did to you?\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Absolutely not. Arranged marriage is a barbaric tradition.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"You and Mother were lucky to fall in love. Most such marriages are miserable.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I might suggest a potential husband or two. But I'll never drag you to the altar.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And what if I am?\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe fixed me with a stare."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe looked relieved."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"That's the least I could ask of you. But good to know.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We both loved you. And we both swore you'd never go through the same hell we did.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"That means a lot, Father. And it's a decision I won't take lightly.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe regarded me coolly for a second."
+            },
+            "position": {
+                "x": 7020,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"I hope someday I can have what you two had. Arranged or otherwise.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"She's too fast for her old man.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I heard you used to be quite the rider yourself.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Monqiz lobster. It's never so sweet as when it's fresh out of the water.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Any daughter of King Romus is bound to have a strong will.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You read my mind, Pabel.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I'll just be a second. I forgot to leave you a towel.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"All right. Come in.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Don't you have anything better to do? Stop bothering me.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI heard his footsteps receding in the hallway."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe smiled."
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe seemed to shrink a little."
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe'd thrown herself into horseback riding after Lena died. We kept a few horses in Porte Drazon as well, but Lizzie was her favorite."
+            },
+            "position": {
+                "x": 7020,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We already discussed this. What have you been doing instead?\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My mother was right about a few things. It's not healthy to spend too long in those chambers.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"The usual. Ballgoing. Public appearances. Grandmother enrolled me in an advanced etiquette class.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Not our beach, though, right?\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"A Marcel Koronti resort on these shores would attract the worst kind of elitist. Trust me.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Everyone in *Rizia*. The Sords have their own beaches.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Trust me, it's nowhere near as exciting as you imagine.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Hectic for you, maybe. I'm bored to tears.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It was the right diplomatic move. I'm sure of it.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy daughter fell silent."
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"No need to make excuses, Father. A King stands by his decisions.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"I'll miss the unobstructed views, though.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"They thought they could buy me with their greasy Sordish ren. I showed them.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked out at the sea again."
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBut they were too strong."
+            },
+            "position": {
+                "x": 28890,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_232",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nThe memories rushed over me."
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI started sobbing."
+            },
+            "position": {
+                "x": 15120,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe sickening sound the boat had made as its girders splintered. Vina calling out for her mother, over and over, until her voice finally gave out. My daughter's eyes as I told her she would never see Lena again."
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was just an ocean. A big, impartial ocean."
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_253",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWorst of all: the secret relief I felt when the hospital ventilator beeped for the last time."
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI kept staring out at the water, my eyes dry."
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe cast a sidelong glance at me."
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_266",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We've got to move forward. Lena wouldn't have wanted us to stay in mourning for so long.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Are you... are you thinking of moving forward, Father?\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_271",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It feels useless to try. I'll never love anyone else as much as I loved your mother.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_273",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nVina looked unconvinced."
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Oh.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_283",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nVina appeared at a loss for words. She tentatively put a hand on my shoulder."
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_287",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy daughter didn't join me, but maintained a respectful silence."
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_293",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"And you can't stay a widower forever.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"But what happens until then? We're just supposed to keep going like nothing happened?\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"But then... if you *were* to meet someone...\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_298",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"But... if you *were* to meet someone...\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Thank you, Father. It means a lot to know all my preparation won't be for nothing.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Fine, you can bring Lizzie back to Porte Drazon. But you'll have to get rid of one of your other horses to make room in the stables.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_309",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Titus! Send one of your men to keep an eye on her?\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_322",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe rode away."
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Yes, it was *very* enlightening.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_329",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"No need. I already know her family hates it.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"There's a warm bath waiting for you upstairs, in case you're sore from the ride.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_352",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"May I come in? I forgot to leave you a towel.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"It's... a very special towel?\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I told you not to come in, Pabel.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_358",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nVina's eyes grew wide."
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_363",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"But... what would become of us?\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_365",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We could do anything we wanted! All the riches, none of the responsibility. Isn't that the dream?\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_368",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We would still perform some important duties. But a democratically elected leader should do the real work of governing the country.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_370",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"I understand. But I always thought I'd be more than that.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_371",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Maybe for you. I always thought my life would be more than that.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"You know, this book I'm reading likened monarchy to a leaky old galleon -- weighed down by the anchor of tradition, steered only by inertia and the whims of a privileged few.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_377",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Mr. Chavatangakwunua, eh?\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_381",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"How are you still reading that? I took it away.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_382",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're still reading that? Even after I banned Malenyevist propaganda?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_385",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Maybe it is.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_386",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Maybe we're dead weight. We have to sink so the rest of the country can swim.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_387",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Well... um, yes. He makes a lot of good points.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_392",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"You can't stop me from informing myself, Father. And he makes a lot of good points.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_393",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"She was right. We're not ready to sink to the bottom of the ocean just yet.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_394",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wise words. But the Rizian people should steer their own ship.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_396",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't know, His concept of vanguardism doesn't sound too far off from monarchy to me.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_400",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"That's why Hegel branched off with Valgslandian Socialism. I've been reading about that as well.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_401",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"To be honest, a lot of it is outdated. I've also been reading some newer texts about Valgslandian Socialism.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_404",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"I hope not. Our people still need us.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_405",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"How can they, without a noble hand to guide them?\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_406",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"That doesn't need to be the case. Monarchs have embraced change and progress in the past.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_407",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Change can be threatening to many people. Our presence on the throne is a symbol of continuity.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_408",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"The next? That's pessimistic, Father.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_409",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"They don't belong to everyone in Rizia, though, do they? So much of this coast is private property...\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_410",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What have you been doing these days, anyway?\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe reached up and gave her horse a pat on the nose."
+            },
+            "position": {
+                "x": 29970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_418",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"They did indeed. But I showed them who's in charge.\""
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_420",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That's your own fault. Why don't you find something to do?\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_422",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"You just accepted that Sordish resort deal, didn't you? That was entirely your decision.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's so beautiful it deserves to be shared.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"A Sordish resort on our shores! Imagine.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nVina thought for a moment."
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_437",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Mother would've rolled in her grave. Remember how she always used to call them 'sordid' instead of 'Sordish'?\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_439",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"She had an ear for a good pun.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_440",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Since who died?\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_442",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I honestly don't think about it that often.\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_444",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You almost died too that day, you know.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_446",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Tell me about it. It hurts every time we come back here.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_448",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Really? I'll remember that the next time I'm in Derdia.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_452",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Remember to tell them to treat women like people, too.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_453",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"They are. Have you heard about how abysmal women's rights are in Derdia? I'm never setting foot there.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_456",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What are you up to nowadays, Vina?\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_457",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I was only following your late mother's wishes. Remember how she used to call them 'Sordid' instead of 'Sordish'?\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_460",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"It's true. She would have been rolling in her grave if you'd said yes.\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_461",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Do you agree with it? Should I have turned them down instead?\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_463",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Do you think I should have let them build it?\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_468",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"It's what Queen Lyza would have done.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_469",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"A Sordish resort on our shores! Imagine.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_484",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"But in my opinion, if the people want revolution, we should be the ones who bring it to them.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_485",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Is it really revolution if we're still on the throne?\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_486",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We Torases are not revolutionaries. We are keepers of tradition.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_491",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"All right. Keep reading it if that's what you really want.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_495",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"But... you're the one talking about getting rid of the monarchy. Would you turn us into Lespia?\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_497",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Never mind. You know best, Your Majesty.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_498",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The people who want revolution also want to see me dead.\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_499",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No. But we can die trying.\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_501",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Don't tell me you're still reading Comrade Chavatangakwunua.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_509",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Would you have me executed if I said yes?\""
+            },
+            "position": {
+                "x": 33480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_510",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Well... um, yes. He makes a lot of good points.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_511",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am warning you, Vina. Stop filling your head with this nonsense.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_514",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Give me a summary when you have the chance. I'm dying of curiosity.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_515",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"That doesn't sound very appealing.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_518",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Why not? A good monarch adapts to the times.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_519",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Why can't we be both?\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_520",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Not if you're willing to change with them.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_521",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"I will, I will. You're the one who brought up the topic.\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_522",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"It is, and I will.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_533",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The future remains unpredictable. We must tread cautiously, Vina; this isn't a mere child's play from your younger days.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_529",
+            "source": "node_1",
+            "target": "node_529",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_193",
+            "source": "node_10",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_49",
+            "source": "node_14",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_218",
+            "source": "node_28",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_220",
+            "source": "node_29",
+            "target": "node_220",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_447",
+            "source": "node_31",
+            "target": "node_447",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_228",
+            "source": "node_32",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_44",
+            "source": "node_33",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_263",
+            "source": "node_38",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_261",
+            "source": "node_39",
+            "target": "node_261",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_266",
+            "source": "node_41",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_269",
+            "source": "node_42",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_25",
+            "source": "node_52",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_304",
+            "source": "node_65",
+            "target": "node_304",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_66",
+            "source": "node_72",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_66",
+            "source": "node_73",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_305",
+            "source": "node_74",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_307",
+            "source": "node_77",
+            "target": "node_307",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_108",
+            "source": "node_83",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_104",
+            "source": "node_90",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_106",
+            "source": "node_95",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_106",
+            "source": "node_96",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_118",
+            "source": "node_97",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_136",
+            "source": "node_103",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_190",
+            "source": "node_117",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_192",
+            "source": "node_119",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_77",
+            "source": "node_131",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_189",
+            "source": "node_138",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_192",
+            "source": "node_139",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_192",
+            "source": "node_141",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_351",
+            "source": "node_147",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_352",
+            "source": "node_151",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_352",
+            "source": "node_152",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_352",
+            "source": "node_157",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_352",
+            "source": "node_158",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_353",
+            "source": "node_177",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_354",
+            "source": "node_178",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_1",
+            "source": "node_179",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_338",
+            "source": "node_187",
+            "target": "node_338",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_337",
+            "source": "node_188",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_139",
+            "source": "node_189",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_77",
+            "source": "node_192",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_11",
+            "source": "node_194",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_424",
+            "source": "node_196",
+            "target": "node_424",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_30",
+            "source": "node_198",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_212",
+            "source": "node_199",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_458",
+            "source": "node_201",
+            "target": "node_458",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_459",
+            "source": "node_203",
+            "target": "node_459",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_410",
+            "source": "node_204",
+            "target": "node_410",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_455",
+            "source": "node_207",
+            "target": "node_455",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_30",
+            "source": "node_217",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_216",
+            "source": "node_219",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_30",
+            "source": "node_221",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_30",
+            "source": "node_222",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_30",
+            "source": "node_225",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_30",
+            "source": "node_227",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_233",
+            "source": "node_228",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e232_to_242",
+            "source": "node_232",
+            "target": "node_242",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_257",
+            "source": "node_239",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_286",
+            "source": "node_240",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_254",
+            "source": "node_241",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e253_to_239",
+            "source": "node_253",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_286",
+            "source": "node_255",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_288",
+            "source": "node_260",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e266_to_42",
+            "source": "node_266",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_292",
+            "source": "node_267",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e271_to_282",
+            "source": "node_271",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e273_to_281",
+            "source": "node_273",
+            "target": "node_281",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_299",
+            "source": "node_278",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e283_to_300",
+            "source": "node_283",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e287_to_295",
+            "source": "node_287",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e293_to_268",
+            "source": "node_293",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_269",
+            "source": "node_294",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_269",
+            "source": "node_297",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e298_to_303",
+            "source": "node_298",
+            "target": "node_303",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_59",
+            "source": "node_303",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_66",
+            "source": "node_304",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e309_to_324",
+            "source": "node_309",
+            "target": "node_324",
+            "type": "step"
+        },
+        {
+            "id": "e322_to_336",
+            "source": "node_322",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_323",
+            "source": "node_327",
+            "target": "node_323",
+            "type": "step"
+        },
+        {
+            "id": "e329_to_323",
+            "source": "node_329",
+            "target": "node_323",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_150",
+            "source": "node_351",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e352_to_161",
+            "source": "node_352",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_2",
+            "source": "node_355",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_1",
+            "source": "node_357",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e358_to_182",
+            "source": "node_358",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e363_to_409",
+            "source": "node_363",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e365_to_371",
+            "source": "node_365",
+            "target": "node_371",
+            "type": "step"
+        },
+        {
+            "id": "e368_to_489",
+            "source": "node_368",
+            "target": "node_489",
+            "type": "step"
+        },
+        {
+            "id": "e370_to_488",
+            "source": "node_370",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e371_to_488",
+            "source": "node_371",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_404",
+            "source": "node_376",
+            "target": "node_404",
+            "type": "step"
+        },
+        {
+            "id": "e377_to_385",
+            "source": "node_377",
+            "target": "node_385",
+            "type": "step"
+        },
+        {
+            "id": "e381_to_390",
+            "source": "node_381",
+            "target": "node_390",
+            "type": "step"
+        },
+        {
+            "id": "e382_to_389",
+            "source": "node_382",
+            "target": "node_389",
+            "type": "step"
+        },
+        {
+            "id": "e385_to_490",
+            "source": "node_385",
+            "target": "node_490",
+            "type": "step"
+        },
+        {
+            "id": "e386_to_66",
+            "source": "node_386",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e387_to_66",
+            "source": "node_387",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e392_to_378",
+            "source": "node_392",
+            "target": "node_378",
+            "type": "step"
+        },
+        {
+            "id": "e393_to_494",
+            "source": "node_393",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e394_to_491",
+            "source": "node_394",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e396_to_493",
+            "source": "node_396",
+            "target": "node_493",
+            "type": "step"
+        },
+        {
+            "id": "e400_to_66",
+            "source": "node_400",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e401_to_66",
+            "source": "node_401",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e404_to_408",
+            "source": "node_404",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e405_to_66",
+            "source": "node_405",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e406_to_66",
+            "source": "node_406",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e407_to_66",
+            "source": "node_407",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e408_to_66",
+            "source": "node_408",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e409_to_481",
+            "source": "node_409",
+            "target": "node_481",
+            "type": "step"
+        },
+        {
+            "id": "e410_to_459",
+            "source": "node_410",
+            "target": "node_459",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_212",
+            "source": "node_412",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e418_to_429",
+            "source": "node_418",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e420_to_434",
+            "source": "node_420",
+            "target": "node_434",
+            "type": "step"
+        },
+        {
+            "id": "e422_to_212",
+            "source": "node_422",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_464",
+            "source": "node_427",
+            "target": "node_464",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_431",
+            "source": "node_432",
+            "target": "node_431",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_438",
+            "source": "node_433",
+            "target": "node_438",
+            "type": "step"
+        },
+        {
+            "id": "e437_to_480",
+            "source": "node_437",
+            "target": "node_480",
+            "type": "step"
+        },
+        {
+            "id": "e439_to_480",
+            "source": "node_439",
+            "target": "node_480",
+            "type": "step"
+        },
+        {
+            "id": "e440_to_480",
+            "source": "node_440",
+            "target": "node_480",
+            "type": "step"
+        },
+        {
+            "id": "e442_to_32",
+            "source": "node_442",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e444_to_32",
+            "source": "node_444",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e446_to_32",
+            "source": "node_446",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e448_to_32",
+            "source": "node_448",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e452_to_479",
+            "source": "node_452",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e453_to_479",
+            "source": "node_453",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e456_to_30",
+            "source": "node_456",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e457_to_412",
+            "source": "node_457",
+            "target": "node_412",
+            "type": "step"
+        },
+        {
+            "id": "e460_to_30",
+            "source": "node_460",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e461_to_30",
+            "source": "node_461",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e463_to_470",
+            "source": "node_463",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e468_to_477",
+            "source": "node_468",
+            "target": "node_477",
+            "type": "step"
+        },
+        {
+            "id": "e469_to_468",
+            "source": "node_469",
+            "target": "node_468",
+            "type": "step"
+        },
+        {
+            "id": "e484_to_502",
+            "source": "node_484",
+            "target": "node_502",
+            "type": "step"
+        },
+        {
+            "id": "e485_to_499",
+            "source": "node_485",
+            "target": "node_499",
+            "type": "step"
+        },
+        {
+            "id": "e486_to_519",
+            "source": "node_486",
+            "target": "node_519",
+            "type": "step"
+        },
+        {
+            "id": "e491_to_405",
+            "source": "node_491",
+            "target": "node_405",
+            "type": "step"
+        },
+        {
+            "id": "e495_to_66",
+            "source": "node_495",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e497_to_66",
+            "source": "node_497",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e498_to_66",
+            "source": "node_498",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e499_to_521",
+            "source": "node_499",
+            "target": "node_521",
+            "type": "step"
+        },
+        {
+            "id": "e501_to_517",
+            "source": "node_501",
+            "target": "node_517",
+            "type": "step"
+        },
+        {
+            "id": "e509_to_514",
+            "source": "node_509",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e510_to_514",
+            "source": "node_510",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e511_to_515",
+            "source": "node_511",
+            "target": "node_515",
+            "type": "step"
+        },
+        {
+            "id": "e514_to_522",
+            "source": "node_514",
+            "target": "node_522",
+            "type": "step"
+        },
+        {
+            "id": "e515_to_527",
+            "source": "node_515",
+            "target": "node_527",
+            "type": "step"
+        },
+        {
+            "id": "e518_to_66",
+            "source": "node_518",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e519_to_66",
+            "source": "node_519",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e520_to_66",
+            "source": "node_520",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e521_to_66",
+            "source": "node_521",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e522_to_66",
+            "source": "node_522",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e533_to_362",
+            "source": "node_533",
+            "target": "node_362",
+            "type": "step"
+        }
+    ]
+}

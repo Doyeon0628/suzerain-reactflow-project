@@ -1,0 +1,788 @@
+{
+    "nodes": [
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So... What is this about?\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"We have been watching the Old Guard closely just as you asked, and found a very complex web of connections.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"While this is huge, it is very difficult to create a strong case at the moment. But the Justices of the Court no longer enjoys absolute immunity before the law.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"There are missing links in our investigations but the Oligarchs seem to be involved in huge cases of corruption and lobbying.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"We have been watching the opposition closely just as you asked, and found a very complex web of connections.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"We have found suspicious irregularities and indirect connections to the Oligarchs.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Proceed with the case. As long as we hurt them, the Court doesn't matter.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's drop the investigations for now. We don't need it anymore.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We don't need the *legal* way. I need Orso gone.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Proceed with a legal case. We can finally get them.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's drop the investigations for now. We don't need it anymore.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's drop the investigations for now. We don't need it anymore.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's drop the investigations for now. We don't need it anymore.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Continue your efforts and keep looking.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's drop the investigations for now. We don't need it anymore.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Continue your efforts and keep looking.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"As you wish, sir.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"Yes, sir.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"Of course, sir.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"Yes, sir.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"I see.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Keep a low profile. We can't afford to risk unwanted attention with these investigations.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"But for now, just proceed with the case, Karl. We don't want unnecessary attention.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I want Orso gone. For good.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"I understand. I'll see to it, sir.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Keep a low profile. We can't afford to risk unwanted attention with these investigations.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"As you wish, sir.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's time we shift our focus elsewhere.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"Yes, sir.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's time we shift our focus elsewhere.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Keep a low profile. We can't afford to risk unwanted attention with these investigations.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Keep your eyes open. I don't want your focus to be centered at one target.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Start investigating the Oligarchs.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Start investigating the opposition.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Start investigating the Old Guard.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"But for now, just continue your investigations, Karl. We don't want unnecessary attention.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I want Ricter gone. For good.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"Yes sir.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Start investigating the Oligarchs.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Start investigating the Old Guard.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"Yes sir.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"I understand. I'll see to it, sir.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"Yes, sir.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"As you wish, sir.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"I will also send you the detailed report of our previous findings.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I want Kibener gone. For good.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e13_to_131",
+            "source": "node_13",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_30",
+            "source": "node_35",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_86",
+            "source": "node_44",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_87",
+            "source": "node_48",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_91",
+            "source": "node_74",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_95",
+            "source": "node_78",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_99",
+            "source": "node_84",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_98",
+            "source": "node_85",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_97",
+            "source": "node_86",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_101",
+            "source": "node_87",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_100",
+            "source": "node_88",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_103",
+            "source": "node_90",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_122",
+            "source": "node_91",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_128",
+            "source": "node_92",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_145",
+            "source": "node_94",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_128",
+            "source": "node_95",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_102",
+            "source": "node_96",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_105",
+            "source": "node_97",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_115",
+            "source": "node_98",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_109",
+            "source": "node_99",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_115",
+            "source": "node_100",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_138",
+            "source": "node_105",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_118",
+            "source": "node_106",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_116",
+            "source": "node_107",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_204",
+            "source": "node_113",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_259",
+            "source": "node_119",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_255",
+            "source": "node_121",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_121",
+            "source": "node_123",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_141",
+            "source": "node_124",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_170",
+            "source": "node_125",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_163",
+            "source": "node_126",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_214",
+            "source": "node_129",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_19",
+            "source": "node_136",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_263",
+            "source": "node_140",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_247",
+            "source": "node_143",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_286",
+            "source": "node_145",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_160",
+            "source": "node_146",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_162",
+            "source": "node_150",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_236",
+            "source": "node_162",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_222",
+            "source": "node_164",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_218",
+            "source": "node_166",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_191",
+            "source": "node_168",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_170",
+            "source": "node_171",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_170",
+            "source": "node_172",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_170",
+            "source": "node_173",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_2",
+            "source": "node_178",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

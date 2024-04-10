@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n“This court now summons Edith Agnoc to present her evidence.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nChairwoman of the Central Bank of Sordland Edith Agnoc entered the court room nonchalantly and took her seat."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“Mr. President appears to have been involved in a bribery scandal with Albin Clavin.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“Albin Clavin was promised the Vice Presidency in return for the support of the USP's reformist wing.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“According to the report, President Rayne contracted Taurus Holding, a company in which Mr. Ricter holds a major share, in order to curry Mr. Ricter's favor during the reform process.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“There has apparently been a deal between Mr. President and Marcel Koronti in Mr. Koronti's villa in Conriat.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“The government privatization program was supposed to have opened the shares of the privatized companies to the public.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“Instead, a backroom deal was struck and these shares were transferred to Walter Tusk.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“The government privatization program was supposed to have opened the shares of the privatized companies to the public.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“Mr. President and Walter Tusk made a deal to bail out Sordland's businesses. Bribery appears to have been involved.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“The recent tax cuts for large corporations in Sordland are a direct result of collusion between President Rayne and Walter Tusk.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“Walter Tusk offered a bribe to the President in order to secure Underhall Construction as a government contractor at a time when Mr. Tusk owned half of the company.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEdith collected her belongings and left the courtroom, not looking back at me as she did so."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I never trusted you in the first place.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“The recent tax cuts for large corporations in Sordland are the product of similar collusion between the two men.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e38_to_105",
+            "source": "node_38",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_40",
+            "source": "node_45",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_3",
+            "source": "node_71",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_9",
+            "source": "node_75",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_18",
+            "source": "node_79",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_18",
+            "source": "node_81",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_24",
+            "source": "node_86",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_15",
+            "source": "node_88",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_15",
+            "source": "node_89",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_30",
+            "source": "node_92",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_119",
+            "source": "node_93",
+            "target": "node_119",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_36",
+            "source": "node_94",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_100",
+            "source": "node_110",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_2",
+            "source": "node_111",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_36",
+            "source": "node_121",
+            "target": "node_36",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas announces nomination. Congress happens. Lileas becomes party leader."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e27_to_10",
+            "source": "node_27",
+            "target": "node_10",
+            "type": "step"
+        }
+    ]
+}

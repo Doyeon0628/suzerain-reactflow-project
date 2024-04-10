@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"I will get to work on it immediately.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e6_to_7",
+            "source": "node_6",
+            "target": "node_7",
+            "type": "step"
+        }
+    ]
+}

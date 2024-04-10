@@ -1,0 +1,4477 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was a rainy day in Kyrute, one of only a handful the island experienced per year."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI sat with Laurento and the rest of the Rizian delegation in the half-full assembly hall."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuke Axel Reinhart and Patricio Alvarez entered late, deep in conversation. They nodded at each other and took seats with their respective delegations."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuke Axel Reinhart and Patricio Alvarez entered late, deep in conversation. They nodded at each other and took seats with their respective delegations."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Alvarez must have given him quite the talking-to.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Wehlen AN Speech\n\nWehlen AN Speech"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Derdia AN Speech\n\nDerdia AN Speech"
+            },
+            "position": {
+                "x": 48600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Morella AN Speech\n\nMorella AN Speech"
+            },
+            "position": {
+                "x": 48330,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Pales AN Speech\n\nPales AN Speech"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Lespia AN Speech\n\nLespia AN Speech"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Player AN Speech\n\nPlayer AN Speech"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPrime Minister Alma Saltana strode up to the podium. She had to lower the microphone to reach it."
+            },
+            "position": {
+                "x": 34020,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"We can no longer abide the senseless exploitation of our land, people and resources.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"More than one Malenyevist in the same room is bound to spell trouble.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"Meanwhile, countries such as Rizia are willing to regulate their mining industries at home, but turn a blind eye to exploitation abroad.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"They send security forces to guard their gold, yet leave the rest of Morella to the mercy of Derdian terrorists.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSupreme Wiseman Jorga Azmal stepped on to the stage, dressed in a ceremonial robe with silver trim."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere were some whispers from within the room as Wehlen's president stepped up to the podium."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"Or Rumburg's shipping of arms to the Bludish separatist movement?\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"He wouldn't dare.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"Suspects have already been named and extradited. But is it a tactic to throw us off track? Rumburg isn't beneath such subterfuge.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"It is to my everlasting regret that when Wehlen was at its weakest, our direct neighbors opted for an alliance with a nation that has sought to harm us at every turn.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"He can start by getting rid of his own ties to United Contana.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"I do not blame the great Kingdom of Rizia for its decision. But neither can I ignore that for the past 20 years, Rumburg has maintained a presence to both our north and south.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"This is why I have decided to invoke the AN Threat Mitigation Protocol for Treaty Obligations to delay the return of Zille until that risk is neutralized.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"You'll have to wait until your own speech to raise your objections.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLaurento shrugged and joined in."
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBefore speaking, he waved his hand in the air six times, representing the six pillars of Golcondism."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Whatever he has to say must be important.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"He must have been eager to catch a glimpse of me.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Supreme Wiseman spoke in a deep baritone."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's true. We should apply the same standards in the ITZ as we do in Rizia.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Brava, Madam Prime Minister!\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Not until Morella improves its military. Which may be the reason for this sudden interest in nationalization...\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"Mr. President.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI didn't say anything."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"Together, we are strong!\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPrime Minister Patricio Alvarez was next. He straightened his tie as he approached the microphone."
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"Such blatant use of intimidation tactics shows that the Kingdom has no intention of doing so.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"As we learned mere moments ago, the state of Wehlen is keeping its hold on the Zille region under the pretenses of 'national security'.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"I know I am not alone in wanting to avoid those disastrous consequences.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_249",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"Before arbitration concludes, we would like to beseech both nations to respect the results, whatever they may be.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_251",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Malarkey!\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_256",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Liar!\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_258",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Forgive my ill-timed cough. I have a terrible cold today.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_263",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"Ahem. That brings me to another point I was going to make today...\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"Any attempt to seize the International Trade Zone by unlawful means will be met with retaliation.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"It is God's will that we use this technology not for evil, but to contribute to global security and stability.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_269",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"God wants missiles? That's priceless!\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Halaita.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_283",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What a nut job.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"A wild card. Certainly not aligned with either the east or west.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_291",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLaurento held back a laugh."
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_295",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"A man of strong faith indeed. But faith alone won't be able to solve his country's problems.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_300",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"He's a wild card. Certainly not aligned with either the east or west.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuke Reinhart stepped up to the podium. With the spotlight on the Palesian leader, I could see that he had stubble on his chin and dark circles under his eyes."
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_305",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLaurento gave me a quick smile of encouragement as I left my seat."
+            },
+            "position": {
+                "x": 2430,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"*All* of them.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My monarchical forebears instilled in me a great respect for this institution and its values.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You've heard enough today about how important the Alliance of Nations is. So I will get straight to the point.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As we have seen over and over throughout history, our nations can accomplish much more together than we can apart.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hope you all see Wehlen's failure to return Zille for what it is: a flagrant violation of international law.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_322",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The AN Threat Mitigation Protocol can only be invoked under extreme circumstances. In my opinion, the Zille incident is not one of them.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_323",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But such bonds do not always form organically, Sometimes they must be fostered, other times forced.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Any intelligent person can see through the concerns about security and Rumburg. This was a purely self-serving decision.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The bombing was a tragedy. However, my kingdom has taken the necessary steps to ensure it will not be repeated.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I appreciate Prime Minister Alvarez's boldness in speaking out against Wehlen today.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_329",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I pledge my country's cooperation in resolving the horrific incident of last year.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_331",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wehlen's willingness to disregard the terms of a legal document has chilling implications for its relations with the rest of the continent.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"His invocation of AN protocol was completely understandable. The transition of Zille cannot happen until and unless security is restored to the region.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_335",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Prime Minister Saltana, in light of the human rights violations Wehlen has committed, Morella surely cannot stay silent.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The AN's swift interference has stopped many a would-be evildoer in their tracks.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And as the world becomes more cutthroat, its existence becomes all the more essential.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_341",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I know I can count on Wehlen's full transparency as we work to bring this tragedy to a close.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_342",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And I am confident that a safe and secure transition can still be arranged with minimal delay.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_343",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am willing to invest however much time it takes in order to get our territory back.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_344",
+            "type": "customNode",
+            "data": {
+                "label": "Player AN Issues Hub\n\nPlayer AN Issues Hub"
+            },
+            "position": {
+                "x": 16200,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_345",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I cannot ignore the presence of Chancellor Hegel and his newfound interest in our neighbor.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_346",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I may not share Morella's worldview. Yet I believe our citizens' struggles are one and the same.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_347",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I agree that we must improve our communication to ensure our gold mining standards are in alignment.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPrime Minister Saltana began applauding. Hegel looked pleasantly surprised."
+            },
+            "position": {
+                "x": 25380,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If Prime Minister Saltana is unhappy with the terms of the International Trade Zone, all she needs to do is tell us.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_356",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"President Smolak pointed his finger at Rumburg, yet failed to mention the financial backing his own country has received from United Contana.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Still, I would like to give President Smolak the benefit of the doubt.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_358",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"So I ask you: Who will join us in holding President Smolak accountable?\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_360",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We are not fighting for a sliver of Rizia. We are fighting for the future of South Merkopa.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_361",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The people of Zille yearn for their home. Who is Wehlen to deny it to them?\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_362",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But now I ask of you: Who will be next?\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_363",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Supreme Wiseman Azmal, Wehlen's occupation of Zille represents an invasion of Dastnurity into the land of St. Wruhec. Derdia must not condone it.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_366",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nJorga Azmal applauded loudly. His face remained impassive."
+            },
+            "position": {
+                "x": 18090,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_368",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAxel Reinhart stayed motionless in his seat."
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_372",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAxel Reinhart hesitantly applauded from his seat."
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I call on the rest of you to choose a side. History may ride on this outcome.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Moving on.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_377",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am not yet finished.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_378",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I will give him another chance to honor the terms of our agreement. If that fails to happen, I will have to take matters into my own hands.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_382",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If President Smolak does not honor the terms of our agreement, we will be forced to take matters into our own hands.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_383",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Prior to the civil war, Rizia and Wehlen were close allies. I believe we can return to that relationship.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_384",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Rizia and Wehlen may never be allies as we once were. But I am holding out hope for a peaceful coexistence.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_385",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"At this moment, our alliance with Rumburg comes secondary to our relationship with our direct neighbors.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_386",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wehlen has been unfairly maligned since the events of the civil war. After order is restored in Zille, we shall help it regain its international prominence.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_387",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Given the ongoing exploitation happening in Morella, I am not surprised that Prime Minister Saltana has looked to the east for assistance.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_389",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The pillaging of the Meftiem International Trade Zone must stop. On that, we are in agreement.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_390",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The specter of encroaching socialism does not scare me as much as the potential loss of our precious resources.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_391",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Let us not forget that the gas field would not have been discovered without our scientists' initiative.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_392",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As a signee of the AN Directive on Offshore Resources, we have a right to the undersea gas within 200 kilometers from our coast. No matter which coast.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_393",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Rizia still maintains ancient sovereignty over Pales. Ipso facto, their resources are ours as well.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_394",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As Morella's longtime allies, we are prepared to offer what assistance we can in building a more equitable MITZ.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yet Rizia cannot condone this new radical direction. Nor will we simply accept the massive job and revenue loss that would come with nationalization.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_396",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Rizia cannot condone this radical new direction, nor will we simply accept the massive job and revenue loss that would come with nationalization.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Morella is free to choose its own political direction. But it cannot use those politics to wantonly lay waste to its neighbors' economies.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_398",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I will use this forum to warn Prime Minister Saltana that if she is looking for a fight, Lespia and Rizia will give her one.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_399",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Prime Minister Saltana is not acting of her own agency. The Malenyevist east is coercing our neighbor to do its bidding.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_401",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But Madam Prime Minister clearly has her heart set on a hostile takeover, with Valgsland's aid.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_407",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am not alone in my concerns. Isn't that right, Prime Minister Alvarez?\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_409",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am not opposed to reopening negotiations, as long as Rizia continues to be able to provide for its citizens.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I look forward to discussing this further at the next ITZ board meeting.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_414",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am not alone in my concerns. Isn't that right, Prime Minister Alvarez?\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_417",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Is that a real thing?\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_424",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe assembly hall went silent. Laurento grimaced slightly."
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_428",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"We are in agreement, Your Majesty. At least on this.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_430",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"So will Lespia.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am not opposed to reopening Trade Zone negotiations, as long as Rizia continues to be able to provide for its citizens.\""
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_435",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"So does Lespia, I might add.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_436",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I also stand with Morella against the Derdian extremists who seek to infiltrate their borders.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_438",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNeither Prime Minister Saltana nor Supreme Wiseman Azmal seemed pleased with that remark."
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_439",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In the same spirit of cooperation, I believe a compromise can be reached regarding Derdia's religious travelers.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_441",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Supreme Wiseman Azmal, you speak of peace while pursuing advanced weaponry. Do your people not see the contradiction?\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_443",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"After all, their ideology is no more dangerous than Malenyevism.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_444",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It is the 1950s, and freedom of religion should be a given in modern Merkopa.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_448",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Supreme Wiseman and the Derdian delegation rose and applauded."
+            },
+            "position": {
+                "x": 27540,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_449",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I also urge Morella to rethink its stance towards Derdian Golcondist pilgrims.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_450",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Having said that, I do stand with Morella against the Derdian extremists who seek to infiltrate our borders.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_451",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I also believe a compromise can be reached regarding Derdia's religious travelers.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_455",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wow. He looks like shit.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_468",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"The Kingdom of Rizia has deployed a naval fleet to the waters of my Grand Duchy. Supposedly in self-defense.\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_478",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"The incident in Wehlen has proven the lengths to which this dangerous new monarch will go.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_480",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What kind of act is he pulling?\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_483",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLaurento gestured to where Prime Minister Alvarez was sitting. The Lespian leader wasn't smiling."
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_489",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I wonder what he's getting at.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_490",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"Well said, Your Grace!\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_491",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAlvarez rose to his feet."
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_493",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"How dare you play the victim, Reinhart! You invaded *our* field!\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_497",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"The Kingdom of Rizia has staked a claim to a gas field that lies in Palesian waters.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_499",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI didn't speak up."
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_502",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Good, Your Majesty. Don't play the aggressor.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_503",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"You see. Even here, in this bastion of neutrality, Rizia believes it can bully us into submission. Which is why--\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_506",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis voice had regained its full confidence now."
+            },
+            "position": {
+                "x": 30780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_507",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"Since the fall of the Valgos Empire, Pales has been battled over by nations much more powerful than itself.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_509",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"Look at the art, literature and thought that has come out of Pales in the last 30 years. Look at our technological innovation.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_510",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe glanced up at me."
+            },
+            "position": {
+                "x": 31050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_511",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Criminal!\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_513",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"No. No, I cannot stay silent while you make your entitled demands.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_519",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI applauded loudly."
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_523",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"That didn't sound like a cough, Chancellor.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_524",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Damn. Duke Reinhart just got Hegeled!\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_525",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You cannot talk to a Duke this way, Chancellor Hegel. Be silent.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_526",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"Uh. Well. As I was saying, we Palesians--\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_527",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"Our new energy partnership with Rizia is a signal of Pales' entrance onto a greater global stage.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_539",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"So it appears, Your Majesty.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_540",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I didn't realize the Chancellor harbored such lingering resentment over Pales. I wonder if we can use it to our advantage.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_544",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"President Nines! Please remove the Chancellor from this session at once.\""
+            },
+            "position": {
+                "x": 33480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_548",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez (R)\n\n\"President Nines, this man is abusing his guest privileges. Can he be removed?\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_549",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"I, uh...\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_555",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe rushed back to his seat as chatter erupted from the rest of the assembly."
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_556",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"It's certainly been an eventful session, Your Majesty. I hope you're ready for your speech.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_559",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Don't worry. I have it all planned out.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_561",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Finally, a word regarding Pales.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_565",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It is to my great dismay that my kingdom has been forced to quarrel with our closest neighbor.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_567",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Despite the Duke's claims, Rizia is not the aggressor in this situation.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_571",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Like Duke Reinhart, I believe our nations' burgeoning partnership represents the dawning of a new golden age.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_572",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Pales sent a drillship to disputed territory. Our response should not come as a surprise.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_577",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am convinced that a peaceful compromise can be reached with the AN's help.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_583",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In light of that, we cannot promise we will abide by the AN's arbitration results.\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_585",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Of course, we will respect the arbitration committee's ruling. As long as it is fair.\""
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_586",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We are counting on the arbitrators to make the right decision here.\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_587",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Chancellor Hegel. I was inspired by your courage in confronting the Lespian and Palesian delegations today.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_589",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We may have more in common than either of us suspected.\""
+            },
+            "position": {
+                "x": 51840,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_590",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If Rizia does gain control of this valuable resource, I promise all of South Merkopa will benefit.\""
+            },
+            "position": {
+                "x": 36720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_591",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI paused to look at Hegel. His face didn't give anything away."
+            },
+            "position": {
+                "x": 39150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_594",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHegel's expression stayed the same. He nodded."
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_598",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe chancellor's expression stayed the same. He nodded."
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_599",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Could you ever envision lending your support to a monarchy?\""
+            },
+            "position": {
+                "x": 37800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_600",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHegel let out an enormous laugh."
+            },
+            "position": {
+                "x": 38070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_604",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Royal relics and bourgeoise gluttons scrabbling for power... Pretending to sympathize with the revolution will not protect you from it.\""
+            },
+            "position": {
+                "x": 38340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_605",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNext to me, Laurento's jaw was hanging open in disbelief."
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_609",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As for the blockade of the gas field by our navy, it will continue for as long as it has to.\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_611",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"For too long, we have let the superpowers wield their influence over us.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_612",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"President Smolak was wrong. It is not the superpowers who are tearing us apart. We are doing it to ourselves.\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_613",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Times have changed. I am aware that Rizia stands nearly alone as a kingdom in a sea of republics.\""
+            },
+            "position": {
+                "x": 39690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_614",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But in the end, we are still all humans under a single God.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_617",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But our proud nation will not succumb to foreign pressure.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_619",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But I hold out hope that we may find our way back to each other.\""
+            },
+            "position": {
+                "x": 40230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_621",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPresident Nines motioned to the clock. My speech had gone over its run time."
+            },
+            "position": {
+                "x": 40500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_622",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But Rizia -- and our partners in GRACE -- are prepared to demonstrate that the monarchy still has significance in this modern world.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_623",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thank you.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_624",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Glovurius axa Rizia.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_625",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The King has spoken.\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_626",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Both of our families have made it through bloody revolutions, because it was the people's will.\""
+            },
+            "position": {
+                "x": 40230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_628",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Both of us recognize the growing threat of Malenyevism.\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_629",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My relationship with the Grand Duchy is purely a business partnership. For now.\""
+            },
+            "position": {
+                "x": 41580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_631",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Certain nations have tried to turn us against each other for their own benefit. No more.\""
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_633",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We have not forgotten our countries' past animosity. But we are glad to look to the future together.\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_636",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As for the prior remarks made by the Chancellor of Valgsland, I will not dignify them with a response.\""
+            },
+            "position": {
+                "x": 42120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_637",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Just because the Valgslandian revolution failed in Pales does not delegitimize it as a country.\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_639",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I agree that the Palesian royal family has not adequately made amends for its past. With Rizia's guidance, perhaps they may finally be able to do so.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_641",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuke Reinhart and his delegation broke into enthusiastic applause. Hegel looked displeased."
+            },
+            "position": {
+                "x": 42930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_642",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have watched with concern as the Grand Duchy has grown closer to Lespia over the years.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_644",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Despite the past animosity between Rizia and the Grand Duchy, I still see a way forward for us.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_646",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And in fact, after speaking with Prime Minister Alvarez of Lespia in the wake of their recent gas deal, I am convinced that harmony can be maintained between our three nations.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_647",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The fact that my kingdom has let go of its rightful claim on the Aureus gas field proves that we are serious about this.\""
+            },
+            "position": {
+                "x": 43740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_648",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But the fact that my kingdom was willing to let go of its rightful claim on the Aureus field shows how serious we are about wanting peace.\""
+            },
+            "position": {
+                "x": 44010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_649",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The fact that Pales and Lespia conspired to deprive my kingdom of the right to its own natural gas should be alarming to everyone gathered here.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_650",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Even though the fact that Pales and Lespia conspired to deprive my kingdom of the right to its own natural gas should be alarming to everyone gathered here.\""
+            },
+            "position": {
+                "x": 44280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_655",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It is in our interest that the sharing of exploration rights go as smoothly as possible.\""
+            },
+            "position": {
+                "x": 44550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_659",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It is our intention that not only Rizia, but all of South Merkopa benefit from this tremendous new resource.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_660",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"For all our differences, we have one thing in common: We are united against the Malenyevist menace.\""
+            },
+            "position": {
+                "x": 45090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_661",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But wealth is the great unifier. And I am looking forward to reinvesting the profits from our share of the gas field into our region.\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_662",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wealth is the great unifier. And I am looking forward to reinvesting the profits from our share of the gas field into our region.\""
+            },
+            "position": {
+                "x": 45630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_663",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I do not blame Pales or Lespia for looking out for their citizens' welfare.\""
+            },
+            "position": {
+                "x": 45900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_664",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But I do not blame Pales or Lespia for looking out for their citizens' welfare.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_665",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Regarding the remarks by Chancellor Hegel...\""
+            },
+            "position": {
+                "x": 44550,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_666",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Just because the Valgslandian revolution failed in Pales does not delegitimize it as a country.\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_667",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"There is no need to punish Duke Reinhart for his ancestors' crimes.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_668",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I agree that the Palesian royal family has not adequately made amends for its past. Perhaps their upcoming influx of Lespian wealth would be best used for reparations.\""
+            },
+            "position": {
+                "x": 46710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_670",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuke Reinhart and his delegation broke into enthusiastic applause. Hegel looked displeased."
+            },
+            "position": {
+                "x": 46980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_671",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As for the prior remarks made by the Chancellor of Valgsland, I will not dignify them with a response.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_672",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I won't bore you for much longer.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_673",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Do not rush a king, Mr. President.\""
+            },
+            "position": {
+                "x": 47250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_674",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI sat down. An aide handed me a glass of water."
+            },
+            "position": {
+                "x": 51300,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_677",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As for the so-called 'Grand Duchy'...\""
+            },
+            "position": {
+                "x": 47520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_684",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Nothing's going to be decided today, anyway. It's all just talk.\""
+            },
+            "position": {
+                "x": 47790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_689",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I'm also curious what Derdia thinks of her 'terrorist' remark. But we won't have to wait long to find out.\""
+            },
+            "position": {
+                "x": 48060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_691",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSupreme Wiseman Azmal made the pillar sign again as he exited the stage."
+            },
+            "position": {
+                "x": 48330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_692",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Oh, but now it's time for the real heavy artillery.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_695",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Dammit. What do I do?\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_697",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI politely applauded as he walked away."
+            },
+            "position": {
+                "x": 48870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_702",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"You'll have a chance to comment soon enough.\""
+            },
+            "position": {
+                "x": 49140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_704",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Now let's see if Prime Minister Alvarez has any words on the subject.\""
+            },
+            "position": {
+                "x": 49140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_709",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Nothing about Wehlen?\""
+            },
+            "position": {
+                "x": 49410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_713",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Valgsland is certainly an active participant today.\""
+            },
+            "position": {
+                "x": 49680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_715",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"It's not in Lespia's interest to take sides on Zille. For now.\""
+            },
+            "position": {
+                "x": 49950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_716",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI joined the rest of the room in applause as Alvarez left the stage."
+            },
+            "position": {
+                "x": 50220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_717",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I was expecting more commentary from Valgsland.\""
+            },
+            "position": {
+                "x": 50490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_724",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Well done, Your Majesty.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_732",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Strictly speaking, Your Majesty, Hegel no longer considers himself a Malenyevist. Vaglsandian Socialism is its own school of thought.\""
+            },
+            "position": {
+                "x": 50760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_733",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What's that Malenyevist doing here?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_753",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Now let's see if Prime Minister Alvarez delivers the support he promised you.\""
+            },
+            "position": {
+                "x": 51030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_760",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The suggestion that the Reinhart family does not deserve their hard-earned wealth only proves how dangerous this man and his philosophy are.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_762",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I look forward to the day when all noble families, not only Duke Reinhart's, are forced to reexamine the source of their wealth.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_765",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I know very little about his activities in Derdia, to be honest. His compound is shrouded in secrecy.\""
+            },
+            "position": {
+                "x": 51570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_767",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I admit I'm very curious.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_768",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"That's probably it, Your Majesty.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_777",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I would not presume to ask for Valgsland's support. But you have my respect.\""
+            },
+            "position": {
+                "x": 51840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_784",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Did I make a mistake? Are we going to lose the arbitration case?\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_786",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Did I make a mistake? Should we have fought harder for our half of the field?\""
+            },
+            "position": {
+                "x": 52110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_790",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuke Axel Reinhart and Patricio Alvarez entered late, deep in conversation. They nodded at each other and took seats with their respective delegations."
+            },
+            "position": {
+                "x": 52380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_792",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"We saved ourselves a lot of unnecessary tension. I would call that a win.\""
+            },
+            "position": {
+                "x": 52650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_793",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I wonder what they were talking about.\""
+            },
+            "position": {
+                "x": 52920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_797",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Reinhart was not pleased with Lespia and Rizia making deals behind his back. But he had no choice but to accept.\""
+            },
+            "position": {
+                "x": 53190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_798",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Reinhart was surprisingly happy with Lespia's offer to us. Perhaps Pales, Lespia and Rizia can exist in harmony after all.\""
+            },
+            "position": {
+                "x": 53460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_799",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I heard similar rumors. But nothing substantiated.\""
+            },
+            "position": {
+                "x": 53190,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_813",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Halaita to that.\""
+            },
+            "position": {
+                "x": 53730,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_783",
+            "source": "node_1",
+            "target": "node_783",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_735",
+            "source": "node_4",
+            "target": "node_735",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_788",
+            "source": "node_10",
+            "target": "node_788",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_791",
+            "source": "node_14",
+            "target": "node_791",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_785",
+            "source": "node_15",
+            "target": "node_785",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_800",
+            "source": "node_39",
+            "target": "node_800",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_738",
+            "source": "node_40",
+            "target": "node_738",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_737",
+            "source": "node_41",
+            "target": "node_737",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_736",
+            "source": "node_42",
+            "target": "node_736",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_784",
+            "source": "node_43",
+            "target": "node_784",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_739",
+            "source": "node_44",
+            "target": "node_739",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_306",
+            "source": "node_45",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_55",
+            "source": "node_64",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_734",
+            "source": "node_80",
+            "target": "node_734",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_733",
+            "source": "node_81",
+            "target": "node_733",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_740",
+            "source": "node_92",
+            "target": "node_740",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_75",
+            "source": "node_93",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_157",
+            "source": "node_94",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_127",
+            "source": "node_111",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_132",
+            "source": "node_118",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_132",
+            "source": "node_119",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_145",
+            "source": "node_126",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_101",
+            "source": "node_129",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_101",
+            "source": "node_130",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_114",
+            "source": "node_131",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_419",
+            "source": "node_135",
+            "target": "node_419",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_132",
+            "source": "node_142",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_197",
+            "source": "node_156",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_767",
+            "source": "node_159",
+            "target": "node_767",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_768",
+            "source": "node_160",
+            "target": "node_768",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_769",
+            "source": "node_161",
+            "target": "node_769",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_268",
+            "source": "node_180",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_91",
+            "source": "node_182",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_192",
+            "source": "node_189",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_316",
+            "source": "node_193",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_202",
+            "source": "node_194",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_148",
+            "source": "node_196",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_698",
+            "source": "node_200",
+            "target": "node_698",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_249",
+            "source": "node_214",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_214",
+            "source": "node_215",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_234",
+            "source": "node_238",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e249_to_257",
+            "source": "node_249",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e251_to_744",
+            "source": "node_251",
+            "target": "node_744",
+            "type": "step"
+        },
+        {
+            "id": "e256_to_744",
+            "source": "node_256",
+            "target": "node_744",
+            "type": "step"
+        },
+        {
+            "id": "e258_to_744",
+            "source": "node_258",
+            "target": "node_744",
+            "type": "step"
+        },
+        {
+            "id": "e263_to_745",
+            "source": "node_263",
+            "target": "node_745",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_230",
+            "source": "node_264",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_756",
+            "source": "node_267",
+            "target": "node_756",
+            "type": "step"
+        },
+        {
+            "id": "e269_to_302",
+            "source": "node_269",
+            "target": "node_302",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_692",
+            "source": "node_280",
+            "target": "node_692",
+            "type": "step"
+        },
+        {
+            "id": "e283_to_276",
+            "source": "node_283",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_693",
+            "source": "node_290",
+            "target": "node_693",
+            "type": "step"
+        },
+        {
+            "id": "e291_to_693",
+            "source": "node_291",
+            "target": "node_693",
+            "type": "step"
+        },
+        {
+            "id": "e295_to_814",
+            "source": "node_295",
+            "target": "node_814",
+            "type": "step"
+        },
+        {
+            "id": "e300_to_693",
+            "source": "node_300",
+            "target": "node_693",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_272",
+            "source": "node_303",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e305_to_460",
+            "source": "node_305",
+            "target": "node_460",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_337",
+            "source": "node_315",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_680",
+            "source": "node_316",
+            "target": "node_680",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_337",
+            "source": "node_317",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_345",
+            "source": "node_319",
+            "target": "node_345",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_339",
+            "source": "node_321",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e322_to_358",
+            "source": "node_322",
+            "target": "node_358",
+            "type": "step"
+        },
+        {
+            "id": "e323_to_358",
+            "source": "node_323",
+            "target": "node_358",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_345",
+            "source": "node_324",
+            "target": "node_345",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_357",
+            "source": "node_325",
+            "target": "node_357",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_362",
+            "source": "node_326",
+            "target": "node_362",
+            "type": "step"
+        },
+        {
+            "id": "e329_to_327",
+            "source": "node_329",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e331_to_386",
+            "source": "node_331",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_387",
+            "source": "node_333",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e335_to_386",
+            "source": "node_335",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_366",
+            "source": "node_336",
+            "target": "node_366",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_345",
+            "source": "node_339",
+            "target": "node_345",
+            "type": "step"
+        },
+        {
+            "id": "e341_to_356",
+            "source": "node_341",
+            "target": "node_356",
+            "type": "step"
+        },
+        {
+            "id": "e342_to_386",
+            "source": "node_342",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e343_to_333",
+            "source": "node_343",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e344_to_333",
+            "source": "node_344",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e345_to_676",
+            "source": "node_345",
+            "target": "node_676",
+            "type": "step"
+        },
+        {
+            "id": "e346_to_350",
+            "source": "node_346",
+            "target": "node_350",
+            "type": "step"
+        },
+        {
+            "id": "e347_to_395",
+            "source": "node_347",
+            "target": "node_395",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_391",
+            "source": "node_350",
+            "target": "node_391",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_389",
+            "source": "node_351",
+            "target": "node_389",
+            "type": "step"
+        },
+        {
+            "id": "e356_to_333",
+            "source": "node_356",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_383",
+            "source": "node_357",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e358_to_344",
+            "source": "node_358",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e360_to_382",
+            "source": "node_360",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e361_to_371",
+            "source": "node_361",
+            "target": "node_371",
+            "type": "step"
+        },
+        {
+            "id": "e362_to_383",
+            "source": "node_362",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e363_to_382",
+            "source": "node_363",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e366_to_376",
+            "source": "node_366",
+            "target": "node_376",
+            "type": "step"
+        },
+        {
+            "id": "e368_to_428",
+            "source": "node_368",
+            "target": "node_428",
+            "type": "step"
+        },
+        {
+            "id": "e372_to_370",
+            "source": "node_372",
+            "target": "node_370",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_428",
+            "source": "node_375",
+            "target": "node_428",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_428",
+            "source": "node_376",
+            "target": "node_428",
+            "type": "step"
+        },
+        {
+            "id": "e377_to_421",
+            "source": "node_377",
+            "target": "node_421",
+            "type": "step"
+        },
+        {
+            "id": "e378_to_421",
+            "source": "node_378",
+            "target": "node_421",
+            "type": "step"
+        },
+        {
+            "id": "e382_to_428",
+            "source": "node_382",
+            "target": "node_428",
+            "type": "step"
+        },
+        {
+            "id": "e383_to_371",
+            "source": "node_383",
+            "target": "node_371",
+            "type": "step"
+        },
+        {
+            "id": "e384_to_427",
+            "source": "node_384",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e385_to_427",
+            "source": "node_385",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e386_to_333",
+            "source": "node_386",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e387_to_426",
+            "source": "node_387",
+            "target": "node_426",
+            "type": "step"
+        },
+        {
+            "id": "e389_to_435",
+            "source": "node_389",
+            "target": "node_435",
+            "type": "step"
+        },
+        {
+            "id": "e390_to_351",
+            "source": "node_390",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e391_to_352",
+            "source": "node_391",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e392_to_587",
+            "source": "node_392",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e393_to_587",
+            "source": "node_393",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e394_to_587",
+            "source": "node_394",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_351",
+            "source": "node_395",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e396_to_407",
+            "source": "node_396",
+            "target": "node_407",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_407",
+            "source": "node_397",
+            "target": "node_407",
+            "type": "step"
+        },
+        {
+            "id": "e398_to_407",
+            "source": "node_398",
+            "target": "node_407",
+            "type": "step"
+        },
+        {
+            "id": "e399_to_409",
+            "source": "node_399",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e401_to_407",
+            "source": "node_401",
+            "target": "node_407",
+            "type": "step"
+        },
+        {
+            "id": "e407_to_413",
+            "source": "node_407",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e409_to_430",
+            "source": "node_409",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_749",
+            "source": "node_412",
+            "target": "node_749",
+            "type": "step"
+        },
+        {
+            "id": "e414_to_431",
+            "source": "node_414",
+            "target": "node_431",
+            "type": "step"
+        },
+        {
+            "id": "e417_to_341",
+            "source": "node_417",
+            "target": "node_341",
+            "type": "step"
+        },
+        {
+            "id": "e424_to_346",
+            "source": "node_424",
+            "target": "node_346",
+            "type": "step"
+        },
+        {
+            "id": "e428_to_378",
+            "source": "node_428",
+            "target": "node_378",
+            "type": "step"
+        },
+        {
+            "id": "e430_to_749",
+            "source": "node_430",
+            "target": "node_749",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_441",
+            "source": "node_432",
+            "target": "node_441",
+            "type": "step"
+        },
+        {
+            "id": "e435_to_455",
+            "source": "node_435",
+            "target": "node_455",
+            "type": "step"
+        },
+        {
+            "id": "e436_to_430",
+            "source": "node_436",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e438_to_453",
+            "source": "node_438",
+            "target": "node_453",
+            "type": "step"
+        },
+        {
+            "id": "e439_to_488",
+            "source": "node_439",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e441_to_448",
+            "source": "node_441",
+            "target": "node_448",
+            "type": "step"
+        },
+        {
+            "id": "e443_to_802",
+            "source": "node_443",
+            "target": "node_802",
+            "type": "step"
+        },
+        {
+            "id": "e444_to_439",
+            "source": "node_444",
+            "target": "node_439",
+            "type": "step"
+        },
+        {
+            "id": "e448_to_488",
+            "source": "node_448",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e449_to_804",
+            "source": "node_449",
+            "target": "node_804",
+            "type": "step"
+        },
+        {
+            "id": "e450_to_441",
+            "source": "node_450",
+            "target": "node_441",
+            "type": "step"
+        },
+        {
+            "id": "e451_to_443",
+            "source": "node_451",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e455_to_440",
+            "source": "node_455",
+            "target": "node_440",
+            "type": "step"
+        },
+        {
+            "id": "e468_to_495",
+            "source": "node_468",
+            "target": "node_495",
+            "type": "step"
+        },
+        {
+            "id": "e478_to_480",
+            "source": "node_478",
+            "target": "node_480",
+            "type": "step"
+        },
+        {
+            "id": "e480_to_492",
+            "source": "node_480",
+            "target": "node_492",
+            "type": "step"
+        },
+        {
+            "id": "e483_to_490",
+            "source": "node_483",
+            "target": "node_490",
+            "type": "step"
+        },
+        {
+            "id": "e489_to_345",
+            "source": "node_489",
+            "target": "node_345",
+            "type": "step"
+        },
+        {
+            "id": "e490_to_470",
+            "source": "node_490",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e491_to_500",
+            "source": "node_491",
+            "target": "node_500",
+            "type": "step"
+        },
+        {
+            "id": "e493_to_502",
+            "source": "node_493",
+            "target": "node_502",
+            "type": "step"
+        },
+        {
+            "id": "e497_to_508",
+            "source": "node_497",
+            "target": "node_508",
+            "type": "step"
+        },
+        {
+            "id": "e499_to_473",
+            "source": "node_499",
+            "target": "node_473",
+            "type": "step"
+        },
+        {
+            "id": "e502_to_501",
+            "source": "node_502",
+            "target": "node_501",
+            "type": "step"
+        },
+        {
+            "id": "e503_to_553",
+            "source": "node_503",
+            "target": "node_553",
+            "type": "step"
+        },
+        {
+            "id": "e506_to_556",
+            "source": "node_506",
+            "target": "node_556",
+            "type": "step"
+        },
+        {
+            "id": "e507_to_506",
+            "source": "node_507",
+            "target": "node_506",
+            "type": "step"
+        },
+        {
+            "id": "e509_to_510",
+            "source": "node_509",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e510_to_533",
+            "source": "node_510",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e511_to_528",
+            "source": "node_511",
+            "target": "node_528",
+            "type": "step"
+        },
+        {
+            "id": "e513_to_521",
+            "source": "node_513",
+            "target": "node_521",
+            "type": "step"
+        },
+        {
+            "id": "e519_to_542",
+            "source": "node_519",
+            "target": "node_542",
+            "type": "step"
+        },
+        {
+            "id": "e523_to_527",
+            "source": "node_523",
+            "target": "node_527",
+            "type": "step"
+        },
+        {
+            "id": "e524_to_514",
+            "source": "node_524",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e525_to_540",
+            "source": "node_525",
+            "target": "node_540",
+            "type": "step"
+        },
+        {
+            "id": "e526_to_546",
+            "source": "node_526",
+            "target": "node_546",
+            "type": "step"
+        },
+        {
+            "id": "e527_to_514",
+            "source": "node_527",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e539_to_531",
+            "source": "node_539",
+            "target": "node_531",
+            "type": "step"
+        },
+        {
+            "id": "e540_to_549",
+            "source": "node_540",
+            "target": "node_549",
+            "type": "step"
+        },
+        {
+            "id": "e544_to_520",
+            "source": "node_544",
+            "target": "node_520",
+            "type": "step"
+        },
+        {
+            "id": "e548_to_746",
+            "source": "node_548",
+            "target": "node_746",
+            "type": "step"
+        },
+        {
+            "id": "e549_to_548",
+            "source": "node_549",
+            "target": "node_548",
+            "type": "step"
+        },
+        {
+            "id": "e555_to_505",
+            "source": "node_555",
+            "target": "node_505",
+            "type": "step"
+        },
+        {
+            "id": "e556_to_747",
+            "source": "node_556",
+            "target": "node_747",
+            "type": "step"
+        },
+        {
+            "id": "e559_to_561",
+            "source": "node_559",
+            "target": "node_561",
+            "type": "step"
+        },
+        {
+            "id": "e561_to_724",
+            "source": "node_561",
+            "target": "node_724",
+            "type": "step"
+        },
+        {
+            "id": "e565_to_569",
+            "source": "node_565",
+            "target": "node_569",
+            "type": "step"
+        },
+        {
+            "id": "e567_to_574",
+            "source": "node_567",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e571_to_645",
+            "source": "node_571",
+            "target": "node_645",
+            "type": "step"
+        },
+        {
+            "id": "e572_to_633",
+            "source": "node_572",
+            "target": "node_633",
+            "type": "step"
+        },
+        {
+            "id": "e577_to_574",
+            "source": "node_577",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e583_to_581",
+            "source": "node_583",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e585_to_607",
+            "source": "node_585",
+            "target": "node_607",
+            "type": "step"
+        },
+        {
+            "id": "e586_to_607",
+            "source": "node_586",
+            "target": "node_607",
+            "type": "step"
+        },
+        {
+            "id": "e587_to_607",
+            "source": "node_587",
+            "target": "node_607",
+            "type": "step"
+        },
+        {
+            "id": "e589_to_779",
+            "source": "node_589",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e590_to_779",
+            "source": "node_590",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e591_to_622",
+            "source": "node_591",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e594_to_596",
+            "source": "node_594",
+            "target": "node_596",
+            "type": "step"
+        },
+        {
+            "id": "e598_to_601",
+            "source": "node_598",
+            "target": "node_601",
+            "type": "step"
+        },
+        {
+            "id": "e599_to_606",
+            "source": "node_599",
+            "target": "node_606",
+            "type": "step"
+        },
+        {
+            "id": "e600_to_596",
+            "source": "node_600",
+            "target": "node_596",
+            "type": "step"
+        },
+        {
+            "id": "e604_to_750",
+            "source": "node_604",
+            "target": "node_750",
+            "type": "step"
+        },
+        {
+            "id": "e605_to_603",
+            "source": "node_605",
+            "target": "node_603",
+            "type": "step"
+        },
+        {
+            "id": "e609_to_591",
+            "source": "node_609",
+            "target": "node_591",
+            "type": "step"
+        },
+        {
+            "id": "e611_to_591",
+            "source": "node_611",
+            "target": "node_591",
+            "type": "step"
+        },
+        {
+            "id": "e612_to_623",
+            "source": "node_612",
+            "target": "node_623",
+            "type": "step"
+        },
+        {
+            "id": "e613_to_623",
+            "source": "node_613",
+            "target": "node_623",
+            "type": "step"
+        },
+        {
+            "id": "e614_to_623",
+            "source": "node_614",
+            "target": "node_623",
+            "type": "step"
+        },
+        {
+            "id": "e617_to_615",
+            "source": "node_617",
+            "target": "node_615",
+            "type": "step"
+        },
+        {
+            "id": "e619_to_626",
+            "source": "node_619",
+            "target": "node_626",
+            "type": "step"
+        },
+        {
+            "id": "e621_to_614",
+            "source": "node_621",
+            "target": "node_614",
+            "type": "step"
+        },
+        {
+            "id": "e622_to_674",
+            "source": "node_622",
+            "target": "node_674",
+            "type": "step"
+        },
+        {
+            "id": "e623_to_782",
+            "source": "node_623",
+            "target": "node_782",
+            "type": "step"
+        },
+        {
+            "id": "e624_to_675",
+            "source": "node_624",
+            "target": "node_675",
+            "type": "step"
+        },
+        {
+            "id": "e625_to_675",
+            "source": "node_625",
+            "target": "node_675",
+            "type": "step"
+        },
+        {
+            "id": "e626_to_675",
+            "source": "node_626",
+            "target": "node_675",
+            "type": "step"
+        },
+        {
+            "id": "e628_to_633",
+            "source": "node_628",
+            "target": "node_633",
+            "type": "step"
+        },
+        {
+            "id": "e629_to_635",
+            "source": "node_629",
+            "target": "node_635",
+            "type": "step"
+        },
+        {
+            "id": "e631_to_635",
+            "source": "node_631",
+            "target": "node_635",
+            "type": "step"
+        },
+        {
+            "id": "e633_to_635",
+            "source": "node_633",
+            "target": "node_635",
+            "type": "step"
+        },
+        {
+            "id": "e636_to_640",
+            "source": "node_636",
+            "target": "node_640",
+            "type": "step"
+        },
+        {
+            "id": "e637_to_622",
+            "source": "node_637",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e639_to_642",
+            "source": "node_639",
+            "target": "node_642",
+            "type": "step"
+        },
+        {
+            "id": "e641_to_622",
+            "source": "node_641",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e642_to_622",
+            "source": "node_642",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e644_to_649",
+            "source": "node_644",
+            "target": "node_649",
+            "type": "step"
+        },
+        {
+            "id": "e646_to_657",
+            "source": "node_646",
+            "target": "node_657",
+            "type": "step"
+        },
+        {
+            "id": "e647_to_657",
+            "source": "node_647",
+            "target": "node_657",
+            "type": "step"
+        },
+        {
+            "id": "e648_to_657",
+            "source": "node_648",
+            "target": "node_657",
+            "type": "step"
+        },
+        {
+            "id": "e649_to_657",
+            "source": "node_649",
+            "target": "node_657",
+            "type": "step"
+        },
+        {
+            "id": "e650_to_653",
+            "source": "node_650",
+            "target": "node_653",
+            "type": "step"
+        },
+        {
+            "id": "e655_to_665",
+            "source": "node_655",
+            "target": "node_665",
+            "type": "step"
+        },
+        {
+            "id": "e659_to_664",
+            "source": "node_659",
+            "target": "node_664",
+            "type": "step"
+        },
+        {
+            "id": "e660_to_672",
+            "source": "node_660",
+            "target": "node_672",
+            "type": "step"
+        },
+        {
+            "id": "e661_to_758",
+            "source": "node_661",
+            "target": "node_758",
+            "type": "step"
+        },
+        {
+            "id": "e662_to_672",
+            "source": "node_662",
+            "target": "node_672",
+            "type": "step"
+        },
+        {
+            "id": "e663_to_672",
+            "source": "node_663",
+            "target": "node_672",
+            "type": "step"
+        },
+        {
+            "id": "e664_to_672",
+            "source": "node_664",
+            "target": "node_672",
+            "type": "step"
+        },
+        {
+            "id": "e665_to_672",
+            "source": "node_665",
+            "target": "node_672",
+            "type": "step"
+        },
+        {
+            "id": "e666_to_764",
+            "source": "node_666",
+            "target": "node_764",
+            "type": "step"
+        },
+        {
+            "id": "e667_to_671",
+            "source": "node_667",
+            "target": "node_671",
+            "type": "step"
+        },
+        {
+            "id": "e668_to_671",
+            "source": "node_668",
+            "target": "node_671",
+            "type": "step"
+        },
+        {
+            "id": "e670_to_803",
+            "source": "node_670",
+            "target": "node_803",
+            "type": "step"
+        },
+        {
+            "id": "e671_to_622",
+            "source": "node_671",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e672_to_622",
+            "source": "node_672",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e673_to_614",
+            "source": "node_673",
+            "target": "node_614",
+            "type": "step"
+        },
+        {
+            "id": "e674_to_614",
+            "source": "node_674",
+            "target": "node_614",
+            "type": "step"
+        },
+        {
+            "id": "e677_to_562",
+            "source": "node_677",
+            "target": "node_562",
+            "type": "step"
+        },
+        {
+            "id": "e684_to_682",
+            "source": "node_684",
+            "target": "node_682",
+            "type": "step"
+        },
+        {
+            "id": "e689_to_741",
+            "source": "node_689",
+            "target": "node_741",
+            "type": "step"
+        },
+        {
+            "id": "e691_to_41",
+            "source": "node_691",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e692_to_286",
+            "source": "node_692",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e695_to_40",
+            "source": "node_695",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e697_to_704",
+            "source": "node_697",
+            "target": "node_704",
+            "type": "step"
+        },
+        {
+            "id": "e702_to_704",
+            "source": "node_702",
+            "target": "node_704",
+            "type": "step"
+        },
+        {
+            "id": "e704_to_751",
+            "source": "node_704",
+            "target": "node_751",
+            "type": "step"
+        },
+        {
+            "id": "e709_to_720",
+            "source": "node_709",
+            "target": "node_720",
+            "type": "step"
+        },
+        {
+            "id": "e713_to_718",
+            "source": "node_713",
+            "target": "node_718",
+            "type": "step"
+        },
+        {
+            "id": "e715_to_722",
+            "source": "node_715",
+            "target": "node_722",
+            "type": "step"
+        },
+        {
+            "id": "e716_to_722",
+            "source": "node_716",
+            "target": "node_722",
+            "type": "step"
+        },
+        {
+            "id": "e717_to_722",
+            "source": "node_717",
+            "target": "node_722",
+            "type": "step"
+        },
+        {
+            "id": "e724_to_45",
+            "source": "node_724",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e732_to_755",
+            "source": "node_732",
+            "target": "node_755",
+            "type": "step"
+        },
+        {
+            "id": "e733_to_63",
+            "source": "node_733",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e753_to_705",
+            "source": "node_753",
+            "target": "node_705",
+            "type": "step"
+        },
+        {
+            "id": "e760_to_762",
+            "source": "node_760",
+            "target": "node_762",
+            "type": "step"
+        },
+        {
+            "id": "e762_to_671",
+            "source": "node_762",
+            "target": "node_671",
+            "type": "step"
+        },
+        {
+            "id": "e765_to_763",
+            "source": "node_765",
+            "target": "node_763",
+            "type": "step"
+        },
+        {
+            "id": "e767_to_162",
+            "source": "node_767",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e768_to_162",
+            "source": "node_768",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e777_to_589",
+            "source": "node_777",
+            "target": "node_589",
+            "type": "step"
+        },
+        {
+            "id": "e784_to_305",
+            "source": "node_784",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e786_to_29",
+            "source": "node_786",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e790_to_12",
+            "source": "node_790",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e792_to_795",
+            "source": "node_792",
+            "target": "node_795",
+            "type": "step"
+        },
+        {
+            "id": "e793_to_29",
+            "source": "node_793",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e797_to_799",
+            "source": "node_797",
+            "target": "node_799",
+            "type": "step"
+        },
+        {
+            "id": "e798_to_29",
+            "source": "node_798",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e799_to_29",
+            "source": "node_799",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e813_to_3",
+            "source": "node_813",
+            "target": "node_3",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The time for diplomacy has passed; Rizia must now assert its might and valor in the face of Palesian aggression.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The burden of conflict now weighs upon our nation, a path we tread with solemn resolve for Rizia's defense.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This reunification is not merely a quest for land, but a reclamation of our history, our culture, deeply intertwined with these territories.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As your King, I stand before you, not only as a leader but as a steward of our collective legacy, committed to restoring what is ours.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The journey ahead is fraught with challenges, but our resolve is fortified by the righteousness of our cause and the strength of our unity.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Glovurius Axa Rizia!\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"For Honor, For Rizia, For Eternity!\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Alone I stand, yet united with every Rizian heart – for our kingdom, for our people, unwavering.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI glanced at the crowd."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI placed my hand over Vina's shoulder."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Ahead lies a path of glory, shining bright with the promise of our nation's triumph.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Your words, my son, echo the courage and strength of our people. Together, we shall prevail.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Father, your speech has ignited a flame of hope and determination in every Rizian heart.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI nodded towards the crowd."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_454",
+            "source": "node_2",
+            "target": "node_454",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_39",
+            "source": "node_3",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_34",
+            "source": "node_10",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_36",
+            "source": "node_11",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_29",
+            "source": "node_13",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_82",
+            "source": "node_47",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_96",
+            "source": "node_48",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_44",
+            "source": "node_56",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_102",
+            "source": "node_58",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_83",
+            "source": "node_59",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_55",
+            "source": "node_75",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_2",
+            "source": "node_92",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_2",
+            "source": "node_93",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_60",
+            "source": "node_99",
+            "target": "node_60",
+            "type": "step"
+        }
+    ]
+}

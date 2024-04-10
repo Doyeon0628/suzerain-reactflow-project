@@ -1,0 +1,57 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“They are trying to economically weaken us.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“That's not all, Mr. President.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Is something wrong?”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_31",
+            "source": "node_2",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_34",
+            "source": "node_25",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_9",
+            "source": "node_33",
+            "target": "node_9",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,3542 @@
+{
+    "nodes": [
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSuddenly, the music began. It was \"The Light in the Darkness,\" the same nationalist song that Lileas played during the congress vote."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy term was almost over."
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was the biggest gathering of people we'd managed to assemble during my campaign, and if my advisors were right, it was also the largest ever assembled in Soll Square."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe noise of the crowd rose up around me on all sides. Would I ever address so many people again?"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSuddenly, the music began. It was \"Vectern sis hirc,\" a famous patriotic song by the composer of the Sordish anthem. \"Victory is here.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThen Albin announced my name and invited me to the stage. It was finally time."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSuddenly, the music began. It was \"Vectern sis hirc,\" a famous patriotic song by the composer of the Sordish anthem. \"Victory is here.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRemus announced my name and invited me to the stage. It was finally time to give the campaign speech to endorse the National Front Party."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef announced my name and invited me to the stage. It was finally time."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAlbin gave me a nod and I stood up. In my dark gray suit and maroon tie, I walked up to the podium as the crowd started applauding."
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAround me, I saw a sea of Democrat Party banners and flags. It was as if people had painted the square yellow."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAround me, I saw a sea of Liberal Party banners and flags. It was as if people had painted the square blue."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI took a good look at my former electorate."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I welcome all who dared to join me in the name of new beginnings, real change and a brighter future.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Now I stand stronger than ever before, ready to continue what I started!\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Not long after I began serving as your President, it became clear that I could not accomplish my goals by working within the USP. The same corrupt Old Guard still controls the party, no matter who is elected leader.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With the Democrat Party, Sordland will finally experience true democracy.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fellow Sordish citizens!\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It is true. The USP is overrun by the same corrupt elites who managed to bring me down. I'm not going to deny that.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The USP didn't let me bring the real change the people are asking for. But now, I am free.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I left the USP because true change was not possible with them. We needed a new movement.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"People of Sordland!\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must thank everyone who came here to support change during such a critical time for Sordland.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With the People's Freedom and Justice Party, Sordland will finally experience true democracy.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With the People's Front, the working class and the oppressed will finally have a voice.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The National Front Party will make Sordland great again.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under the NFP's government, Sords will prosper and the world will finally learn to respect our country.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With the National Front Party, Sordland will finally experience true prosperity.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under the government of the People's Front, the people of Sordland will finally be free.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fellow Sordish citizens!\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must thank everyone who came here to support our party during such a critical time for Sordland.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let us unite again! This time under the leadership of Ms. Graf! Soon to be the first woman president of Sordland!\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It is true. Ms. Graf won against me and that is why I'm not running today. I'm not going to deny that.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have no regrets about leaving my position to our formidable Ms. Graf. She is the best candidate in this race by far.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I welcome all who dared to come here in the name of new beginnings, real change and a brighter future.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"People of Sordland!\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under a fifth USP government, stability and progress will continue.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fellow Sordish citizens!\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, the future belongs to the people. The future belongs to Sordland. I welcome you all!\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fellow Sordish citizens!\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Brothers and sisters!\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"People of Sordland!\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI took a good look at my electorate."
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A government under our party will show this nation what steady, consistent and principled leadership looks like.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"When I look to the future, I see that we will manage a lot together. Our achievements will never be forgotten.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Four years ago, you and I began a journey together. We came together to bring prosperity to this glorious nation.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Since 1954, Sords have been given cliffs to climb, and found the tenacity to climb them. Now, we can see the valley below.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You once protested our corrupt political establishment and you elected me to fight for you. To finally put Sordland first.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Now, we have historic goals within our reach. We will keep building a more hopeful Sordland. Nobody can hold us back!\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"After all these years, we have come too far to abandon the dream we fought for. We must keep moving to the future we imagined in 1953.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"More than thirty years after the Sordish people seized the right to determine their own destiny, we still need to move forward to perfect our nation.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Economic instability and depression plagued our country, but together, we overcame them.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We managed to fix the recession and put it behind us. Now we can safely begin building our country back up again.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"By securing valuable international deals, we brought foreign investment and greatly increased our economic prosperity.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I am honored to be running alongside a great man like Lucian Galade.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have counted on Gloria Tory's strong judgment in these difficult days. I am fortunate to have such a great woman by my side.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must thank my wife, Monica, the First Lady of Sordland, for being such a strong woman.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I am grateful to walk this path in life with the amazing Monica Rayne, who has supported me through the last four years.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must thank Monica for her hard work in leading the campaign to expand the rights of Sordish women.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_274",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With the power you entrusted upon us, my administration fought to serve your interests alone.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_275",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"When I look back, I see achievements that will never be forgotten.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We agreed to pay doctors, nurses and other health staff salaries commensurate with their value to our society.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_291",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We built new hospitals where they were needed. Access to health became available for all.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thanks to our policies, Sordish people can now enjoy more accessible and higher-quality healthcare.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We wrote history when we celebrated our changes to the outdated Constitution of 1929.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have amended our once-untouchable constitution and opened the way for further reforms.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"They did not believe in me when I first proposed our constitutional changes. I proved everyone wrong.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Unfortunately, most of my term saw a period of emergency. But I had to take action, and it proved to be justified.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We were faced with existential threats from both inside and outside. But we eliminated all who threatened the integrity of our great nation.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Plagued by political turmoil in our first days in office, I took decisive action and brought stability to Sordland.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As I promised four years ago, I made healthcare the focus of my administration and greatly expanded our services to the Sordish people.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"When you asked me to fix our healthcare system, I took responsibility and delivered the best results in four years' time.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_322",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"When you asked me to fix our education system, I took responsibility and delivered the best results in four years' time.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_323",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As I promised four years ago, I made education the focus of my administration and greatly expanded our services to the Sordish people.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I took responsibility for strengthening our military and delivered the best possible results in four years' time.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As I promised four years ago, I made military the focus of my administration and greatly strengthened our defense forces.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I took responsibility to strengthen our law enforcement and I delivered the best possible results in four years' time.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As I promised four years ago, I made law enforcement the focus of my administration, and our country is safer and more secure for it.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We increased the salaries of teachers, principals and other education staff all around the country.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We improved rural education by purchasing new materials and upgrading old school equipment.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_360",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We helped thousands of Sordish citizens with disabilities.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_361",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We helped millions of children and parents with our child benefit policy.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_380",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"In the last four years, the women of this country won a decades-long fight against the patriarchy.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_392",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"During our term, the traditional values of Sordland were protected and strengthened like never before.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_400",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We took steps to protect our proud mother tongue and unified our education in the Sordish language.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_405",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I worked hard to expand the rights of our minorities. I formed a commission for Bludish rights and gave amnesty to all Bludish people prosecuted for their ethnicity.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_406",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I gave the Bludish minority what they wanted for decades. An autonomous Bergia!\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_407",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"During my term, the minorities of Sordland saw a great expansion of their political and social freedoms like they have never seen before.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_420",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With the Maroon Party, the people of Sordland will finally prosper.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_421",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The Maroon Party will bring everyone in Sordland together again.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_422",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under the government of the Maroon Party, the Sordish people will finally have a voice.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Tarquin Soll was finally brought to justice as was due.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_428",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, Tarquin Soll's cult of personality is no more. His images have been erased from public places.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_431",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have successfully finished the de-Sollinisation of Sordland. A new era has begun!\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_443",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, every Sordish citizen is entitled to medicine for free!\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_449",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With increased control over the Central Bank, Sordland will be much swifter in taking action against economic turmoil.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_452",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"By establishing the Free Trade Commission, we ensured healthy competition, so that our citizens can buy higher-quality products for less.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_454",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I worked long and hard to ensure a brighter future for our country and our people.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_459",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I defended Sordland's international interests and fought for peace in Eastern Merkopa.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland will stand with the ATO against Malenyevism. With the power of the West, Sordland will be the dominant force in Eastern Merkopa.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_466",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As a new member of the ATO, we will be walking towards the future with more confident steps, together with our allies.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_467",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We integrated Sordland into the international arena. Now, Sordland is a member of the ATO.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_477",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Now, it is our task to build a more hopeful Sordland. A Sordland that is confident in its ability to reach for the heavens.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_478",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"These changing times are full of excitement and opportunity. And here, you face a choice.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_482",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe audience broke out into applause again."
+            },
+            "position": {
+                "x": 27000,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_483",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe crowd booed at the other candidates."
+            },
+            "position": {
+                "x": 27000,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_487",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"One of our historic achievements was to pay off all student debts. We erased it completely.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_495",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, every unemployed Sordish citizen is entitled to government assistance until they find a job.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_500",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Together, we have been building our dream of Sordland -- the great Sordish Dream -- and today, in this square, that dream is renewed.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_501",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We are still all fired up. We are still ready to go. Let us finish what we started!\""
+            },
+            "position": {
+                "x": 44550,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_503",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote Rayne!\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_505",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A Morgna wes core!\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_506",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_507",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"God bless Sordland.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_511",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A Morgna her coren!\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_512",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThunderous applause erupted. Everyone was cheering my name."
+            },
+            "position": {
+                "x": 33750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_513",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThunderous applause erupted. Everyone responded, \"Vectern sis da!\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_514",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThunderous applause erupted. Everyone was cheering my name."
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_515",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must thank everyone who came here to support me after such a critical time for Sordland.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_519",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have finally crushed the snake's head in Thornbourgh and ensured that Sordland will no longer be bullied by the northern kingdom!\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_520",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We won against the terror of Rumburg. Our men stood strong, fought bravely and brought us victory.\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_521",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Four years ago, Rumburg was fertile ground for militants and a transit point for armed rebels. Now, thanks to us, it has been neutralized.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_522",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Because we acted to defend our glorious country, the bloodthirsty regime of Beatrice Livingston is now history.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_525",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our men and women in uniform have done a great service for Sordland. I salute them and their families.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_527",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, we must mend our wounds and walk towards a brighter future.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_528",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nApplause echoed throughout the square."
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_531",
+            "type": "customNode",
+            "data": {
+                "label": "MainSpeechStart\n\nMainSpeechStart"
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_533",
+            "type": "customNode",
+            "data": {
+                "label": "OtherPartySpeechStart\n\nOtherPartySpeechStart"
+            },
+            "position": {
+                "x": 31590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_534",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I am honored to be running together with an amazing team. I'd like to take this moment to thank them.\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_552",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote United Sordland!\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_553",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote Democrat Party!\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_554",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote Liberal Party!\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_555",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote People's Party!\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_556",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote Maroon!\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_557",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote Sordish Prosperity Party!\""
+            },
+            "position": {
+                "x": 33480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_558",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Just as I put Sordland first, my successors will continue to do so.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_560",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Four years ago, you and I began a journey together. Let's start a new journey now. Let's embrace change.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_561",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRapturous cheers echoed throughout the square. Everyone responded, \"Vectern sis da!\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_562",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Now, it is our task to build a more hopeful Sordland. A Sordland that is confident in its ability to reach for the heavens.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_563",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRapturous cheers echoed throughout the square."
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_564",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRapturous cheers echoed throughout the square."
+            },
+            "position": {
+                "x": 36450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_565",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"More than thirty years after the Sordish people seized the right to determine their own destiny, we still need to move forward to perfect our nation.\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_567",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A Morgna wes core!\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_568",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have been building our dream of Sordland -- the great Sordish Dream -- and today, in this square, that dream is renewed.\""
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_572",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A Morgna her coren!\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_573",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have come too far to abandon the dream we fought for after all these years. We must keep moving to the future we imagined in 1953.\""
+            },
+            "position": {
+                "x": 36450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_575",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The other candidates made no realistic promises. Let them dream, while we make things happen.\""
+            },
+            "position": {
+                "x": 36720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_577",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our opponents' policies are dramatically different from ours. They oppose the change we're trying to bring to Sordland.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_578",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have made great progress, we are making progress, and there is still a lot more to do.\""
+            },
+            "position": {
+                "x": 36990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_580",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We are all fired up. We are ready to go. Real change begins now!\""
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_582",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe crowd booed at the other candidates."
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_583",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe crowd burst into applause."
+            },
+            "position": {
+                "x": 36990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_584",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"And that is why we need your help. Let's build a bold, prosperous and forward-looking Sordland. A united Sordland.\""
+            },
+            "position": {
+                "x": 37800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_588",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under the joint government of the CSP and WPB, Sordland will finally be free.\""
+            },
+            "position": {
+                "x": 38070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_595",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under Frens Ricter's government, Sordland will be prosperous again!\""
+            },
+            "position": {
+                "x": 38340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_596",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote PFJP!\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_597",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote Stahler and Leke!\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_599",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under Kesaro Kibener's government, the world will finally learn to respect our country.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_600",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote NFP!\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_601",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote People's Front!\""
+            },
+            "position": {
+                "x": 39690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_608",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under Remus Holstron's government, the world will finally learn to respect our country.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_609",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Under Manoly Suheil's government, Sordland will be prosperous again!\""
+            },
+            "position": {
+                "x": 40230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_610",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote Ricter!\""
+            },
+            "position": {
+                "x": 40500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_611",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote Suheil!\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_613",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote Graf!\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_614",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Vote United Sordland!\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_631",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRemus came to the podium as I waved at the crowd."
+            },
+            "position": {
+                "x": 41580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_632",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nKibener came to the podium as I waved at the crowd."
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_636",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMansoun came to the podium as I waved at the crowd."
+            },
+            "position": {
+                "x": 42120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_638",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Thank you, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_639",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"Thank you, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 41580,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_640",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"Thank you, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_642",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I believe our party will secure victory again under new leadership. The future belongs to the people. To Sordland.\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_643",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"I believe the birth of our new movement will also give birth to an honorable future. Today, the future belongs to the people. To Sordland.\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_644",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"I believe our movement will give birth to an honorable future. Today, the future belongs to the Sords. To Sordland.\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_645",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I believe our movement will give birth to an honorable future. Today, the future belongs to the Sords. To Sordland.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_649",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"Greci Sordland!\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_650",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"Long live the people! A revolution is coming!\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_651",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I thank you all who came here to support my campaign and a brighter future for us all.\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_652",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Thank you. A Morgna wes core!\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_654",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThunderous applause erupted. Everyone responded, \"Vectern sis da!\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_655",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThunderous applause erupted. Everyone yelled, \"Sordland!\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_656",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThunderous applause erupted. Everyone yelled, \"Power to the People!\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_657",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI shook her hand and slowly left the stage as she continued speaking."
+            },
+            "position": {
+                "x": 42930,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_659",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThat was it. My presidency was about to be over."
+            },
+            "position": {
+                "x": 42660,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_660",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI wondered if I could have achieved more in those past four years..."
+            },
+            "position": {
+                "x": 42660,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_663",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nJust like in the beginning."
+            },
+            "position": {
+                "x": 43740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_664",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI raised my fist in the air before I left the podium."
+            },
+            "position": {
+                "x": 44010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_665",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI waved at the crowd before I left the podium."
+            },
+            "position": {
+                "x": 44280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_671",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I promise you. We will remind everyone that the Republic of Sordland is the grea–\""
+            },
+            "position": {
+                "x": 44550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_673",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We will keep building our dream of Sord–\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_675",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSuddenly, I felt a sharp pain in my abdomen."
+            },
+            "position": {
+                "x": 45090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_676",
+            "type": "customNode",
+            "data": {
+                "label": "Manoly Suheil\n\n\"Thank you, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_682",
+            "type": "customNode",
+            "data": {
+                "label": "Remus Holstron\n\n\"Thank you, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_684",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThunderous applause erupted. Everyone yelled, \"Sordland!\""
+            },
+            "position": {
+                "x": 45630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_685",
+            "type": "customNode",
+            "data": {
+                "label": "Remus Holstron\n\n\"Greci Sordland!\""
+            },
+            "position": {
+                "x": 45630,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_686",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was the biggest gathering of people we'd managed to assemble during my campaign, and if my advisors were right, it was also the largest ever assembled in the Maroon Square."
+            },
+            "position": {
+                "x": 45630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_1031",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nKarl's approach interrupted my thoughts. He saluted."
+            },
+            "position": {
+                "x": 45900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1032",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"We secured the entire area and we are ready for any possibility, sir.\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1034",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you, Karl. Good work.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1035",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This better not be another inauguration ball.\""
+            },
+            "position": {
+                "x": 46710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1036",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Isn't that a little too much?\""
+            },
+            "position": {
+                "x": 46980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1037",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"We all know what is at stake, sir.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_1038",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"It will not be, sir.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_1039",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"Thank you, sir.\""
+            },
+            "position": {
+                "x": 46980,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_1040",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n\"I will be close by just in case.\""
+            },
+            "position": {
+                "x": 46710,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_1042",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe saluted again and left me alone."
+            },
+            "position": {
+                "x": 47250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1097",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAround me, I saw a sea of Maroon Party banners and flags. It was as if people had painted the square red."
+            },
+            "position": {
+                "x": 47520,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e23_to_73",
+            "source": "node_23",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_1169",
+            "source": "node_37",
+            "target": "node_1169",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_688",
+            "source": "node_39",
+            "target": "node_688",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_37",
+            "source": "node_40",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_1029",
+            "source": "node_41",
+            "target": "node_1029",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_89",
+            "source": "node_42",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_117",
+            "source": "node_60",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_112",
+            "source": "node_65",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_80",
+            "source": "node_88",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_83",
+            "source": "node_89",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_17",
+            "source": "node_106",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_113",
+            "source": "node_107",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_203",
+            "source": "node_111",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_184",
+            "source": "node_117",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_121",
+            "source": "node_124",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_137",
+            "source": "node_127",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_134",
+            "source": "node_139",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_536",
+            "source": "node_152",
+            "target": "node_536",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_161",
+            "source": "node_153",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_164",
+            "source": "node_154",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_164",
+            "source": "node_155",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_164",
+            "source": "node_156",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_155",
+            "source": "node_160",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_168",
+            "source": "node_176",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_168",
+            "source": "node_177",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_168",
+            "source": "node_178",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_168",
+            "source": "node_180",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_168",
+            "source": "node_181",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_168",
+            "source": "node_182",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_168",
+            "source": "node_183",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_197",
+            "source": "node_186",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_197",
+            "source": "node_187",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_200",
+            "source": "node_188",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_199",
+            "source": "node_191",
+            "target": "node_199",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_191",
+            "source": "node_193",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_191",
+            "source": "node_195",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_193",
+            "source": "node_198",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_214",
+            "source": "node_202",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_237",
+            "source": "node_206",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_237",
+            "source": "node_208",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_516",
+            "source": "node_209",
+            "target": "node_516",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_516",
+            "source": "node_210",
+            "target": "node_516",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_516",
+            "source": "node_211",
+            "target": "node_516",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_559",
+            "source": "node_213",
+            "target": "node_559",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_559",
+            "source": "node_214",
+            "target": "node_559",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_559",
+            "source": "node_215",
+            "target": "node_559",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_277",
+            "source": "node_216",
+            "target": "node_277",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_277",
+            "source": "node_217",
+            "target": "node_277",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_277",
+            "source": "node_218",
+            "target": "node_277",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_669",
+            "source": "node_219",
+            "target": "node_669",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_669",
+            "source": "node_220",
+            "target": "node_669",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_300",
+            "source": "node_224",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_300",
+            "source": "node_225",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_300",
+            "source": "node_226",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_300",
+            "source": "node_234",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_255",
+            "source": "node_247",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_266",
+            "source": "node_259",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_267",
+            "source": "node_260",
+            "target": "node_267",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_260",
+            "source": "node_264",
+            "target": "node_260",
+            "type": "step"
+        },
+        {
+            "id": "e274_to_329",
+            "source": "node_274",
+            "target": "node_329",
+            "type": "step"
+        },
+        {
+            "id": "e275_to_281",
+            "source": "node_275",
+            "target": "node_281",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_329",
+            "source": "node_290",
+            "target": "node_329",
+            "type": "step"
+        },
+        {
+            "id": "e291_to_329",
+            "source": "node_291",
+            "target": "node_329",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_292",
+            "source": "node_297",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_463",
+            "source": "node_314",
+            "target": "node_463",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_418",
+            "source": "node_315",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_418",
+            "source": "node_316",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_418",
+            "source": "node_317",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_222",
+            "source": "node_318",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_222",
+            "source": "node_319",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_222",
+            "source": "node_320",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_272",
+            "source": "node_321",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e322_to_272",
+            "source": "node_322",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e323_to_272",
+            "source": "node_323",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_272",
+            "source": "node_324",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_272",
+            "source": "node_325",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_272",
+            "source": "node_326",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_272",
+            "source": "node_327",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_357",
+            "source": "node_338",
+            "target": "node_357",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_357",
+            "source": "node_339",
+            "target": "node_357",
+            "type": "step"
+        },
+        {
+            "id": "e360_to_354",
+            "source": "node_360",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e361_to_354",
+            "source": "node_361",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e380_to_387",
+            "source": "node_380",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e392_to_415",
+            "source": "node_392",
+            "target": "node_415",
+            "type": "step"
+        },
+        {
+            "id": "e400_to_415",
+            "source": "node_400",
+            "target": "node_415",
+            "type": "step"
+        },
+        {
+            "id": "e405_to_415",
+            "source": "node_405",
+            "target": "node_415",
+            "type": "step"
+        },
+        {
+            "id": "e406_to_415",
+            "source": "node_406",
+            "target": "node_415",
+            "type": "step"
+        },
+        {
+            "id": "e407_to_415",
+            "source": "node_407",
+            "target": "node_415",
+            "type": "step"
+        },
+        {
+            "id": "e420_to_222",
+            "source": "node_420",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e421_to_152",
+            "source": "node_421",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e422_to_152",
+            "source": "node_422",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_222",
+            "source": "node_427",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e428_to_222",
+            "source": "node_428",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e431_to_429",
+            "source": "node_431",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e443_to_447",
+            "source": "node_443",
+            "target": "node_447",
+            "type": "step"
+        },
+        {
+            "id": "e449_to_485",
+            "source": "node_449",
+            "target": "node_485",
+            "type": "step"
+        },
+        {
+            "id": "e452_to_450",
+            "source": "node_452",
+            "target": "node_450",
+            "type": "step"
+        },
+        {
+            "id": "e454_to_485",
+            "source": "node_454",
+            "target": "node_485",
+            "type": "step"
+        },
+        {
+            "id": "e459_to_312",
+            "source": "node_459",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_475",
+            "source": "node_465",
+            "target": "node_475",
+            "type": "step"
+        },
+        {
+            "id": "e466_to_475",
+            "source": "node_466",
+            "target": "node_475",
+            "type": "step"
+        },
+        {
+            "id": "e467_to_475",
+            "source": "node_467",
+            "target": "node_475",
+            "type": "step"
+        },
+        {
+            "id": "e477_to_482",
+            "source": "node_477",
+            "target": "node_482",
+            "type": "step"
+        },
+        {
+            "id": "e478_to_482",
+            "source": "node_478",
+            "target": "node_482",
+            "type": "step"
+        },
+        {
+            "id": "e482_to_483",
+            "source": "node_482",
+            "target": "node_483",
+            "type": "step"
+        },
+        {
+            "id": "e483_to_221",
+            "source": "node_483",
+            "target": "node_221",
+            "type": "step"
+        },
+        {
+            "id": "e487_to_459",
+            "source": "node_487",
+            "target": "node_459",
+            "type": "step"
+        },
+        {
+            "id": "e495_to_459",
+            "source": "node_495",
+            "target": "node_459",
+            "type": "step"
+        },
+        {
+            "id": "e500_to_459",
+            "source": "node_500",
+            "target": "node_459",
+            "type": "step"
+        },
+        {
+            "id": "e501_to_550",
+            "source": "node_501",
+            "target": "node_550",
+            "type": "step"
+        },
+        {
+            "id": "e503_to_504",
+            "source": "node_503",
+            "target": "node_504",
+            "type": "step"
+        },
+        {
+            "id": "e505_to_512",
+            "source": "node_505",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e506_to_1082",
+            "source": "node_506",
+            "target": "node_1082",
+            "type": "step"
+        },
+        {
+            "id": "e507_to_515",
+            "source": "node_507",
+            "target": "node_515",
+            "type": "step"
+        },
+        {
+            "id": "e511_to_508",
+            "source": "node_511",
+            "target": "node_508",
+            "type": "step"
+        },
+        {
+            "id": "e512_to_513",
+            "source": "node_512",
+            "target": "node_513",
+            "type": "step"
+        },
+        {
+            "id": "e513_to_667",
+            "source": "node_513",
+            "target": "node_667",
+            "type": "step"
+        },
+        {
+            "id": "e514_to_667",
+            "source": "node_514",
+            "target": "node_667",
+            "type": "step"
+        },
+        {
+            "id": "e515_to_667",
+            "source": "node_515",
+            "target": "node_667",
+            "type": "step"
+        },
+        {
+            "id": "e519_to_524",
+            "source": "node_519",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e520_to_524",
+            "source": "node_520",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e521_to_524",
+            "source": "node_521",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e522_to_525",
+            "source": "node_522",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e525_to_529",
+            "source": "node_525",
+            "target": "node_529",
+            "type": "step"
+        },
+        {
+            "id": "e527_to_529",
+            "source": "node_527",
+            "target": "node_529",
+            "type": "step"
+        },
+        {
+            "id": "e528_to_533",
+            "source": "node_528",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e531_to_533",
+            "source": "node_531",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e533_to_532",
+            "source": "node_533",
+            "target": "node_532",
+            "type": "step"
+        },
+        {
+            "id": "e534_to_257",
+            "source": "node_534",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e552_to_538",
+            "source": "node_552",
+            "target": "node_538",
+            "type": "step"
+        },
+        {
+            "id": "e553_to_512",
+            "source": "node_553",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e554_to_512",
+            "source": "node_554",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e555_to_512",
+            "source": "node_555",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e556_to_512",
+            "source": "node_556",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e557_to_512",
+            "source": "node_557",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e558_to_512",
+            "source": "node_558",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e560_to_577",
+            "source": "node_560",
+            "target": "node_577",
+            "type": "step"
+        },
+        {
+            "id": "e561_to_577",
+            "source": "node_561",
+            "target": "node_577",
+            "type": "step"
+        },
+        {
+            "id": "e562_to_618",
+            "source": "node_562",
+            "target": "node_618",
+            "type": "step"
+        },
+        {
+            "id": "e563_to_585",
+            "source": "node_563",
+            "target": "node_585",
+            "type": "step"
+        },
+        {
+            "id": "e564_to_618",
+            "source": "node_564",
+            "target": "node_618",
+            "type": "step"
+        },
+        {
+            "id": "e565_to_618",
+            "source": "node_565",
+            "target": "node_618",
+            "type": "step"
+        },
+        {
+            "id": "e567_to_565",
+            "source": "node_567",
+            "target": "node_565",
+            "type": "step"
+        },
+        {
+            "id": "e568_to_1081",
+            "source": "node_568",
+            "target": "node_1081",
+            "type": "step"
+        },
+        {
+            "id": "e572_to_567",
+            "source": "node_572",
+            "target": "node_567",
+            "type": "step"
+        },
+        {
+            "id": "e573_to_564",
+            "source": "node_573",
+            "target": "node_564",
+            "type": "step"
+        },
+        {
+            "id": "e575_to_569",
+            "source": "node_575",
+            "target": "node_569",
+            "type": "step"
+        },
+        {
+            "id": "e577_to_585",
+            "source": "node_577",
+            "target": "node_585",
+            "type": "step"
+        },
+        {
+            "id": "e578_to_583",
+            "source": "node_578",
+            "target": "node_583",
+            "type": "step"
+        },
+        {
+            "id": "e580_to_586",
+            "source": "node_580",
+            "target": "node_586",
+            "type": "step"
+        },
+        {
+            "id": "e582_to_565",
+            "source": "node_582",
+            "target": "node_565",
+            "type": "step"
+        },
+        {
+            "id": "e583_to_566",
+            "source": "node_583",
+            "target": "node_566",
+            "type": "step"
+        },
+        {
+            "id": "e584_to_566",
+            "source": "node_584",
+            "target": "node_566",
+            "type": "step"
+        },
+        {
+            "id": "e588_to_616",
+            "source": "node_588",
+            "target": "node_616",
+            "type": "step"
+        },
+        {
+            "id": "e595_to_590",
+            "source": "node_595",
+            "target": "node_590",
+            "type": "step"
+        },
+        {
+            "id": "e596_to_617",
+            "source": "node_596",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e597_to_617",
+            "source": "node_597",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e599_to_617",
+            "source": "node_599",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e600_to_617",
+            "source": "node_600",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e601_to_617",
+            "source": "node_601",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e608_to_612",
+            "source": "node_608",
+            "target": "node_612",
+            "type": "step"
+        },
+        {
+            "id": "e609_to_617",
+            "source": "node_609",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e610_to_617",
+            "source": "node_610",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e611_to_617",
+            "source": "node_611",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e613_to_617",
+            "source": "node_613",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e614_to_617",
+            "source": "node_614",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e631_to_639",
+            "source": "node_631",
+            "target": "node_639",
+            "type": "step"
+        },
+        {
+            "id": "e632_to_683",
+            "source": "node_632",
+            "target": "node_683",
+            "type": "step"
+        },
+        {
+            "id": "e636_to_633",
+            "source": "node_636",
+            "target": "node_633",
+            "type": "step"
+        },
+        {
+            "id": "e638_to_642",
+            "source": "node_638",
+            "target": "node_642",
+            "type": "step"
+        },
+        {
+            "id": "e639_to_646",
+            "source": "node_639",
+            "target": "node_646",
+            "type": "step"
+        },
+        {
+            "id": "e640_to_645",
+            "source": "node_640",
+            "target": "node_645",
+            "type": "step"
+        },
+        {
+            "id": "e642_to_643",
+            "source": "node_642",
+            "target": "node_643",
+            "type": "step"
+        },
+        {
+            "id": "e643_to_652",
+            "source": "node_643",
+            "target": "node_652",
+            "type": "step"
+        },
+        {
+            "id": "e644_to_651",
+            "source": "node_644",
+            "target": "node_651",
+            "type": "step"
+        },
+        {
+            "id": "e645_to_650",
+            "source": "node_645",
+            "target": "node_650",
+            "type": "step"
+        },
+        {
+            "id": "e649_to_655",
+            "source": "node_649",
+            "target": "node_655",
+            "type": "step"
+        },
+        {
+            "id": "e650_to_656",
+            "source": "node_650",
+            "target": "node_656",
+            "type": "step"
+        },
+        {
+            "id": "e651_to_657",
+            "source": "node_651",
+            "target": "node_657",
+            "type": "step"
+        },
+        {
+            "id": "e652_to_653",
+            "source": "node_652",
+            "target": "node_653",
+            "type": "step"
+        },
+        {
+            "id": "e654_to_658",
+            "source": "node_654",
+            "target": "node_658",
+            "type": "step"
+        },
+        {
+            "id": "e655_to_659",
+            "source": "node_655",
+            "target": "node_659",
+            "type": "step"
+        },
+        {
+            "id": "e656_to_659",
+            "source": "node_656",
+            "target": "node_659",
+            "type": "step"
+        },
+        {
+            "id": "e657_to_659",
+            "source": "node_657",
+            "target": "node_659",
+            "type": "step"
+        },
+        {
+            "id": "e659_to_660",
+            "source": "node_659",
+            "target": "node_660",
+            "type": "step"
+        },
+        {
+            "id": "e660_to_829",
+            "source": "node_660",
+            "target": "node_829",
+            "type": "step"
+        },
+        {
+            "id": "e663_to_1170",
+            "source": "node_663",
+            "target": "node_1170",
+            "type": "step"
+        },
+        {
+            "id": "e664_to_845",
+            "source": "node_664",
+            "target": "node_845",
+            "type": "step"
+        },
+        {
+            "id": "e665_to_668",
+            "source": "node_665",
+            "target": "node_668",
+            "type": "step"
+        },
+        {
+            "id": "e671_to_501",
+            "source": "node_671",
+            "target": "node_501",
+            "type": "step"
+        },
+        {
+            "id": "e673_to_676",
+            "source": "node_673",
+            "target": "node_676",
+            "type": "step"
+        },
+        {
+            "id": "e675_to_1170",
+            "source": "node_675",
+            "target": "node_1170",
+            "type": "step"
+        },
+        {
+            "id": "e676_to_1044",
+            "source": "node_676",
+            "target": "node_1044",
+            "type": "step"
+        },
+        {
+            "id": "e682_to_658",
+            "source": "node_682",
+            "target": "node_658",
+            "type": "step"
+        },
+        {
+            "id": "e684_to_686",
+            "source": "node_684",
+            "target": "node_686",
+            "type": "step"
+        },
+        {
+            "id": "e685_to_659",
+            "source": "node_685",
+            "target": "node_659",
+            "type": "step"
+        },
+        {
+            "id": "e686_to_685",
+            "source": "node_686",
+            "target": "node_685",
+            "type": "step"
+        },
+        {
+            "id": "e1031_to_6",
+            "source": "node_1031",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e1032_to_1033",
+            "source": "node_1032",
+            "target": "node_1033",
+            "type": "step"
+        },
+        {
+            "id": "e1034_to_1037",
+            "source": "node_1034",
+            "target": "node_1037",
+            "type": "step"
+        },
+        {
+            "id": "e1035_to_1040",
+            "source": "node_1035",
+            "target": "node_1040",
+            "type": "step"
+        },
+        {
+            "id": "e1036_to_1039",
+            "source": "node_1036",
+            "target": "node_1039",
+            "type": "step"
+        },
+        {
+            "id": "e1037_to_1038",
+            "source": "node_1037",
+            "target": "node_1038",
+            "type": "step"
+        },
+        {
+            "id": "e1038_to_1041",
+            "source": "node_1038",
+            "target": "node_1041",
+            "type": "step"
+        },
+        {
+            "id": "e1039_to_1041",
+            "source": "node_1039",
+            "target": "node_1041",
+            "type": "step"
+        },
+        {
+            "id": "e1040_to_1041",
+            "source": "node_1040",
+            "target": "node_1041",
+            "type": "step"
+        },
+        {
+            "id": "e1042_to_1043",
+            "source": "node_1042",
+            "target": "node_1043",
+            "type": "step"
+        },
+        {
+            "id": "e1097_to_110",
+            "source": "node_1097",
+            "target": "node_110",
+            "type": "step"
+        }
+    ]
+}

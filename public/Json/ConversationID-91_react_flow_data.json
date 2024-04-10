@@ -1,0 +1,2879 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas sighed."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia Morgna and Lileas Graf scheduled a meeting to discuss an ongoing legal case that required my attention."
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"We need to inform you about some news from Bergia.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm listening.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Due to the decrease of security funds, many of these -- otherwise avoidable -- attacks couldn't be stopped. This created some hysteria inside Bergia.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Due to the lack of security funding, some of these -- otherwise avoidable -- attacks couldn't be stopped. This led to some increase in the tensions in Bergia.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Unfortunately, the court backlog is piling up with increasingly frequent rulings that are unjust. This has led to many of our citizens losing their trust in our justice system. This is particularly a problem for the residents of Bergia.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"It's definitely not helping with the increasing tensions between the Bludish populace and Sords.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What exactly is this case about?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What are the accusations against the governor?\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"You are underplaying it. This eviction was only the last of the many he ordered as part of Bergia's *peaceful resettlement policies*. This is not about Deyr.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What exactly does Ersen claim about the conflict in the constitution?\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Courts have repeatedly protected Governor Bron in the past, and it is true that he bets on Mr. Hawker justifying his actions through Article 7. However, there is also Article 6 -- which the courts could have taken into account already.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Article 7 is an embarrassment that needs to be removed. I wish we could also tackle this in our proposal for constitutional change.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Explain.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This is getting very complicated.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"It wasn't a possibility according to the preliminary committee meetings.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"They can potentially push this case to the Supreme Court.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"In any case... The situation might be troubling if it reaches the Supreme Court and Mr. Hawker manages to sabotage it by altering the current interpretation. It would be disastrous for Bludish rights.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What if we can convince the Justices to agree with Ersen? Wouldn't that give us precedent to change said articles of the constitution?\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"If the Supreme Court agrees that the constitution is in conflict with itself, yes... But I don't know if you are serious or not, Mr. President.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"And in this case, I'm afraid even Justice Edmonds and the centrists would be almost impossible to convince.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"To be honest, I don't think this is a matter for our administration. We must keep out from judicial affairs.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Honestly, I couldn't care less. It would be better for this country.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I will look into it, Mr. President.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"As much as I hate to say it, I somewhat agree with Lileas on this. I'd prefer to keep the status quo over risking a complete abolishment of rights. We still have the power to make tangible reforms.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Your lack of faith is disappointing. I must say I didn't expect that from you. And what about your tangible reforms?\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"The resettlement policies in Bergia and the Ersen case have changed the mood of the lawmakers. We can use this opportunity to push for the removal of Tarquin Soll's security zone decree. It is a much bigger possibility than before.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Are you absolutely certain that your security forces can do a better job than Bergian police?\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't see how a local change is more important than removing the basis of discrimination in our very constitution.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Are you sure we can even revoke the special status of Bergia?\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You are right. We shouldn't meddle in the judiciary.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't agree with changing the structure in Bergia now. We shouldn't disrupt Governor Bron's policies.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"We can't be sure of anything, Mr. President. You know this better than me.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"We can't allow the conflict in Wehlen to spread to Sordland. And we know that the Wehlen and Sordland divisions of the BFF are in close cooperation.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Well, Mr. President, if your insane proposal somehow makes it, your new powers would allow you to enact this by decree anyway.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Okay. Let's hear about the proposal.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'm glad that we agree. Of course we should push for that in our next amendments.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I still think we can add these amendments to our proposal before the vote. The current proposal can still be modified.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'm not going to deny the risk but we can no longer look away.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I can't believe it. Are you really supportive of Governor Bron's policies, Mr. President?\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"On the other hand, the community police have been very helpful in the areas where they were allowed to serve -- which aren't many, unfortunately.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's precisely why we're cooperating with Wehzek forces to defend our borders.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"This would also mean taking away the special authority of the governor.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"My proposal is very simple. The special zone must be fully revoked, governor's powers taken away and the local security forces must be abolished. Only then Bergia can be an equal part of Sordland.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"We will hold local municipal elections just like every city in Sordland, and the security of the region will be under the full control of the Ministry of the Interior. We can no longer allow their forces to pursue violence with impunity.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Millions of Bludish people suffered over the last decades. We saw a massive uprising, terror attacks and a governor going rogue. These people only wanted to live in this country as equals, but they were denied that.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I'm sorry to tell you, Ms. Morgna, but Bergia is part of Sordland as much as Agnland or Holsord. You're bringing secessionist Fetih Ejall's lifelong quest here as *your proposal*. What's wrong with you?\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Hold on, Lileas. I want to hear Nia's proposal.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't agree with either of your points.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Thank you, Mr. President.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"We should replace the oppressive laws of the special zone with a democratic system that allows for proper local representation. I propose the 'Bergia Semi-Autonomous Region'.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I propose we unite Bergia with the rest of Sordland and enforce the same laws and policies as any other Sordish region -- dismantling the current semi-independent security structure in the process.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'm just saying the solution is not a rushed 'unification'. We must acknowledge that Bergia is a unique region with its own culture and history. We cannot disregard the social reality.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm supportive of a semi-autonomous Bergia. This is what the mainstream Bludish movement wants.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I also want to hear Ms. Graf's proposal before deciding.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't agree with either of you. I'd rather not risk any drastic change like that. Bergia should stay as it is.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Both proposals fail to impress me. I want to start working on the possibility of adding new amendments to our proposal instead, so we can get to the root of the matter.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm supportive of Lileas' plan to revoke the special status of Bergia and unify it with the rest of Sordland.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I also want to hear Ms. Morgna's proposal before deciding.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Both proposals fail to impress me. I want to start working on the possibility of adding new amendments to our proposal. Our proposal should expand the rights to everyone.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"How serious are you really, Mr. President?\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_236",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas smiled."
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Are you serious, Mr. President? Are we really going to ignore this massive problem?\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. It's been decided, Ms. Graf. You can get to work immediately. I'm counting on you.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"On second thought, semi-autonomy is the way to go. Start the work immediately, Ms. Morgna. I'm counting on you.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"On second thought... I think it's best if we keep the status quo. We will not change anything about Bergia.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"On a second thought, centralization is the way to go. Start the work immediately, Ms. Graf. I'm counting on you.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_250",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"On second thought, semi-autonomy is the way to go. Start the work immediately, Ms. Morgna. I'm counting on you.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_253",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Thank you, Mr. President. I'll start working on it immediately.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_254",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I must say I'm disappointed, Mr. President.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I shouldn't have expected anything from you. Especially right before your meeting with the National Front Party leadership to beg for votes.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_262",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"This is a mistake.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_263",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas looked incredibly furious, but kept herself quiet. I doubted that she would forget about this."
+            },
+            "position": {
+                "x": 14850,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Please, Ms. Morgna. You've heard the president.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"To have a structure that will actually solve the problems of the region, we will need to conduct indepth research beforehand. I believe it will take some time.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_276",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. I believe we can do it. I'm surprised you don't think the same.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I know it's risky but we have to try. I thought I could count on you.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Stop questioning me for a second, Ms. Morgna. How about you? What do you think?\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I told you this before. With the new constitution we can do much more for the country. Why are you blocking me at every turn?\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I and the USP would also definitely not allow you to do that, Mr. President.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_295",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sounds like a plan, Ms. Morgna. Start the process immediately. I'm counting on you.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_296",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Here's what we can do. I can start working on the wording of the new changes, and in parallel, evaluate how realistic it is to add this to our current proposal. We can try to include the Bludish leaders in the conversation as well.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"On second thought, it is better if we spend that time on a proposal to change the special zone of Bergia.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_300",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sounds good, Ms. Morgna. I'm counting on you.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_301",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Perfect. Get to work immediately.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sounds good, Ms. Graf. I'm counting on you.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Perfect. Get to work immediately.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Don't waste your breath, Nia. The president has already made his decision.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_309",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey bid their farewells and left the room."
+            },
+            "position": {
+                "x": 34560,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey bid their farewells and left the room."
+            },
+            "position": {
+                "x": 21060,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Of course, Mr. President. I'll get to work right away. Talk to you later.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Great. I'll get to work. See you later, Mr. President.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey left the room."
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"This is insane...\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_323",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. I believe that is the way to go. Get to work on this immediately, Ms. Morgna. I'm counting on you.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. Centralization is the way to go. Get to work on this immediately, Ms. Graf. I'm counting on you.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Okay... So you want me to work on the proposal for the semi-autonomous special zone?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_328",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. I think he's doing a good job.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_329",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. But I don't want my administration be involved with such a politically charged issue.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I thought the same once, Mr. President. But it's clearly not working. Bludish people are increasingly being radicalized and the BFF is exploiting the tensions the governor is creating.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_334",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I would have agreed with you a couple of years ago, Mr. President. But the policies of the governor are clearly not working.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_335",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Hear me out.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I believe we are aligned on this matter, Mr. President.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_344",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm listening.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_345",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"You can't be serious.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_347",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's not the point. There is a reason why Bergia is a Special Zone. We cannot simply act like the secessionist movement doesn't exist.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_348",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"This is preposterous.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's precisely why I didn't make a deal with Wehlen.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_353",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Calm down, Nia dear. I'm not disagreeing with you.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"What does that have to do with anything?\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas Graf scheduled a meeting with me to discuss some important matters about the Special Zone of Bergia."
+            },
+            "position": {
+                "x": 10260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_360",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Explain, please.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_363",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas sighed."
+            },
+            "position": {
+                "x": 25110,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_371",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Thanks to the emergency laws giving authority to our forces, many of these attacks were stopped before they could be executed.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_372",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Thanks to the increase in security funding, many of these attacks were stopped before they could be executed.\""
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"The main problem, however, lies with the security structure of Bergia. Due to the special status of the region, operations on the ground are run by local security forces that are not bound to the Interior.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_384",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"We cannot continue our fight against the targets of the emergency if the Governor of the Special Zone doesn't cooperate with my forces.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I must also add... With the rising tensions after Operation Bear Trap, we have also been receiving more and more intelligence about some kind of a 'preparation' by the terrorists.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_389",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"We can't allow the conflict in Wehlen to spread to Sordland. And we know that both the Wehlen and Sordland divisions of the BFF are in close cooperation.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_390",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This is worrying.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_391",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You have my ear.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_392",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's precisely why I didn't make a deal with Wehlen.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_399",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's precisely why we joined the operation. To destroy the BFF once and for all.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_400",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's precisely why we're cooperating with Wehzek forces to defend our borders.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_403",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I think this is overblown. The Bludish are not the targets of our emergency. I don't want to lose sight of our real targets.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_405",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I must say that could have helped in this situation. Even though I myself was against the deal at the time.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_410",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Maybe you were right about that decision, after all.\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_411",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Using your emergency declaration as a justification, Governor Bron is declaring war on the Bludish people with his powers as governor of the Special Zone.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Feeling bolstered by the increasing threat of the BFF, Governor Bron is declaring war on the Bludish people with his powers as governor of the Special Zone.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_416",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I know this is already what you wanted, Mr. President. But I don't think we can have Governor Bron in charge of the emergency there. He is going completely rogue.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_417",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"In short, he's ignored your original targets and gone completely rogue.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_420",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Unfortunately, he is under protection due to the absurd laws of the Special Zone. The Supreme Court doesn't want to move against him.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_421",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's not the point. There is a reason why Bergia is a Special Zone. We cannot simply act like the secessionist movement doesn't exist.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_422",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Are you absolutely certain that your security forces can do a better job than Bergian police?\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_423",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"How do we revoke the special status of Bergia?\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_424",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't agree with changing the structure in Bergia now. We shouldn't disrupt Governor Bron's policies.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_425",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"We can't be sure of anything, Mr. President. You know this better than me.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_426",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Some of my circle inside the party are actually keen on this as well. They are starting to believe Soll's policy in Bergia has already run its course.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"But with the extreme actions of the governor, I believe there is a way to get more MPs behind the idea.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_428",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"It is discouraging to hear this from you, Mr. President. My team and our officers on the ground comprise only the most well-trained and patriotic individuals.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_429",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"With Bergia under complete control of the central administration, we will no longer hear reports of injustice against our Bludish citizens.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_431",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Are you truly supportive of Governor Bron's policies, Mr. President?\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"So here's my offer. I'll work on the proposal for abolishing the Special Zone of Bergia.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_434",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Please. Hear me out.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_436",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. But I don't want my administration to be involved in such a politically charged issue.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_437",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"But the reality is that we need to address the security problems in Bergia. This Bludish issue has the potential to get out of hand.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_438",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. I think he's doing a good job.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_439",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I thought the same at first. But it's clearly not working. The Governor is following his own independent policies, which is detrimental for the country as a whole.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_440",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I see. I understand your concern, Mr. President.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_441",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I would have agreed with you several years ago, Mr. President. But the policies of the governor are clearly not working.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_442",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I want us to abolish the Special Zone and turn Bergia into a region like any other -- giving my security forces full authority over it.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_446",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"We just need to prepare a comprehensive plan and proposal for it.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_455",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"With Bergia under complete control of the central administration, we will no longer have failed operations or rogue governors to worry about.\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_456",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"With Bergia under complete control of the central administration, we can efficiently enforce the emergency and bring stability to the region.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_458",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I am all for it, Lileas. I support this idea.\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_459",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"That's lovely to hear, Mr. President.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_464",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Regional security will be under the full control of the Ministry of the Interior. We will no longer allow Bergia to have its own security force that defies orders from the central government.\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_466",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"All right. I will support you. Start working on it immediately.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_468",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I knew you would see reason, Mr. President.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_470",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"My estimate is that it will be ready sometime after our midterm cabinet meeting.\""
+            },
+            "position": {
+                "x": 33480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_471",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sounds good, Ms. Graf. I'm counting on you.\""
+            },
+            "position": {
+                "x": 33480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_472",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Great. Get to work immediately.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_473",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_476",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Great. I'll get to work. See you later, Mr. President.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_478",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I must say I'm disappointed, Mr. President.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_481",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you, Ms. Graf.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_482",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm sorry to disappoint you, Lileas. But it is what it is.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_654",
+            "source": "node_1",
+            "target": "node_654",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_175",
+            "source": "node_3",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_23",
+            "source": "node_11",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_7",
+            "source": "node_12",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_148",
+            "source": "node_17",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_3",
+            "source": "node_22",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_17",
+            "source": "node_26",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_148",
+            "source": "node_28",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_69",
+            "source": "node_37",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_83",
+            "source": "node_41",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_354",
+            "source": "node_48",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_113",
+            "source": "node_53",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_56",
+            "source": "node_57",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_63",
+            "source": "node_59",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_72",
+            "source": "node_60",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_77",
+            "source": "node_66",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_62",
+            "source": "node_74",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_63",
+            "source": "node_76",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_81",
+            "source": "node_90",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_100",
+            "source": "node_97",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_107",
+            "source": "node_100",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_121",
+            "source": "node_104",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_121",
+            "source": "node_106",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_118",
+            "source": "node_107",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_82",
+            "source": "node_115",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_82",
+            "source": "node_117",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_141",
+            "source": "node_118",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_337",
+            "source": "node_123",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_155",
+            "source": "node_128",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_656",
+            "source": "node_129",
+            "target": "node_656",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_655",
+            "source": "node_130",
+            "target": "node_655",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_151",
+            "source": "node_140",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_122",
+            "source": "node_141",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_173",
+            "source": "node_142",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_154",
+            "source": "node_147",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_180",
+            "source": "node_148",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_142",
+            "source": "node_155",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_171",
+            "source": "node_159",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_155",
+            "source": "node_168",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_158",
+            "source": "node_170",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_158",
+            "source": "node_172",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_331",
+            "source": "node_173",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_351",
+            "source": "node_186",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_33",
+            "source": "node_188",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_202",
+            "source": "node_191",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_206",
+            "source": "node_192",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_355",
+            "source": "node_194",
+            "target": "node_355",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_205",
+            "source": "node_196",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_232",
+            "source": "node_199",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_192",
+            "source": "node_201",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_192",
+            "source": "node_203",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_195",
+            "source": "node_204",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_197",
+            "source": "node_205",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_193",
+            "source": "node_206",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_212",
+            "source": "node_209",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_228",
+            "source": "node_210",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_211",
+            "source": "node_214",
+            "target": "node_211",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_239",
+            "source": "node_215",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_228",
+            "source": "node_220",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_232",
+            "source": "node_221",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_239",
+            "source": "node_223",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_192",
+            "source": "node_226",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e236_to_195",
+            "source": "node_236",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_249",
+            "source": "node_241",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_251",
+            "source": "node_243",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_253",
+            "source": "node_244",
+            "target": "node_253",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_254",
+            "source": "node_245",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_254",
+            "source": "node_247",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e250_to_255",
+            "source": "node_250",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e253_to_263",
+            "source": "node_253",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e254_to_264",
+            "source": "node_254",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_305",
+            "source": "node_260",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e262_to_305",
+            "source": "node_262",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e263_to_265",
+            "source": "node_263",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_268",
+            "source": "node_264",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_311",
+            "source": "node_267",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e276_to_282",
+            "source": "node_276",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_286",
+            "source": "node_277",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_286",
+            "source": "node_278",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_283",
+            "source": "node_280",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_299",
+            "source": "node_290",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e295_to_509",
+            "source": "node_295",
+            "target": "node_509",
+            "type": "step"
+        },
+        {
+            "id": "e296_to_314",
+            "source": "node_296",
+            "target": "node_314",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_349",
+            "source": "node_299",
+            "target": "node_349",
+            "type": "step"
+        },
+        {
+            "id": "e300_to_326",
+            "source": "node_300",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e301_to_313",
+            "source": "node_301",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_313",
+            "source": "node_302",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_312",
+            "source": "node_303",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_312",
+            "source": "node_304",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e309_to_509",
+            "source": "node_309",
+            "target": "node_509",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_541",
+            "source": "node_315",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_315",
+            "source": "node_316",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_315",
+            "source": "node_317",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_316",
+            "source": "node_319",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_317",
+            "source": "node_320",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_315",
+            "source": "node_321",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e323_to_321",
+            "source": "node_323",
+            "target": "node_321",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_328",
+            "source": "node_324",
+            "target": "node_328",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_327",
+            "source": "node_325",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e328_to_254",
+            "source": "node_328",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e329_to_334",
+            "source": "node_329",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_336",
+            "source": "node_333",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e334_to_333",
+            "source": "node_334",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e335_to_333",
+            "source": "node_335",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_124",
+            "source": "node_339",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e344_to_124",
+            "source": "node_344",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e345_to_124",
+            "source": "node_345",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e347_to_124",
+            "source": "node_347",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e348_to_334",
+            "source": "node_348",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_297",
+            "source": "node_350",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e353_to_35",
+            "source": "node_353",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_84",
+            "source": "node_354",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_207",
+            "source": "node_355",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e360_to_363",
+            "source": "node_360",
+            "target": "node_363",
+            "type": "step"
+        },
+        {
+            "id": "e363_to_369",
+            "source": "node_363",
+            "target": "node_369",
+            "type": "step"
+        },
+        {
+            "id": "e371_to_365",
+            "source": "node_371",
+            "target": "node_365",
+            "type": "step"
+        },
+        {
+            "id": "e372_to_364",
+            "source": "node_372",
+            "target": "node_364",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_364",
+            "source": "node_373",
+            "target": "node_364",
+            "type": "step"
+        },
+        {
+            "id": "e384_to_389",
+            "source": "node_384",
+            "target": "node_389",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_384",
+            "source": "node_388",
+            "target": "node_384",
+            "type": "step"
+        },
+        {
+            "id": "e389_to_390",
+            "source": "node_389",
+            "target": "node_390",
+            "type": "step"
+        },
+        {
+            "id": "e390_to_397",
+            "source": "node_390",
+            "target": "node_397",
+            "type": "step"
+        },
+        {
+            "id": "e391_to_408",
+            "source": "node_391",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e392_to_408",
+            "source": "node_392",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e399_to_394",
+            "source": "node_399",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e400_to_411",
+            "source": "node_400",
+            "target": "node_411",
+            "type": "step"
+        },
+        {
+            "id": "e403_to_405",
+            "source": "node_403",
+            "target": "node_405",
+            "type": "step"
+        },
+        {
+            "id": "e405_to_407",
+            "source": "node_405",
+            "target": "node_407",
+            "type": "step"
+        },
+        {
+            "id": "e410_to_413",
+            "source": "node_410",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e411_to_408",
+            "source": "node_411",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_414",
+            "source": "node_412",
+            "target": "node_414",
+            "type": "step"
+        },
+        {
+            "id": "e416_to_418",
+            "source": "node_416",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e417_to_421",
+            "source": "node_417",
+            "target": "node_421",
+            "type": "step"
+        },
+        {
+            "id": "e420_to_443",
+            "source": "node_420",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e421_to_420",
+            "source": "node_421",
+            "target": "node_420",
+            "type": "step"
+        },
+        {
+            "id": "e422_to_440",
+            "source": "node_422",
+            "target": "node_440",
+            "type": "step"
+        },
+        {
+            "id": "e423_to_429",
+            "source": "node_423",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e424_to_444",
+            "source": "node_424",
+            "target": "node_444",
+            "type": "step"
+        },
+        {
+            "id": "e425_to_432",
+            "source": "node_425",
+            "target": "node_432",
+            "type": "step"
+        },
+        {
+            "id": "e426_to_428",
+            "source": "node_426",
+            "target": "node_428",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_507",
+            "source": "node_427",
+            "target": "node_507",
+            "type": "step"
+        },
+        {
+            "id": "e428_to_427",
+            "source": "node_428",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e429_to_453",
+            "source": "node_429",
+            "target": "node_453",
+            "type": "step"
+        },
+        {
+            "id": "e431_to_449",
+            "source": "node_431",
+            "target": "node_449",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_436",
+            "source": "node_432",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e434_to_461",
+            "source": "node_434",
+            "target": "node_461",
+            "type": "step"
+        },
+        {
+            "id": "e436_to_441",
+            "source": "node_436",
+            "target": "node_441",
+            "type": "step"
+        },
+        {
+            "id": "e437_to_442",
+            "source": "node_437",
+            "target": "node_442",
+            "type": "step"
+        },
+        {
+            "id": "e438_to_435",
+            "source": "node_438",
+            "target": "node_435",
+            "type": "step"
+        },
+        {
+            "id": "e439_to_440",
+            "source": "node_439",
+            "target": "node_440",
+            "type": "step"
+        },
+        {
+            "id": "e440_to_438",
+            "source": "node_440",
+            "target": "node_438",
+            "type": "step"
+        },
+        {
+            "id": "e441_to_438",
+            "source": "node_441",
+            "target": "node_438",
+            "type": "step"
+        },
+        {
+            "id": "e442_to_438",
+            "source": "node_442",
+            "target": "node_438",
+            "type": "step"
+        },
+        {
+            "id": "e446_to_426",
+            "source": "node_446",
+            "target": "node_426",
+            "type": "step"
+        },
+        {
+            "id": "e455_to_450",
+            "source": "node_455",
+            "target": "node_450",
+            "type": "step"
+        },
+        {
+            "id": "e456_to_508",
+            "source": "node_456",
+            "target": "node_508",
+            "type": "step"
+        },
+        {
+            "id": "e458_to_449",
+            "source": "node_458",
+            "target": "node_449",
+            "type": "step"
+        },
+        {
+            "id": "e459_to_460",
+            "source": "node_459",
+            "target": "node_460",
+            "type": "step"
+        },
+        {
+            "id": "e464_to_468",
+            "source": "node_464",
+            "target": "node_468",
+            "type": "step"
+        },
+        {
+            "id": "e466_to_468",
+            "source": "node_466",
+            "target": "node_468",
+            "type": "step"
+        },
+        {
+            "id": "e468_to_479",
+            "source": "node_468",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e470_to_471",
+            "source": "node_470",
+            "target": "node_471",
+            "type": "step"
+        },
+        {
+            "id": "e471_to_474",
+            "source": "node_471",
+            "target": "node_474",
+            "type": "step"
+        },
+        {
+            "id": "e472_to_475",
+            "source": "node_472",
+            "target": "node_475",
+            "type": "step"
+        },
+        {
+            "id": "e473_to_475",
+            "source": "node_473",
+            "target": "node_475",
+            "type": "step"
+        },
+        {
+            "id": "e476_to_315",
+            "source": "node_476",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e478_to_476",
+            "source": "node_478",
+            "target": "node_476",
+            "type": "step"
+        },
+        {
+            "id": "e481_to_484",
+            "source": "node_481",
+            "target": "node_484",
+            "type": "step"
+        },
+        {
+            "id": "e482_to_485",
+            "source": "node_482",
+            "target": "node_485",
+            "type": "step"
+        }
+    ]
+}

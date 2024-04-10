@@ -1,0 +1,822 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara stood up."
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSome people looked at me questioningly."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Does anybody have any concerns about this decision?\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas stood up."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I'm sure everybody does, Mr. President.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I came here to change this party. I need the reformists' help.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"We have shown Sordland that our parties can cooperate and work together to bring change.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You need to respect my decision. It is a done deal.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I do, Mr. President. And it's not just a concern, I am completely against any idea about an alliance with the NFP.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"He is a rising figure in politics. Using his influence would not be bad. Let's not forget that they are still a much smaller party than us. We would be the big partner in this.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"I disagree with Mrs. Walda. We have common values with the NFP.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't want to hear your opinions. It is a done deal.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara clenched her jaw and stood up."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I believe you have already achieved your goals with your constitutional amendments.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Do you have a problem with my decision?\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You heard me right. Our parties will form an alliance. We will be joining the next elections together.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef nodded in agreement."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I cannot let this party be corrupted further.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas clenched her jaw and stood up."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Good to know.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe did not respond and sat back down, clenching her fists. Iosef cut in."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I can't believe this.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"If you have a problem with my decisions, leave the cabinet.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I think it's a very clever decision.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Are you saying the amount of nationalism in this party is not enough?\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"That you do, Mr. President. But do not forget that this party was founded on the ideals of Sollism.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Do you really have that much in common?\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you for your comments. Let's move on.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Iosef is right. Think bigger.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We'll talk about this later, Mrs. Walda. But I must say that I did not appreciate your disrespectful attitude.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you for your comments. Let's move on.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Paskal is right. Think bigger.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We'll talk about this later, Mrs. Graf. But I must say that I did not appreciate your disrespectful attitude.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia tried to hold her and get her to sit down."
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I appreciate your opinion. But the alliance is going to happen.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's vote on it.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't worry. I wasn't too sure about this either. We will not proceed with the alliance.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Good idea. Let's hear the ayes for the alliance.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good. We are proceeding with the alliance.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe looked at me questioningly."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"It's settled then.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe did not respond or look me in the eye."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was a brief silence."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was a brief silence."
+            },
+            "position": {
+                "x": 1890,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe looked at me questioningly."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe looked at me questioningly. Petr cut in immediately."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI tapped twice on the table."
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI tapped twice on the table."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_21",
+            "source": "node_2",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_26",
+            "source": "node_3",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_42",
+            "source": "node_5",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_84",
+            "source": "node_11",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_84",
+            "source": "node_13",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_27",
+            "source": "node_14",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_68",
+            "source": "node_15",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_60",
+            "source": "node_21",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_54",
+            "source": "node_25",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_41",
+            "source": "node_27",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_81",
+            "source": "node_28",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_55",
+            "source": "node_32",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_23",
+            "source": "node_33",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_65",
+            "source": "node_35",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_5",
+            "source": "node_36",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_18",
+            "source": "node_37",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_66",
+            "source": "node_40",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_15",
+            "source": "node_41",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_75",
+            "source": "node_44",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_64",
+            "source": "node_45",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_34",
+            "source": "node_49",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_42",
+            "source": "node_63",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_37",
+            "source": "node_64",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_51",
+            "source": "node_65",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_56",
+            "source": "node_66",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_85",
+            "source": "node_67",
+            "target": "node_85",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_67",
+            "source": "node_77",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_85",
+            "source": "node_78",
+            "target": "node_85",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_123",
+            "source": "node_79",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_123",
+            "source": "node_80",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_123",
+            "source": "node_81",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_124",
+            "source": "node_82",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_124",
+            "source": "node_83",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_124",
+            "source": "node_84",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_54",
+            "source": "node_89",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_54",
+            "source": "node_90",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_131",
+            "source": "node_95",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_127",
+            "source": "node_97",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_121",
+            "source": "node_103",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_139",
+            "source": "node_114",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_139",
+            "source": "node_115",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_2",
+            "source": "node_120",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_138",
+            "source": "node_122",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_136",
+            "source": "node_123",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_2",
+            "source": "node_126",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_139",
+            "source": "node_128",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_98",
+            "source": "node_131",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_2",
+            "source": "node_133",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

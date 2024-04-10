@@ -1,0 +1,397 @@
+{
+    "nodes": [
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI entered and picked up the phone."
+            },
+            "position": {
+                "x": 3780,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Mr. Tusk. To what do I owe the pleasure?”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“Heed my words, President.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“Good afternoon, President.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“Frankly, I was not surprised either.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Very well. I will see what I can do.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“No promises.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“Good man.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“I want him out of the equation.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“If you ever use this against me...”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“No promises.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Very well. Deal.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“I have to attend to my business now.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“That's not too much to ask, right?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“Now, nothing in this life is free.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“Let me tell you what I want first and I will let you decide.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“Fair enough.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“I suppressed those rumors for you.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“They will stay that way...”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I won't give in to your false accusations.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“I found some evidence linking him to the Koranelli cartel. A powerful crime syndicate.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Walter Tusk\n\n“I wouldn't call you if I wasn't.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“This is your lucky day. I've already ordered an investigation into HOS.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e4_to_2",
+            "source": "node_4",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_19",
+            "source": "node_8",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_4",
+            "source": "node_15",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_55",
+            "source": "node_16",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_53",
+            "source": "node_21",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_30",
+            "source": "node_33",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_16",
+            "source": "node_35",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_89",
+            "source": "node_53",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_67",
+            "source": "node_55",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_6",
+            "source": "node_58",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_47",
+            "source": "node_62",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_11",
+            "source": "node_63",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_87",
+            "source": "node_66",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_15",
+            "source": "node_67",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_93",
+            "source": "node_68",
+            "target": "node_93",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_13",
+            "source": "node_69",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_61",
+            "source": "node_70",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_16",
+            "source": "node_71",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_84",
+            "source": "node_75",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_70",
+            "source": "node_80",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_39",
+            "source": "node_84",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_70",
+            "source": "node_86",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_39",
+            "source": "node_87",
+            "target": "node_39",
+            "type": "step"
+        }
+    ]
+}

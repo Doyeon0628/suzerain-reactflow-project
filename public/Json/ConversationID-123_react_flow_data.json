@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'd like to finish the meeting with a speech.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_11",
+            "source": "node_3",
+            "target": "node_11",
+            "type": "step"
+        }
+    ]
+}

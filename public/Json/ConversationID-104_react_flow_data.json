@@ -1,0 +1,720 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nKesaro Kibener had convinced him to have a meeting with me just before the Court vote."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Oh this place is not mine. It's Petr's.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe straightened himself."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was yet another sunny day, and I was facing another important political figure: Heron Garaci."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian had managed to convince him to have a meeting with me just before the Court vote."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe scheduled to meet outside of Holsord, in my new vineyard in Erlory, where we could have some privacy."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHeron sat next to me in his beige checked suit and took off his white trilby."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"A Gentlemen's Club, huh?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Yes. Fitting.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Oh I'm not. I just recently bought this place.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"So, Mr. President...\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You know I'm taking a much higher risk here, Mr. Garaci.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't think you would be that person.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So you want to take Orso's place huh?\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took a sip from his drink."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So the Old Guard has actually decided to support me?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. It does sound rather nice.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Is it really that unexpected?\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Well, I agree.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"I already have a reasonable support behind me. If Orso is dismissed from the Court, I can take his place and keep helping you.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"And I will support you not only with the vote but afterwards.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Are you positive the evidence can lead to his impeachment?\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"And I will support you not only with the vote but afterwards.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I can't promise that.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fine. It's a deal.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"How about another investment, Mr. Garaci? I'm sure we can find an amount you'd like.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"That's not in the terms.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't like your offer.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fine. I like your offer. It's a deal.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Great to have come to an understanding.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"So, it's a deal?\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You'd better rethink your position, Mr. Garaci. I could have you dusted off.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe laughed and put his hat back on."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Looks like it. Shame.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_190",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe straightened himself."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "DealTentative\n\nDealTentative"
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fine. I'm sure this would convince you. [-1 Personal Wealth]\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I can't promise that.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"I already have a reasonable support behind me.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"With the evidence I can provide, you can make a case to the Assembly to start his impeachment process.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Well, yes. The new changes will allow the Grand National Assembly to impeach the justices. I thought your intention was to use that for your own interest.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I see. That makes sense.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_184",
+            "source": "node_1",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_31",
+            "source": "node_4",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_34",
+            "source": "node_5",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_20",
+            "source": "node_9",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_24",
+            "source": "node_16",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_7",
+            "source": "node_18",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_7",
+            "source": "node_27",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_39",
+            "source": "node_30",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_6",
+            "source": "node_34",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_6",
+            "source": "node_36",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_82",
+            "source": "node_46",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_71",
+            "source": "node_65",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_224",
+            "source": "node_77",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_99",
+            "source": "node_78",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_95",
+            "source": "node_79",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_90",
+            "source": "node_84",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_191",
+            "source": "node_93",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_100",
+            "source": "node_94",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_224",
+            "source": "node_99",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_224",
+            "source": "node_100",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_111",
+            "source": "node_104",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_200",
+            "source": "node_109",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_229",
+            "source": "node_110",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_120",
+            "source": "node_112",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_203",
+            "source": "node_113",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_157",
+            "source": "node_115",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_146",
+            "source": "node_119",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_204",
+            "source": "node_121",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_204",
+            "source": "node_122",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_201",
+            "source": "node_123",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_164",
+            "source": "node_124",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_161",
+            "source": "node_143",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_169",
+            "source": "node_154",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_153",
+            "source": "node_156",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e190_to_10",
+            "source": "node_190",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_130",
+            "source": "node_201",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_222",
+            "source": "node_208",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_158",
+            "source": "node_215",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_163",
+            "source": "node_222",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_101",
+            "source": "node_226",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_112",
+            "source": "node_228",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_227",
+            "source": "node_229",
+            "target": "node_227",
+            "type": "step"
+        }
+    ]
+}

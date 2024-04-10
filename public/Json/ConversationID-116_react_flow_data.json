@@ -1,0 +1,941 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI gestured at their seats."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr turned towards me. Everybody except him took their seats. He stood right next to my chair in the middle."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI looked around at my cabinet members. They were staring at me and waiting for me to speak."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI sat down."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Ladies and gentlemen, we are here to discuss our current status and plan the remaining of our term.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"We have successfully made changes to the Sordish Constitution. This is a historic accomplishment. Without this team, it couldn't have been possible.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Sadly and for reasons outside of our control, Sordland plunged into violent terror at the beginning of our term. It became our duty to save Sordland. We all knew it was an emergency.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nPetr walked to his seat and spoke, still standing."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What's on our agenda?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Sadly and for reasons outside of our control, Sordland had plunged into violent terror in the beginning of our term. It became our duty to save Sordland. We all knew it was an emergency.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"As we all know, the beginning of our term saw an extraordinary period of violence that led us to a state of emergency.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"As we all know, the state of emergency that was declared against the chaos in the beginning of our term, is no longer in place.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Even though some people, even within our own administration, had hoped to see us fail in the Court... We did succeed.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nThe ministers looked concerned and kept watching Petr speak."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"The Supreme Court blocked us once again. Unfortunately, some people within our team also worked towards this goal.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nNia squinted at Petr and frowned. She then noticed me and immediately averted her eyes."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nPetr stared at Nia and narrowed his eyes."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nCiara glanced sideways at Petr and me, avoiding eye contact."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"We know where the real power is gathered.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe cabinet members started looking at each other."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe paused and looked around the room."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Our success with these changes has brought with it great support. Our party --which was divided at the beginning of our term-- is finally coming together once more.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nNia did not respond. I kept listening."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We'll talk about that later, Mrs. Morgna. Please be respectful and let the Vice President speak.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Our party still remains divided. In order to look at the future, we may need to make some changes.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I must thank Mr. President for being brave enough to act so swiftly. And thank you all for your understanding our predicament at this difficult time.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"So... Let's start the meeting with a brief look at some reports.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"We will do whatever it takes to come out of this stronger and serve our country better. If need be, we'll make major changes in our party structure.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Mr. Vice President. I warned you about the path you took, but you did not listen.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"And how did you help us inside the Court, Mrs. Morgna? Please let me finish before we start arguing about the past.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I ca- Yes. I am doing my best, of course.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"According to the latest polls, we have seen an increase in our popularity. The public opinion is most positive.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"According to the latest polls, we have seen a decrease in our popularity. The public opinion has shrunk since we took office.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Despite the recent troubles, we have seen an increase in our popularity in general. The public opinion is most positive.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Despite the recent troubles, people seem to be content about our administration. The public opinion has not changed much.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"With the latest developments, we have seen a decrease in our popularity. The public opinion has shrunk since we took office.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"According to the latest polls, we have seen an enormous decrease in our popularity. The public opinion about our party is at an all-time low.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took out a piece of paper from the stack and inspected it."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"The biggest factor for the people's contentment is the state of our economy. We have stopped the recession.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took out a piece of paper from the stack and inspected it."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"One of the most important factors for the people's contentment is the state of our economy. We have greatly slowed down the recession.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"The biggest concern of the people is the state of our economy. We are still plagued by the recession.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Despite everything, we have managed to greatly slow down the recession.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_235",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"A major concern of the people is the state of our economy. We are still plagued by the recession.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"If everything goes well, it is a matter of time that people will feel its results. Our economy is not looking too bad.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"If everything goes well, it is a matter of time that people will feel its results. Our economy is looking good.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Our success with these changes has brought with it great support. Our party --which was divided at the beginning of our term-- is finally coming together once more.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_266",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Some party centrists have opposed us due to our decision to veto the campaign finance bill.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Albin and the reformist wing didn't vote for us.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_268",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Frens Ricter and the PFJP left us hanging on the assembly floor. They voted nay.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_269",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Kesaro Kibener and the National Front MP's didn't like the proposal and voted against it.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"The Lotherberg group led a massive lobbying effort against us in the Assembly which caused us to lose many votes.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_271",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Lucian and I have begun investigating who let us down at the vote when we needed them the most.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_284",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"We lost most of our support after editing the proposal to include changes to Articles 6 and 7.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_289",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"The higher-ups of the USP has abandoned their support for our administration.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_9",
+            "source": "node_3",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_12",
+            "source": "node_5",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_6",
+            "source": "node_8",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_58",
+            "source": "node_16",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_58",
+            "source": "node_17",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_24",
+            "source": "node_53",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_71",
+            "source": "node_54",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_134",
+            "source": "node_56",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_18",
+            "source": "node_57",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_20",
+            "source": "node_61",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_138",
+            "source": "node_65",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_136",
+            "source": "node_67",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_89",
+            "source": "node_74",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_115",
+            "source": "node_80",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_276",
+            "source": "node_81",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_81",
+            "source": "node_83",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_276",
+            "source": "node_84",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_117",
+            "source": "node_88",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_107",
+            "source": "node_111",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_282",
+            "source": "node_121",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_282",
+            "source": "node_122",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_132",
+            "source": "node_125",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_148",
+            "source": "node_126",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_247",
+            "source": "node_127",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_247",
+            "source": "node_131",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_148",
+            "source": "node_133",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_186",
+            "source": "node_147",
+            "target": "node_186",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_145",
+            "source": "node_149",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_165",
+            "source": "node_152",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_165",
+            "source": "node_155",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_155",
+            "source": "node_161",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_148",
+            "source": "node_165",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_201",
+            "source": "node_191",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_176",
+            "source": "node_198",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_218",
+            "source": "node_199",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_218",
+            "source": "node_200",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_229",
+            "source": "node_201",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_232",
+            "source": "node_217",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_212",
+            "source": "node_218",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_223",
+            "source": "node_228",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_226",
+            "source": "node_229",
+            "target": "node_226",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_240",
+            "source": "node_230",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_246",
+            "source": "node_234",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e235_to_239",
+            "source": "node_235",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_237",
+            "source": "node_238",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_2",
+            "source": "node_245",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_241",
+            "source": "node_246",
+            "target": "node_241",
+            "type": "step"
+        },
+        {
+            "id": "e266_to_263",
+            "source": "node_266",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_254",
+            "source": "node_267",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e268_to_251",
+            "source": "node_268",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e269_to_248",
+            "source": "node_269",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_257",
+            "source": "node_270",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e271_to_123",
+            "source": "node_271",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e284_to_272",
+            "source": "node_284",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e289_to_257",
+            "source": "node_289",
+            "target": "node_257",
+            "type": "step"
+        }
+    ]
+}

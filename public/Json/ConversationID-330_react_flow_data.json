@@ -1,0 +1,329 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen I entered the War Room, General Taddeus Azaro was in his wheelchair next to the window. Across him, Lucita was sitting with her arms crossed."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Your Majesty.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Is this supposed to be a guilt trip? If it is, it is not working.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"There is always hope. No matter how dire the situation is.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"We have news from the frontline, Your Majesty.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Can we still win?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Should we sue for peace?\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"How long can we afford to keep the war going?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We will approach Pales to sue for peace. I do not wish any more blood to be spilled.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Thank you, Your Majesty.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI noticed the marks on his uniform where his medals used to be."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Taddeus Azaro, you will leave your post immediately and relinquish all of your duties. I am de-ranking you to Colonel.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Lucita Azaro. You will share your fathers' fate. I am sentencing you to prison for your failures and insult against the King.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Please.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita's eyes widened in shock."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Your Majesty. Please only take me. I am the one who is responsible, not Lucita.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"What are you saying? Are you out of your mind?\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI signalled to the guards to take them both away."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Thank you, You Majesty.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_163",
+            "source": "node_1",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_109",
+            "source": "node_3",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_86",
+            "source": "node_12",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_87",
+            "source": "node_13",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_86",
+            "source": "node_14",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_53",
+            "source": "node_36",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_56",
+            "source": "node_37",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_57",
+            "source": "node_38",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_36",
+            "source": "node_78",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_6",
+            "source": "node_85",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_15",
+            "source": "node_97",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_15",
+            "source": "node_98",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_120",
+            "source": "node_124",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_161",
+            "source": "node_125",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_100",
+            "source": "node_131",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_111",
+            "source": "node_132",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_139",
+            "source": "node_133",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_160",
+            "source": "node_143",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_106",
+            "source": "node_158",
+            "target": "node_106",
+            "type": "step"
+        }
+    ]
+}

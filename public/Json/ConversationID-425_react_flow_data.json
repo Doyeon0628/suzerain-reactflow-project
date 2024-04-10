@@ -1,0 +1,142 @@
+{
+    "nodes": [
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Mr. Adria claims he will be unjustly persecuted if he returns to Rizia. But if you deem his crime worthy of punishment by your laws, you may have him.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thank you, Supreme Wiseman. Nobody betrays the King of Rizia without consequences.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't understand. Are you saying my butler was a homosexual?\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Love wasn't his crime. Abetting my daughter's escape was.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"And yet RIzia would have him punished for either.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Have you ever actually been with a man, Supreme Wiseman? There's nothing sacred about it.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal shook his head."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal nodded."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e27_to_64",
+            "source": "node_27",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_45",
+            "source": "node_33",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_74",
+            "source": "node_47",
+            "target": "node_74",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_74",
+            "source": "node_52",
+            "target": "node_74",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_73",
+            "source": "node_58",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_72",
+            "source": "node_61",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_44",
+            "source": "node_65",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_42",
+            "source": "node_66",
+            "target": "node_42",
+            "type": "step"
+        }
+    ]
+}

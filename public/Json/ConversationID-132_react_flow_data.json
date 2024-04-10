@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith the nationalization decisions made, all that was left was for Sordland's two most prominent oligarchs to sign the paperwork. And so I called them both to the Palace conference room."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e13_to_1",
+            "source": "node_13",
+            "target": "node_1",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI pushed open the door and stepped into the bustling locker room. The players, clad in their FC Anrica jerseys, all stopped what they were doing and turned their heads to look at me."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Just know this... If you fail at this stage, you'll be proving me wrong. Nobody wants that. Are we clear, gentlemen? Are you ready to win?\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_219",
+            "source": "node_2",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_52",
+            "source": "node_46",
+            "target": "node_52",
+            "type": "step"
+        }
+    ]
+}

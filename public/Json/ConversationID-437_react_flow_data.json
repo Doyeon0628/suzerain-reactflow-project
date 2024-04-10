@@ -1,0 +1,74 @@
+{
+    "nodes": [
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n“I assure you, this threat is very real. We’re seeing a turning point that we can no longer ignore.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\nVery well. But before I go, I would be remiss if I didn't inform you that I've already made arrangements for myself in case this worst-case scenario comes to pass, and would advise you to do the same.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thanks for the weather report, Titus. I'll make sure to pack an umbrella.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"I felt compelled to share with you the findings of our investigation into your uncle and former Grand Vizier, Hugo.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e34_to_11",
+            "source": "node_34",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_10",
+            "source": "node_35",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_11",
+            "source": "node_36",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_54",
+            "source": "node_73",
+            "target": "node_54",
+            "type": "step"
+        }
+    ]
+}

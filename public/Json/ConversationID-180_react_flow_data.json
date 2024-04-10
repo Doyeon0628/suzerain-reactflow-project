@@ -1,0 +1,397 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was walking down the corridor towards my office on the way back from lunch."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRight next to the door, Lileas was waiting. She approached me."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Mr. President.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Can we trust this informant?”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“We have interrogated him thoroughly and confirmed the information he gave us.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe nodded at Karl. Karl leaned forward and spoke into the microphone."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“Mr. President.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“There has been an update on the Koronti investigation.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRight next to the door, Lileas and Nia were waiting. They approached me."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“We have interrogated him thoroughly and confirmed the information he gave us.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia nodded to Lileas, who leaned forward and spoke into the microphone."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey left and I made my way back to my office."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“In time, I am sure it will.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs soon as she turned her back to leave, I couldn't help but smirk."
+            },
+            "position": {
+                "x": 5130,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Everyone is innocent until proven guilty, right?”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n“No matter how much we probed into HOS, no matter how many employees we tried to get insider information from, their mouths were completely shut.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n“Anyway. I won't take any more of your time.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n“Yes. Really.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n“No need to exaggerate. We will find something in the future. I am sure.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n“There are many words that describe HOS and Koronti, and I still believe innocent is not one of them.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n“I just wanted to let you know that I will keep my eyes open. I will make sure the truth comes out about HOS.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n“Thank you, Mr. President.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n“Never.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_160",
+            "source": "node_3",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_106",
+            "source": "node_8",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_69",
+            "source": "node_10",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_110",
+            "source": "node_15",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_110",
+            "source": "node_17",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_116",
+            "source": "node_39",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_123",
+            "source": "node_59",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_91",
+            "source": "node_68",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_5",
+            "source": "node_108",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_19",
+            "source": "node_112",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_40",
+            "source": "node_118",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_60",
+            "source": "node_125",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_157",
+            "source": "node_136",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_150",
+            "source": "node_137",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_127",
+            "source": "node_138",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_158",
+            "source": "node_143",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_159",
+            "source": "node_145",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_147",
+            "source": "node_153",
+            "target": "node_147",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_136",
+            "source": "node_154",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_136",
+            "source": "node_155",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_136",
+            "source": "node_156",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_137",
+            "source": "node_157",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_146",
+            "source": "node_158",
+            "target": "node_146",
+            "type": "step"
+        }
+    ]
+}

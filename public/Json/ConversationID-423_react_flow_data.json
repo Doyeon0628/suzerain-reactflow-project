@@ -1,0 +1,975 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA knock came on the door. Prime Minister Saltana and Supreme Wiseman Azmal had arrived."
+            },
+            "position": {
+                "x": 12690,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal and Saltana looked at each other uneasily."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"Yes. Here we are.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe opened a folder and pulled out a map of Derdia, Rizia and Morella with a diagram drawn on it."
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Each year, a select number of Derdians with an appropriate prayer visa will be allowed into Morella via this specific channel. It includes the most important sanctuaries on the Golcondist pilgrimage route.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Rizia re-allowed Derdian Golcondists into our places of worship with no ill consequences.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Supreme Wiseman leaned forward and scrutinized the map."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Our Wruhecist community is larger than Morella's. There is greater potential for disruption.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm afraid revoking our blasphemy law is out of the question. The Church is very powerful in this country.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Rizia is in the middle of a war. I don't want to make any sudden policy changes.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal raised his eyebrows skeptically."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSaltana looked at us both uneasily."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"It is time we put an end to these insurgencies. Our international image has suffered enough.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Now is not the time to talk about the energy situation. You may bring it up with me later.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"We would gladly welcome you if you behaved yourselves. Instead, we get raids, insurgencies...\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Never mind the Prime Minister's language, Supreme Wiseman. You must admit that the violent conduct of your people at the Morellan border has not been justified.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"You may not believe in God yourself, Ms. Saltana.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"You are still under the sway of your Grand Wiseman, I see. Even after having arrested him.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Supreme Wiseman, Madam Prime Minister. This is the solution my department has devised for you.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis finger traced a thick black line from the Derdian-Morellan border towards the Antacean coast."
+            },
+            "position": {
+                "x": 4860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"If you don't mind, I would like to have more than a mere assurance from you before agreeing to anything.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Then I cannot agree to your plan.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wait. If it helps your nations get along, I will revoke Rizia's blasphemy law, effective immediately.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't like your attitude, Supreme Wiseman. I will promise you nothing.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"That's most unfortunate, Your Majesty.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSaltana eyed me suspiciously."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I can accept that.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"I cannot.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I'm afraid that's not enough assurance for me.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"Nor for me.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I'm afraid that's not enough assurance for me.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_237",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"Nor for me.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLaurento smiled proudly."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"Thank you both for your swift willingness to compromise.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_253",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I'm afraid that's not enough assurance for me.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_258",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"I think it's a fine plan. But it's not entirely up to me.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"Nor for me.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLaurento smiled proudly."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_261",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Then you're both out of luck.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_262",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"We'll assemble a team from all three of our countries to begin the creation of the corridor.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Fine. We will pour twice as much funding into security as planned.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_265",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Fine. A company from the Rizian Armed Forces will be physically present to grant the pilgrims secure passage.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In addition to the military reinforcements, we will contract a team of independent security officers.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_271",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In addition to the security firm, we ourselves will send a company from the Rizian Armed Forces.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're just going to have to trust each other, aren't you?\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_275",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSaltana's brow was furrowed."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You really thought we could erase a century's worth of resentment in five minutes?\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_301",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"That's it, then? You agree?\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If Morella and Derdia can come to a diplomatic agreement this quickly, I have high hopes for the Intermerkopum alliance.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe two of them looked away from each other. Laurento attempted to mask his disappointment."
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's fine. We don't need Morella and Derdia to get along for the Intermerkopum alliance to work out.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Alma Saltana\n\n\"We will see, {RiziaDLCText.SaltanaToPlayer}.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_342",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Suddenly the man who believes in an invisible person in the sky doesn't have faith in his own neighbor?\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_359",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Yes, thank you. I must clear my head of prejudice after what just occurred.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_366",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"We still have the Derdia-Wehlen mediations scheduled for today. Perhaps a short break?\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_369",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Yes, thank you. This was surprisingly pleasant, but I do not expect our interaction with President Smolak to go as smoothly.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_372",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"We are finished here. I am happy Rizia was able to help you.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_6",
+            "source": "node_2",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_54",
+            "source": "node_21",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_55",
+            "source": "node_22",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_158",
+            "source": "node_24",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_159",
+            "source": "node_26",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_151",
+            "source": "node_30",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_197",
+            "source": "node_36",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_163",
+            "source": "node_44",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_167",
+            "source": "node_45",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_161",
+            "source": "node_46",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_161",
+            "source": "node_47",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_160",
+            "source": "node_53",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_105",
+            "source": "node_81",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_76",
+            "source": "node_83",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_140",
+            "source": "node_106",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_143",
+            "source": "node_135",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_117",
+            "source": "node_146",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_24",
+            "source": "node_152",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_24",
+            "source": "node_157",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_25",
+            "source": "node_158",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_27",
+            "source": "node_159",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_190",
+            "source": "node_160",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_193",
+            "source": "node_173",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_195",
+            "source": "node_189",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_378",
+            "source": "node_193",
+            "target": "node_378",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_323",
+            "source": "node_196",
+            "target": "node_323",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_232",
+            "source": "node_213",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_239",
+            "source": "node_218",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_273",
+            "source": "node_220",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_262",
+            "source": "node_225",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_242",
+            "source": "node_231",
+            "target": "node_242",
+            "type": "step"
+        },
+        {
+            "id": "e237_to_262",
+            "source": "node_237",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_262",
+            "source": "node_238",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_300",
+            "source": "node_239",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e253_to_261",
+            "source": "node_253",
+            "target": "node_261",
+            "type": "step"
+        },
+        {
+            "id": "e258_to_289",
+            "source": "node_258",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_289",
+            "source": "node_259",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_289",
+            "source": "node_260",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e261_to_240",
+            "source": "node_261",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e262_to_321",
+            "source": "node_262",
+            "target": "node_321",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_299",
+            "source": "node_264",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e265_to_279",
+            "source": "node_265",
+            "target": "node_279",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_268",
+            "source": "node_270",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e271_to_298",
+            "source": "node_271",
+            "target": "node_298",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_298",
+            "source": "node_272",
+            "target": "node_298",
+            "type": "step"
+        },
+        {
+            "id": "e275_to_344",
+            "source": "node_275",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_198",
+            "source": "node_277",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e301_to_240",
+            "source": "node_301",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_240",
+            "source": "node_303",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_376",
+            "source": "node_320",
+            "target": "node_376",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_195",
+            "source": "node_321",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_377",
+            "source": "node_336",
+            "target": "node_377",
+            "type": "step"
+        },
+        {
+            "id": "e342_to_243",
+            "source": "node_342",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e359_to_2",
+            "source": "node_359",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e366_to_373",
+            "source": "node_366",
+            "target": "node_373",
+            "type": "step"
+        },
+        {
+            "id": "e369_to_2",
+            "source": "node_369",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e372_to_368",
+            "source": "node_372",
+            "target": "node_368",
+            "type": "step"
+        }
+    ]
+}

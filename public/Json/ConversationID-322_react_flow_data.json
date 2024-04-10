@@ -1,0 +1,3984 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIn the middle of the night, I was woken up by a knock on my bedroom door."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAn attendant stood ready with the blue phone. He informed me that Chancellor Emmerich Hegel was on the line."
+            },
+            "position": {
+                "x": 2700,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"All right. Come in and help me get dressed.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"So, it's been a while since Qalus...\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Bad dog, Bruno! Sit!\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel turned around and gave me a strained look."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"It's quite an urgent phone call.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I can't stop thinking about our night together.\""
+            },
+            "position": {
+                "x": 51570,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wait. How much 'creeping around' have you done?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"There must be some way we can meet in total secrecy.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Careful there. I wouldn't want impure thoughts distracting me from my meeting.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe tightened the sash and smoothed out the robe's folds, letting his hands linger on me for just a moment longer than necessary."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"How are you, Pabel?\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I'm well, {RiziaDLCText.PabelToPlayer}.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Any idea what this call is about?\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That's all I get?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Glad to hear it.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Any palace intrigue I need to know about?\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Thankfully, no.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I would prefer my personal life to remain private, Your Majesty.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That's all I get?\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Any palace intrigue I need to know about?\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Well, the entire staff knows about you and Duchess Azaro. But I assume you weren't trying to keep that a secret.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Thankfully, no.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I would prefer my personal life to remain private, Your Majesty. My apologies.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Only the usual nonsense. Everyone's still speculating about Her Highness' marriage prospects.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This isn't right, damn it.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"We'll figure it out. But not today.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Not *that* misguided, I hope.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Only the usual nonsense. Everyone's still speculating about Her Highness' marriage prospects.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"To be continued.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thank you, Pabel.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Let's go. I shouldn't keep this mysterious caller waiting.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the phone."
+            },
+            "position": {
+                "x": 2700,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Your apology is not accepted. We should be speaking in daylight hours, accompanied by our staff.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"The nationalization vote was a success. But the future of the Trade Zone is far from decided.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Yes, the vote has concluded. But the future of the ITZ is by no means set in stone.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I now see a unique chance for our two very different countries to cooperate.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I wanted to talk man to man, for reasons that shall soon become evident.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"However, that does not mean an end to our chance for cooperation.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Why? I believe my vote against nationalization made my intentions clear enough.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, our differing opinions on the ITZ shouldn't keep us from making other agreements.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"In fact, with your vote comes a unique chance for cooperation.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Despite your refusal to grant self-determination to Morella and its mines, I still see a chance for cooperation between us.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't wish to cooperate with Malenyevists.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm happy to hear that. I regretfully had to vote against nationalization, but I still think we're on the same side.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're right. Our differing opinions on the ITZ shouldn't keep us from making other agreements.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The Democratic Republic of Valgsland would deign to cooperate with a monarchy?\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Despite both of us being in favor of nationalization, I'm skeptical we can reconcile our worldviews.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Indeed. The future of the ITZ belongs to the workers and those who support them.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"We are trying to build a new ITZ. One that is not corrupted by western greed or selfish protectionist policies.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_232",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"There is no 'uninvolved', Mr. Toras. Either you are with us, or you are against us.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"You know what's dangerous? Allowing Lespia's selfish protectionist policies to slowly corrupt the new Trade Zone we are trying to build.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe acknowledged my remark with a smile, then briskly moved over to the armoire."
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"You, King Romus, will not let that happen.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't know if I can. Lespia has a lot to offer Morella.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You have Prime Minister Saltana's ear. Why don't you just try to convince her to give Lespia the boot?\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_252",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But with Morella exercising central control over the ITZ, there'll be a limit to how much harm Lespia can do.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_254",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And how do you suggest we stop it?\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As Alvarez said, the ITZ would be nothing without Lespian mining technology. We can't ignore his country's contribution.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_257",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We have a gas deal with Lespia. It wouldn't be wise to antagonize them.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_263",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Valgsland's relationship with Morella is still young and fragile. I do not want us to be accused of overreach.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Outbidding Lespia may be in our best interests, but it will take a lot of resources. What can Valgsland offer us if I make this happen?\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I don't need to convince you of Valgsland's dominion over the sea. Our warships and submarines are second to none.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_287",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Perhaps that was a poor choice of phrasing. But you must admit that you cannot match Valgsland's dominion over the sea.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_293",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have had it with your disrespect. Remember that you are speaking to a king.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Why should I respect a man who takes orders from some invisible being in the sky?\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_306",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Religion guides my decisions, yes, but I do not 'take orders' from anyone.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_312",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You are right. And in fact, I am trying to change the role of the monarchy in Rizia. Maybe you can help me.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Very well. I am sorry.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Your people live in fear of you.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n'Even the smallest role played by religion in state matters is too large.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_323",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was a brief pause on the other end of the line."
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Eventually, perhaps, But not with such a dramatic action.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_329",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If I'm going to anger Lespia even further than I have already, it wouldn't hurt to have a stronger navy.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_332",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"That's the right idea.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes. In exchange for your promised military aid, I will make sure Lespia walks away with nothing.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No. Given the magnitude of Lespia's investments in the ITZ, I can't go along with your plan.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_341",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"What a shame. But I understand.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_343",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I will be sure to keep abreast of the negotiations.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_344",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I wish you luck regardless.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_345",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was a silence, so long I began to think he had hung up."
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_346",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"You might want to know that I have been contacted by your daughter.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I may be overstepping my boundaries. But I cannot shake the feeling that you and I want the same thing for Rizia.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're only now realizing that?\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Good, Mr. Toras. But do not expect any military aid from Valgsland.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_356",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Then we will be at odds for eternity.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Good night. And give my regards to the Princess.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_368",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"You have already deployed your military to the Antacean. No use in half measures.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_369",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"You are a rational man. You must admit that the monarchical system belongs in the dustbin of history.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_370",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's almost as if you want to help Rizia retake Pales.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Yes. Almost.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My councilors were already against ITZ nationalization. They will certainly be against further cooperation with Valgsland.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_377",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That's not surprising. She goes where her intellectual curiosity takes her.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_378",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm sorry, Chancellor. The princess can be a real brat sometimes.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_379",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"So *that*'s what she's been doing during my council meetings.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_384",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was a silence, so long I began to think he had hung up."
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_393",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Goodnight, Your Majesty.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Now *there's* the respect I deserve.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_396",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Until next time, comrade.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Goodnight, Mr. Hegel.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_398",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Don't get me wrong -- I despise monarchies. But I do occasionally wonder whether my job would be easier if I could sidestep the government infighting.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_403",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Disagreement is part of any healthy government. Monarchical or not.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_405",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I can't act with total impunity. My hands are tied by royal tradition.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"But enough about our governments. I want to know whether I can count on your cooperation.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_413",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Just tell me. Can I count on your cooperation?\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_414",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You are going too far, Mr. Hegel. You shall speak to me with the respect a king deserves.\""
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_415",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I disagree. In fact, a truly benevolent king can meet his people's needs more efficiently than a squabbling parliament.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_416",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Even if I agreed with you, cutting ties with Rumburg would be a disaster for us.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_418",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Or an opportunity for new connections. Ones that will bind you with Merkopa's future, not its past.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_423",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"No man or woman should be placed above all others, even symbolically.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_424",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I wouldn't say that. But there's one point on which we may agree.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_425",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Regretfully, yes But there's still one point on which we may agree.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"And I with monarchies. But there is one point on which we may agree.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_431",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Another east-west battle? You should know that as a member of GRACE, Rizia is obliged to stay uninvolved.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You are wrong about that. Lespia has played and will continue to play an integral role in Trade Zone operations.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_437",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"There is no 'uninvolved', Mr. Toras Either you are on the side of the working man, or you are against him.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_439",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Yet Morella and Valgsland will not accept the status quo. So what are we to do?\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_442",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Him... or her.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_447",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I don't think you understand what's happening right now.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_448",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Sympathize, perhaps. Improve, no.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_461",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What exactly do you want, Mr. Hegel?\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_462",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Obviously, either Valgsland or Morella must make a compromise.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"And we are willing to do so. Under one condition.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_466",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Please, Mr. Toras. Rizia is not in any position to start a war with anyone.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_471",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You want me to screw Mr. Alvarez over.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_476",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Make no mistake. Alvarez will stab you in the back at the slightest opportunity.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_477",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I wouldn't call it a 'partnership'. Alvarez will stab you in the back at the slightest opportunity.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_482",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am all for trying to out-negotiate Lespia, but I'm afraid Rizia doesn't have the resources. Can you offer us any help?\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_488",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's in our interests to work out a deal with Lespia and Morella. Valgsland's input is irrelevant.\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_491",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Don't get too greedy.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_493",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Needless to say, we still expect that you will make up for the way Rizia treated Morella over the years.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_494",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Needless to say, we still expect that you will make up for the way Rizia treated Morella over the years.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_498",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I would anyway. Just because I voted against nationalization doesn't mean I'm heartless.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_500",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're in no position to make demands, Chancellor. You're the one calling me in the middle of the night.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_504",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"No, I suppose it doesn't.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_505",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"You denied better working conditions to your own countrymen. You'll excuse my skepticism.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_506",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Thank you.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_507",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"It should mean something to you. If you are the benevolent leader you claim to be.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_508",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe sighed."
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_509",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's in my best interests to side with Lespia. As I have already agreed to do.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_519",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Are you implying that our military is weak, Mr. Hegel?\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_523",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Excuse my phrasing. But you must admit that you cannot match Valgsland's dominion over the sea.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_524",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're offering us a naval upgrade while we already have forces stationed around a disputed gas field?\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_526",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Tempting. Our navy could use the help.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_529",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Besides which, you should not care about the opinion of a group of inbred despots.\""
+            },
+            "position": {
+                "x": 33480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_531",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Still, my councilors will be against any form of cooperation with Valgsland.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_537",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's almost as if you want to help Rizia retake Pales.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_541",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Disagreement is part of any healthy government. Monarchical or not.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_542",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Is that a problem in Valgsland? Trying to please everyone, ending up pleasing no one?\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_545",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"It is still better than allowing unlimited power to blind you to your people's true needs.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_549",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Just tell me. Can I count on your cooperation?\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_553",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If I'm going to stab Lespia in the back, Rizia will definitely need to be able to defend itself afterwards.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_556",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"That's the right idea.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_558",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"So can I count on your cooperation?\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_559",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Why should I respect you, when you don't respect the will of your own people?\""
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_567",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Why should I respect a man who takes orders from some invisible being in the sky?\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_569",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Religion guides my decisions, yes, but I do not 'take orders' from anyone.\""
+            },
+            "position": {
+                "x": 36450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_570",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Like it or not, we are both world leaders. A little more decorum is in order.\""
+            },
+            "position": {
+                "x": 36720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_574",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was silence on the other end as Hegel seemed to collect himself."
+            },
+            "position": {
+                "x": 36450,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_577",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Your people live in fear of you.\""
+            },
+            "position": {
+                "x": 37800,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_578",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Whatever you want to call it, it should be completely separate from state matters.\""
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_579",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n'Even the smallest role played by religion in state matters is too large.\""
+            },
+            "position": {
+                "x": 36450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_584",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You are right. And in fact, I am trying to change the role of the monarchy in Rizia. Maybe you can help me.\""
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_585",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Very well. I am sorry.\""
+            },
+            "position": {
+                "x": 37800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_586",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"But if you do need a further incentive...\""
+            },
+            "position": {
+                "x": 38070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_587",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Sorry to wake you, Mr. Toras. This call was a mistake.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_592",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Too late, Mr. Toras.\""
+            },
+            "position": {
+                "x": 38340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_593",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Then we will be at odds for eternity.\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_594",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Good night. And give my regards to the Princess.\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_599",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That's 'Good night, *Your Majesty*'.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_600",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thank you for calling nonetheless.\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_604",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe hung up."
+            },
+            "position": {
+                "x": 39690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_605",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"You dare speak of respect?\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_606",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"One of those 'despots' is my sister-in-law. And losing her favor would be disastrous for us.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_608",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Monarchist or not, you have shown me where your priorities lie.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_611",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I cannot promise anything. But it's good to know that Valgsland will support Rizia getting a larger profit share.\""
+            },
+            "position": {
+                "x": 40230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_613",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"There will be no cooperation between Rizia and Valgsland, Mr. Hegel. On ITZ matters or otherwise.\""
+            },
+            "position": {
+                "x": 40500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_616",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"For some reason, my people are crazy about the Rizian royal family. Because of your history with the Valgos Empire, I suppose.\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_618",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Not on this matter. But I do not wish to be on bad terms with Valgsland.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_624",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Everyone loves royals, Chancellor. Even die-hard socialists.\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_625",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Are you saying it's time to revive those old ties?\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_626",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Funny. My people don't feel the same about Valgish aristocrats.\""
+            },
+            "position": {
+                "x": 41580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_628",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I'm not saying anything. Just thinking out loud.\""
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_629",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Your lifestyle inspires jealousy. If not your familial squabbles and the constant scrutiny you're under.\""
+            },
+            "position": {
+                "x": 41580,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_630",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Your Valgish genes, then.\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_632",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You are sorely mistaken. Neither of us want that.\""
+            },
+            "position": {
+                "x": 40230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_635",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You will not speak of this again, Mr. Hegel. And you will cut off communication with Vina immediately.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_638",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We cannot have this conversation now. We must wait until the time is right.\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_642",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Changes. Big ones.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_644",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Capitalism is what kept the MITZ running all these years. I would not disparage it.\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_648",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I will, however, support Rizia in your current arbitration case against Pales.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_649",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Not out of any loyalty to you, but because I believe the sovereign territory of islands must be respected.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_650",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You have our gratitude for that, good sir.\""
+            },
+            "position": {
+                "x": 44010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_651",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We don't need your support, Hegel.\""
+            },
+            "position": {
+                "x": 44010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_653",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And why would that be?\""
+            },
+            "position": {
+                "x": 44280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_658",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"And incidentally, you can count on Valgsland's support in your current arbitration case against Pales.\""
+            },
+            "position": {
+                "x": 44550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_660",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You have our gratitude for that, good sir.\""
+            },
+            "position": {
+                "x": 45090,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_661",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're just full of favors today, aren't you?\""
+            },
+            "position": {
+                "x": 45090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_664",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"You must have some inkling why. If the AN decides to disrespect the sovereign territory of islands, Rizia is not the only country that will suffer for it.\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_668",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Incidentally, you can count on Valgsland's support in your current arbitration case.\""
+            },
+            "position": {
+                "x": 45630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_670",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You have our gratitude for that, good sir.\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_671",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're just full of favors today, aren't you?\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_674",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"You must have some inkling why. If the AN decides to disrespect the sovereign territory of islands, Rizia is not the only country that will suffer for it.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_678",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I will, however, support Rizia in your current arbitration case against Pales.\""
+            },
+            "position": {
+                "x": 46710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_680",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You have our gratitude for that, good sir.\""
+            },
+            "position": {
+                "x": 47250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_681",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We don't need your support, Hegel.\""
+            },
+            "position": {
+                "x": 47250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_683",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And why would that be?\""
+            },
+            "position": {
+                "x": 47520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_697",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Right. I bet I can guess what you were tasting.\""
+            },
+            "position": {
+                "x": 47790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_704",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I don't know what you're talking about, Your Majesty. I was conducting a tasting session with a Cantuavo representative.\""
+            },
+            "position": {
+                "x": 48060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_705",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's all fine. They didn't turn up any conclusive evidence against you.\""
+            },
+            "position": {
+                "x": 48330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_707",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't care what you call it. Keep carrying on like this and I'll have you thrown in prison.\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_708",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe opened his mouth in denial, then shut it."
+            },
+            "position": {
+                "x": 48330,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_710",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's all right. Your secret is still safe with me.\""
+            },
+            "position": {
+                "x": 48870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_715",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't care what you do after hours. But you've got to be more careful.\""
+            },
+            "position": {
+                "x": 49140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_719",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Sorry, Pabel. I couldn't leave any stone unturned.\""
+            },
+            "position": {
+                "x": 49410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_721",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel sighed regretfully."
+            },
+            "position": {
+                "x": 49950,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_722",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Well, now you know. I was conducting a tasting session with a Cantuavo representative.\""
+            },
+            "position": {
+                "x": 49950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_726",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's nothing personal. I couldn't make it look like I was playing favorites.\""
+            },
+            "position": {
+                "x": 50220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_729",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If you say so.\""
+            },
+            "position": {
+                "x": 50490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_730",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No. And the very possibility is ridiculous.\""
+            },
+            "position": {
+                "x": 50760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_731",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You would be if there was more evidence. Consider yourself lucky.\""
+            },
+            "position": {
+                "x": 51030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_733",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I'm glad you feel that way.\""
+            },
+            "position": {
+                "x": 51570,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_737",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I... I have repented since then. I swear.\""
+            },
+            "position": {
+                "x": 51570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_739",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Carrying on like what? If you want me to stop controlling the quality of the palace wine, I will.\""
+            },
+            "position": {
+                "x": 51570,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_741",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Wine, {RiziaDLCText.PabelToPlayer}. Not a difficult guess.\""
+            },
+            "position": {
+                "x": 51570,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_742",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Thank you, {RiziaDLCText.PabelToPlayer}. I won't forget this.\""
+            },
+            "position": {
+                "x": 51840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_743",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's ludicrous. If it were a woman, you'd get a slap on the wrist at worst. But a man...\""
+            },
+            "position": {
+                "x": 52110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_745",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"It is what it is.\""
+            },
+            "position": {
+                "x": 52110,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_746",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"More than you would think.\""
+            },
+            "position": {
+                "x": 52380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_749",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You cannot order me around, Chancellor. Be more mindful of your words of choice.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_750",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Apologies.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_751",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Lucita is on your trail, though. Don't do anything stupid. Or anyone.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_762",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis face turned pale."
+            },
+            "position": {
+                "x": 52650,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_765",
+            "source": "node_1",
+            "target": "node_765",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_775",
+            "source": "node_20",
+            "target": "node_775",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_153",
+            "source": "node_21",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_91",
+            "source": "node_33",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_236",
+            "source": "node_37",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_53",
+            "source": "node_43",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_102",
+            "source": "node_45",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_775",
+            "source": "node_60",
+            "target": "node_775",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_84",
+            "source": "node_70",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_144",
+            "source": "node_85",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_147",
+            "source": "node_86",
+            "target": "node_147",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_68",
+            "source": "node_89",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_152",
+            "source": "node_90",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_20",
+            "source": "node_97",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_122",
+            "source": "node_98",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_20",
+            "source": "node_101",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_117",
+            "source": "node_102",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_54",
+            "source": "node_103",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_54",
+            "source": "node_112",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_54",
+            "source": "node_120",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_54",
+            "source": "node_121",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_20",
+            "source": "node_123",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_20",
+            "source": "node_128",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_20",
+            "source": "node_129",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_20",
+            "source": "node_130",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_20",
+            "source": "node_141",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_54",
+            "source": "node_142",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_90",
+            "source": "node_146",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_90",
+            "source": "node_147",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_90",
+            "source": "node_148",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_20",
+            "source": "node_149",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_20",
+            "source": "node_150",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_20",
+            "source": "node_151",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_20",
+            "source": "node_152",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_183",
+            "source": "node_165",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_199",
+            "source": "node_178",
+            "target": "node_199",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_199",
+            "source": "node_179",
+            "target": "node_199",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_205",
+            "source": "node_180",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_195",
+            "source": "node_181",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_205",
+            "source": "node_186",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_216",
+            "source": "node_188",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_425",
+            "source": "node_193",
+            "target": "node_425",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_217",
+            "source": "node_198",
+            "target": "node_217",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_221",
+            "source": "node_204",
+            "target": "node_221",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_212",
+            "source": "node_205",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_206",
+            "source": "node_209",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_425",
+            "source": "node_210",
+            "target": "node_425",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_427",
+            "source": "node_211",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_429",
+            "source": "node_212",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_230",
+            "source": "node_222",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_244",
+            "source": "node_231",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e232_to_256",
+            "source": "node_232",
+            "target": "node_256",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_255",
+            "source": "node_234",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_49",
+            "source": "node_238",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_244",
+            "source": "node_246",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_750",
+            "source": "node_247",
+            "target": "node_750",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_265",
+            "source": "node_248",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e252_to_244",
+            "source": "node_252",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e254_to_244",
+            "source": "node_254",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_244",
+            "source": "node_255",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e257_to_244",
+            "source": "node_257",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e263_to_275",
+            "source": "node_263",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_263",
+            "source": "node_267",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_327",
+            "source": "node_286",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e287_to_372",
+            "source": "node_287",
+            "target": "node_372",
+            "type": "step"
+        },
+        {
+            "id": "e293_to_331",
+            "source": "node_293",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_322",
+            "source": "node_304",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e306_to_318",
+            "source": "node_306",
+            "target": "node_318",
+            "type": "step"
+        },
+        {
+            "id": "e312_to_321",
+            "source": "node_312",
+            "target": "node_321",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_325",
+            "source": "node_313",
+            "target": "node_325",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_336",
+            "source": "node_315",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_354",
+            "source": "node_319",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e323_to_313",
+            "source": "node_323",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_336",
+            "source": "node_326",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e329_to_411",
+            "source": "node_329",
+            "target": "node_411",
+            "type": "step"
+        },
+        {
+            "id": "e332_to_370",
+            "source": "node_332",
+            "target": "node_370",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_411",
+            "source": "node_333",
+            "target": "node_411",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_342",
+            "source": "node_336",
+            "target": "node_342",
+            "type": "step"
+        },
+        {
+            "id": "e341_to_646",
+            "source": "node_341",
+            "target": "node_646",
+            "type": "step"
+        },
+        {
+            "id": "e343_to_386",
+            "source": "node_343",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e344_to_387",
+            "source": "node_344",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e345_to_646",
+            "source": "node_345",
+            "target": "node_646",
+            "type": "step"
+        },
+        {
+            "id": "e346_to_686",
+            "source": "node_346",
+            "target": "node_686",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_382",
+            "source": "node_350",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_643",
+            "source": "node_351",
+            "target": "node_643",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_646",
+            "source": "node_355",
+            "target": "node_646",
+            "type": "step"
+        },
+        {
+            "id": "e356_to_646",
+            "source": "node_356",
+            "target": "node_646",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_646",
+            "source": "node_357",
+            "target": "node_646",
+            "type": "step"
+        },
+        {
+            "id": "e368_to_749",
+            "source": "node_368",
+            "target": "node_749",
+            "type": "step"
+        },
+        {
+            "id": "e369_to_412",
+            "source": "node_369",
+            "target": "node_412",
+            "type": "step"
+        },
+        {
+            "id": "e370_to_420",
+            "source": "node_370",
+            "target": "node_420",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_371",
+            "source": "node_373",
+            "target": "node_371",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_412",
+            "source": "node_375",
+            "target": "node_412",
+            "type": "step"
+        },
+        {
+            "id": "e377_to_399",
+            "source": "node_377",
+            "target": "node_399",
+            "type": "step"
+        },
+        {
+            "id": "e378_to_388",
+            "source": "node_378",
+            "target": "node_388",
+            "type": "step"
+        },
+        {
+            "id": "e379_to_389",
+            "source": "node_379",
+            "target": "node_389",
+            "type": "step"
+        },
+        {
+            "id": "e384_to_394",
+            "source": "node_384",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e393_to_641",
+            "source": "node_393",
+            "target": "node_641",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_368",
+            "source": "node_395",
+            "target": "node_368",
+            "type": "step"
+        },
+        {
+            "id": "e396_to_368",
+            "source": "node_396",
+            "target": "node_368",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_368",
+            "source": "node_397",
+            "target": "node_368",
+            "type": "step"
+        },
+        {
+            "id": "e398_to_368",
+            "source": "node_398",
+            "target": "node_368",
+            "type": "step"
+        },
+        {
+            "id": "e403_to_400",
+            "source": "node_403",
+            "target": "node_400",
+            "type": "step"
+        },
+        {
+            "id": "e405_to_423",
+            "source": "node_405",
+            "target": "node_423",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_336",
+            "source": "node_412",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e413_to_336",
+            "source": "node_413",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e414_to_336",
+            "source": "node_414",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e415_to_298",
+            "source": "node_415",
+            "target": "node_298",
+            "type": "step"
+        },
+        {
+            "id": "e416_to_423",
+            "source": "node_416",
+            "target": "node_423",
+            "type": "step"
+        },
+        {
+            "id": "e418_to_424",
+            "source": "node_418",
+            "target": "node_424",
+            "type": "step"
+        },
+        {
+            "id": "e423_to_408",
+            "source": "node_423",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e424_to_413",
+            "source": "node_424",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e425_to_431",
+            "source": "node_425",
+            "target": "node_431",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_430",
+            "source": "node_427",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e431_to_441",
+            "source": "node_431",
+            "target": "node_441",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_439",
+            "source": "node_433",
+            "target": "node_439",
+            "type": "step"
+        },
+        {
+            "id": "e437_to_457",
+            "source": "node_437",
+            "target": "node_457",
+            "type": "step"
+        },
+        {
+            "id": "e439_to_645",
+            "source": "node_439",
+            "target": "node_645",
+            "type": "step"
+        },
+        {
+            "id": "e442_to_435",
+            "source": "node_442",
+            "target": "node_435",
+            "type": "step"
+        },
+        {
+            "id": "e447_to_458",
+            "source": "node_447",
+            "target": "node_458",
+            "type": "step"
+        },
+        {
+            "id": "e448_to_458",
+            "source": "node_448",
+            "target": "node_458",
+            "type": "step"
+        },
+        {
+            "id": "e461_to_479",
+            "source": "node_461",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e462_to_458",
+            "source": "node_462",
+            "target": "node_458",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_458",
+            "source": "node_465",
+            "target": "node_458",
+            "type": "step"
+        },
+        {
+            "id": "e466_to_459",
+            "source": "node_466",
+            "target": "node_459",
+            "type": "step"
+        },
+        {
+            "id": "e471_to_478",
+            "source": "node_471",
+            "target": "node_478",
+            "type": "step"
+        },
+        {
+            "id": "e476_to_481",
+            "source": "node_476",
+            "target": "node_481",
+            "type": "step"
+        },
+        {
+            "id": "e477_to_481",
+            "source": "node_477",
+            "target": "node_481",
+            "type": "step"
+        },
+        {
+            "id": "e482_to_481",
+            "source": "node_482",
+            "target": "node_481",
+            "type": "step"
+        },
+        {
+            "id": "e488_to_492",
+            "source": "node_488",
+            "target": "node_492",
+            "type": "step"
+        },
+        {
+            "id": "e491_to_494",
+            "source": "node_491",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e493_to_500",
+            "source": "node_493",
+            "target": "node_500",
+            "type": "step"
+        },
+        {
+            "id": "e494_to_499",
+            "source": "node_494",
+            "target": "node_499",
+            "type": "step"
+        },
+        {
+            "id": "e498_to_507",
+            "source": "node_498",
+            "target": "node_507",
+            "type": "step"
+        },
+        {
+            "id": "e500_to_515",
+            "source": "node_500",
+            "target": "node_515",
+            "type": "step"
+        },
+        {
+            "id": "e504_to_506",
+            "source": "node_504",
+            "target": "node_506",
+            "type": "step"
+        },
+        {
+            "id": "e505_to_587",
+            "source": "node_505",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e506_to_587",
+            "source": "node_506",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e507_to_587",
+            "source": "node_507",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e508_to_587",
+            "source": "node_508",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e509_to_515",
+            "source": "node_509",
+            "target": "node_515",
+            "type": "step"
+        },
+        {
+            "id": "e519_to_528",
+            "source": "node_519",
+            "target": "node_528",
+            "type": "step"
+        },
+        {
+            "id": "e523_to_555",
+            "source": "node_523",
+            "target": "node_555",
+            "type": "step"
+        },
+        {
+            "id": "e524_to_534",
+            "source": "node_524",
+            "target": "node_534",
+            "type": "step"
+        },
+        {
+            "id": "e526_to_534",
+            "source": "node_526",
+            "target": "node_534",
+            "type": "step"
+        },
+        {
+            "id": "e529_to_525",
+            "source": "node_529",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e531_to_556",
+            "source": "node_531",
+            "target": "node_556",
+            "type": "step"
+        },
+        {
+            "id": "e537_to_550",
+            "source": "node_537",
+            "target": "node_550",
+            "type": "step"
+        },
+        {
+            "id": "e541_to_547",
+            "source": "node_541",
+            "target": "node_547",
+            "type": "step"
+        },
+        {
+            "id": "e542_to_548",
+            "source": "node_542",
+            "target": "node_548",
+            "type": "step"
+        },
+        {
+            "id": "e545_to_550",
+            "source": "node_545",
+            "target": "node_550",
+            "type": "step"
+        },
+        {
+            "id": "e549_to_614",
+            "source": "node_549",
+            "target": "node_614",
+            "type": "step"
+        },
+        {
+            "id": "e553_to_541",
+            "source": "node_553",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e556_to_606",
+            "source": "node_556",
+            "target": "node_606",
+            "type": "step"
+        },
+        {
+            "id": "e558_to_574",
+            "source": "node_558",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e559_to_614",
+            "source": "node_559",
+            "target": "node_614",
+            "type": "step"
+        },
+        {
+            "id": "e567_to_581",
+            "source": "node_567",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e569_to_579",
+            "source": "node_569",
+            "target": "node_579",
+            "type": "step"
+        },
+        {
+            "id": "e570_to_580",
+            "source": "node_570",
+            "target": "node_580",
+            "type": "step"
+        },
+        {
+            "id": "e574_to_588",
+            "source": "node_574",
+            "target": "node_588",
+            "type": "step"
+        },
+        {
+            "id": "e577_to_609",
+            "source": "node_577",
+            "target": "node_609",
+            "type": "step"
+        },
+        {
+            "id": "e578_to_574",
+            "source": "node_578",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e579_to_574",
+            "source": "node_579",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e584_to_576",
+            "source": "node_584",
+            "target": "node_576",
+            "type": "step"
+        },
+        {
+            "id": "e585_to_577",
+            "source": "node_585",
+            "target": "node_577",
+            "type": "step"
+        },
+        {
+            "id": "e586_to_550",
+            "source": "node_586",
+            "target": "node_550",
+            "type": "step"
+        },
+        {
+            "id": "e587_to_517",
+            "source": "node_587",
+            "target": "node_517",
+            "type": "step"
+        },
+        {
+            "id": "e592_to_616",
+            "source": "node_592",
+            "target": "node_616",
+            "type": "step"
+        },
+        {
+            "id": "e593_to_616",
+            "source": "node_593",
+            "target": "node_616",
+            "type": "step"
+        },
+        {
+            "id": "e594_to_616",
+            "source": "node_594",
+            "target": "node_616",
+            "type": "step"
+        },
+        {
+            "id": "e599_to_605",
+            "source": "node_599",
+            "target": "node_605",
+            "type": "step"
+        },
+        {
+            "id": "e600_to_605",
+            "source": "node_600",
+            "target": "node_605",
+            "type": "step"
+        },
+        {
+            "id": "e604_to_602",
+            "source": "node_604",
+            "target": "node_602",
+            "type": "step"
+        },
+        {
+            "id": "e605_to_749",
+            "source": "node_605",
+            "target": "node_749",
+            "type": "step"
+        },
+        {
+            "id": "e606_to_561",
+            "source": "node_606",
+            "target": "node_561",
+            "type": "step"
+        },
+        {
+            "id": "e608_to_550",
+            "source": "node_608",
+            "target": "node_550",
+            "type": "step"
+        },
+        {
+            "id": "e611_to_632",
+            "source": "node_611",
+            "target": "node_632",
+            "type": "step"
+        },
+        {
+            "id": "e613_to_622",
+            "source": "node_613",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e616_to_676",
+            "source": "node_616",
+            "target": "node_676",
+            "type": "step"
+        },
+        {
+            "id": "e618_to_596",
+            "source": "node_618",
+            "target": "node_596",
+            "type": "step"
+        },
+        {
+            "id": "e624_to_631",
+            "source": "node_624",
+            "target": "node_631",
+            "type": "step"
+        },
+        {
+            "id": "e625_to_630",
+            "source": "node_625",
+            "target": "node_630",
+            "type": "step"
+        },
+        {
+            "id": "e626_to_629",
+            "source": "node_626",
+            "target": "node_629",
+            "type": "step"
+        },
+        {
+            "id": "e628_to_666",
+            "source": "node_628",
+            "target": "node_666",
+            "type": "step"
+        },
+        {
+            "id": "e629_to_666",
+            "source": "node_629",
+            "target": "node_666",
+            "type": "step"
+        },
+        {
+            "id": "e630_to_666",
+            "source": "node_630",
+            "target": "node_666",
+            "type": "step"
+        },
+        {
+            "id": "e632_to_621",
+            "source": "node_632",
+            "target": "node_621",
+            "type": "step"
+        },
+        {
+            "id": "e635_to_368",
+            "source": "node_635",
+            "target": "node_368",
+            "type": "step"
+        },
+        {
+            "id": "e638_to_368",
+            "source": "node_638",
+            "target": "node_368",
+            "type": "step"
+        },
+        {
+            "id": "e642_to_635",
+            "source": "node_642",
+            "target": "node_635",
+            "type": "step"
+        },
+        {
+            "id": "e644_to_637",
+            "source": "node_644",
+            "target": "node_637",
+            "type": "step"
+        },
+        {
+            "id": "e648_to_359",
+            "source": "node_648",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e649_to_654",
+            "source": "node_649",
+            "target": "node_654",
+            "type": "step"
+        },
+        {
+            "id": "e650_to_359",
+            "source": "node_650",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e651_to_650",
+            "source": "node_651",
+            "target": "node_650",
+            "type": "step"
+        },
+        {
+            "id": "e653_to_359",
+            "source": "node_653",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e658_to_348",
+            "source": "node_658",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e660_to_348",
+            "source": "node_660",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e661_to_660",
+            "source": "node_661",
+            "target": "node_660",
+            "type": "step"
+        },
+        {
+            "id": "e664_to_348",
+            "source": "node_664",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e668_to_394",
+            "source": "node_668",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e670_to_394",
+            "source": "node_670",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e671_to_670",
+            "source": "node_671",
+            "target": "node_670",
+            "type": "step"
+        },
+        {
+            "id": "e674_to_394",
+            "source": "node_674",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e678_to_617",
+            "source": "node_678",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e680_to_596",
+            "source": "node_680",
+            "target": "node_596",
+            "type": "step"
+        },
+        {
+            "id": "e681_to_680",
+            "source": "node_681",
+            "target": "node_680",
+            "type": "step"
+        },
+        {
+            "id": "e683_to_596",
+            "source": "node_683",
+            "target": "node_596",
+            "type": "step"
+        },
+        {
+            "id": "e697_to_763",
+            "source": "node_697",
+            "target": "node_763",
+            "type": "step"
+        },
+        {
+            "id": "e704_to_62",
+            "source": "node_704",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e705_to_708",
+            "source": "node_705",
+            "target": "node_708",
+            "type": "step"
+        },
+        {
+            "id": "e707_to_62",
+            "source": "node_707",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e708_to_740",
+            "source": "node_708",
+            "target": "node_740",
+            "type": "step"
+        },
+        {
+            "id": "e710_to_741",
+            "source": "node_710",
+            "target": "node_741",
+            "type": "step"
+        },
+        {
+            "id": "e715_to_759",
+            "source": "node_715",
+            "target": "node_759",
+            "type": "step"
+        },
+        {
+            "id": "e719_to_709",
+            "source": "node_719",
+            "target": "node_709",
+            "type": "step"
+        },
+        {
+            "id": "e721_to_736",
+            "source": "node_721",
+            "target": "node_736",
+            "type": "step"
+        },
+        {
+            "id": "e722_to_721",
+            "source": "node_722",
+            "target": "node_721",
+            "type": "step"
+        },
+        {
+            "id": "e726_to_723",
+            "source": "node_726",
+            "target": "node_723",
+            "type": "step"
+        },
+        {
+            "id": "e729_to_62",
+            "source": "node_729",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e730_to_741",
+            "source": "node_730",
+            "target": "node_741",
+            "type": "step"
+        },
+        {
+            "id": "e731_to_734",
+            "source": "node_731",
+            "target": "node_734",
+            "type": "step"
+        },
+        {
+            "id": "e733_to_739",
+            "source": "node_733",
+            "target": "node_739",
+            "type": "step"
+        },
+        {
+            "id": "e737_to_733",
+            "source": "node_737",
+            "target": "node_733",
+            "type": "step"
+        },
+        {
+            "id": "e739_to_741",
+            "source": "node_739",
+            "target": "node_741",
+            "type": "step"
+        },
+        {
+            "id": "e741_to_60",
+            "source": "node_741",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e742_to_741",
+            "source": "node_742",
+            "target": "node_741",
+            "type": "step"
+        },
+        {
+            "id": "e743_to_745",
+            "source": "node_743",
+            "target": "node_745",
+            "type": "step"
+        },
+        {
+            "id": "e745_to_747",
+            "source": "node_745",
+            "target": "node_747",
+            "type": "step"
+        },
+        {
+            "id": "e746_to_758",
+            "source": "node_746",
+            "target": "node_758",
+            "type": "step"
+        },
+        {
+            "id": "e749_to_767",
+            "source": "node_749",
+            "target": "node_767",
+            "type": "step"
+        },
+        {
+            "id": "e750_to_751",
+            "source": "node_750",
+            "target": "node_751",
+            "type": "step"
+        },
+        {
+            "id": "e751_to_263",
+            "source": "node_751",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e762_to_764",
+            "source": "node_762",
+            "target": "node_764",
+            "type": "step"
+        }
+    ]
+}

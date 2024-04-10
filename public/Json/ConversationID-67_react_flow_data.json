@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Ewald Alphonso\n\n\"Your choice not to pursue constitutional reform is a conservative stance, differing from my belief that change is necessary for Sordland's advancement.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e26_to_19",
+            "source": "node_26",
+            "target": "node_19",
+            "type": "step"
+        }
+    ]
+}

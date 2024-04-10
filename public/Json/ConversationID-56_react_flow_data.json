@@ -1,0 +1,516 @@
+{
+    "nodes": [
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe gathered at the city hall. Symon looked a little worried but Lileas was dead serious."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDozens of people were outside the mansion grounds and chanting party slogans in a show of support."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We scheduled the construction to finish sooner but Taurus Holding might miss that target with the current trajectory.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter dinner, we moved to a meeting room. Symon began."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We could just wait it out until the strikers get tired.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“However, following the veto, we have ceased the implementation of the policy and disbanded the expert team, resulting in a potential increase in the cost of the bill if new teams are to be established.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“A strong government can backtrack on its decisions and accept it was wrong.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Making an example of the strikers is wrong. We need to tackle the root of the issue.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“What is your decision then, Mr. President?”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I'm not worried. Let's just wait it out. They will stop at one point and everything will be alright.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Order Taurus Holding to replace the strikers with new workers. This should fix our issue.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Respect for the state will increase. Standing by the people is the right choice.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Regardless, the decision is made.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe left the meeting room."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“As per the report they have sent, to finish the highway on time, they realised more capital is necessary due to the new labour laws.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I do not permit incompetence.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“None of us do and this is specifically why there was a brief about each companies and the potential issues.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“They need it for unforeseen expenses that came from the new Workers' Rights Bill. A couple of shipment companies they had contract with also increased costs on the necessary materials.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“What is your decision, Mr. President?”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We scheduled the construction to finish sooner but Taurus Holding might miss that target with the current trajectory.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“No point to delve in the past now.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I'm sceptical about another for profit company after Taurus.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I have no expectations of hitting that opening deadline at this point.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Why even involve outsiders when we have our own corporation to get things done?”"
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Maybe but we could have avoided this issue. There were warning signs around Taurus all along.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Mistakes happen in any project.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The SSC is a better option indeed.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Underhall could be a partner.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“One thing is for certain, our administration must avoid working with Taurus in the future and opt for safe choices like SSC.”"
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“As much as I hate to say it, I think passing the Workers' Rights bill might be our best bet.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e11_to_24",
+            "source": "node_11",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_12",
+            "source": "node_15",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_12",
+            "source": "node_16",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_5",
+            "source": "node_23",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_68",
+            "source": "node_31",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_121",
+            "source": "node_41",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_112",
+            "source": "node_46",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_112",
+            "source": "node_47",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_112",
+            "source": "node_48",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_105",
+            "source": "node_51",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_58",
+            "source": "node_52",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_119",
+            "source": "node_55",
+            "target": "node_119",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_99",
+            "source": "node_59",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_20",
+            "source": "node_66",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_20",
+            "source": "node_67",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_86",
+            "source": "node_68",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_91",
+            "source": "node_75",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_90",
+            "source": "node_76",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_91",
+            "source": "node_78",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_120",
+            "source": "node_85",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_101",
+            "source": "node_89",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_98",
+            "source": "node_96",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_113",
+            "source": "node_100",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_49",
+            "source": "node_106",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_49",
+            "source": "node_107",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_49",
+            "source": "node_108",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_108",
+            "source": "node_109",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_107",
+            "source": "node_110",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_106",
+            "source": "node_111",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_60",
+            "source": "node_120",
+            "target": "node_60",
+            "type": "step"
+        }
+    ]
+}

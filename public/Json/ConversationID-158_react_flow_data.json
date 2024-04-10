@@ -1,0 +1,278 @@
+{
+    "nodes": [
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe passed through the Lespian mountain range to the lowlands, with a short stop at the beautiful Sarea Nueva where Lespian security forces joined us."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We are almost at Perla. I will return to my cabin now.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Mr. President.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I wanted to have a quick chat about Prime Minister Alvarez and give you a heads up.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Go on.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA few minutes later, with a long whistle, our train came to a stop. I waved to the crowd from the window."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“He is known to have met with other state leaders while intoxicated on various occasions.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Yellow House was situated at the very centre of Perla in the middle of a circular park that was off limits to regular citizens. The park was full of roses on small patches."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Although his presidency is riddled with these kind of incidents, I also heard that he is a shrewd man.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“That seems to be the case.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I don't think there will be any issues either. I just wanted to give you a heads up.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe handed me a newspaper. The headline was 'Circling Over Staalport'."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter ten minutes. there was still no sign of Prime Minister Alvarez. It was almost time for our meeting."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Trust me. I can handle him.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“These are the Lespians people fear? Ridiculous.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy chair started to feel uncomfortable. I stood up and walked around to look at the various items in the room. A beautiful golden teapot piqued my interest."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e6_to_38",
+            "source": "node_6",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_44",
+            "source": "node_10",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_32",
+            "source": "node_13",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_2",
+            "source": "node_19",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_33",
+            "source": "node_27",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_45",
+            "source": "node_31",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_46",
+            "source": "node_32",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_26",
+            "source": "node_34",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_47",
+            "source": "node_39",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_35",
+            "source": "node_46",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_26",
+            "source": "node_48",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_38",
+            "source": "node_54",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_9",
+            "source": "node_55",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_40",
+            "source": "node_59",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_23",
+            "source": "node_60",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_41",
+            "source": "node_61",
+            "target": "node_41",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "nodes": [
+        {
+            "id": "node_0",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9286675,\n\nNarrator: Petr entered the room with the gest...\nen\n\n\nPetr entered the room with the gesture of the guards."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9287047,\n\nNarrator: Petr entered the room with the gest...\nen\n\n\nPetr entered the room with the gesture of the guards."
+            },
+            "position": {
+                "x": 250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_2",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9287419,\n\nNarrator: Serge entered the room with the ges...\nen\n\n\nSerge entered the room with the gesture of the guards."
+            },
+            "position": {
+                "x": 500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9288693,\n\nHeron Garaci: \nen\n\n\n\""
+            },
+            "position": {
+                "x": 0,
+                "y": 150
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e0",
+            "source": "node_8",
+            "target": "node_3",
+            "animated": true
+        },
+        {
+            "id": "e1",
+            "source": "node_12",
+            "target": "node_9",
+            "animated": true
+        },
+        {
+            "id": "e2",
+            "source": "node_15",
+            "target": "node_17",
+            "animated": true
+        },
+        {
+            "id": "e3",
+            "source": "node_29",
+            "target": "node_32",
+            "animated": true
+        }
+    ]
+}

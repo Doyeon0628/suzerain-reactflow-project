@@ -1,0 +1,1230 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe were in the middle of a meeting in the Palace about our immigration policy."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe ensuing discussion quickly became heated."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Look at Agnolian immigrants in Agnland. They have revitalized the whole region and in turn, boosted the economy of the entire country. Symon can attest to that.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Look at the superpowers. Do you see them closing off their borders? Why do you think their economies are in such good shape? They are in their current state because they welcome immigration, and use it to their advantage.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Exactly. Our citizens should never feel threatened by foreigners.”"
+            },
+            "position": {
+                "x": 13770,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I am of the same mind. It is proven that immigration helps countries to develop. And we cannot just deport our current immigrants.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“We need a decision. But before we move on...”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What is the current legal status of immigrants?”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How many immigrants live in Sordland?”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How do immigrants usually arrive here?”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let's move on and see what can be done about the immigration situation.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDeivid Wisci opened his dossier stamped with the seal of the Ministry of Foreign Affairs and Trade."
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“This is going nowhere.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "ImmigrationChoiceHub\n\nImmigrationChoiceHub"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Yes?”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We'll tighten our immigration laws. I'll sign the decree soon, so be prepared to start working on it, Mr. Wisci.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“We will be forced to handle new waves of migrants from Agnolia. Our border posts aren't ready.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Also, this will bring a new tide of refugees from Wehlen. Bergia is already a difficult region to manage.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Anything else that needs to be said?”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Not only that, we've just abandoned the native Sords who need our support the most.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“This is shameful.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“If we are finished, I need to head off and get the Ministry to work on the new policy.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The citizens of Sordland aren't forgotten. Our work for them continues.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“My decision is final and irreversible. Time to move on.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you for your contributions. Let's wrap this up.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We can't let internal policy be decided by foreigners. Sordland always comes first.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I want everybody here to get used to the new changes. This is our new direction.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let's end this discussion and get to work. There are changes to be made.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“You are wrong about this. There is a reason why this country has survived the Century of Revolutions.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Anything else, Mr. President?”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I hope hard-working Sords will see this as positively as you do, Mr. President.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Same here. Our border units need to be informed and prepared.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I'm looking forward to the upcoming trade talks. Petr and I have been visiting Staalport and Wraclawitz in preparation.”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Well said!”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Keep up the good work.”"
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The decision has been made. Let's look past it.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I'll be coming along to talk with the Economy Minister. Looking forward to the potential partnership.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The world is entering the age of globalization. This decision will make us stay behind.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Yes, we are finished.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Let's move on.”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“I'm disappointed in you, Rayne.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Especially in the wake of...\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We need to put our economy and the recession at the forefront.”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Especially after...\""
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I'm sorry for losing my cool, Mr. President. I have been working day and night.”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I'm sorry for losing my cool, Mr. President. I have been working day and night.”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI'd never seen Symon this rattled. Everyone in the room turned to him in surprise."
+            },
+            "position": {
+                "x": 9450,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I am currently attempting to minimize the damage this trade war will do to Sordland.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I will not, Mr. President. The future of Sordish citizens is at stake.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I do not want to say anything too early, Mr. President.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Thankfully, we have just started receiving financial aid from Arcasia.”"
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“What's next? Letting a child murderer buy us lunch?\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“I do not approve of this decision at all.”"
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Desperate times call for desperate measures.”"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I will not let you question my decisions, Iosef.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Yes, Mr. President.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“That's how they take over countries, you know.”"
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_232",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Yes, Mr. President.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Desperate times call for desperate measures.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I will not let you question my decisions, Iosef.”"
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_235",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I have done this with Sordish citizens in mind. Nothing else.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“That's how they take over countries, you know.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Gentlemen.”"
+            },
+            "position": {
+                "x": 12960,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Can we please get back on topic?”"
+            },
+            "position": {
+                "x": 12960,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Well said, Mr. Lancea. We can't be naive.”"
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Mr. Lancea has a point. We have seen it happen many times.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Well said, Mr. Lancea.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Mr. Lancea has a point. We have seen it happen many times.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“As I was just saying before I was interrupted...”"
+            },
+            "position": {
+                "x": 12960,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n...of this insane fucking trade war between Arcasia and United Contana!”"
+            },
+            "position": {
+                "x": 13770,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“...after our entire fucking stock market went down the tubes!\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_275",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I wouldn't worry about that too much. With how Wehlen is dealing with the Bludish terrorists, I would argue that President Smolak would beg us to tighten our immigration.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_297",
+            "source": "node_1",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_292",
+            "source": "node_3",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_204",
+            "source": "node_10",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_36",
+            "source": "node_15",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_14",
+            "source": "node_16",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_36",
+            "source": "node_17",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_19",
+            "source": "node_35",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_20",
+            "source": "node_37",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_52",
+            "source": "node_40",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_31",
+            "source": "node_44",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_27",
+            "source": "node_48",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_35",
+            "source": "node_52",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_66",
+            "source": "node_67",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_91",
+            "source": "node_72",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_73",
+            "source": "node_90",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_190",
+            "source": "node_93",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_176",
+            "source": "node_103",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_113",
+            "source": "node_105",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_298",
+            "source": "node_107",
+            "target": "node_298",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_123",
+            "source": "node_108",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_133",
+            "source": "node_111",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_276",
+            "source": "node_114",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_131",
+            "source": "node_115",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_128",
+            "source": "node_116",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_136",
+            "source": "node_119",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_111",
+            "source": "node_120",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_110",
+            "source": "node_122",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_111",
+            "source": "node_123",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_111",
+            "source": "node_124",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_142",
+            "source": "node_128",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_123",
+            "source": "node_129",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_129",
+            "source": "node_130",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_172",
+            "source": "node_132",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_138",
+            "source": "node_133",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_108",
+            "source": "node_134",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_132",
+            "source": "node_135",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_108",
+            "source": "node_137",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_115",
+            "source": "node_138",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_108",
+            "source": "node_139",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_132",
+            "source": "node_140",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_129",
+            "source": "node_141",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_191",
+            "source": "node_202",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_248",
+            "source": "node_203",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_200",
+            "source": "node_204",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_249",
+            "source": "node_205",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_210",
+            "source": "node_206",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_206",
+            "source": "node_208",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_207",
+            "source": "node_209",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_197",
+            "source": "node_215",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_197",
+            "source": "node_216",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_197",
+            "source": "node_217",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_223",
+            "source": "node_221",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_236",
+            "source": "node_224",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_228",
+            "source": "node_225",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_232",
+            "source": "node_226",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_243",
+            "source": "node_230",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_240",
+            "source": "node_231",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e232_to_244",
+            "source": "node_232",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_240",
+            "source": "node_233",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_239",
+            "source": "node_234",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e235_to_233",
+            "source": "node_235",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_245",
+            "source": "node_238",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_246",
+            "source": "node_239",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_241",
+            "source": "node_240",
+            "target": "node_241",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_247",
+            "source": "node_242",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_240",
+            "source": "node_243",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_240",
+            "source": "node_244",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_240",
+            "source": "node_245",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_240",
+            "source": "node_246",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_16",
+            "source": "node_247",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_208",
+            "source": "node_248",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e275_to_147",
+            "source": "node_275",
+            "target": "node_147",
+            "type": "step"
+        }
+    ]
+}

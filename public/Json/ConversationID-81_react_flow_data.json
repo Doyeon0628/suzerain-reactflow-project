@@ -1,0 +1,2556 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBut we desperately needed more support. That's why I had invited Frens Ricter for a chat about the upcoming vote. He and his party held the key to our success."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Oh, it's nothing, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I thought we were on the same page.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I thought so too. But it seems I was wrong.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"You want to remove the impeachment procedure from the Constitution. Why is that even part of the proposal?\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'll need protection from the Supreme Court.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Protection? By eliminating the whole process?\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"You are not reforming the presidential decree process. This was not at all what we talked about. This has become the opposite of democratic.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"You are expanding the Member of Honor laws to give yourself immunity after your term. Your proposal has turned into a power grab.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"On top of that, you're not reforming the presidential decree process *and* you're expanding the Member of Honor laws to give yourself total immunity after your term?\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"You're daring to strengthen presidential decree powers while expanding the Member of Honor laws to give yourself total immunity after your term.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Not to mention that you have ignored our demands to lower the undemocratic electoral threshold.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Be a realist, Mr. Ricter. This proposal is the best we can do.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"And you're refusing to lower our undemocratic electoral threshold...\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"This is not a contest, Mr. President. You know how I feel about the current Constitution.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Be it small or great, a step forward is a step forward.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I still believe we can accomplish meaningful change together.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes, Frens. And you will give me your support.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I'm just shocked you listened to our demands. Decreasing the electoral threshold and the term limits... that's more than we hoped for.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I'm just shocked you listened to our demands. Decreasing the electoral threshold... that's more than we hoped for.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"And I completely did not expect you to go against Tarquin Soll and abolish the Member of Honor laws. It's a bold move, and I respect it.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"So you have a plan...\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"But even if the changes pass in Assembly, how are you going to win the Supreme Court over when your draft takes away the Justices' immunity?\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"If we unite together, they will be forced to support us.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"That's your plan? You're going to bribe them?\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Oh?\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I know. And we can help you.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Isn't it funny how life works?\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"While that's true, that shouldn't stop anyone from trying their best.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"While that's true, we cannot settle for 'just enough' when we can achieve more.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Maybe we can.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I'm not sure if that was a threat, Mr. President.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"That being said, I may be willing to support this proposal even though I don't find it sufficient. However...\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course not.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It was.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I just know that you will do the right thing.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Look, Mr. Rayne...\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Look, Mr. Rayne...\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I'm sure it wasn't...\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Oh, good.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_190",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Then I don't have to feel bad about watching you commit political suicide.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're going to miss our chance for reforms just because they don't contain everything you want?\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"That would be very useful, wouldn't it?\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't make a mistake, Frens. You might regret it.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So you're looking for political gain after all.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There are no other plans. This was the most we could do with the proposal.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't make a mistake, Frens. You might regret it.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I don't see anything to agree on. Your so called 'democratic reforms' will not silence the opposition.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So you're looking for political gain after all...\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Oh, is the idealist reformist asking for a bribe?\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm sure you have something in mind.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Who said anything about a bribe?\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"If there's nothing else you'd like to talk about, I'd like to get going.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Mrs. Morgna assured me that she's a lock.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Not yet, but we're working on it.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes, she is supporting us.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"If we're doing this, we have to make it count.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"And if we're talking about democracy here... I first need your promise that you're not going to cast a shadow over the PFJP anymore. You will give us proper credit and finally do something about the unbalanced representation of our party on state television.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Mr. President, I thought we've been through this...\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_237",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. You can count on my support.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"That's good to hear.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You deserve no credit. You're still beating around the bush with no real intention of support.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I should hope not.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_252",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"In any case... It will be very tough to persuade my party with such a proposal. The reformists are not happy with how things developed.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I will do my best to flip the Supreme Court as well. You can count on the PFJP's votes.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course I can't deny my party's disreputable actions.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_263",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I respect your honesty, Mr. President.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_265",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I hope I can rely on you. In the upcoming vote, we expect the USP to rally behind your proposal.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The USP will not be a problem. With your support, these reforms will pass.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Likewise, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I'm looking forward to it.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_274",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, Mr. Ricter. Thank you for coming. I'm looking forward to our cooperation.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"It's nice to have a president that we can finally have a dialogue with.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm sorry, Mr. Ricter. I'm sure we can still agree on something.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_282",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're not going anywhere before we have a deal.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Please calm down, Mr. President. You're making a fool of yourself.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_295",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Good luck in the Assembly.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe stood up and offered his hand."
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_298",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI shook his hand."
+            },
+            "position": {
+                "x": 23490,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_301",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Good luck in the Assembly, Mr. President. Have a good evening.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe left the room."
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_307",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I will hold you to your promise.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Tell me what you want.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You damn corrupt bastard.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Nothing a check addressed to your name couldn't handle.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"A company that I'm involved with, Taurus Holding, has been conducting research on new machines for construction megaprojects and created a construction force that's unmatched in Sordland.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"It's a shame things won't work out between us.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe did not reply."
+            },
+            "position": {
+                "x": 29970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Okay, how about a few checks addressed to your name then?\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_330",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I can't give you anything else.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Now you've got my attention.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_342",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I can try to give you a cabinet position.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_344",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There won't be any deals.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_345",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_348",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"And I'll hold you to yours.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_349",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm happy to have reached a deal.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"...Then you have the support of the PFJP, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I'll do my best to gather the support of my party.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_353",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's great to hear.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Likewise, Mr. Ricter. I like this cooperative spirit.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_356",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Are you joking?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. There may be some vacancies sooner or later.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_359",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Obviously.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_363",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Okay, how about a few checks?\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_365",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It seems there won't be any deals.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_367",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I can't believe that you'd offer such a thing.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_372",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sounds good.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I promise I'll figure something out.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_380",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I received intelligence that you made a deal with Arcasia and that you tried covering your tracks. What do you have to say about that?\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_383",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Because I've met with Walker before? I am the leader of Sordland's largest opposition party and free to visit anyone I please. But since you asked, I will explain the context of our relationship.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_385",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Wait. What are you trying to say?\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You think Soll and the Old Guard orchestrated all of this?\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_389",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Act how?\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_390",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I am trying to say that everything leading up to the 1953 election was orchestrated by the Old Guard.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_391",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Yes. They knew that Alphonso's reforms would cripple their strength and remove them from power... So they removed him first.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_392",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"After realizing the true extent of the Sollist deep state's influence, I...\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_394",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe looked down for a second and continued."
+            },
+            "position": {
+                "x": 25920,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I hope you didn't do anything to compromise our country.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_398",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I flew to Arcasia and I eventually met President Walker. He offered political and economic support for me and my party, asking us to lead Sordland into the democratic sphere and become a member of the ATO. But the exploitative conditions he was demanding would have had crippling effects on our economy.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_400",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So the intel was correct after all...\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_401",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That was a big mistake from your side.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_402",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I told him that I was only there to increase economic cooperation and nothing else. I did not get their support, nor did I do anything illegal. To this day, I feel ashamed to have gone to the feet of Arcasia like that. But at least I managed to stop myself from becoming the very thing I've been fighting against.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_403",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're saying I was elected because Soll wanted it?\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_405",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't like where this is going.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_406",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't know if I can trust you after this.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_407",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You did what!?\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_408",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI kept listening."
+            },
+            "position": {
+                "x": 25920,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_409",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Please allow me to continue, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_410",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I know...\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_411",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"To some extent, yes. But now you know the real story.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Thanks for taking it so well. We must always be honest with one another.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_413",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"The fact that I've told you something this incriminating should be an indication that you can trust me.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_415",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I gave you my trust. I hope I have yours too. I will always acknowledge my wrongs and keep fighting for a better future. I believe we are not that different in this.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_416",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'll trust you, Mr. Ricter.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_417",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You are correct. I hope to be together in this fight for a better future.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_419",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"That's fair.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_424",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe stood up."
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_429",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I know you have already concluded the draft with your party, but the proposal is forcing our hand. Normally, this is not something we could support.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"A company that I'm involved with, Taurus Holding, has been conducting research on new machines for construction megaprojects and created a construction force that's unmatched in Sordland.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_443",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"You already know about their efficiency and high-quality materials. They did a great job with the new H-3 Line.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_444",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I'd like you to give them another chance with the next state project.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_445",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"You already know about their efficiency and high quality materials. They did a great job with the new L-1 railway.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_446",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I know you had some troubles with the H-3 Line, but they have greatly increased their capabilities and they now definitely surpass the potential to be a leading brand in the world. If the state decides to support it.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_447",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I know you had some troubles with the L-1 Line, but they have greatly increased their capabilities and they now definitely surpass the potential to be a leading brand in the world. If the State decides to support it.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_448",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Their work left much to be desired. I will not work with them again.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_449",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"All I wanted was a democratic constitution, Mr. Rayne...\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_453",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"And if we're talking about democracy here... I first need to trust your agenda.\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_458",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The past is past, Mr. Ricter. Let's fix the future.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_461",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Well, it's not so simple, Mr. Rayne. You came here with a proposal that ignored our demands. On top of it, you're not even acknowledging your mistakes.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_462",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"I think it's too late to fix anything now. I can't see any deals being made.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_486",
+            "source": "node_1",
+            "target": "node_486",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_22",
+            "source": "node_9",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_120",
+            "source": "node_33",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_48",
+            "source": "node_39",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_81",
+            "source": "node_51",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_74",
+            "source": "node_55",
+            "target": "node_74",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_67",
+            "source": "node_59",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_88",
+            "source": "node_65",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_85",
+            "source": "node_76",
+            "target": "node_85",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_88",
+            "source": "node_77",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_53",
+            "source": "node_83",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_98",
+            "source": "node_94",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_111",
+            "source": "node_99",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_98",
+            "source": "node_105",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_108",
+            "source": "node_110",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_146",
+            "source": "node_113",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_153",
+            "source": "node_114",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_156",
+            "source": "node_115",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_164",
+            "source": "node_116",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_31",
+            "source": "node_117",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_31",
+            "source": "node_118",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_28",
+            "source": "node_133",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_28",
+            "source": "node_135",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_142",
+            "source": "node_139",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_225",
+            "source": "node_141",
+            "target": "node_225",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_225",
+            "source": "node_143",
+            "target": "node_225",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_180",
+            "source": "node_151",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_163",
+            "source": "node_158",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_149",
+            "source": "node_159",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_165",
+            "source": "node_160",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_149",
+            "source": "node_161",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_149",
+            "source": "node_163",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_171",
+            "source": "node_164",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_195",
+            "source": "node_168",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_184",
+            "source": "node_169",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_190",
+            "source": "node_170",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_192",
+            "source": "node_176",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_203",
+            "source": "node_179",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_168",
+            "source": "node_187",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_149",
+            "source": "node_188",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e190_to_189",
+            "source": "node_190",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_221",
+            "source": "node_192",
+            "target": "node_221",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_214",
+            "source": "node_198",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_196",
+            "source": "node_199",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_206",
+            "source": "node_200",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_217",
+            "source": "node_201",
+            "target": "node_217",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_208",
+            "source": "node_202",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_192",
+            "source": "node_206",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_221",
+            "source": "node_211",
+            "target": "node_221",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_217",
+            "source": "node_212",
+            "target": "node_217",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_220",
+            "source": "node_215",
+            "target": "node_220",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_451",
+            "source": "node_218",
+            "target": "node_451",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_217",
+            "source": "node_220",
+            "target": "node_217",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_284",
+            "source": "node_221",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_226",
+            "source": "node_222",
+            "target": "node_226",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_227",
+            "source": "node_223",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_228",
+            "source": "node_224",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_256",
+            "source": "node_229",
+            "target": "node_256",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_245",
+            "source": "node_233",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e237_to_240",
+            "source": "node_237",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_295",
+            "source": "node_244",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_248",
+            "source": "node_246",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_244",
+            "source": "node_247",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e252_to_308",
+            "source": "node_252",
+            "target": "node_308",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_315",
+            "source": "node_255",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_265",
+            "source": "node_260",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e263_to_266",
+            "source": "node_263",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e265_to_266",
+            "source": "node_265",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_270",
+            "source": "node_267",
+            "target": "node_270",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_273",
+            "source": "node_270",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_274",
+            "source": "node_272",
+            "target": "node_274",
+            "type": "step"
+        },
+        {
+            "id": "e274_to_276",
+            "source": "node_274",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_382",
+            "source": "node_277",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_303",
+            "source": "node_281",
+            "target": "node_303",
+            "type": "step"
+        },
+        {
+            "id": "e282_to_287",
+            "source": "node_282",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_305",
+            "source": "node_290",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e295_to_298",
+            "source": "node_295",
+            "target": "node_298",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_380",
+            "source": "node_297",
+            "target": "node_380",
+            "type": "step"
+        },
+        {
+            "id": "e298_to_300",
+            "source": "node_298",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e301_to_380",
+            "source": "node_301",
+            "target": "node_380",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_301",
+            "source": "node_302",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e307_to_217",
+            "source": "node_307",
+            "target": "node_217",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_274",
+            "source": "node_313",
+            "target": "node_274",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_427",
+            "source": "node_314",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_326",
+            "source": "node_315",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_316",
+            "source": "node_318",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_344",
+            "source": "node_324",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_345",
+            "source": "node_325",
+            "target": "node_345",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_427",
+            "source": "node_327",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e330_to_328",
+            "source": "node_330",
+            "target": "node_328",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_338",
+            "source": "node_333",
+            "target": "node_338",
+            "type": "step"
+        },
+        {
+            "id": "e342_to_334",
+            "source": "node_342",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e344_to_351",
+            "source": "node_344",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e345_to_333",
+            "source": "node_345",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e348_to_313",
+            "source": "node_348",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e349_to_348",
+            "source": "node_349",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_348",
+            "source": "node_350",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_347",
+            "source": "node_351",
+            "target": "node_347",
+            "type": "step"
+        },
+        {
+            "id": "e353_to_426",
+            "source": "node_353",
+            "target": "node_426",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_313",
+            "source": "node_355",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e356_to_426",
+            "source": "node_356",
+            "target": "node_426",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_360",
+            "source": "node_357",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e359_to_368",
+            "source": "node_359",
+            "target": "node_368",
+            "type": "step"
+        },
+        {
+            "id": "e363_to_365",
+            "source": "node_363",
+            "target": "node_365",
+            "type": "step"
+        },
+        {
+            "id": "e365_to_334",
+            "source": "node_365",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e367_to_244",
+            "source": "node_367",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e372_to_376",
+            "source": "node_372",
+            "target": "node_376",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_377",
+            "source": "node_373",
+            "target": "node_377",
+            "type": "step"
+        },
+        {
+            "id": "e380_to_464",
+            "source": "node_380",
+            "target": "node_464",
+            "type": "step"
+        },
+        {
+            "id": "e383_to_385",
+            "source": "node_383",
+            "target": "node_385",
+            "type": "step"
+        },
+        {
+            "id": "e385_to_387",
+            "source": "node_385",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_404",
+            "source": "node_388",
+            "target": "node_404",
+            "type": "step"
+        },
+        {
+            "id": "e389_to_392",
+            "source": "node_389",
+            "target": "node_392",
+            "type": "step"
+        },
+        {
+            "id": "e390_to_398",
+            "source": "node_390",
+            "target": "node_398",
+            "type": "step"
+        },
+        {
+            "id": "e391_to_393",
+            "source": "node_391",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e392_to_393",
+            "source": "node_392",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e394_to_406",
+            "source": "node_394",
+            "target": "node_406",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_394",
+            "source": "node_395",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e398_to_408",
+            "source": "node_398",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e400_to_413",
+            "source": "node_400",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e401_to_412",
+            "source": "node_401",
+            "target": "node_412",
+            "type": "step"
+        },
+        {
+            "id": "e402_to_411",
+            "source": "node_402",
+            "target": "node_411",
+            "type": "step"
+        },
+        {
+            "id": "e403_to_407",
+            "source": "node_403",
+            "target": "node_407",
+            "type": "step"
+        },
+        {
+            "id": "e405_to_393",
+            "source": "node_405",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e406_to_398",
+            "source": "node_406",
+            "target": "node_398",
+            "type": "step"
+        },
+        {
+            "id": "e407_to_414",
+            "source": "node_407",
+            "target": "node_414",
+            "type": "step"
+        },
+        {
+            "id": "e408_to_410",
+            "source": "node_408",
+            "target": "node_410",
+            "type": "step"
+        },
+        {
+            "id": "e409_to_399",
+            "source": "node_409",
+            "target": "node_399",
+            "type": "step"
+        },
+        {
+            "id": "e410_to_399",
+            "source": "node_410",
+            "target": "node_399",
+            "type": "step"
+        },
+        {
+            "id": "e411_to_415",
+            "source": "node_411",
+            "target": "node_415",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_415",
+            "source": "node_412",
+            "target": "node_415",
+            "type": "step"
+        },
+        {
+            "id": "e413_to_415",
+            "source": "node_413",
+            "target": "node_415",
+            "type": "step"
+        },
+        {
+            "id": "e415_to_416",
+            "source": "node_415",
+            "target": "node_416",
+            "type": "step"
+        },
+        {
+            "id": "e416_to_419",
+            "source": "node_416",
+            "target": "node_419",
+            "type": "step"
+        },
+        {
+            "id": "e417_to_422",
+            "source": "node_417",
+            "target": "node_422",
+            "type": "step"
+        },
+        {
+            "id": "e419_to_420",
+            "source": "node_419",
+            "target": "node_420",
+            "type": "step"
+        },
+        {
+            "id": "e424_to_279",
+            "source": "node_424",
+            "target": "node_279",
+            "type": "step"
+        },
+        {
+            "id": "e429_to_431",
+            "source": "node_429",
+            "target": "node_431",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_320",
+            "source": "node_433",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e443_to_448",
+            "source": "node_443",
+            "target": "node_448",
+            "type": "step"
+        },
+        {
+            "id": "e444_to_445",
+            "source": "node_444",
+            "target": "node_445",
+            "type": "step"
+        },
+        {
+            "id": "e445_to_323",
+            "source": "node_445",
+            "target": "node_323",
+            "type": "step"
+        },
+        {
+            "id": "e446_to_445",
+            "source": "node_446",
+            "target": "node_445",
+            "type": "step"
+        },
+        {
+            "id": "e447_to_445",
+            "source": "node_447",
+            "target": "node_445",
+            "type": "step"
+        },
+        {
+            "id": "e448_to_445",
+            "source": "node_448",
+            "target": "node_445",
+            "type": "step"
+        },
+        {
+            "id": "e449_to_325",
+            "source": "node_449",
+            "target": "node_325",
+            "type": "step"
+        },
+        {
+            "id": "e453_to_230",
+            "source": "node_453",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e458_to_461",
+            "source": "node_458",
+            "target": "node_461",
+            "type": "step"
+        },
+        {
+            "id": "e461_to_463",
+            "source": "node_461",
+            "target": "node_463",
+            "type": "step"
+        },
+        {
+            "id": "e462_to_463",
+            "source": "node_462",
+            "target": "node_463",
+            "type": "step"
+        }
+    ]
+}

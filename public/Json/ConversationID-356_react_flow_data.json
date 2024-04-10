@@ -1,0 +1,193 @@
+{
+    "nodes": [
+        {
+            "id": "node_0",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13559785,\n\nLaurento Esquibel: The vote's outcome was influenced...\nen\n\n\n\"The vote's outcome was influenced by a number of nations.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13560165,\n\nLaurento Esquibel: Prime Minister Alma Saltana of Mor...\nen\n\n\n\"Prime Minister Alma Saltana of Morella used her legal background to make a convincing argument on our behalf.\""
+            },
+            "position": {
+                "x": 250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_2",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13560545,\n\nLaurento Esquibel: Jorga Azmal of Derdia stated that...\nen\n\n\n\"Jorga Azmal of Derdia stated that the field belonged to us by divine right.\""
+            },
+            "position": {
+                "x": 500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13560647,\n\nLaurento Esquibel: In the wake of our countries' new...\nen\n\n\n\"In the wake of our countries' new agreement, Wehlen was very supportive of our claim.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13561305,\n\nLaurento Esquibel: Queen Beatrice made a personal app...\nen\n\n\n\"Queen Beatrice made a personal appearance at the AN to plead our case.\""
+            },
+            "position": {
+                "x": 250,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13561407,\n\nLaurento Esquibel: Queen Beatrice sent a statement of...\nen\n\n\n\"Queen Beatrice sent a statement of support, though she neglected to appear before the arbitration committee in person.\""
+            },
+            "position": {
+                "x": 500,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13561509,\n\nLaurento Esquibel: Chancellor Hegel of Valgsland made...\nen\n\n\n\"Chancellor Hegel of Valgsland made an especially heartfelt plea to uphold the original interpretation of ANDOR, without mentioning Rizia by name.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13561889,\n\nLaurento Esquibel: Support for Pales came mostly from...\nen\n\n\n\"Support for Pales came mostly from Lespia and other ATO nations. Prime Minister Alvarez was not as vocal as he could have been, perhaps due to our alignment in MITZ matters.\""
+            },
+            "position": {
+                "x": 250,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13561991,\n\nLaurento Esquibel: Support for Pales came mostly from...\nen\n\n\n\"Support for Pales came mostly from Lespia and other ATO nations, of course.\""
+            },
+            "position": {
+                "x": 500,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13562093,\n\nLaurento Esquibel: Overall, we gained just enough int...\nen\n\n\n\"Overall, we gained just enough international sympathy to overcome ATO's clout with the AN and have an edge in the proceedings.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 450
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 13562473,\n\nLaurento Esquibel: In the end, we simply couldn't ove...\nen\n\n\n\"In the end, we simply couldn't overcome the clout ATO carries with the AN.\""
+            },
+            "position": {
+                "x": 250,
+                "y": 450
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e0",
+            "source": "node_2",
+            "target": "node_48",
+            "animated": true
+        },
+        {
+            "id": "e1",
+            "source": "node_6",
+            "target": "node_8",
+            "animated": true
+        },
+        {
+            "id": "e2",
+            "source": "node_10",
+            "target": "node_13",
+            "animated": true
+        },
+        {
+            "id": "e3",
+            "source": "node_11",
+            "target": "node_13",
+            "animated": true
+        },
+        {
+            "id": "e4",
+            "source": "node_18",
+            "target": "node_20",
+            "animated": true
+        },
+        {
+            "id": "e5",
+            "source": "node_19",
+            "target": "node_21",
+            "animated": true
+        },
+        {
+            "id": "e6",
+            "source": "node_20",
+            "target": "node_21",
+            "animated": true
+        },
+        {
+            "id": "e7",
+            "source": "node_24",
+            "target": "node_26",
+            "animated": true
+        },
+        {
+            "id": "e8",
+            "source": "node_25",
+            "target": "node_28",
+            "animated": true
+        },
+        {
+            "id": "e9",
+            "source": "node_26",
+            "target": "node_28",
+            "animated": true
+        },
+        {
+            "id": "e10",
+            "source": "node_30",
+            "target": "node_31",
+            "animated": true
+        }
+    ]
+}

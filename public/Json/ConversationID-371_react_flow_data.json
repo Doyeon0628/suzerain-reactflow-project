@@ -1,0 +1,312 @@
+{
+    "nodes": [
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I doubt that Morella would allow such an extension given your history.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"It is not Derdia's fault that we are cruelly barred from our ancestral places of worship.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"You do not want to extend your pipeline from Morella. But perhaps you would still be willing to ship us oil or gas across the Gulf of Mordia.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It depends on whether you are able to make peace with the Morellan prime minister.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"But for a chance at energy security, I am willing to face the devil herself.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am afraid not. We barely have enough energy to meet Morella's needs, let alone Derdia's.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"With all apologies, I cannot. A pipeline to Morella is all I can manage right now.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Peace? Her country discarded that chance when it closed its borders to us.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Remember Wruhec's words, Sal. Do not reach for the stars above your head before tending to the soil beneath your feet,\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"To be frank, we need your diplomatic support more than we need you to buy our energy.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Ah. A shame.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I cannot promise closer cooperation than that. But I hope you are satisfied.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"So for all your talk of cooperation, you're on the side of the godless heathens. I understand.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Indeed, Azmal. You cannot have it both ways.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I am glad we are on the same page. Regarding this, at least.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Ah. So the mighty Rizia is facing an energy shortage.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"He will not even grant our pilgrims passage through his country to the holy Archsanctuary of Deyr. And you think he will trade with us?\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"It will be easier to trade with Rizia once your Zille harbor is recovered from that madman.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e7_to_65",
+            "source": "node_7",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_92",
+            "source": "node_9",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_64",
+            "source": "node_15",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_63",
+            "source": "node_16",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_91",
+            "source": "node_26",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_96",
+            "source": "node_39",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_78",
+            "source": "node_43",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_79",
+            "source": "node_44",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_81",
+            "source": "node_48",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_94",
+            "source": "node_62",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_41",
+            "source": "node_68",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_49",
+            "source": "node_74",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_105",
+            "source": "node_78",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_100",
+            "source": "node_83",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_57",
+            "source": "node_89",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_90",
+            "source": "node_95",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_2",
+            "source": "node_101",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_57",
+            "source": "node_103",
+            "target": "node_57",
+            "type": "step"
+        }
+    ]
+}

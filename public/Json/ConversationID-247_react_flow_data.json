@@ -1,0 +1,329 @@
+{
+    "nodes": [
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI rose up from my seat."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI remained seated."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe put them down and looked at me."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Ovid Grecer\n\n“You may be seated.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA court clerk entered and ordered everyone to rise for the judges."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n“There is no place for conspiracy theories in this court, Mr. President. The evidence has been presented in a clear and irrefutable manner.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n“Let the record show that the President has refused the opportunity to defend himself.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n“Silence! I will not allow improper language in this courtroom!”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhere the hell were the justices?"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Supreme Court justices entered and took their seats one by one."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Supreme Court justices entered and took their seats one by one."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n“I call the case of the impeachment charges against the President of Sordland. The case number is 385372.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n“I call the case of the impeachment charges against the President of Sordland. The case number is 385372.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Didier Meye\n\n“I call the case of the impeachment charges against the President of Sordland. The case number is 385372.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n“I call the case of the impeachment charges against the President of Sordland. The case number is 385372.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_175",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n“You may be seated.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n“The prosecution will be called upon first, followed by the defendant.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n“However, this court accepts the case as a crime against Sordish people...”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You were the one who told me to sign this act! You are involved in this too!\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e14_to_41",
+            "source": "node_14",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_172",
+            "source": "node_15",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_172",
+            "source": "node_16",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_12",
+            "source": "node_18",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_8",
+            "source": "node_40",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_88",
+            "source": "node_69",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_109",
+            "source": "node_82",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_109",
+            "source": "node_100",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_115",
+            "source": "node_118",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_48",
+            "source": "node_124",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_9",
+            "source": "node_143",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_37",
+            "source": "node_146",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_37",
+            "source": "node_157",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_37",
+            "source": "node_166",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_126",
+            "source": "node_174",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e175_to_187",
+            "source": "node_175",
+            "target": "node_187",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_67",
+            "source": "node_183",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_181",
+            "source": "node_194",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_194",
+            "source": "node_195",
+            "target": "node_194",
+            "type": "step"
+        }
+    ]
+}

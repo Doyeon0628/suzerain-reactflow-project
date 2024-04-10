@@ -1,0 +1,363 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe phone started ringing. I took a deep breath as I held it to my ear."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe let out a laugh."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“Mr. Rayne. How pleasing it is to finally get a chance to speak with you in person. ”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Am I supposed to be impressed?”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“What do you think?”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“I am certain that this will be the start of a lasting friendship.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWas this the start of a new era?"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe line dropped dead."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“Forgive me for being so straightforward, but I have to ask.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“Now. Given the circumstances, I never thought I would be giving you a personal phone call. Yet here we are.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I did not hang up yet. That should show you *my* willingness to listen to your whining.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“Do not enter a war that you have no chance of winning.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“A pity. Really.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What are two backwater cities in the name of peace? I accept.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Screw you.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“Goodbye, Mr. Rayne.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe line dropped dead."
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nJust like that, I had thrown away any chance of a peace summit between Rumburg and Sordland."
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nJust like that, there was about to be peace between Rumburg and Sordland."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe decision wouldn't make me popular. But it was better than the alternative."
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_11",
+            "source": "node_1",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_147",
+            "source": "node_3",
+            "target": "node_147",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_10",
+            "source": "node_4",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_85",
+            "source": "node_14",
+            "target": "node_85",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_194",
+            "source": "node_51",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_186",
+            "source": "node_68",
+            "target": "node_186",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_148",
+            "source": "node_78",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_157",
+            "source": "node_79",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_172",
+            "source": "node_83",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_19",
+            "source": "node_84",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_115",
+            "source": "node_87",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_111",
+            "source": "node_113",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_129",
+            "source": "node_119",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_121",
+            "source": "node_131",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_152",
+            "source": "node_140",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_137",
+            "source": "node_144",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_151",
+            "source": "node_145",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_5",
+            "source": "node_147",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_183",
+            "source": "node_148",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_82",
+            "source": "node_149",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_140",
+            "source": "node_151",
+            "target": "node_140",
+            "type": "step"
+        }
+    ]
+}

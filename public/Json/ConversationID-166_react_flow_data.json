@@ -1,0 +1,703 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was the morning of Livia's trial, and hordes of reporters were gathered in front of the state courthouse. Petr, Lucian and I stood by the entrance."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We remain vigilant against external and internal enemies. We will not tolerate any crimes against the state.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMany camera flashes went off. A reporter raised her hand to speak."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes? What is it?\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A source within the palace? Who do you think she meant?\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That she did can be directly traced to the carelessness of one man: Petr Vectern.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Rest assured the traitor shall be brought to justice.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Rest assured a security breach of this magnitude shall never happen again.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Wait just a--\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe clamor of reporters was growing louder. Petr grabbed me by the collar and yanked me away from the microphones."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Rest assured the traitor shall be brought to justice.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"However, the fact remains that she should never have been allowed to access sensitive government information.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You don't have to do this.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will be answering all questions on the vice president's behalf.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Reporter\n\n\"Are you implying that you and the covert agent posing as President Rayne's secretary were engaged in intimate relations?\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Reporter\n\n\"President Rayne, was Mr. Vectern implying that he and the covert agent posing as President Rayne's secretary were engaged in intimate relations?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"What the hell, Anton? We never discussed this.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Reporter\n\n\"President Rayne, were you implying that Mr. Vectern and the covert agent posing as your secretary were engaged in intimate relations?\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian interjected."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will take exactly one question.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe reporters reluctantly dispersed. Lucian, Petr and I looked at each other for what seemed like an eternity. Finally, Petr lowered his eyes."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Too soon.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Mr. Vectern certainly made a scene, but it appears that you will make it out of this unscathed.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're a little old to be my secretary, Lucian.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I guess I'll go to the palace and start packing my things, then.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI watched Petr descend the courthouse stairs to his car, alone."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr shook his head. I watched him descend the courthouse steps to his car, alone."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Reporter\n\n\"Sir, you just had your vice president arraigned in full view of the public--\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Very good, sir.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI watched him descend the courthouse steps to his car."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI watched Petr descend the courthouse stairs to his car."
+            },
+            "position": {
+                "x": 8370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI said nothing and watched Petr descend the courthouse steps to his car."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'll come with you.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe reporters reluctantly dispersed. Lucian, Petr and I looked at each other for what seemed like an eternity. Finally, Petr lowered his eyes."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I guess I'll go to the palace and start packing my things, then.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"See you around, Anton.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHow could I forget? I was about to blame my best friend for a scandal that would otherwise shatter my administration. Petr hadn't said a word to me since I broke the news to him in my office."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe clamor of reporters was growing louder. Petr seemed to shrink behind the podium, his charisma failing him at last."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"A shame about your friend, Mr. President. But it appears you will make it out of this unscathed.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_234",
+            "source": "node_1",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_231",
+            "source": "node_33",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_342",
+            "source": "node_37",
+            "target": "node_342",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_215",
+            "source": "node_38",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_220",
+            "source": "node_63",
+            "target": "node_220",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_6",
+            "source": "node_73",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_87",
+            "source": "node_75",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_230",
+            "source": "node_77",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_233",
+            "source": "node_87",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_177",
+            "source": "node_98",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_151",
+            "source": "node_99",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_229",
+            "source": "node_101",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_214",
+            "source": "node_117",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_254",
+            "source": "node_130",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_141",
+            "source": "node_131",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_209",
+            "source": "node_140",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_147",
+            "source": "node_142",
+            "target": "node_147",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_255",
+            "source": "node_150",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_223",
+            "source": "node_168",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_188",
+            "source": "node_174",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_200",
+            "source": "node_176",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_339",
+            "source": "node_187",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_306",
+            "source": "node_188",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_202",
+            "source": "node_189",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_201",
+            "source": "node_192",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_203",
+            "source": "node_193",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_324",
+            "source": "node_197",
+            "target": "node_324",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_324",
+            "source": "node_198",
+            "target": "node_324",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_324",
+            "source": "node_199",
+            "target": "node_324",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_185",
+            "source": "node_200",
+            "target": "node_185",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_6",
+            "source": "node_204",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_190",
+            "source": "node_205",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_190",
+            "source": "node_206",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_190",
+            "source": "node_207",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_212",
+            "source": "node_208",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_341",
+            "source": "node_209",
+            "target": "node_341",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_205",
+            "source": "node_212",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_64",
+            "source": "node_222",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_16",
+            "source": "node_317",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_99",
+            "source": "node_321",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_190",
+            "source": "node_326",
+            "target": "node_190",
+            "type": "step"
+        }
+    ]
+}

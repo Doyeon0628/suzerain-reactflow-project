@@ -1,0 +1,244 @@
+{
+    "nodes": [
+        {
+            "id": "node_0",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15139949,\n\nNarrator: The royal convoy finally arrived at...\nen\n\n\nThe royal convoy finally arrived at the entrance to the Alliance of Nations Headquarters in Konstantium."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140051,\n\nNarrator: After the usual greetings we moved...\nen\n\n\nAfter the usual greetings we moved into the welcome hall with Laurento to take our seats."
+            },
+            "position": {
+                "x": 250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_2",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140153,\n\nNarrator: I looked around and none of the oth...\nen\n\n\nI looked around and none of the other leaders had the prestige nor the grandiose of our convoy. I felt good about the day."
+            },
+            "position": {
+                "x": 500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140255,\n\nNarrator: I smiled before jumping into the de...\nen\n\n\nI smiled before jumping into the den of the wolves."
+            },
+            "position": {
+                "x": 0,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140357,\n\nLaurento Esquibel: Here we go, Your Majesty.\nen\n\n\n\"Here we go, Your Majesty.\""
+            },
+            "position": {
+                "x": 250,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140475,\n\nNarrator: He leaned over to my ear.\nen\n\n\nHe leaned over to my ear."
+            },
+            "position": {
+                "x": 500,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140577,\n\nPlayer_Romus: What is the worst thing that can h...\nen\n\n\n\"What is the worst thing that can happen?\""
+            },
+            "position": {
+                "x": 0,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140679,\n\nPlayer_Romus: I am confident in this session.\nen\n\n\n\"I am confident in this session.\""
+            },
+            "position": {
+                "x": 250,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140781,\n\nLaurento Esquibel: We will see, sir.\nen\n\n\n\"We will see, sir.\""
+            },
+            "position": {
+                "x": 500,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140883,\n\nPlayer_Romus: These sessions bore me to death.\nen\n\n\n\"These sessions bore me to death.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 450
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15140985,\n\nLaurento Esquibel: It should be over in a heartbeat,...\nen\n\n\n\"It should be over in a heartbeat, sir.\""
+            },
+            "position": {
+                "x": 250,
+                "y": 450
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15141087,\n\nLaurento Esquibel: Let's see, sir.\nen\n\n\n\"Let's see, sir.\""
+            },
+            "position": {
+                "x": 500,
+                "y": 450
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15141189,\n\nNarrator: With the hit of the gavel, Presiden...\nen\n\n\nWith the hit of the gavel, President Nines announced the opening of the session."
+            },
+            "position": {
+                "x": 0,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 15141291,\n\nNarrator: A man that I recognized as Presiden...\nen\n\n\nA man that I recognized as President Nines approached the podium. The introductions to the session followed."
+            },
+            "position": {
+                "x": 250,
+                "y": 600
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e0",
+            "source": "node_6",
+            "target": "node_2",
+            "animated": true
+        },
+        {
+            "id": "e1",
+            "source": "node_7",
+            "target": "node_9",
+            "animated": true
+        },
+        {
+            "id": "e2",
+            "source": "node_8",
+            "target": "node_12",
+            "animated": true
+        },
+        {
+            "id": "e3",
+            "source": "node_9",
+            "target": "node_10",
+            "animated": true
+        },
+        {
+            "id": "e4",
+            "source": "node_10",
+            "target": "node_8",
+            "animated": true
+        },
+        {
+            "id": "e5",
+            "source": "node_11",
+            "target": "node_16",
+            "animated": true
+        },
+        {
+            "id": "e6",
+            "source": "node_12",
+            "target": "node_11",
+            "animated": true
+        },
+        {
+            "id": "e7",
+            "source": "node_13",
+            "target": "node_15",
+            "animated": true
+        },
+        {
+            "id": "e8",
+            "source": "node_14",
+            "target": "node_18",
+            "animated": true
+        },
+        {
+            "id": "e9",
+            "source": "node_15",
+            "target": "node_20",
+            "animated": true
+        },
+        {
+            "id": "e10",
+            "source": "node_16",
+            "target": "node_17",
+            "animated": true
+        },
+        {
+            "id": "e11",
+            "source": "node_17",
+            "target": "node_20",
+            "animated": true
+        },
+        {
+            "id": "e12",
+            "source": "node_18",
+            "target": "node_20",
+            "animated": true
+        },
+        {
+            "id": "e13",
+            "source": "node_19",
+            "target": "node_3",
+            "animated": true
+        }
+    ]
+}

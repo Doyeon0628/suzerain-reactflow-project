@@ -1,0 +1,992 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter a meeting with the rector and a brief tour of the University of Valgen, we gathered in a room with Ciara."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe entire campus was visible from the windows. Students were reading books, studying and having picnics under the trees."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Yes. It had its ups and downs but it was still fun.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“The usual story. A few friends dead, a couple of them missing after the coups. Oh, and I was almost arrested once.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How were your university years?”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I want to start off by saying this.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It was very positive to see the administration dedicate the funding that was requested.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I want to thank you for allowing me to lead our education system in the right direction. By removing nationalist indoctrination and traditional teachings we have unlocked the potential of the next generation.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Although I insist that the funds are still necessary to close the gaps in services, I can't say we have been entirely off track.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“What little money we allocated from privatization will be diverted to improvements.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Stagnation doesn't get anyone anywhere. Simply maintaining my ministry's funds got us sitting duck with the dozens of issues left unsolvable.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“The effects of your decision are much greater than I think you realise. The real damage is being done to the younger generation.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“We had a once in a lifetime opportunity to eradicate the political indoctrination and the traditional methods of education. We have sadly missed this chance.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“And as you have already stated, improving Sordland's sexist and horrendously outdated education system is low on your priorities list.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“That is why we are here.”"
+            },
+            "position": {
+                "x": 11070,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I did only what was necessary.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe nodded and brought out a stack of papers from her bag."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHer eyes widened, but she composed herself quickly."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“What priorities can there be other than the future of Sordland?”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Our ministry has prepared the necessary framework regarding how to spend our increased education budget.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Why should we increase the salaries of education workers?”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What does improving rural schools entail?”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let's move on to the decision and get on with it.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“We ought to give them what they deserve.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“If teachers lack the resources to give Sordish youth a proper education, it can be as bad as if they don't go to school at all.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe put the pen down and looked at me."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Increase salaries of teachers, principals and other education staff all around the country.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“That will definitely improve the education experience for our children.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Improve rural education by purchasing new materials and upgrading old school equipment.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“See you at our next meeting.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Keep up the good work.”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“As I mentioned before, there are enough resources to initiate one more policy plan. What would your preference be?”"
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you for your efforts.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It feels gratifying that we are finally serving the people directly. I will pass it down to the ministry.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Our teachers will be grateful. The payouts shall be prepared immediately.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara put the papers back in her bag and left the meeting room."
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe smiled."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Damn. I'm sorry...”"
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I have talked with Ms. Suno to schedule some time to discuss the curriculum. She's a very astute woman, your secretary. You may want to consider promoting her.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Build new rural schools. Our primary goal must be to increase access to education.”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Increase salaries of teachers, principals and other education staff all around the country.”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Improve rural education by purchasing new materials and upgrading old school equipment.”"
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It feels gratifying that we are finally serving the people directly. I will pass it down to the ministry.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Our teachers will be grateful. The payouts shall be prepared immediately.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“The students of now will thank us in the future President Rayne. For we have unlocked the potential of critical thought this society desperately needed. In this way you have surpassed all the leaders before you.”"
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It's a failure from my end to have come this far and not be able to make transformative change. We could have done so much more President Rayne. We didn't.”"
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It was not the right time and not the right choice Ciara.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It never is in Sordland.”"
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I'm not going to lie. I'm doubting our strategy.”"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“We are onto something promising and grand, Mr. President.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe shook her head and brought out a stack of papers from her bag."
+            },
+            "position": {
+                "x": 11340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“My efforts of trying to reform the education system failed due to the lack of funding allocated to the Ministry.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_236",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“New private schools are increasing the disparity of services in education. Lower-income households who can't afford the private school in their district and might need to send their children to a public school far away.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“New private schools are increasing the disparity of services in education. Lower-income households who can't afford the private school in their district and might need to send their children to a public school far away.”"
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“The state having had to rely on privatization funds is a disgrace. We are letting private interests meddle in the most essential service; learning.”"
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_340",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe entire campus was visible from the windows. Students were reading books, studying and having picnics under the trees."
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_341",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe entire campus was visible from the windows. Students were reading books, studying and having picnics under the trees."
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_342",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe entire campus was visible from the windows. Students were reading books, studying and having picnics under the trees."
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_375",
+            "source": "node_1",
+            "target": "node_375",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_344",
+            "source": "node_3",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_27",
+            "source": "node_15",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_178",
+            "source": "node_17",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_179",
+            "source": "node_18",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_65",
+            "source": "node_33",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_237",
+            "source": "node_39",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_219",
+            "source": "node_43",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_73",
+            "source": "node_47",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_92",
+            "source": "node_52",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_236",
+            "source": "node_63",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_35",
+            "source": "node_67",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_263",
+            "source": "node_71",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_218",
+            "source": "node_72",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_225",
+            "source": "node_74",
+            "target": "node_225",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_225",
+            "source": "node_75",
+            "target": "node_225",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_225",
+            "source": "node_76",
+            "target": "node_225",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_99",
+            "source": "node_85",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_99",
+            "source": "node_88",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_255",
+            "source": "node_108",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_142",
+            "source": "node_133",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_143",
+            "source": "node_136",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_146",
+            "source": "node_140",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_205",
+            "source": "node_142",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_206",
+            "source": "node_143",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_118",
+            "source": "node_145",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_209",
+            "source": "node_150",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_208",
+            "source": "node_158",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_173",
+            "source": "node_159",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_172",
+            "source": "node_160",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_360",
+            "source": "node_161",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_360",
+            "source": "node_162",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_197",
+            "source": "node_163",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_160",
+            "source": "node_166",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_210",
+            "source": "node_170",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_181",
+            "source": "node_176",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_233",
+            "source": "node_177",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_26",
+            "source": "node_178",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_26",
+            "source": "node_180",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_161",
+            "source": "node_182",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_213",
+            "source": "node_186",
+            "target": "node_213",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_212",
+            "source": "node_194",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_176",
+            "source": "node_201",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_176",
+            "source": "node_202",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_232",
+            "source": "node_216",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_74",
+            "source": "node_217",
+            "target": "node_74",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_72",
+            "source": "node_219",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_228",
+            "source": "node_221",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_229",
+            "source": "node_222",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_223",
+            "source": "node_227",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_77",
+            "source": "node_228",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_238",
+            "source": "node_230",
+            "target": "node_238",
+            "type": "step"
+        },
+        {
+            "id": "e236_to_36",
+            "source": "node_236",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_373",
+            "source": "node_245",
+            "target": "node_373",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_41",
+            "source": "node_246",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e340_to_364",
+            "source": "node_340",
+            "target": "node_364",
+            "type": "step"
+        },
+        {
+            "id": "e341_to_365",
+            "source": "node_341",
+            "target": "node_365",
+            "type": "step"
+        },
+        {
+            "id": "e342_to_367",
+            "source": "node_342",
+            "target": "node_367",
+            "type": "step"
+        }
+    ]
+}

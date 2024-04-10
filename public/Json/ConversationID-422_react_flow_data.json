@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_0",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 16525781,\n\nNarrator: Laurento and I sat in Palas Rezna's...\nen\n\n\nLaurento and I sat in Palas Rezna's diplomatic suite, awaiting our foreign guests."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e0",
+            "source": "node_9",
+            "target": "node_2",
+            "animated": true
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSerge took a left turn and drove through the tiny streets of Jen. The city looked surprisingly clean and well-maintained. There was no sign of the destruction the city suffered during one of the heaviest battles of the Civil War."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you, Serge.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nToday was a day of special symbolic importance for Sordland. Every year, on the 14th of March, proud patriots from all ages gathered to celebrate the end of the Sordish Civil War and Tarquin Soll's victory."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Wow. That was too comfortable of a drive to have been this fast.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr raised his head to look out the window. He folded the newspaper and laid it beside him."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"How are you today, Serge?\""
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"See? I wasn't joking. Serge is the best.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Serge Wolkner\n\n\"We have a yard now, and the children have more room to play.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Serge Wolkner\n\n\"It makes me proud to be driving the two most important men in Sordland on Victory Day.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"No kidding. My driver Sveta can't hold a candle to him.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"The three most important men are right here in this car, Serge.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Looks like the NFP mayors have really transformed the city. Wasn't this an abandoned warehouse for the longest time?\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Well... Maybe not all of them. Their *democratic* counterparts like the Young Sords lived on, after all...\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSerge drove us to the city of Jen, the Sordish nationalist stronghold, for an event organized to celebrate Victory Day and commemorate the fallen of the Battle of Jen."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFor the National Front Party, which governed the city, the day undoubtedly had great meaning. A lot of their supporters could be seen outside waving party flags."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFor the National Front Party, which governed the city, the day undoubtedly had great meaning. Due to the significance of the day and the NFP's lobbying efforts, the celebrations were allowed to take place despite the emergency."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTogether, we walked up to the center of the plaza."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Serge Wolkner\n\n\"Mr. President. Mr. Vice President. We are about to arrive at the Jen Center of Culture. We are slightly earlier than estimated.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Amazing, Serge. Anton must be treating you *very* well.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Serge Wolkner\n\n\"I'm just fine, sir.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 400
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_292",
+            "source": "node_1",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_37",
+            "source": "node_3",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_13",
+            "source": "node_4",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_53",
+            "source": "node_8",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_61",
+            "source": "node_11",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_23",
+            "source": "node_13",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_242",
+            "source": "node_14",
+            "target": "node_242",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_22",
+            "source": "node_15",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_246",
+            "source": "node_16",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_19",
+            "source": "node_21",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_3",
+            "source": "node_23",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_3",
+            "source": "node_24",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_25",
+            "source": "node_37",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_6",
+            "source": "node_45",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_55",
+            "source": "node_46",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_47",
+            "source": "node_57",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_106",
+            "source": "node_59",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_10",
+            "source": "node_63",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_16",
+            "source": "node_245",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_3",
+            "source": "node_246",
+            "target": "node_3",
+            "type": "step"
+        }
+    ]
+}

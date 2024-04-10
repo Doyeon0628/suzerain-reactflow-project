@@ -1,0 +1,754 @@
+{
+    "nodes": [
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe put handcuffs on my wrists and we started walking."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSoldiers grabbed my arms and led me inside. They gestured towards the table in the court room."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“You are accused of high treason against Sordland, Mr. Rayne.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“This military court will now handle the case of Anton Rayne, the former President of Sordland.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“It is clear to me that you are actively trying to destroy our country from the inside.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“You have allowed our military to degrade, causing direct danger to the integrity of our country and our people.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“What do you have to say for yourself, Mr. Rayne?”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“What do you have to say for yourself, Mr. Rayne?”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You know what, screw you!”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n\"Your lies know no bound. Fortunately, we don't care if you 'play along' or not.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“No, not really.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“You dare threaten the head of your own country's military? You are an incorrigible traitor, Mr. Rayne.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“You dare threaten the head of your own country's military? You are an incorrigible traitor, Mr. Rayne.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“Gladly.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Gladly.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“We do not negotiate with traitors, Mr. Rayne. Permission denied.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef walked toward me and leaned in as he murmured faintly."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe swiftly moved back and adjusted his uniform before continuing."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was the only one loaded into the prison truck. After a couple of hours had passed, we finally came to a stop."
+            },
+            "position": {
+                "x": 11070,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“This is ridiculous! You have no proof!”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Don't worry too much, Mr. Rayne, we will make good use of the economy you left for us.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“You have failed to govern your people and instead, as a result of your actions, they are revolting. If you can't put an end to this, then we will.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“Instead of giving the order to destroy the BFF, you decided to side with known rebels that we have been fighting for years. You betrayed loyal Sords who sacrificed themselves for their country.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Do you know why you are here?”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“And we let this man be our President.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“We all know our sins.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“At least he is aware.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“And had him brutally executed!”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“And had him brutally executed!”"
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I've made Sordland a better place. Every Sord is living a pleasant life because of me.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I dragged Sordland out of a recession and brought us to a golden age. Without me, this republic would have crumbled. The people see me as a hero.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Plead Unguilty Hub\n\nPlead Unguilty Hub"
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“No need to delay this further.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nValken walked toward me and leaned in as he murmured faintly."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“We are doing what we were assigned to do. Protect this country. At this very moment, we are protecting it from you.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“We are doing what we were assigned to do. Protect this country. At this very moment, we are protecting it from you.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I gave you support so you can protect this country. Instead, you've chosen to depose your own president!?\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"The *law* that you wrote and passed for yourself?\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_252",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"Shall we move on then?\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_253",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n\"Shall we move on then?\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_254",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"What a joke!\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n\"What a joke!\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe swiped the saliva off his face and rubbed it on your suit."
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_265",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYour punch connected but he barely flinched."
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e4_to_24",
+            "source": "node_4",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_122",
+            "source": "node_8",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_158",
+            "source": "node_39",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_126",
+            "source": "node_41",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_173",
+            "source": "node_55",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_73",
+            "source": "node_57",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_168",
+            "source": "node_72",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_194",
+            "source": "node_73",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_194",
+            "source": "node_74",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_100",
+            "source": "node_82",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_197",
+            "source": "node_87",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_198",
+            "source": "node_88",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_89",
+            "source": "node_92",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_207",
+            "source": "node_106",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_207",
+            "source": "node_107",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_112",
+            "source": "node_115",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_207",
+            "source": "node_116",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_211",
+            "source": "node_120",
+            "target": "node_211",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_272",
+            "source": "node_121",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_9",
+            "source": "node_123",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_261",
+            "source": "node_132",
+            "target": "node_261",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_43",
+            "source": "node_148",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_43",
+            "source": "node_149",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_66",
+            "source": "node_157",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_40",
+            "source": "node_164",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_41",
+            "source": "node_165",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_40",
+            "source": "node_166",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_65",
+            "source": "node_170",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_65",
+            "source": "node_171",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_188",
+            "source": "node_180",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_199",
+            "source": "node_187",
+            "target": "node_199",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_200",
+            "source": "node_193",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_195",
+            "source": "node_200",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_272",
+            "source": "node_210",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_221",
+            "source": "node_213",
+            "target": "node_221",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_215",
+            "source": "node_218",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_195",
+            "source": "node_220",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_223",
+            "source": "node_246",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e252_to_256",
+            "source": "node_252",
+            "target": "node_256",
+            "type": "step"
+        },
+        {
+            "id": "e253_to_228",
+            "source": "node_253",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e254_to_228",
+            "source": "node_254",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_251",
+            "source": "node_255",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_121",
+            "source": "node_264",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e265_to_121",
+            "source": "node_265",
+            "target": "node_121",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,1434 @@
+{
+    "nodes": [
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was seated on the Sila Orica in the Grand Hall. My court had gathered for the 'Hearing of Petitions'."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhether or not I cared for it didn't matter. The rules were the rules. I walked to the center of the Throne Room."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI looked inside the goblet ornamented with a crown."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Grand Vizier Petition\n\nGrand Vizier Petition"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "War and Security Petition\n\nWar and Security Petition"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Foreign Affairs Petition\n\nForeign Affairs Petition"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Treasury Petition\n\nTreasury Petition"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the wooden toy horse."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the horseshoe."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the ornamented shovel."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the dried flower in resin."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal stepped forward and kneeled."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRico stepped forward and kneeled."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTaddeus rolled forward in his wheelchair."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDaria stepped forward and kneeled."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"My King. I petition myself for the position of Grand Vizier in servitude to the crown.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Angelica Sazon\n\n\"My King. I petition myself for the position of Grand Vizier in servitude to the crown.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"My King. I petition myself for the position of Grand Vizier in servitude to the crown.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Rico Toras\n\n\"My King. I petition myself for the position of War and Security Councillor in servitude to the crown.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"My Liege. I petition myself for the position of War and Security Councillor in servitude to the crown.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"My King. I petition myself for the position of War and Security Councillor in servitude to the crown.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Daria de Rava\n\n\"My King. I petition myself for the position of Treasury and Economy Councillor in servitude to the crown.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Russello Montoro\n\n\"My King. I petition myself for the position of Treasury and Economy Councillor in servitude to the crown.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"My King. I petition myself for the position of Foreign Affairs Councillor in servitude to the crown.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs soon as I came to a decision, I was to melt the mementos from the goblet into the molten gold until they dissolved."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I reject all of your petitions. The seat of Grand Vizier will remain empty.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I choose Angelica Sazon to be my Grand Vizier.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I choose Sal Ignacius to be my Grand Vizier.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I reject the petitions. Lucita Azaro will remain my War and Security Councillor.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_185",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I choose Taddeus Azaro to be my War and Security Councillor.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I choose Titus Gordion to be my War and Security Councillor.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI dropped the mementos in the molten gold."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I choose Daria de Rava to be my Treasury and Economy Councillor.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I choose Vina Toras to be my Foreign Affairs Councillor.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDaria stood up and took her place in the circle."
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTitus stood up and took his place in the circle."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal stood up and took his place in the circle."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_232",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAngelica stood up and took her place in the circle."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAxel stood up and took his place in the circle."
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nVina stood up and took her place in the circle."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I proclaim the end of the Hearing of Petitions.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGolden knives were handed to all of us."
+            },
+            "position": {
+                "x": 11070,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_258",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thank you for attending.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"We have so much we can do together. I can help you, as I helped your father.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_263",
+            "type": "customNode",
+            "data": {
+                "label": "Angelica Sazon\n\n\"Before my exile, I was one of the most educated noblewomen in Brenas. On Caleqabiz, I spent much of my time reading about the principles of governance.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_265",
+            "type": "customNode",
+            "data": {
+                "label": "Angelica Sazon\n\n\"That is what I can offer to you and to the crown. Nothing more, nothing less.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_266",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"I ask you: What better action to signify the friendship between Rizians and Palesians?\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_271",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"That is my pitch, if you will, Your Majesty.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Rico Toras\n\n\"You know very well what I am capable of, cousin.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"All my life I have fought for this country. I bled for it. I went through hell for it.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"War will come to Rizia someday, sire. And to protect the interests of my proud kingdom, I am ready to die a thousand deaths.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_282",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"My daughter is ready to step aside. She has another role to play now.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_283",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I protected you and your father for many years as part of the Golden Guard and hopefully I will do so for many more.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Trust in me and the Golden Guard, and security will never be a worry in Rizia again.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_288",
+            "type": "customNode",
+            "data": {
+                "label": "Daria de Rava\n\n\"During my tenure at the House of Delegates, I made many successful career moves and also ended others' careers.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_292",
+            "type": "customNode",
+            "data": {
+                "label": "Russello Montoro\n\n\"That's right. I want this job so much I'm willing to go through *all* the formalities. I even bought a new tie.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_293",
+            "type": "customNode",
+            "data": {
+                "label": "Russello Montoro\n\n\"I've already helped make Rizia money. Think about how much more I could do as treasurer.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Russello Montoro\n\n\"Just look at how much gold we're hauling out of the ground right now. All thanks to me.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_295",
+            "type": "customNode",
+            "data": {
+                "label": "Russello Montoro\n\n\"Not to mention that if you're looking to get closer to ATO... well, I can help you with that. If you know what I mean.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Father. I know you still see me as your little girl. Maybe you don't think that I am ready.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Laurento has been like a grandfather to me, but he's past his prime and you know it. It's time for the younger generation to represent Rizia on the global stage.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_300",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"As for me... well, you know better than anybody that work is all I have.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_301",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"We have had our differences. But please. Grant me this.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe ritual had finally ended."
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at the bright red, sizzling molten gold until my eyes began to water."
+            },
+            "position": {
+                "x": 11070,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_311",
+            "type": "customNode",
+            "data": {
+                "label": "Angelica Sazon\n\n\"I do not only ask this of you as the mother of the Prince Consort.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_312",
+            "type": "customNode",
+            "data": {
+                "label": "Angelica Sazon\n\n\"By reinstating me as Duchess of Brenas, you showed deep faith in my capabilities and in my noble house.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Angelica Sazon\n\n\"You already trusted my judgement once, when you cancelled the ill-advised reforms you were planning.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_323",
+            "type": "customNode",
+            "data": {
+                "label": "Angelica Sazon\n\n\"And I am still prepared to keep the more... unruly elements of my house in line.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_328",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"I realize that it's rather unorthodox to serve as the principal advisor to a man nearly twice my age. Rest assured that my own interests will come second to yours. Every time.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_337",
+            "type": "customNode",
+            "data": {
+                "label": "Rico Toras\n\n\"Respectfully, after deposing me as Duke of Iza... this is the least you can do.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Do not forget that it was only with my help that the second and final Pales War was won.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_359",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"You trusted House Azaro, and they guided you into an unwinnable war. I swear that would never have happened under my watch.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_367",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I also ask you to remember certain other tasks I have performed for you. Loyally and without question.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_371",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Think about how much the Golden Guard has helped you accomplish thus far.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_379",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I reject the petitions. Taddeus Azaro will remain my War and Security Councillor.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_387",
+            "type": "customNode",
+            "data": {
+                "label": "Daria de Rava\n\n\"Appoint me, and I promise I will restore Rizia's budget surplus back to its former glory.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_396",
+            "type": "customNode",
+            "data": {
+                "label": "Daria de Rava\n\n\"Coming away from the Aureus dispute with nothing? I never would have allowed that to happen.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Daria de Rava\n\n\"That will be all from me.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_415",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"You trusted me enough to send me to Pales.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_424",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Finally, I will remind you that you have taken away my birthright as Queen of Rizia.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_428",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"If I cannot follow in the footsteps of Lyza the Great, at least grant me this.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_436",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"As I am no longer in line to become King Consort... I hope you will consider granting me this as a consolation prize.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_440",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Remember our conversation in Benievon, Your Majesty. Place your trust in me, and the blessings will be infinite.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e16_to_79",
+            "source": "node_16",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_20",
+            "source": "node_24",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_152",
+            "source": "node_27",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_26",
+            "source": "node_70",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_111",
+            "source": "node_71",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_114",
+            "source": "node_72",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_125",
+            "source": "node_73",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_130",
+            "source": "node_84",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_90",
+            "source": "node_93",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_95",
+            "source": "node_98",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_198",
+            "source": "node_118",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_208",
+            "source": "node_126",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_236",
+            "source": "node_136",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_156",
+            "source": "node_137",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_158",
+            "source": "node_139",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_161",
+            "source": "node_142",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_260",
+            "source": "node_143",
+            "target": "node_260",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_309",
+            "source": "node_144",
+            "target": "node_309",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_267",
+            "source": "node_145",
+            "target": "node_267",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_273",
+            "source": "node_146",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_342",
+            "source": "node_147",
+            "target": "node_342",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_284",
+            "source": "node_148",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_289",
+            "source": "node_149",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_293",
+            "source": "node_150",
+            "target": "node_293",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_298",
+            "source": "node_151",
+            "target": "node_298",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_134",
+            "source": "node_170",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_216",
+            "source": "node_178",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_215",
+            "source": "node_179",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_373",
+            "source": "node_184",
+            "target": "node_373",
+            "type": "step"
+        },
+        {
+            "id": "e185_to_224",
+            "source": "node_185",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_187",
+            "source": "node_192",
+            "target": "node_187",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_194",
+            "source": "node_196",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_225",
+            "source": "node_199",
+            "target": "node_225",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_226",
+            "source": "node_209",
+            "target": "node_226",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_26",
+            "source": "node_226",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_224",
+            "source": "node_230",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_224",
+            "source": "node_231",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e232_to_223",
+            "source": "node_232",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_443",
+            "source": "node_233",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_443",
+            "source": "node_234",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_259",
+            "source": "node_241",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_2",
+            "source": "node_247",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e258_to_303",
+            "source": "node_258",
+            "target": "node_303",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_245",
+            "source": "node_259",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e263_to_162",
+            "source": "node_263",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e265_to_430",
+            "source": "node_265",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e266_to_163",
+            "source": "node_266",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e271_to_268",
+            "source": "node_271",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_164",
+            "source": "node_272",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_334",
+            "source": "node_278",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_349",
+            "source": "node_281",
+            "target": "node_349",
+            "type": "step"
+        },
+        {
+            "id": "e282_to_339",
+            "source": "node_282",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e283_to_348",
+            "source": "node_283",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_353",
+            "source": "node_286",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e288_to_167",
+            "source": "node_288",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e292_to_389",
+            "source": "node_292",
+            "target": "node_389",
+            "type": "step"
+        },
+        {
+            "id": "e293_to_399",
+            "source": "node_293",
+            "target": "node_399",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_406",
+            "source": "node_294",
+            "target": "node_406",
+            "type": "step"
+        },
+        {
+            "id": "e295_to_409",
+            "source": "node_295",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_169",
+            "source": "node_297",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_413",
+            "source": "node_299",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e300_to_417",
+            "source": "node_300",
+            "target": "node_417",
+            "type": "step"
+        },
+        {
+            "id": "e301_to_426",
+            "source": "node_301",
+            "target": "node_426",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_170",
+            "source": "node_302",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_247",
+            "source": "node_303",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e311_to_306",
+            "source": "node_311",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e312_to_306",
+            "source": "node_312",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_264",
+            "source": "node_318",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e323_to_264",
+            "source": "node_323",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e328_to_434",
+            "source": "node_328",
+            "target": "node_434",
+            "type": "step"
+        },
+        {
+            "id": "e337_to_165",
+            "source": "node_337",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_282",
+            "source": "node_351",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e359_to_369",
+            "source": "node_359",
+            "target": "node_369",
+            "type": "step"
+        },
+        {
+            "id": "e367_to_287",
+            "source": "node_367",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e371_to_361",
+            "source": "node_371",
+            "target": "node_361",
+            "type": "step"
+        },
+        {
+            "id": "e379_to_224",
+            "source": "node_379",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e387_to_398",
+            "source": "node_387",
+            "target": "node_398",
+            "type": "step"
+        },
+        {
+            "id": "e396_to_385",
+            "source": "node_396",
+            "target": "node_385",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_385",
+            "source": "node_397",
+            "target": "node_385",
+            "type": "step"
+        },
+        {
+            "id": "e415_to_300",
+            "source": "node_415",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e424_to_170",
+            "source": "node_424",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e428_to_421",
+            "source": "node_428",
+            "target": "node_421",
+            "type": "step"
+        },
+        {
+            "id": "e436_to_272",
+            "source": "node_436",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e440_to_162",
+            "source": "node_440",
+            "target": "node_162",
+            "type": "step"
+        }
+    ]
+}

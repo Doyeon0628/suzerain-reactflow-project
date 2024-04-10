@@ -1,0 +1,1825 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLeon Malenyev stepped on the carpet and started to make his way toward us."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe door of the pitch black sedan opened and flashes went off."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBoth sides of the maroon carpet leading up to the palace were lined with soldiers wearing military uniforms from Sordish history. They had swords, shields and spears. Some of them were on horseback."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"How was your flight?\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I wanted extravagance, not a circus show. What the hell is this?”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It looks good, Lucian. Good job.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe looked at me with an expressionless face."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Thank you.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Welcome to Sordland.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs soon as our inspection finished, we entered the palace."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFinally, I was within reach of one of the most powerful men in the world."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"You are very kind, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica and I walked over to meet him in the middle."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs soon as our inspection finished, we entered the palace."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Please, this way. Let's move to the palace.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn the way to the entrance we stopped in front of Iosef who was in charge of the troops."
+            },
+            "position": {
+                "x": 5940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled thinly."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA maroon carpet stretched from the vehicle to the palace, lined with Sordish troops. War planes flew above our heads, painting the sky with the colors of the Sordish flag."
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMalenyev smiled and saluted Valken and the soldiers. They saluted back."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I've wanted to meet with you for the longest time.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It is wonderful to see you, Chairman Malenyev.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSeeing Malenyev approach, Lucian stood back."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFinally, I was within reach of one of the most powerful men in the world."
+            },
+            "position": {
+                "x": 5940,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMalenyev smiled at the soldiers and saluted them. They saluted back."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn the way to the entrance we stopped in front of General Valken who was in charge of the troops."
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It is really good to see you, Chairman Malenyev.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Welcome to Sordland.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled."
+            },
+            "position": {
+                "x": 2700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Welcome to Sordland.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"It is nice to meet you, Mrs. Rayne.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"How was your flight?\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Lead the way, Mr. President.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It is wonderful to see you, Chairman Malenyev.”"
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Don't mind us. We were just passing by.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAt that moment, we came to the end of the corridor and entered the reception hall."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGradually, the music and the sound of the party started to fade away."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"I look at the world today and think, it has changed so much since I joined the Rotskis as a young revolutionary...\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe laughed."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Definitely not one of those two.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"You surprised me. It's usually one or the other, depending on who you're asking. But never together.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe sneered."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"I thought when Tarquin Soll came to power, he worked towards removing the republic's connection to its feudal past.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I know he despised the kingdom. But I think he still needed a glorious past to make people proud. That's where Renan came in.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"You cannot see what the future holds for you if you're not literate in history.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"That's what I suspected. If it was not going to be the kingdom he despised so much, it made sense to look further back.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"He just left in the parts he liked. Isn't it fascinating how a single person can alter history just like that?\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"It is perhaps even more divided than ever. There are still wars in every corner of the world. There is still poverty, violence and slavery.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Today, the whole continent is at peace, Mr. Rayne. And now the rest of the world is furious.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"In the end, you formed the largest country in the world.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_185",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There are many countries who look up to United Contana. You are not alone.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"They were. But the revolution lives on in Contana now. It's time we help others.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_190",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"We have. And now our responsibility is great. We cannot sit back and let Arcasian imperialism enslave the third world.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"I still remember how Contana was a massive war zone. When all the warring states were supplied weapons by the west. Kings and dictators killed each other.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Oh, yes. Renan.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took another sip from his glass and stretched his hand to me."
+            },
+            "position": {
+                "x": 9990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"But before we talk about that...\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Could you help me?\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course. Please follow me, Chairman Malenyev.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Chancellor Hegel told me a lot about you.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Are you even aware what goes on there?\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"You are supporting the foreign Agnolian regime, which is trying to destroy the local culture. The Heljilandian Valgs are being oppressed.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't want to interfere with the matters between Valgsland and Agnolia.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You are right, Chairman Malenyev. We can't.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. I am behind Valgsland in this conflict.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_249",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Interfere? Do you think the Agnolian government is innocent?\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_254",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"So you support what their government is trying to do?\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_261",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"In the end, people are dying. And for no reason other than the political aims of their governments.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_266",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I thought this was about people being killed.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So you think Arcasia's behind this?\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_274",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You are right, Chairman Malenyev. We can't let the western powers take control.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"So, you are ready to tear down the agreement...\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_291",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Exactly.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_293",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Only if Sordland enters the CSP.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled."
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_298",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Don't rush your decision.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOne of his bodyguards, dressed in full military uniform, rushed towards us with a bottle of water."
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_309",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm not sure if we *need* it, but I definitely want to cooperate.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_312",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Don't get me wrong. Sordland is a powerful country.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Without us, Arcasia would dominate the world. The Arcasian Lira is already crippling other economies while they reap the benefits. Yet they claim they're the bringers of freedom. Absurd.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What does the CSP offer for Sordland?\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_323",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Will you stand with us against the threat of Rumburg?\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Unfortunately, I have to decline.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Security. First and foremost, CSP is a defense pact. You will have the backing of the entire military power of our members.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Not to mention visa-free access to every country within the CSP as well as other mutual assistance deals.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_334",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"You must accept our doctrines and work towards the goals of the pact. To further our power against the ATO.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Your military alliance with Lespia must be cancelled immediately.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_340",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"You must also cancel your alliance with Agnolia.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Chancellor Hegel told me that I could trust you with the money.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"But my agents told me that you might be the one who wants to start a war. Not Rumburg. Is there any truth to that?\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_358",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"I promise you. Their queen will no longer meddle in Sordland nor Eastern Merkopa.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's a deal, Chairman Malenyev.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "CSPHub\n\nCSPHub"
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_379",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. We will bring the war to them, before they are fully prepared.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_409",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled."
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_416",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe narrowed his eyes and stared at me as he exhaled smoke right into my face."
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_422",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe slowly stood up from his seat, seemingly struggling."
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_424",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course, Chairman Malenyev. Please come this way.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_425",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I wanted to make a deal today as well. But your terms were not acceptable.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_431",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe slowly stood up from his seat, seemingly struggling."
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_468",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"Just know that standing alone in this world is not as easy as it seems.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_478",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's a deal, Chairman Malenyev.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_479",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's a deal, Chairman Malenyev.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_480",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's a deal, Chairman Malenyev.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_484",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It is wonderful to see you, Mr. Chavatangakwunua.”"
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_485",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It is wonderful to see you, Mr. Chavatangakwunua.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_488",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It is wonderful to see you, Mr. Chavatangakwunua.”"
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_491",
+            "type": "customNode",
+            "data": {
+                "label": "Leon Malenyev\n\n\"You are very kind, Mr. Rayne. Not a lot of people would even try to pronounce my real name.\""
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_45",
+            "source": "node_1",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_41",
+            "source": "node_3",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_205",
+            "source": "node_6",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_16",
+            "source": "node_19",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_80",
+            "source": "node_21",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_16",
+            "source": "node_23",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_64",
+            "source": "node_26",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_79",
+            "source": "node_27",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_64",
+            "source": "node_28",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_64",
+            "source": "node_30",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_27",
+            "source": "node_34",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_486",
+            "source": "node_37",
+            "target": "node_486",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_59",
+            "source": "node_40",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_485",
+            "source": "node_43",
+            "target": "node_485",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_4",
+            "source": "node_56",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_66",
+            "source": "node_57",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_68",
+            "source": "node_58",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_16",
+            "source": "node_59",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_32",
+            "source": "node_60",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_44",
+            "source": "node_61",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_38",
+            "source": "node_62",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_38",
+            "source": "node_63",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_16",
+            "source": "node_66",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_489",
+            "source": "node_67",
+            "target": "node_489",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_31",
+            "source": "node_68",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_57",
+            "source": "node_70",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_53",
+            "source": "node_76",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_21",
+            "source": "node_79",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_16",
+            "source": "node_81",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_83",
+            "source": "node_87",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_16",
+            "source": "node_90",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_16",
+            "source": "node_92",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_16",
+            "source": "node_93",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_16",
+            "source": "node_96",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_494",
+            "source": "node_98",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_494",
+            "source": "node_105",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_122",
+            "source": "node_123",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_167",
+            "source": "node_125",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_136",
+            "source": "node_129",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_122",
+            "source": "node_134",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_122",
+            "source": "node_137",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_193",
+            "source": "node_144",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_164",
+            "source": "node_158",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_99",
+            "source": "node_160",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_99",
+            "source": "node_162",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_122",
+            "source": "node_165",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_99",
+            "source": "node_166",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_192",
+            "source": "node_179",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_190",
+            "source": "node_181",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e185_to_212",
+            "source": "node_185",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_178",
+            "source": "node_189",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e190_to_178",
+            "source": "node_190",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_178",
+            "source": "node_191",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_180",
+            "source": "node_192",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_145",
+            "source": "node_193",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_219",
+            "source": "node_200",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_194",
+            "source": "node_201",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_8",
+            "source": "node_205",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_183",
+            "source": "node_210",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_195",
+            "source": "node_213",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_216",
+            "source": "node_221",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_255",
+            "source": "node_239",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_256",
+            "source": "node_245",
+            "target": "node_256",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_258",
+            "source": "node_246",
+            "target": "node_258",
+            "type": "step"
+        },
+        {
+            "id": "e249_to_247",
+            "source": "node_249",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e254_to_262",
+            "source": "node_254",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e261_to_254",
+            "source": "node_261",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e266_to_287",
+            "source": "node_266",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_266",
+            "source": "node_272",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e274_to_285",
+            "source": "node_274",
+            "target": "node_285",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_292",
+            "source": "node_278",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e291_to_300",
+            "source": "node_291",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e293_to_298",
+            "source": "node_293",
+            "target": "node_298",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_296",
+            "source": "node_297",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e298_to_291",
+            "source": "node_298",
+            "target": "node_291",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_291",
+            "source": "node_299",
+            "target": "node_291",
+            "type": "step"
+        },
+        {
+            "id": "e309_to_315",
+            "source": "node_309",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e312_to_319",
+            "source": "node_312",
+            "target": "node_319",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_312",
+            "source": "node_318",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_376",
+            "source": "node_321",
+            "target": "node_376",
+            "type": "step"
+        },
+        {
+            "id": "e323_to_335",
+            "source": "node_323",
+            "target": "node_335",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_356",
+            "source": "node_324",
+            "target": "node_356",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_417",
+            "source": "node_325",
+            "target": "node_417",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_360",
+            "source": "node_333",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e334_to_351",
+            "source": "node_334",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_268",
+            "source": "node_336",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e340_to_345",
+            "source": "node_340",
+            "target": "node_345",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_331",
+            "source": "node_351",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_353",
+            "source": "node_357",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e358_to_382",
+            "source": "node_358",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_476",
+            "source": "node_373",
+            "target": "node_476",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_410",
+            "source": "node_375",
+            "target": "node_410",
+            "type": "step"
+        },
+        {
+            "id": "e379_to_376",
+            "source": "node_379",
+            "target": "node_376",
+            "type": "step"
+        },
+        {
+            "id": "e409_to_439",
+            "source": "node_409",
+            "target": "node_439",
+            "type": "step"
+        },
+        {
+            "id": "e416_to_482",
+            "source": "node_416",
+            "target": "node_482",
+            "type": "step"
+        },
+        {
+            "id": "e422_to_466",
+            "source": "node_422",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e424_to_427",
+            "source": "node_424",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e425_to_430",
+            "source": "node_425",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e431_to_440",
+            "source": "node_431",
+            "target": "node_440",
+            "type": "step"
+        },
+        {
+            "id": "e468_to_423",
+            "source": "node_468",
+            "target": "node_423",
+            "type": "step"
+        },
+        {
+            "id": "e478_to_470",
+            "source": "node_478",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e479_to_410",
+            "source": "node_479",
+            "target": "node_410",
+            "type": "step"
+        },
+        {
+            "id": "e480_to_410",
+            "source": "node_480",
+            "target": "node_410",
+            "type": "step"
+        },
+        {
+            "id": "e484_to_402",
+            "source": "node_484",
+            "target": "node_402",
+            "type": "step"
+        },
+        {
+            "id": "e485_to_492",
+            "source": "node_485",
+            "target": "node_492",
+            "type": "step"
+        },
+        {
+            "id": "e488_to_72",
+            "source": "node_488",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e491_to_84",
+            "source": "node_491",
+            "target": "node_84",
+            "type": "step"
+        }
+    ]
+}

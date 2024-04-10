@@ -1,0 +1,193 @@
+{
+    "nodes": [
+        {
+            "id": "node_0",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9429550,\n\nNarrator: Time froze. You saw the crowd looki...\nen\n\n\nTime froze. You saw the crowd looking at you in shock."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9429658,\n\nNarrator: You heard someone yell Or Dax Quer...\nen\n\n\nYou heard someone yell \"Or Dax Querna! Qival Rumburgia!\""
+            },
+            "position": {
+                "x": 250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_2",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9430316,\n\nNarrator: A dull pain engulfed your body. You...\nen\n\n\nA dull pain engulfed your body. You felt weak and tired.\\n\\nYou closed your eyes for one last time."
+            },
+            "position": {
+                "x": 500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9430418,\n\nNarrator: You heard someone yell For Free Bl...\nen\n\n\nYou heard someone yell \"For Free Bludia! Yollak Bluderat!\""
+            },
+            "position": {
+                "x": 0,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9430520,\n\nPlayer: You looked down.\nen\n\n\nYou looked down."
+            },
+            "position": {
+                "x": 250,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9430622,\n\nPlayer: Your vision started fading.\nen\n\n\nYour vision started fading."
+            },
+            "position": {
+                "x": 500,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9430724,\n\nPlayer: The end had come.\nen\n\n\nThe end had come."
+            },
+            "position": {
+                "x": 0,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9430832,\n\nPlayer: You felt cold.\nen\n\n\nYou felt cold."
+            },
+            "position": {
+                "x": 250,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9430934,\n\nNarrator: Your shirt was stained with blood....\nen\n\n\nYour shirt was stained with blood.\\n\\nYou lost your balance and fell to the floor. People started screaming."
+            },
+            "position": {
+                "x": 500,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9431036,\n\nNarrator: Your shirt was stained with blood....\nen\n\n\nYour shirt was stained with blood.\\n\\nYou fell into Monica's arms. She screamed while holding your bloodied hands."
+            },
+            "position": {
+                "x": 0,
+                "y": 450
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 9431416,\n\nNarrator: You heard someone scream.\nen\n\n\nYou heard someone scream."
+            },
+            "position": {
+                "x": 250,
+                "y": 450
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e0",
+            "source": "node_1",
+            "target": "node_3",
+            "animated": true
+        },
+        {
+            "id": "e1",
+            "source": "node_3",
+            "target": "node_13",
+            "animated": true
+        },
+        {
+            "id": "e2",
+            "source": "node_10",
+            "target": "node_19",
+            "animated": true
+        },
+        {
+            "id": "e3",
+            "source": "node_11",
+            "target": "node_15",
+            "animated": true
+        },
+        {
+            "id": "e4",
+            "source": "node_12",
+            "target": "node_14",
+            "animated": true
+        },
+        {
+            "id": "e5",
+            "source": "node_13",
+            "target": "node_5",
+            "animated": true
+        },
+        {
+            "id": "e6",
+            "source": "node_14",
+            "target": "node_11",
+            "animated": true
+        },
+        {
+            "id": "e7",
+            "source": "node_15",
+            "target": "node_2",
+            "animated": true
+        },
+        {
+            "id": "e8",
+            "source": "node_16",
+            "target": "node_8",
+            "animated": true
+        },
+        {
+            "id": "e9",
+            "source": "node_17",
+            "target": "node_16",
+            "animated": true
+        },
+        {
+            "id": "e10",
+            "source": "node_21",
+            "target": "node_22",
+            "animated": true
+        }
+    ]
+}

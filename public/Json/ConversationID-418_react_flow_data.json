@@ -1,0 +1,1536 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nQueen Beatrice had invited me to her countryside retreat in Datefort for a one-on-one talk, but she hadn't filled me in on the subject."
+            },
+            "position": {
+                "x": 8100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked down at the table in front of me. A white porcelain plate and teacup were surrounded by roughly a drawer's worth of silverware."
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI rose from my seat in greeting."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the middle spoon and used it to stir some sugar into my tea."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBeatrice smiled approvingly and did the same."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"So, Your Majesty. I suppose you know why I've asked you to join me here.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"And rubbed salt in our wounds with the formation of your silly little regional alliance.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"The reports I'm hearing of widespread riots... most unbefitting of a once-great kingdom such as yours.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"And furthermore--\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"With the formation of your silly little regional alliance, you have turned your back on your most loyal of trade partners.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"If I happen to see you while visiting Vina, I will be cordial. That's all I can promise.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"You'll never hold your own against the superpowers without us. That much is certain.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOur server cleared the uneaten scones from the table. Two of his colleagues delicately put down a towering etagere spilling over with petit fours."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I know full well which spoons to use, thank you.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Civilized compared to whom?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Ha. I confess I'll miss your visits.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_190",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I will give you one guess.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"So how is that war of yours going?\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Great. Swimmingly. We're on track to win the whole thing.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I was ever so excited to learn about Rizia's victory in Operation Golden Shield.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"The Alliance of Nations has turned against you...\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_236",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"You are racking up a respectable number of kills.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_237",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Correct me if I'm wrong, my dear, but it seems Rizia is rather fucked.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the middle spoon and used it to spread jam on one of the scones."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_253",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Overall, the outcome is far from decided. But I do trust your kingdom to rip the Palesians a new arsehole.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_266",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It might look like we're doing well, but our troops are suffering out there. Is there anything you can do to help us?\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_269",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I'm afraid another military aid package is out of the question.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"If I were, I wouldn't tell a Sord-lover like yourself.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Then run red it shall. But you don't need our help for that.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Then by all means, fight on. You don't need our help for that.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_322",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I appreciate the offer. But Rizia is perfectly capable of winning this war. Just give us time.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Nobody is neutral in this day and age. Not even Kyrute.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the middle spoon and used it to eat one of the petit fours."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_334",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the inner spoon and used it to eat one of the petit fours."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_335",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe paused as our server used a fine-bristled brush to sweep the scone crumbs off our table."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_349",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"To do this any other way would be costly beyond belief. Trust me.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If you truly think Rumburg can bring a bloodless end to this conflict, then I accept your offer.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_361",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Let's hope you're better at waging war than you are at conducting yourself at tea.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_366",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Oh, dear. You were so close to getting it right.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Without etiquette, we are mere primates.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_374",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I honestly don't give a damn. Tea is for weaklings.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The next cup we drink together will be in Pales.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI thought once more about the offer I'd turned down."
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Next time I'll have to invite the Duke of Pales here. There is still much to be discussed about his GRACE membership.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_406",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's high time you spoke to the Duke. You two would get along fabulously.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_408",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As the kingdom responsible for bringing the Palesians into the fold, I must insist you not make deals with them without my involvement.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I own the rights to the Aureus gas field. Any contribution Pales can make is only incidental.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_417",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"A larger monarchical presence in South Merkopa is beneficial to us all. Not to mention that gas field.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_419",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I haven't forgotten about Rumburg's wedding gift, by the way.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_423",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"You tried to form a regional alliance behind Rumburg's back. You cannot come crawling back to us just because it failed.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"And for what? A sad, failed attempt at a regional alliance?\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_434",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"It is finally ready. Would you like to see it?\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_461",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOur server returned with a silver tray of piping hot scones and a crystal ramekin of rose-hip jam."
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_471",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"In all seriousness, Your Majesty... I and the rest of GRACE have been observing the situation in Rizia with some worry.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_477",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I wanted to invite Her Highness as well, but she seems to be quite the career woman these days.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_482",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"If she ever returns, I would urge you to go easier on her. She is your only child, after all...\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_486",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI thought I detected a look of warning in her eyes."
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_493",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I must tell you that I and the rest of GRACE have been slightly concerned about the direction in which Rizia is heading.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_496",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"In all seriousness, I am glad to see you are still sticking to the principles upon which GRACE was founded.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_497",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No need for concern. I know exactly what I am doing.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_499",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You don't understand. I had no choice.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_500",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"The last thing we need is another Vendonesam on our hands.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_505",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"You had better.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_510",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I am afraid not. We have our fingers in so many pies at the moment. But please do be careful.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_511",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What is coming, Your Excellency?\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_522",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Fret not. It's nothing I would ask your kingdom to get involved in. Not directly, at least.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_528",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"My kingdom is going to need Rizia at full capacity for what's coming.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_533",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"The rest of the world already holds certain prejudices towards monarchs. Your religious zealotry is only confirming their suspicions.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_534",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"You are the king. You make choices for your people, not the other way around.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_535",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"CSP and ATO are growing far too powerful. Any sign of instability is an opportunity for them to pounce.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_548",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"You are getting Zille back. That's an important step in the right direction.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_557",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"When will you learn, Romus? What the people want has nothing to do with what they need.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_561",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the middle spoon and used it to eat one of the petit fours."
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_562",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI picked up the inner spoon and used it to eat one of the petit fours."
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_563",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Then again, it requires us to be close with Wehlen.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_567",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"And by the way... with or without Zille, I am still expecting Rizia to repay its energy debt to us.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_577",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Believe me, I know-- I mean, I remember.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_583",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Ah, yes. Quite the career woman, my niece.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_584",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe scrutinized me closely before deciding to let the remark go."
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_587",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Once the region is ours again, we will be a stronger ally to Rumburg than ever before.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_589",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Interdependence between South Merkopan nations is increasing. Rumburg will not be our suzerain forever.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_592",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Who said anything about a suzerain?\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_594",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No matter what happens, I am grateful to Rumburg for all its support throughout the years.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_601",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Having said all that... I am still expecting Rizia to repay its energy debt to us.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_610",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Well done. My sister must have taught you well.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_613",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Honestly, GRACE ought to sanction you for your breach of etiquette.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_616",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLater, flying over the Sordish region of Bergia in {RiziaDLCText.RoyalJet}, my mind flashed back to what the Queen had told me."
+            },
+            "position": {
+                "x": 21330,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_625",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs I flew home in {RiziaDLCText.RoyalJet}, I saw Zille spread out beneath me."
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_640",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I appreciate our trade partnership, I really do. But you have to know that you simply can't stick your spoon in two cakes at the same time.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_645",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Your ambitions are admirable, but you have to know that you simply cannot stick your spoon in two cakes at the same time. Speaking of which...\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_353",
+            "source": "node_3",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_32",
+            "source": "node_19",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_19",
+            "source": "node_30",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_170",
+            "source": "node_47",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_170",
+            "source": "node_49",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_193",
+            "source": "node_54",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_107",
+            "source": "node_75",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_84",
+            "source": "node_90",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_84",
+            "source": "node_91",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_421",
+            "source": "node_113",
+            "target": "node_421",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_645",
+            "source": "node_157",
+            "target": "node_645",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_645",
+            "source": "node_158",
+            "target": "node_645",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_645",
+            "source": "node_159",
+            "target": "node_645",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_639",
+            "source": "node_183",
+            "target": "node_639",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_181",
+            "source": "node_186",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_183",
+            "source": "node_188",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e190_to_183",
+            "source": "node_190",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_182",
+            "source": "node_191",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_399",
+            "source": "node_195",
+            "target": "node_399",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_206",
+            "source": "node_212",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_219",
+            "source": "node_227",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e236_to_250",
+            "source": "node_236",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e237_to_250",
+            "source": "node_237",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_260",
+            "source": "node_240",
+            "target": "node_260",
+            "type": "step"
+        },
+        {
+            "id": "e253_to_246",
+            "source": "node_253",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e266_to_322",
+            "source": "node_266",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e269_to_429",
+            "source": "node_269",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_286",
+            "source": "node_280",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_295",
+            "source": "node_304",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_295",
+            "source": "node_313",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e322_to_286",
+            "source": "node_322",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_3",
+            "source": "node_325",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_355",
+            "source": "node_333",
+            "target": "node_355",
+            "type": "step"
+        },
+        {
+            "id": "e334_to_355",
+            "source": "node_334",
+            "target": "node_355",
+            "type": "step"
+        },
+        {
+            "id": "e335_to_356",
+            "source": "node_335",
+            "target": "node_356",
+            "type": "step"
+        },
+        {
+            "id": "e349_to_332",
+            "source": "node_349",
+            "target": "node_332",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_327",
+            "source": "node_351",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e361_to_367",
+            "source": "node_361",
+            "target": "node_367",
+            "type": "step"
+        },
+        {
+            "id": "e366_to_387",
+            "source": "node_366",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_383",
+            "source": "node_373",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e374_to_382",
+            "source": "node_374",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_390",
+            "source": "node_376",
+            "target": "node_390",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_354",
+            "source": "node_395",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_354",
+            "source": "node_397",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e406_to_418",
+            "source": "node_406",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e408_to_429",
+            "source": "node_408",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_409",
+            "source": "node_412",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e417_to_429",
+            "source": "node_417",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e419_to_429",
+            "source": "node_419",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e423_to_80",
+            "source": "node_423",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_80",
+            "source": "node_427",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e434_to_478",
+            "source": "node_434",
+            "target": "node_478",
+            "type": "step"
+        },
+        {
+            "id": "e461_to_473",
+            "source": "node_461",
+            "target": "node_473",
+            "type": "step"
+        },
+        {
+            "id": "e471_to_491",
+            "source": "node_471",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e477_to_580",
+            "source": "node_477",
+            "target": "node_580",
+            "type": "step"
+        },
+        {
+            "id": "e482_to_462",
+            "source": "node_482",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e486_to_479",
+            "source": "node_486",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e493_to_497",
+            "source": "node_493",
+            "target": "node_497",
+            "type": "step"
+        },
+        {
+            "id": "e496_to_530",
+            "source": "node_496",
+            "target": "node_530",
+            "type": "step"
+        },
+        {
+            "id": "e497_to_525",
+            "source": "node_497",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e499_to_530",
+            "source": "node_499",
+            "target": "node_530",
+            "type": "step"
+        },
+        {
+            "id": "e500_to_535",
+            "source": "node_500",
+            "target": "node_535",
+            "type": "step"
+        },
+        {
+            "id": "e505_to_528",
+            "source": "node_505",
+            "target": "node_528",
+            "type": "step"
+        },
+        {
+            "id": "e510_to_522",
+            "source": "node_510",
+            "target": "node_522",
+            "type": "step"
+        },
+        {
+            "id": "e511_to_536",
+            "source": "node_511",
+            "target": "node_536",
+            "type": "step"
+        },
+        {
+            "id": "e522_to_514",
+            "source": "node_522",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e528_to_525",
+            "source": "node_528",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e533_to_525",
+            "source": "node_533",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e534_to_525",
+            "source": "node_534",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e535_to_530",
+            "source": "node_535",
+            "target": "node_530",
+            "type": "step"
+        },
+        {
+            "id": "e548_to_555",
+            "source": "node_548",
+            "target": "node_555",
+            "type": "step"
+        },
+        {
+            "id": "e557_to_565",
+            "source": "node_557",
+            "target": "node_565",
+            "type": "step"
+        },
+        {
+            "id": "e561_to_613",
+            "source": "node_561",
+            "target": "node_613",
+            "type": "step"
+        },
+        {
+            "id": "e562_to_613",
+            "source": "node_562",
+            "target": "node_613",
+            "type": "step"
+        },
+        {
+            "id": "e563_to_604",
+            "source": "node_563",
+            "target": "node_604",
+            "type": "step"
+        },
+        {
+            "id": "e567_to_560",
+            "source": "node_567",
+            "target": "node_560",
+            "type": "step"
+        },
+        {
+            "id": "e577_to_420",
+            "source": "node_577",
+            "target": "node_420",
+            "type": "step"
+        },
+        {
+            "id": "e583_to_420",
+            "source": "node_583",
+            "target": "node_420",
+            "type": "step"
+        },
+        {
+            "id": "e584_to_420",
+            "source": "node_584",
+            "target": "node_420",
+            "type": "step"
+        },
+        {
+            "id": "e587_to_564",
+            "source": "node_587",
+            "target": "node_564",
+            "type": "step"
+        },
+        {
+            "id": "e589_to_597",
+            "source": "node_589",
+            "target": "node_597",
+            "type": "step"
+        },
+        {
+            "id": "e592_to_590",
+            "source": "node_592",
+            "target": "node_590",
+            "type": "step"
+        },
+        {
+            "id": "e594_to_599",
+            "source": "node_594",
+            "target": "node_599",
+            "type": "step"
+        },
+        {
+            "id": "e601_to_560",
+            "source": "node_601",
+            "target": "node_560",
+            "type": "step"
+        },
+        {
+            "id": "e610_to_616",
+            "source": "node_610",
+            "target": "node_616",
+            "type": "step"
+        },
+        {
+            "id": "e613_to_607",
+            "source": "node_613",
+            "target": "node_607",
+            "type": "step"
+        },
+        {
+            "id": "e616_to_618",
+            "source": "node_616",
+            "target": "node_618",
+            "type": "step"
+        },
+        {
+            "id": "e625_to_354",
+            "source": "node_625",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e640_to_129",
+            "source": "node_640",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e645_to_160",
+            "source": "node_645",
+            "target": "node_160",
+            "type": "step"
+        }
+    ]
+}

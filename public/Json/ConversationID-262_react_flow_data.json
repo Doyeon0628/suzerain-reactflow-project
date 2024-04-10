@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou rose to your feet as the bright light enveloped you."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_14",
+            "source": "node_1",
+            "target": "node_14",
+            "type": "step"
+        }
+    ]
+}

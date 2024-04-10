@@ -1,0 +1,40 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPorte Drazon Citadel was always a majestic but also unnerving building in the capitol. It emanated an aura of grandiose and fear with its long metal spires."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI decided not to execute anyone."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_16",
+            "source": "node_1",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_2",
+            "source": "node_12",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

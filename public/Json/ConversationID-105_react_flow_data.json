@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"I think you'd also agree that Mrs. Morgna isn't doing much to justify the retainment of her position.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e7_to_4",
+            "source": "node_7",
+            "target": "node_4",
+            "type": "step"
+        }
+    ]
+}

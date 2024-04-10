@@ -1,0 +1,1434 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI undid my tie slowly and rose from my seat in the protected bunker on the outskirts of Holsord. I increased the volume of the crackling radio."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI pointed the gun towards the soldier."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Well, that's my cue.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef turned to me."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Vectern sis da!”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGunshots rang out, then an ear-splitting explosion, followed by silence."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n“The enemy is advancing on us. Requesting backup. We are surrounded from all sides. I repeat, we are surro--”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n“If there is anyone listening right now... please. The world needs to know what is going on. This is no longer a war. This is a massacre! Squad 2 out.”"
+            },
+            "position": {
+                "x": 14310,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at Monica and Deana. Deana's face was streaked with tears."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI breathed a sigh of relief that Monica and Deana were safely on their way to Arcasia, where they would meet up with Franc. My family wouldn't be paying for my mistakes."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at Monica, Deana and Franc. Deana started running to me, crying. I wiped her tears away."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“The military convoy carrying your children and ex-wife was ambushed by Rumburg troops on its way out of Holsord. Franc sacrificed his life in order to grant safe passage to Monica, your daughter, and the rest of his squad.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Monica and Deana are unharmed and will be arriving in Benfi soon.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“This is all my fault. I caused my son's death.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Death is never the end, my dear daughter. It comes to all of us at one point in our lives.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“No. We will not die, Deana. As long as I am here, don't worry.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Are we safe here, Iosef?”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What do you make of the situation?”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Don't worry, sir. Unless they somehow got their hands on the Palace schematics, they don't know about the secret tunnel that leads here from the Situation Room.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n“You better keep that promise, Anton.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“It's one last battle for me, then.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n“Anton, don't you fucking dare.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n“You don't get to decide that.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef punched a code into the panel on the door, and it slid open. As we left the bunker, it closed behind us with a final-sounding thud."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEverything was the same as I had left it."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI sat down in my chair."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Office Hub\n\nOffice Hub"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Out with a bang, right?\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe taste was as exquisite as ever."
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI ran my hands over the leather armrests. I had always felt comfortable sitting here."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBlack smoke was rising from downtown Holsord. Buildings shook, groaned and collapsed as bombs went off."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They only want *me*. I'm going to the Palace.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe sat and waited. A grim silence descended."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA half an hour passed, then an hour, then an hour and a half."
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey were drilling their way through to us."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Vectern sis da.”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Mr. President. Take this.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Roger that, sir.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“All ready, sir?”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI saluted him and he saluted me back."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“I will be in the other room.”"
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_235",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef soon returned with a couple of small pills."
+            },
+            "position": {
+                "x": 9990,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe turned to me and gave me a handgun."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_249",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA minute later, I heard a solitary gunshot."
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_256",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI pointed the gun towards my own head."
+            },
+            "position": {
+                "x": 11070,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_257",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe door swung open and a Rumburgian soldier entered. He trained his rifle on me."
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI stood up, and one of the men turned his rifle on me."
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I surrender! Please don't hurt my family! I beg you! Please!”"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I surrender! Please don't hurt me! I beg you! Please!”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_276",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI thanked Iosef and turned to my family."
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_279",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef punched a code into the panel on the door, and it slid open. As we left the bunker, it closed behind us with a final-sounding thud."
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_283",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI breathed a sigh of relief that Deana and her mother were on their way to safety in Benfi, under the protection of Franc and his army squad. Monica had angrily protested my order at first, but relented when I told her the children's lives were on the line."
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_287",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey were supposed to have gotten there right about now."
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_292",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Give 'em hell!\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_293",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I love you.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't open this door after I leave. No matter what you hear.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_295",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“For Sordland!\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_296",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef walked away. He returned after just a few short minutes."
+            },
+            "position": {
+                "x": 9990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“For Sordland!\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_298",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Goodbye, Iosef.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI turned the radio off and swallowed hard. Nobody knew I wasn't at the Palace. Except for Iosef."
+            },
+            "position": {
+                "x": 8640,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“That depends, sir. If your ex-secretary handed Rumburg the Palace schematics, they might know about the tunnel that leads here from the Situation Room.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_305",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy Minister of Defense had sprung into action the moment Rumburg began strafing Holsord, smuggling me out of the Palace into this remote bunker."
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_306",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe'd managed to get my family here as well. What was left of it, anyway."
+            },
+            "position": {
+                "x": 14310,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMiraculously, he'd managed to get my family here as well."
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI breathed a sigh of relief that the children were out of the country with their mother, staying with a distant relative of Monica's in Arcasia. My ex-wife had the good sense to flee long before the invasion started."
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI breathed a sigh of relief that Deana was safely out of the country with her mother. Monica had taken our daughter and fled to a distant relative's house in Arcasia, shortly after Franc..."
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef flung open the door and, in a flurry of gunfire, easily dispatched the small group of soldiers outside."
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_352",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"Our failure at Tzarsbourgh triggered a string of events that we could not imagine...\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_353",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef tightened his grip on his handgun."
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_361",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"We thought we had them trapped at Estord... \""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_369",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was interrupted by the sudden loud noise of gunfire in the hall outside."
+            },
+            "position": {
+                "x": 15930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_377",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"Feels like just yesterday that we were raising Sordland's banner over Tzarsbourgh...\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_378",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"But then our attempt to capture Thornbourgh ended in failure...\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_379",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"Mr. President, I just wanted to say...\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_385",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"We thought we had them trapped at Estord...\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_389",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"Our failure at Tzarsbourgh triggered a string of events that we could not have imagined...\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_393",
+            "type": "customNode",
+            "data": {
+                "label": "Deana\n\n\"But I'm not even a grown-up yet! I'm not ready...\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_394",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's my fault, General. I got us into--\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We can't do anything about that now. All we can do is make our last--\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_396",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. This mess we're in--\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's my fault, General. I got us into an unwinnable war.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_401",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI didn't reply. We sat down in opposite corners of the room."
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_402",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI kept silent, listening to the sounds of the battle below us."
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_330",
+            "source": "node_1",
+            "target": "node_330",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_119",
+            "source": "node_10",
+            "target": "node_119",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_351",
+            "source": "node_12",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_166",
+            "source": "node_14",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_293",
+            "source": "node_21",
+            "target": "node_293",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_405",
+            "source": "node_24",
+            "target": "node_405",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_31",
+            "source": "node_33",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_92",
+            "source": "node_38",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_300",
+            "source": "node_39",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_76",
+            "source": "node_42",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_322",
+            "source": "node_56",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_289",
+            "source": "node_62",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_393",
+            "source": "node_70",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_66",
+            "source": "node_71",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_393",
+            "source": "node_82",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_394",
+            "source": "node_83",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_301",
+            "source": "node_93",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_301",
+            "source": "node_94",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_301",
+            "source": "node_95",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_45",
+            "source": "node_100",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_182",
+            "source": "node_129",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_280",
+            "source": "node_138",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_295",
+            "source": "node_142",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_295",
+            "source": "node_143",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_328",
+            "source": "node_147",
+            "target": "node_328",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_173",
+            "source": "node_150",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_167",
+            "source": "node_152",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_135",
+            "source": "node_164",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_15",
+            "source": "node_166",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_283",
+            "source": "node_169",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_282",
+            "source": "node_172",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_153",
+            "source": "node_176",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_130",
+            "source": "node_181",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_380",
+            "source": "node_182",
+            "target": "node_380",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_406",
+            "source": "node_186",
+            "target": "node_406",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_299",
+            "source": "node_215",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_260",
+            "source": "node_218",
+            "target": "node_260",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_219",
+            "source": "node_222",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_297",
+            "source": "node_226",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_229",
+            "source": "node_231",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_296",
+            "source": "node_234",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e235_to_251",
+            "source": "node_235",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_277",
+            "source": "node_240",
+            "target": "node_277",
+            "type": "step"
+        },
+        {
+            "id": "e249_to_298",
+            "source": "node_249",
+            "target": "node_298",
+            "type": "step"
+        },
+        {
+            "id": "e256_to_31",
+            "source": "node_256",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e257_to_256",
+            "source": "node_257",
+            "target": "node_256",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_31",
+            "source": "node_259",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_31",
+            "source": "node_264",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_31",
+            "source": "node_270",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e276_to_31",
+            "source": "node_276",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e279_to_227",
+            "source": "node_279",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e283_to_176",
+            "source": "node_283",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e287_to_59",
+            "source": "node_287",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e292_to_64",
+            "source": "node_292",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e293_to_23",
+            "source": "node_293",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_144",
+            "source": "node_294",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e295_to_144",
+            "source": "node_295",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e296_to_235",
+            "source": "node_296",
+            "target": "node_235",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_237",
+            "source": "node_297",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e298_to_247",
+            "source": "node_298",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_217",
+            "source": "node_299",
+            "target": "node_217",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_96",
+            "source": "node_303",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e305_to_98",
+            "source": "node_305",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e306_to_38",
+            "source": "node_306",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_306",
+            "source": "node_316",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_57",
+            "source": "node_320",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_40",
+            "source": "node_324",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_393",
+            "source": "node_327",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e352_to_348",
+            "source": "node_352",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e353_to_369",
+            "source": "node_353",
+            "target": "node_369",
+            "type": "step"
+        },
+        {
+            "id": "e361_to_369",
+            "source": "node_361",
+            "target": "node_369",
+            "type": "step"
+        },
+        {
+            "id": "e369_to_403",
+            "source": "node_369",
+            "target": "node_403",
+            "type": "step"
+        },
+        {
+            "id": "e377_to_386",
+            "source": "node_377",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e378_to_387",
+            "source": "node_378",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e379_to_392",
+            "source": "node_379",
+            "target": "node_392",
+            "type": "step"
+        },
+        {
+            "id": "e385_to_378",
+            "source": "node_385",
+            "target": "node_378",
+            "type": "step"
+        },
+        {
+            "id": "e389_to_374",
+            "source": "node_389",
+            "target": "node_374",
+            "type": "step"
+        },
+        {
+            "id": "e393_to_4",
+            "source": "node_393",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e394_to_88",
+            "source": "node_394",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_370",
+            "source": "node_395",
+            "target": "node_370",
+            "type": "step"
+        },
+        {
+            "id": "e396_to_370",
+            "source": "node_396",
+            "target": "node_370",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_370",
+            "source": "node_397",
+            "target": "node_370",
+            "type": "step"
+        },
+        {
+            "id": "e401_to_183",
+            "source": "node_401",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e402_to_183",
+            "source": "node_402",
+            "target": "node_183",
+            "type": "step"
+        }
+    ]
+}

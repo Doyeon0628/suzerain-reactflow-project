@@ -1,0 +1,108 @@
+{
+    "nodes": [
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't remember. So many items pass my desk in a day.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"I agree. You should commend your councilor for her initiative.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Absolutely not. Duchess Azaro is grasping beyond her station.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Are they currently planning anything? I've heard no news of them.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I very much would.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel (R)\n\n\"Well, you should commend your councilor for her initiative.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e23_to_53",
+            "source": "node_23",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_51",
+            "source": "node_24",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_52",
+            "source": "node_25",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_13",
+            "source": "node_28",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_13",
+            "source": "node_35",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_30",
+            "source": "node_50",
+            "target": "node_30",
+            "type": "step"
+        }
+    ]
+}

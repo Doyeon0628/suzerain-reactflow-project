@@ -1,0 +1,125 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Before we begin in earnest, we must acknowledge the results of the recent House of Delegates election.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHugo had a wide smile on his face."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHugo smiled confidently."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Brilliant. I'm glad to hear that the majority of the Rizian public still respects the authority of their monarch and his supporters.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Indeed, Your Majesty.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Thanks to the reform of our electoral system, hundreds of experienced politicians lost their provincial council seats.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"I admit I questioned your reform of the Rizian electoral system at first. But we now know for a fact that the people of this kingdom favor stability and tradition.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_244",
+            "source": "node_2",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_107",
+            "source": "node_11",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_83",
+            "source": "node_13",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_53",
+            "source": "node_37",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_97",
+            "source": "node_56",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_50",
+            "source": "node_88",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_64",
+            "source": "node_99",
+            "target": "node_64",
+            "type": "step"
+        }
+    ]
+}

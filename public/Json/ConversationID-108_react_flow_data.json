@@ -1,0 +1,533 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Lucian and Petr believe that he can be persuaded though... So I'll leave that up to you.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We won the vote. Maybe we could still persuade Orso.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"We can't know for *sure* of course, but the centrist trio always stick together and Isabel is their mouthpiece. She's the only one willing to talk, so we have to take our chances with her.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"He's not willing to talk. I doubt you can do anything about that. He won't be giving away his powers like that.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you for your efforts with the Anti-corruption police.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Well, the next step is speaking to Isabel and making sure she votes for the proposal. But also...\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"He's doing his best to organize the Court against your proposal.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I guess we have... maybe 15 minutes?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Thank you for signing the order, Mr. President.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"She's certainly open to dialogue but also sceptical. She seemed to be scared of a potential purge against the Court.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe looked at her watch."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"That's what I hope for too.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "NiaHub1\n\nNiaHub1"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'm sure he has also pressured the Justices of the Court right after that win. I can't speak any sense into them.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We need to talk to Heron, then.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"But there's huge pressure on them. The Anti-corruption force has found incriminating evidence against some of the Justices.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"We still need three more votes. Isabel can potentially bring two to three votes, that's why she's our ticket.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"The Old Guards are fanatically opposing your proposal, so I doubt there is any possibility there. But we might still need their help if Isabel can't bring exactly the three votes we need.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What about Justice Edmonds? Do you think we can sway her?\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"She's not openly protesting against the Old Guards but she has told me about her concerns about them.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"You should call Lucian, he has been trying to deal with him.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Yes, I think she's our best bet. We have a meeting with her now, after all.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"She must also be under pressure after the anti-corruption police's raids against her fellow colleagues.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have to keep up the pressure.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Although they have immunity, they are scared that these would go public. We have already gained a few more votes in the Court but I'm not sure more Old Guards would jump on the same wagon.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What has Orso been doing?\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good. The whole Court must finally learn to back down.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I only know about the two Justices I've mentioned earlier who are with me. So we have three votes there.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"We are not in a battle against the Court here, Mr. President.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"With the ongoing investigations of the anti-corruption force, I'm sure we will have a strong position against most of the Old Guards regarding their impeachment.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"We can't know for *sure* of course, but the ACP should help them get in line if Isabel's trust can be earned. The centrists stick together.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_10",
+            "source": "node_2",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_61",
+            "source": "node_5",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_97",
+            "source": "node_7",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_72",
+            "source": "node_9",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_3",
+            "source": "node_12",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_96",
+            "source": "node_14",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_2",
+            "source": "node_15",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_38",
+            "source": "node_16",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_2",
+            "source": "node_17",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_41",
+            "source": "node_19",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_69",
+            "source": "node_29",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_19",
+            "source": "node_31",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_19",
+            "source": "node_32",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_19",
+            "source": "node_34",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_79",
+            "source": "node_35",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_9",
+            "source": "node_36",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_4",
+            "source": "node_43",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_94",
+            "source": "node_45",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_33",
+            "source": "node_64",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_14",
+            "source": "node_66",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_31",
+            "source": "node_71",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_60",
+            "source": "node_72",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_67",
+            "source": "node_73",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_19",
+            "source": "node_74",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_59",
+            "source": "node_76",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_60",
+            "source": "node_78",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_16",
+            "source": "node_79",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_60",
+            "source": "node_83",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_56",
+            "source": "node_84",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_60",
+            "source": "node_92",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_8",
+            "source": "node_99",
+            "target": "node_8",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,1621 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's a good start. If she's willing to talk, she's willing to cooperate.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I'm sure the Assembly vote must count for something... I mean, it passed by ninety percent, for God's sake!\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian, Petr and I convened on the massive balcony of the palace. It was nice to catch a breeze in the increasing summer heat."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"We may need to take some extreme measures, though.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"If we cannot get Mrs. Edmond's centrists, we will have no choice but to reach out to the Old Guard.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Well, she could probably pass as one...\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Hey, we won the vote comfortably. I'm sure that counts for something.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"They wouldn't dare reject such a popular proposal.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"There is at least some pressure on the Court now.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"...Now we have the council of grumpy old men in our way.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Fellas! The first obstacle has been cleared! Congratulations to all of us.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"We've come this far. Anything is possible.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"It was indeed a historic vote. The President has accomplished something even Tarquin Soll had trouble with.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Indeed. But then again, so was securing the Assembly vote.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"The Court still sees us as a threat. They will not be persuaded so easily.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"If the Justices fail us at this stage, I'm sure the people will see them for who they really are.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We never expected this to be easy. Nothing has changed.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"She's a tough woman. I doubt that she'll be persuaded at this point.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"And Nia was pretty adamant about her position against the proposal. That's already one vote lost out of eleven.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Mrs. Morgna has been helping out with the lobbying of the Court. She has been speaking with Mrs. Edmonds, and we believe she's our key figure on the inside.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Yeah...\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I wouldn't be so sure, sir. They control more than the Court, as you know.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"We've come this far. Anything is possible.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"That's true, sir.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr started laughing."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I believe in you, sir.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"In any case, we should start with our best bet. I already asked Nia to arrange a meeting with Mrs. Edmonds.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"It's a tough spot to be in. As I said, we have no other way but to convince Mr. Hawker's fellow Old Guard members behind his back.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Also, even if she was with us, that wouldn't change the current climate.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"She's willing to speak with you.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"How about Heron Garaci?\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good. I'll make sure she joins us. Just watch.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Come on, gentlemen, let's not overthink this.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The real trouble is their big daddy Hawker. We can't let him control the Court against us.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I'm not trying to be pessimistic, but Mrs. Morgna cannot do this alone. Let's not forget about Mr. Hawker. And his loyalists.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"...And Mrs. Morgna. She's technically a member too.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"With all due respect, sir, this is the most crucial step in passing your reforms. It cannot be overthought.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I'm sure you'll convince her.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Indeed. But then again, so was winning over the Assembly.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I'm afraid she is. I knew she would be a headache...\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Which means our lobbying efforts have not yet borne fruit. It will be up to you and Mrs. Morgna, sir.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"We'll still need to reach out to the Old Guard and the moderates in order to reach six votes.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Let's not over-assume, Petr. Mrs. Morgna has already made her position known. She will not support the proposal.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's going to be tough.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's fine. We can do it without her.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Anyway...\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe laughed. Lucian look at him with a raised eyebrow."
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I don't know about that, Anton. You have to convince her yourself, if you can.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe cleared his throat."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"That's four or five votes gone, right from the start.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"And we already have Nia inside the Court. That's one vote out of eleven.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Which leaves us five more...\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you again for your hard work, Petr.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"It was nothing, Anton. It was mostly you.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"But for now, let's move on.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"In any case, I will conduct proper investigations into this. We should know every hidden Old Guard member who is working with Soll.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"What the hell was that all about anyway? Him appearing out of nowhere...\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's just move on with our next steps.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Maybe you should have. Even Serge knew about it.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What's done is done. Let's not linger in the past.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I'm sorry that we failed to warn you he would be attending, Mr. President. We should have been informed about his arrival.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Well, the laws protect him from almost anything, and allow him to be a member of the Assembly. He can still propose bills and vote for them.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"He came to the Assembly to make a statement. But we still won the vote.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Oh, he did? Who were they?\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"That's too bad.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"But he has no authority anymore.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, he didn't.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes, he did.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"He didn't see who they were, did he?\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Soll might be working behind the scenes against us.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It doesn't matter now, does it?\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Still, sir, we should have been more aware. But it's time to plan ahead now.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I hope you are not hiding anything from me.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"It smells fishy.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"You're right, sir. But as long as he's here in Holsord, he can create problems for us.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"You're right, sir. We must plan ahead now.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"That's proper authority, if you ask me. When you are the founder of this system, you don't need to be sitting in the presidential office to have power.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I learned it from Serge. How come MY DRIVER knows more than YOU!?\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"How did Serge know, anyway?\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That wasn't your fault.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"What Lucian said. We apologize.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's not that important. He didn't do anything.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I just still can't believe I didn't know he was coming.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We should organize a cabinet meeting to discuss the situation.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Exactly. We must plan our next steps.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"That's what my sources say, sir. But considering he hasn't come to the Palace... I don't know what to expect.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Indeed.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"In a situation such as this, I would have expected Karl to report it to me. But it's no excuse. We should have done our own research.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"No, sir. But he certainly has enormous influence.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I want to talk to him. Are you sure he's still in Holsord?\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I'll do my best, sir. Let's now move on to our next steps.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"In a situation such as this, I would have expected Karl to report it to me. But you're right, sir. We should have done our own research.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Of course, sir. I'll make the necessary arrangements. Let's talk about our next steps.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Are you saying he still has more authority than me?\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Yeah, we have the first hurdle cleared, but...\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_9",
+            "source": "node_2",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_14",
+            "source": "node_6",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_20",
+            "source": "node_7",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_24",
+            "source": "node_9",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_4",
+            "source": "node_10",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_83",
+            "source": "node_12",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_25",
+            "source": "node_17",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_66",
+            "source": "node_19",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_11",
+            "source": "node_21",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_181",
+            "source": "node_22",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_181",
+            "source": "node_24",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_103",
+            "source": "node_25",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_11",
+            "source": "node_26",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_34",
+            "source": "node_29",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_11",
+            "source": "node_30",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_21",
+            "source": "node_33",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_49",
+            "source": "node_35",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_26",
+            "source": "node_37",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_61",
+            "source": "node_39",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_100",
+            "source": "node_40",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_93",
+            "source": "node_41",
+            "target": "node_93",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_67",
+            "source": "node_42",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_53",
+            "source": "node_45",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_10",
+            "source": "node_46",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_53",
+            "source": "node_47",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_80",
+            "source": "node_48",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_64",
+            "source": "node_52",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_96",
+            "source": "node_54",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_10",
+            "source": "node_55",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_64",
+            "source": "node_56",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_85",
+            "source": "node_58",
+            "target": "node_85",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_19",
+            "source": "node_59",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_68",
+            "source": "node_60",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_44",
+            "source": "node_62",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_54",
+            "source": "node_63",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_75",
+            "source": "node_64",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_2",
+            "source": "node_66",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_96",
+            "source": "node_67",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_2",
+            "source": "node_68",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_10",
+            "source": "node_69",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_44",
+            "source": "node_72",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_50",
+            "source": "node_74",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_32",
+            "source": "node_75",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_12",
+            "source": "node_80",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_69",
+            "source": "node_81",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_77",
+            "source": "node_82",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_38",
+            "source": "node_84",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_83",
+            "source": "node_85",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_77",
+            "source": "node_86",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_46",
+            "source": "node_89",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_81",
+            "source": "node_94",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_71",
+            "source": "node_98",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_77",
+            "source": "node_102",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_109",
+            "source": "node_105",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_116",
+            "source": "node_110",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_173",
+            "source": "node_111",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_113",
+            "source": "node_115",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_130",
+            "source": "node_116",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_168",
+            "source": "node_117",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_152",
+            "source": "node_118",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_141",
+            "source": "node_119",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_154",
+            "source": "node_120",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_148",
+            "source": "node_121",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_120",
+            "source": "node_122",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_114",
+            "source": "node_123",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_112",
+            "source": "node_124",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_121",
+            "source": "node_125",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_124",
+            "source": "node_126",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_112",
+            "source": "node_131",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_127",
+            "source": "node_132",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_157",
+            "source": "node_138",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_136",
+            "source": "node_139",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_135",
+            "source": "node_143",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_134",
+            "source": "node_144",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_117",
+            "source": "node_145",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_175",
+            "source": "node_146",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_176",
+            "source": "node_147",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_166",
+            "source": "node_148",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_164",
+            "source": "node_151",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_144",
+            "source": "node_152",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_164",
+            "source": "node_153",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_146",
+            "source": "node_155",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_140",
+            "source": "node_156",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_120",
+            "source": "node_157",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_171",
+            "source": "node_158",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_169",
+            "source": "node_160",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_145",
+            "source": "node_161",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_173",
+            "source": "node_163",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_118",
+            "source": "node_164",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_133",
+            "source": "node_165",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_163",
+            "source": "node_168",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_163",
+            "source": "node_169",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_152",
+            "source": "node_170",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_163",
+            "source": "node_171",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_165",
+            "source": "node_172",
+            "target": "node_165",
+            "type": "step"
+        }
+    ]
+}

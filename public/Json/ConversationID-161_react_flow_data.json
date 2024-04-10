@@ -1,0 +1,227 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“It's chilly out here. I must go and try to get some sleep. I'm an old man, after all.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Good idea.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Have a good night.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe dawn arrived and our ship moored at the busy port of Wilbern."
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I could say the same thing about you.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOur delegation met with various members of the Valgslandian cabinet before taking our cars to the Royal Palace. The flags of Valgsland and the CSP were waving next to the entrance."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAssistants took my belongings and led me to the museum wing. It was there that I saw Chancellor Hegel. He was inspecting a very large painting on the wall."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Do you mind if I ask why you can't sleep?”"
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I like taking night walks.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“That includes the choices we *could've* made, and their results which will never come to pass.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you for your wisdom, Deivid.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“There is no way out of it.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Are you also worried about the future all the time?”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_33",
+            "source": "node_3",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_34",
+            "source": "node_8",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_62",
+            "source": "node_13",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_12",
+            "source": "node_19",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_41",
+            "source": "node_23",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_43",
+            "source": "node_26",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_4",
+            "source": "node_28",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_58",
+            "source": "node_34",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_54",
+            "source": "node_35",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_11",
+            "source": "node_43",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_19",
+            "source": "node_44",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_4",
+            "source": "node_46",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_43",
+            "source": "node_53",
+            "target": "node_43",
+            "type": "step"
+        }
+    ]
+}

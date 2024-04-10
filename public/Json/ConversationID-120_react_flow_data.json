@@ -1,0 +1,74 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“In a few years the vineyard may even challenge the regional samples. It would need some further attention to reach those goals however.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“The management of Underhall has decided to send big bonuses to the board after high revenue growth this quarter.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“Additionally, I bring good news regarding our investment.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“The money should be arriving in your account shortly.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_22",
+            "source": "node_1",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_24",
+            "source": "node_10",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_12",
+            "source": "node_21",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_7",
+            "source": "node_22",
+            "target": "node_7",
+            "type": "step"
+        }
+    ]
+}

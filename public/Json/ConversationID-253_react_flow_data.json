@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nKarl Greiser walked in. He took off his hat, stuck it under his arm and gave a stiff bow."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_122",
+            "source": "node_2",
+            "target": "node_122",
+            "type": "step"
+        }
+    ]
+}

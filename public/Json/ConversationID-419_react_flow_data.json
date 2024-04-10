@@ -1,0 +1,822 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Your Majesty.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was a sunny, beautiful day in Jales. From the tall windows of the hilltop mansion where I was staying, I saw Brenas locals frolicking on the beach beneath colorful umbrellas."
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"It is about to begin, Your Majesty.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita bowed and sat down beside me."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBallot boxes were 32% open. So far around 21% of Zille citizens had voted no to joining Wehlen."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Your Majesty. I've received important news from our foreign intelligence.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey were carrying machine guns and wearing black and red patches on their arms. The police were nowhere to be found."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"As you can see, a group of armed militants has begun threatening voters. They're taking over the election centers as we speak.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Initial numbers show that we are going to lose the referendum. We must act.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"This could go either way.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"In addition, we have been informed that Zillean Wehzek sympathizers are attempting to influence the referendum results.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA massive number of armed militants had taken over the streets of Zille, their faces covered in ski masks."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA small number of armed militants had gone out onto the streets of Zille, their faces covered in ski masks."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe pointed at the television."
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Your Majesty. I've received important news from our foreign intelligence.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Initial numbers show that we are going to lose the referendum. We must act.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"What I do know is that their presence is interfering with the voting process.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"In addition, we have been informed that Zillean Wehzek sympathizers are attempting to influence the referendum results.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Your Majesty. I've received important news from our foreign intelligence.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Initial numbers show that we are going to lose the referendum. We must act.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"In addition, we have been informed that Zillean Wehzek sympathizers are attempting to influence the referendum results.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"We must act, Your Majesty. And with haste. We have all of the options prepared and ready to begin.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We will interfere with the Rizian Armed Forces. Our troops will enter Zille to protect the ballot boxes and make sure we get what is ours back.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"We are already winning, are we not?\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBallot boxes were 52% open."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Activate all of our agents in Zille to try to make use of the chaos and steal the votes from our opponents. Make sure that they are undercover.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"At once, my liege.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Consider it done, Your Majesty.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe sat back down on the couch."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I am so sorry, Your Majesty. I never would have expected Smolak to be capable of such treachery.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nZille was going to be returned. I had defeated Smolak."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_250",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita left the room quickly."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe announced that he represented the 'Zille Liberation Front', or ZLF."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_258",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nZille was to declare independence from Rizia and Wehlen to establish a new state."
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI got up to look out the window again."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTaddeus left the room quickly."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_285",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAt least Pabel had made sure that my favorite sparkling grape juice would be on hand."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I will come back with the results in a few hours before all the votes are counted.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_291",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"I will come back with the results in a few hours before all the votes are counted.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_292",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I will come back with the results in a few hours before all the votes are counted.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe announced that Zille was declaring its independence from both Rizia and Wehlen. The results of the referendum would be null and void."
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe announced that Zille was declaring its independence from both Rizia and Wehlen. The results of the referendum would be null and void."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_311",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis words sent another, colder shiver down my spine."
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_312",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe finished by asking all Golcondists of the world to unite, to aid them and to join them in their fight."
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_334",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita kissed my cheek as she sat down beside me."
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"However...\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_340",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"However...\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_342",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I must go as well, Your Majesty. The sooner we begin preparing the official concession of the region to Wehlen, the better.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_332",
+            "source": "node_3",
+            "target": "node_332",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_32",
+            "source": "node_5",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_283",
+            "source": "node_8",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_5",
+            "source": "node_29",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_81",
+            "source": "node_65",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_155",
+            "source": "node_75",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_125",
+            "source": "node_88",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_77",
+            "source": "node_92",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_340",
+            "source": "node_98",
+            "target": "node_340",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_321",
+            "source": "node_117",
+            "target": "node_321",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_77",
+            "source": "node_118",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_101",
+            "source": "node_123",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_87",
+            "source": "node_124",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_89",
+            "source": "node_125",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_182",
+            "source": "node_127",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_339",
+            "source": "node_139",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_129",
+            "source": "node_145",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_129",
+            "source": "node_147",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_182",
+            "source": "node_154",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_341",
+            "source": "node_166",
+            "target": "node_341",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_156",
+            "source": "node_174",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_162",
+            "source": "node_180",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_207",
+            "source": "node_198",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_183",
+            "source": "node_203",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_183",
+            "source": "node_205",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_197",
+            "source": "node_206",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_291",
+            "source": "node_210",
+            "target": "node_291",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_292",
+            "source": "node_211",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_221",
+            "source": "node_227",
+            "target": "node_221",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_342",
+            "source": "node_246",
+            "target": "node_342",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_262",
+            "source": "node_248",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e250_to_287",
+            "source": "node_250",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_2",
+            "source": "node_255",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e258_to_244",
+            "source": "node_258",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_316",
+            "source": "node_259",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_343",
+            "source": "node_280",
+            "target": "node_343",
+            "type": "step"
+        },
+        {
+            "id": "e285_to_328",
+            "source": "node_285",
+            "target": "node_328",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_258",
+            "source": "node_290",
+            "target": "node_258",
+            "type": "step"
+        },
+        {
+            "id": "e291_to_251",
+            "source": "node_291",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e292_to_252",
+            "source": "node_292",
+            "target": "node_252",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_294",
+            "source": "node_302",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_315",
+            "source": "node_304",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e311_to_300",
+            "source": "node_311",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e312_to_309",
+            "source": "node_312",
+            "target": "node_309",
+            "type": "step"
+        },
+        {
+            "id": "e334_to_30",
+            "source": "node_334",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_129",
+            "source": "node_338",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e340_to_90",
+            "source": "node_340",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e342_to_322",
+            "source": "node_342",
+            "target": "node_322",
+            "type": "step"
+        }
+    ]
+}

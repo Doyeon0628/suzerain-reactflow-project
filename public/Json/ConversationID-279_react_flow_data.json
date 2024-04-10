@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"I'm afraid the General is correct, Mr. President.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e32_to_26",
+            "source": "node_32",
+            "target": "node_26",
+            "type": "step"
+        }
+    ]
+}

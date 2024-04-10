@@ -1,0 +1,584 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe locomotive assistant flipped a few switches, and the train began pulling out of the central station. Lucian waved at the press photographers as I \"drove\"."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was a great victory for my administration."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe railway officially opened to the public right after we left, and thousands began using it."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA red ribbon was hanging by the door of the train."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“Sounds fantastic. The President arriving to Lachaven in the driver's seat would make the headlines for sure.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon and Gus, who had heavily assisted in the project, had come to discuss the ceremony plans with Lucian and myself."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I don't support anything beyond the opening ceremony. The railway's completion speaks for itself.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“I see your point. But involving the President further could be beneficial for the administration.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI entered the cab and took a seat with the assistant beside me. The crowd was trying to catch a glimpse of me through the window."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“It's been a long time since the last successful infrastructure project. From a public relations point of view, we can certainly capitalize on the occasion.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I'd like Gus with me.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI walked up to the podium to address the crowd. The press was taking dozens of pictures."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“See you at the ceremony.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Once we cut that ribbon and the citizens of Holsord get on the train, I believe you'll agree we have succeeded.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI gave the green light to Lucian, and the opening address began."
+            },
+            "position": {
+                "x": 4050,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Brothers and sisters of Sordland!”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe took our places onstage."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you for your kind words. It truly means a good deal.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe crowd began cheering my name."
+            },
+            "position": {
+                "x": 1890,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I welcome you Holsordians today as a proud servant of this country.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Our aim with this project wasobvious: to improve the speed and efficiency of transportation.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“Holsord! It is great to be here in this beautiful capital that does so much good for this country.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon handed me an oversized pair of scissors."
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The journey to Lachaven should take about four hours. The rest of us will be on the train as well.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian stood up."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“Well done, everyone.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“What are your thoughts?”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I think so too. Mr. President?”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I guess we can't avoid that.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Once again, good work everyone.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian took Gus' place after he was done with his speech."
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThough the construction delay had taken its toll on our morale, this was still a proud moment for all of us."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“First of all...”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_129",
+            "source": "node_1",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_172",
+            "source": "node_4",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_128",
+            "source": "node_5",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_97",
+            "source": "node_14",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_96",
+            "source": "node_15",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_124",
+            "source": "node_17",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_103",
+            "source": "node_18",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_95",
+            "source": "node_20",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_112",
+            "source": "node_21",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_115",
+            "source": "node_23",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_101",
+            "source": "node_24",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_90",
+            "source": "node_46",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_89",
+            "source": "node_50",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_118",
+            "source": "node_55",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_88",
+            "source": "node_56",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_91",
+            "source": "node_58",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_94",
+            "source": "node_61",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_81",
+            "source": "node_84",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_116",
+            "source": "node_89",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_62",
+            "source": "node_92",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_48",
+            "source": "node_93",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_56",
+            "source": "node_94",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_50",
+            "source": "node_95",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_171",
+            "source": "node_96",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_111",
+            "source": "node_102",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_125",
+            "source": "node_103",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_24",
+            "source": "node_110",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_19",
+            "source": "node_111",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_35",
+            "source": "node_112",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_87",
+            "source": "node_113",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_81",
+            "source": "node_114",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_65",
+            "source": "node_115",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_76",
+            "source": "node_123",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_158",
+            "source": "node_124",
+            "target": "node_158",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe let out a nervous laugh."
+            },
+            "position": {
+                "x": 1080,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I assure you it won't. We will not make the same mistakes.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I sure do hope so.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Relax. I'm just joking.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We wouldn't get much done. Remember the last administration?”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We can't make the same mistakes again.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We learned from it all.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI opened the expensive bottle of whiskey and poured it in the two glasses I prepared. The exquisite smell filled the room immediately."
+            },
+            "position": {
+                "x": 1080,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Yes, we did.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The future awaits, Petr.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Maybe not. But thanks for the drink. This is really amazing.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We could, but maybe we shouldn't.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI raised my glass and toasted with Petr before smelling the whiskey and taking a sip. The sweet vanilla tone combined with an oaky taste developed into a lingering smokiness."
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr really seemed to be enjoying himself."
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“What a taste! This is how we should start all meetings, Anton.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe suddenly looked a bit anxious on his chair."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Screw 1924. It is tainting this moment.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I hope it won't be the case for my cabinet.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“The 1924? That was my freshman year. Also the year after the revolution. Very difficult times, to be honest, but this smells like heaven.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_226",
+            "source": "node_2",
+            "target": "node_226",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_2",
+            "source": "node_3",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_5",
+            "source": "node_4",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_2",
+            "source": "node_5",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_3",
+            "source": "node_6",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_18",
+            "source": "node_7",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_9",
+            "source": "node_8",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_11",
+            "source": "node_9",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_23",
+            "source": "node_10",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_2",
+            "source": "node_11",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_223",
+            "source": "node_13",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_13",
+            "source": "node_14",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_14",
+            "source": "node_15",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_17",
+            "source": "node_16",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_8",
+            "source": "node_18",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_15",
+            "source": "node_19",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_4",
+            "source": "node_20",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_16",
+            "source": "node_21",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_20",
+            "source": "node_22",
+            "target": "node_20",
+            "type": "step"
+        }
+    ]
+}

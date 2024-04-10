@@ -1,0 +1,57 @@
+{
+    "nodes": [
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn your last day as President of Sordland, you cleaned out all your personal belongings from your office at the Maroon Palace.\\n\\nSerge gave you a ride home for the last time."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn your last day as President of Sordland, you cleaned out all your personal belongings from your office at the Maroon Palace.\\n\\nYou drove home yourself, never to return."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou felt sad."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e9_to_57",
+            "source": "node_9",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_57",
+            "source": "node_14",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_1",
+            "source": "node_55",
+            "target": "node_1",
+            "type": "step"
+        }
+    ]
+}

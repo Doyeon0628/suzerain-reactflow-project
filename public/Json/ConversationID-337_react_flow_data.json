@@ -1,0 +1,1468 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was surrounded by two of my guards and military personnel in the basement of the palace watching the situation unfold from the security cameras."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We don't have a chance against this many. I will greet them from the palace balcony. I will try to calm them down or at least stall them.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We can't rely on outside help. We must get to the helipad ourselves. It is risky but it is our only way out of here.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We will just barricade ourselves here and hold until the help arrives. We have no choice but to wait.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe was heavily pregnant and in no shape to run or act quickly."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"That is insanity. They will just arrest your or worse.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy guards looked at me for orders."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Come with me. I can't go out there without any guards.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey saluted me and started following me around."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Remember me well.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI wiped his tears away."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI wiped her tears away."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI left the room with the guards."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nWe quietly left the room."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nWe quietly left the room."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI looked around for heavy objects."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was the guards bringing along four other Golden Guards."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI ran away from the door as soon as I could."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith an explosion, the door opened right up. Two guards next to the door were not as fortunate as the others in the room."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI managed to see that I took down two of them before my magazine was empty."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at Lucita and she had done the same."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAll of the guards were dead."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey pointed their rifles."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey were yelling at us to throw down our weapons."
+            },
+            "position": {
+                "x": 5670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI raised my gun to shoot them."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAll I heard was a click. The magazine was empty."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_185",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI shot the man in the front on the head. All rifles turned to me."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Please. I beg you. Don't hurt me.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOne of them took a step forward and shove the gun aside with his boots."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was the guards bringing along four other Golden Guards."
+            },
+            "position": {
+                "x": 0,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was the guards that came back. They couldn't find anyone."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nWe carefully and slowly moved from corner to corner."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI heard a few screams coming from the hallway as soon as we passed through. Guns were fired."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI cursed. There were three armed men. Thankfully their backs were turned. With all the equipment of the guards next to me, it would be difficult to try to sneak past."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nWe tried to sneak past without being seen."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe somehow managed to do it without attracting their attention."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith a large explosion, the helicopter blew up along with our hopes of getting out of here."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI could see the helicopter from here but I could also see three armed men running away from it."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_285",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI squinted my eyes. They were planting what it looked like a bomb."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"RUN AND SHOOT! CHARGE! NOW!\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_295",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI aimed carefully and fired my gun."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI shot the man planting the bomb in the head. The armed militant fell to the ground."
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_311",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI missed my shot."
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen I came to my senses, I looked up. All of the enemies were dead."
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA guard on the ground was playing dead. He very slightly nodded."
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_348",
+            "type": "customNode",
+            "data": {
+                "label": "Surrounded Hub\n\nSurrounded Hub"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_353",
+            "type": "customNode",
+            "data": {
+                "label": "Survived Hub\n\nSurvived Hub"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe had won. There was nothing in between us and the helicopter. But at what cost."
+            },
+            "position": {
+                "x": 12960,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_362",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe guards were still in the cover, trying to shoot back."
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_387",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBlinded by my rage, I strangled him until he died."
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_405",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI ripped off a piece from my shirt and wrapped it around Lucita's wound. She was bleeding profusely."
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI grabbed Lucita by the waist to support her and we started running."
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_430",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"R- Romus...\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_434",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Sshh. Don't waste your energy, my love.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_435",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's okay. It is over. We are going to be fine. Just hang on.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_436",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We are almost out of here. I promise.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_440",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Listen- Listen to me...\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_443",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Listen- Listen to me...\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_446",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Listen- Listen to me...\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_467",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Don't leave me. Please.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_469",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPalas Rezna, my home, was on fire."
+            },
+            "position": {
+                "x": 15120,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_471",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDoors to the upper floor was right ahead. Armed assailants did not make it to this floor yet."
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_483",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Halaita.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_494",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"All I have done, I have done for this country. Nothing more.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_496",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Blame the other Houses for this downfall.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_497",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I thought I was right. But maybe I was not.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_506",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Fault lies within our system that created this situation.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_507",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"People with the best intentions can sometimes be at places with the worst intentions.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_513",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You hold the future of this country in your hands.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_514",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This Kingdom owes everything to you.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_515",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I see your will and I applaud.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_525",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Despite your calls, I will not abdicate. Because, only I can hear you this well, Rizia.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_526",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI saw the rifles aimed at me from the crowd. I heard shouts of \"Death to the King!\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_534",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked down at my body and saw blood pooling beneath me."
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_536",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSilence fell on the crowd. It took a few dreadful seconds."
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_540",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Please, listen to me. Fine. I will abdicate. Spare me and my family.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_541",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If it is riches you want, come and take them. All the gold you could ever want. But, please don't hurt us.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_542",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI heard shots. Suddenly, I was on the ground."
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_543",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You have won. But don't let this be in vain.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_548",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey had gotten what they came here for."
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_550",
+            "type": "customNode",
+            "data": {
+                "label": "Revolution Kingdom Dissolves Hub\n\nRevolution Kingdom Dissolves Hub"
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_566",
+            "type": "customNode",
+            "data": {
+                "label": "Revolution Speech Hub\n\nRevolution Speech Hub"
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_567",
+            "type": "customNode",
+            "data": {
+                "label": "Revolution Helicopter Hub\n\nRevolution Helicopter Hub"
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_568",
+            "type": "customNode",
+            "data": {
+                "label": "Revolution Barricade Hub\n\nRevolution Barricade Hub"
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_578",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"No! Romus! Don't do it!\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_579",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"No! Romus! Don't do it!\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_196",
+            "source": "node_1",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_423",
+            "source": "node_5",
+            "target": "node_423",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_570",
+            "source": "node_6",
+            "target": "node_570",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_571",
+            "source": "node_7",
+            "target": "node_571",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_195",
+            "source": "node_22",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_78",
+            "source": "node_32",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_98",
+            "source": "node_42",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_214",
+            "source": "node_56",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_71",
+            "source": "node_61",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_43",
+            "source": "node_75",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_43",
+            "source": "node_76",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_43",
+            "source": "node_77",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_560",
+            "source": "node_79",
+            "target": "node_560",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_560",
+            "source": "node_80",
+            "target": "node_560",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_216",
+            "source": "node_81",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_216",
+            "source": "node_82",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_122",
+            "source": "node_95",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_602",
+            "source": "node_131",
+            "target": "node_602",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_603",
+            "source": "node_132",
+            "target": "node_603",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_159",
+            "source": "node_148",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_181",
+            "source": "node_149",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_177",
+            "source": "node_166",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_350",
+            "source": "node_167",
+            "target": "node_350",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_350",
+            "source": "node_177",
+            "target": "node_350",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_190",
+            "source": "node_179",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_601",
+            "source": "node_184",
+            "target": "node_601",
+            "type": "step"
+        },
+        {
+            "id": "e185_to_598",
+            "source": "node_185",
+            "target": "node_598",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_599",
+            "source": "node_186",
+            "target": "node_599",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_581",
+            "source": "node_189",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_3",
+            "source": "node_196",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_56",
+            "source": "node_212",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_222",
+            "source": "node_217",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_243",
+            "source": "node_219",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_236",
+            "source": "node_226",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_236",
+            "source": "node_228",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_235",
+            "source": "node_246",
+            "target": "node_235",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_286",
+            "source": "node_272",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_288",
+            "source": "node_280",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e285_to_248",
+            "source": "node_285",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_351",
+            "source": "node_294",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e295_to_309",
+            "source": "node_295",
+            "target": "node_309",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_312",
+            "source": "node_299",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e311_to_308",
+            "source": "node_311",
+            "target": "node_308",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_359",
+            "source": "node_321",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_352",
+            "source": "node_338",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e348_to_372",
+            "source": "node_348",
+            "target": "node_372",
+            "type": "step"
+        },
+        {
+            "id": "e353_to_349",
+            "source": "node_353",
+            "target": "node_349",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_539",
+            "source": "node_354",
+            "target": "node_539",
+            "type": "step"
+        },
+        {
+            "id": "e362_to_349",
+            "source": "node_362",
+            "target": "node_349",
+            "type": "step"
+        },
+        {
+            "id": "e387_to_403",
+            "source": "node_387",
+            "target": "node_403",
+            "type": "step"
+        },
+        {
+            "id": "e405_to_354",
+            "source": "node_405",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_422",
+            "source": "node_412",
+            "target": "node_422",
+            "type": "step"
+        },
+        {
+            "id": "e430_to_437",
+            "source": "node_430",
+            "target": "node_437",
+            "type": "step"
+        },
+        {
+            "id": "e434_to_447",
+            "source": "node_434",
+            "target": "node_447",
+            "type": "step"
+        },
+        {
+            "id": "e435_to_432",
+            "source": "node_435",
+            "target": "node_432",
+            "type": "step"
+        },
+        {
+            "id": "e436_to_432",
+            "source": "node_436",
+            "target": "node_432",
+            "type": "step"
+        },
+        {
+            "id": "e440_to_444",
+            "source": "node_440",
+            "target": "node_444",
+            "type": "step"
+        },
+        {
+            "id": "e443_to_469",
+            "source": "node_443",
+            "target": "node_469",
+            "type": "step"
+        },
+        {
+            "id": "e446_to_469",
+            "source": "node_446",
+            "target": "node_469",
+            "type": "step"
+        },
+        {
+            "id": "e467_to_466",
+            "source": "node_467",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e469_to_466",
+            "source": "node_469",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e471_to_192",
+            "source": "node_471",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e483_to_486",
+            "source": "node_483",
+            "target": "node_486",
+            "type": "step"
+        },
+        {
+            "id": "e494_to_508",
+            "source": "node_494",
+            "target": "node_508",
+            "type": "step"
+        },
+        {
+            "id": "e496_to_517",
+            "source": "node_496",
+            "target": "node_517",
+            "type": "step"
+        },
+        {
+            "id": "e497_to_511",
+            "source": "node_497",
+            "target": "node_511",
+            "type": "step"
+        },
+        {
+            "id": "e506_to_524",
+            "source": "node_506",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e507_to_511",
+            "source": "node_507",
+            "target": "node_511",
+            "type": "step"
+        },
+        {
+            "id": "e513_to_524",
+            "source": "node_513",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e514_to_524",
+            "source": "node_514",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e515_to_520",
+            "source": "node_515",
+            "target": "node_520",
+            "type": "step"
+        },
+        {
+            "id": "e525_to_553",
+            "source": "node_525",
+            "target": "node_553",
+            "type": "step"
+        },
+        {
+            "id": "e526_to_554",
+            "source": "node_526",
+            "target": "node_554",
+            "type": "step"
+        },
+        {
+            "id": "e534_to_543",
+            "source": "node_534",
+            "target": "node_543",
+            "type": "step"
+        },
+        {
+            "id": "e536_to_192",
+            "source": "node_536",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e540_to_178",
+            "source": "node_540",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e541_to_530",
+            "source": "node_541",
+            "target": "node_530",
+            "type": "step"
+        },
+        {
+            "id": "e542_to_530",
+            "source": "node_542",
+            "target": "node_530",
+            "type": "step"
+        },
+        {
+            "id": "e543_to_535",
+            "source": "node_543",
+            "target": "node_535",
+            "type": "step"
+        },
+        {
+            "id": "e548_to_536",
+            "source": "node_548",
+            "target": "node_536",
+            "type": "step"
+        },
+        {
+            "id": "e550_to_192",
+            "source": "node_550",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e566_to_472",
+            "source": "node_566",
+            "target": "node_472",
+            "type": "step"
+        },
+        {
+            "id": "e567_to_67",
+            "source": "node_567",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e568_to_66",
+            "source": "node_568",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e578_to_182",
+            "source": "node_578",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e579_to_182",
+            "source": "node_579",
+            "target": "node_182",
+            "type": "step"
+        }
+    ]
+}

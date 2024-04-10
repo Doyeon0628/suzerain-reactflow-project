@@ -1,0 +1,57 @@
+{
+    "nodes": [
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I think it's time to conclude our little meeting, sir.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I need a drink.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Perfect timing. Tell him I'll be right there.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e5_to_1",
+            "source": "node_5",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_27",
+            "source": "node_13",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_49",
+            "source": "node_24",
+            "target": "node_49",
+            "type": "step"
+        }
+    ]
+}

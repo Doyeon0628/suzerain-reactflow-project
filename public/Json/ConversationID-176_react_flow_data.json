@@ -1,0 +1,74 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe morning sunlight streamed through the windows as Lucian and I entered the White Room."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe poured me a cup with a smile, then took a look down at the folder in front of me."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"The Livia Suno affair has left me with much to catch up on.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe walked out. I took a look at the folder in front of me, then at the coffee carafe in the corner of the room."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_133",
+            "source": "node_1",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_2",
+            "source": "node_34",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_100",
+            "source": "node_91",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_35",
+            "source": "node_121",
+            "target": "node_35",
+            "type": "step"
+        }
+    ]
+}

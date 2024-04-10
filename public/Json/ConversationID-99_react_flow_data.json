@@ -1,0 +1,890 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Ms. Agnoc. Don't forget whom you are speaking with.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian and I arrived at the Ministry of Economy."
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAssistants took our coats and showed us into the meeting room where Symon, Edith, Gus and Mikail were waiting."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We are here today to discuss our economic move towards nationalization.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBoth Mikail and Edith had their arms crossed and frowns on their faces. They were listening intently."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“But as I understand it, your decision has already been made.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“This is for the good of our country.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“It's simple, really.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Are you saying that the state of Sordland is untrustworthy?”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“But, I-”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Let's not get ahead of ourselves, shall we?”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Let's move on to how we can go about implementing a nationalization plan.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Mr. President.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“That is the reason I think if we are to nationalize any corporation, HOS should be our target.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What about a majority share?”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I already know what to do. Let's move on to our next option.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“They'd be disastrous, is what they would be.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“Marcel Koronti is growing too powerful too fast.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“At first glance, a minority share might make sense. However, I don't think it's a good idea.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I believe this is the way to go.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It's a win-win situation.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What are your thoughts on a minority share?”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What would be the outcome of taking a majority share?”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am ready to make a decision.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“Where do I start?\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“As I mentioned, I am against making changes to Bergia Steel's ownership.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“This is of course a better option than full nationalization. But that doesn't mean you would not face adversity.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Sounds good.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Especially since we were initially going down the path of a market economy.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Mr. President.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“I know a market economy wasn't part of your original plans, but I'm happy you've seen the light.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“We can then use these funds to increase development for the future. It's a win-win situation for sure.”"
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Enough with the flattery.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon handed me and everyone else in the room two neat stacks of documents."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What would the effects be if we fully privatize the Sordish State Corporation?”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What if we sell a minority share of SSC?”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI turned to page 26. The title was: Nedam Mining Group."
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Very well. Please turn to page 26.”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What about selling a majority share?”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "SSC Privatization Hub\n\nSSC Privatization Hub"
+            },
+            "position": {
+                "x": 10260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We would gain tremendous amounts of money for the government.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“It would be better than nothing, but why stop there?\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“This is certainly a very good option.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Nedam Mining Group.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What are your thoughts on selling a minority share?”"
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Sounds good.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What about selling a majority share?”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_249",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am ready to make a decision.”"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_257",
+            "type": "customNode",
+            "data": {
+                "label": "Nedam Privatization Hub\n\nNedam Privatization Hub"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Coupled with a minority share of SSC, that is the way to go.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“My preference is selling a majority share of both SSC and Nedam.”"
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_274",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI read all of Symon's documents once more, then flipped to the last page."
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_1",
+            "source": "node_3",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_40",
+            "source": "node_4",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_16",
+            "source": "node_9",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_7",
+            "source": "node_14",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_162",
+            "source": "node_17",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_158",
+            "source": "node_19",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_43",
+            "source": "node_29",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_42",
+            "source": "node_30",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_4",
+            "source": "node_35",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_4",
+            "source": "node_38",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_4",
+            "source": "node_39",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_32",
+            "source": "node_42",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_43",
+            "source": "node_44",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_68",
+            "source": "node_54",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_87",
+            "source": "node_72",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_90",
+            "source": "node_73",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_94",
+            "source": "node_77",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_121",
+            "source": "node_83",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_54",
+            "source": "node_86",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_122",
+            "source": "node_89",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_123",
+            "source": "node_92",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_124",
+            "source": "node_106",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_154",
+            "source": "node_111",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_141",
+            "source": "node_112",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_86",
+            "source": "node_123",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_153",
+            "source": "node_136",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_153",
+            "source": "node_140",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_120",
+            "source": "node_153",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_20",
+            "source": "node_160",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_20",
+            "source": "node_161",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_165",
+            "source": "node_169",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_165",
+            "source": "node_170",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_180",
+            "source": "node_174",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_181",
+            "source": "node_179",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_215",
+            "source": "node_195",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_216",
+            "source": "node_196",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_195",
+            "source": "node_205",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_229",
+            "source": "node_206",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_206",
+            "source": "node_207",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_195",
+            "source": "node_214",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_198",
+            "source": "node_215",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_204",
+            "source": "node_220",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_214",
+            "source": "node_224",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_205",
+            "source": "node_228",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_261",
+            "source": "node_240",
+            "target": "node_261",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_258",
+            "source": "node_245",
+            "target": "node_258",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_245",
+            "source": "node_248",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e249_to_271",
+            "source": "node_249",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e257_to_246",
+            "source": "node_257",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_248",
+            "source": "node_267",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_260",
+            "source": "node_270",
+            "target": "node_260",
+            "type": "step"
+        },
+        {
+            "id": "e274_to_247",
+            "source": "node_274",
+            "target": "node_247",
+            "type": "step"
+        }
+    ]
+}

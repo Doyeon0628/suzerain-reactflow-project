@@ -1,0 +1,1247 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas had invited me here for a private dinner, just the two of us."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Get to the point, Lileas. Why did you invite me here?\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A home-cooked supper, huh?\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I wanted you to be the first to know that I myself will be running against you at the Party Congress.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I forbid you from doing that.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"You're a disgrace to the name of Tarquin Soll. Whom, lest we forget, you tried to have imprisoned.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Did you think I'd sit by after you ignored our request to seize power from the Oligarchs?\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"You're a disgrace to the good name of Tarquin Soll.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Did you poison my food?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're mad.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's a shame to lose you.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I understand now why you never found a husband.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Likewise.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOr so I hoped."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Mr. President, I wish I had been consulted on this military parade decision. Is that really the best use of our time and resources given the mounting unrest in this country?\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't worry. The military's taking care of it.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The military's taking care of it. A little too well, actually.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"You and I both know that's not true. Your 'diplomacy' was a disaster.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"You gave the orders. You can't blame them for doing their job.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"That itself is cause for worry.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Mr. President, I'm worried the mounting unrest might hurt our chances of re-election.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Lies. All lies.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"The encroaching war with Rumburg certainly doesn't help matters.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'll be just fine.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was some of the best meat I'd ever had. We ate in silence for a while, then Lileas pensively laid down her cutlery."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"A strong leader would ignore the allegations and focus on winning the election. By all means necessary.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I'm sure they are.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Anton, thank you for all the help you've given to my ministry during your term.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_190",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Anton, I wish you had made national security more of a top priority during your term.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"And I regret that you caved to Ms. Walda and mandated the teaching of that evolution nonsense in schools.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"In any event, I'm looking forward to working more closely together during your next term.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Regardless, I'm looking forward to working more closely together during your next term.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I was thrilled when you recognized Sordish schools' right to religious expression over Ms. Walda's ridiculous objections.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I do regret that you caved to Ms. Walda and mandated the teaching of that evolution nonsense in schools.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Karl deserved it.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As long as Iosef is still on my side, they won't get out of hand.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I don't think the allegations will do much damage, especially with your opposition so weakened. But it's worth keeping an eye on.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Me too, if it means more excellent dinners like this.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I do wish you had heeded my request to place the Gendarmerie under my jurisdiction.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_236",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Likewise, I wish you had heeded my request to place the Gendarmerie under my jurisdiction.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Not to mention feeling the need to pump our children full of strange chemicals in response to some unconfirmed health threat.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"However, I'm grateful you defended Sordish citizens' right not to subject their children to mandatory vaccinations.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Likewise, I'm grateful you defended Sordish citizens' right not to subject their children to mandatory vaccinations.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I was less enthused about your decision to pump our children full of strange chemicals in response to some unconfirmed health threat.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'll drink to that.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"God willing.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe clinked glasses."
+            },
+            "position": {
+                "x": 17820,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas raised her glass and smiled."
+            },
+            "position": {
+                "x": 12150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas' upper lip twitched, but she remained calm."
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_249",
+            "type": "customNode",
+            "data": {
+                "label": "Term Summary\n\nTerm Summary"
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_253",
+            "type": "customNode",
+            "data": {
+                "label": "Rumburg War\n\nRumburg War"
+            },
+            "position": {
+                "x": 5670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"How are you feeling about that, may I ask?\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_262",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I'm glad you're feeling positive.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I'm a little worried myself. Our national security's still shaky. There may be information leaking to Rumburg from within the Maroon Palace.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"If only the other ministries were as prepared as yours.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Maybe Lucian was right about Livia.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Especially with dear Franc in the military.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_306",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBy the end of the meal, I was pleasantly full and a little tipsy. The butler had to lead me back through the manor's winding corridors until I found the door."
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Did you think I liked it when you refused to tighten Sordland's borders against disreputable migrants?\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Just stay true to your promise to honor our party's conservative roots, and the good Lord will take care of the rest.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_332",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Enough of this. Lileas, I know about your role in the Bernard Circas murder.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Well, now that I know you've been planning to betray me, I want to see you brought to justice. I'm ordering your arrest tomorrow.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas grimaced."
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Get out of my house.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thanks for dinner.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_358",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With pleasure.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_366",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe would make a formidable enemy. Thanks to my investigation, I'd managed to dodge that bullet."
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_369",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's over Lileas and you know it. There is no need to make it worse.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_374",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Our borders were open to an influx of subversives and refugees that overwhelmed Bergia due to your inability to secure our borders to the west.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"The very constitution that is keeping this nation safe from internal and external threats.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_391",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I suspected that might happen.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_402",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Give me some time to think about it.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_403",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will take my leave. Thanks for the evening nonetheless.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_384",
+            "source": "node_3",
+            "target": "node_384",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_39",
+            "source": "node_27",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_30",
+            "source": "node_44",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_86",
+            "source": "node_56",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_392",
+            "source": "node_57",
+            "target": "node_392",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_93",
+            "source": "node_71",
+            "target": "node_93",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_376",
+            "source": "node_83",
+            "target": "node_376",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_312",
+            "source": "node_84",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_60",
+            "source": "node_89",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_403",
+            "source": "node_99",
+            "target": "node_403",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_404",
+            "source": "node_108",
+            "target": "node_404",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_249",
+            "source": "node_110",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_249",
+            "source": "node_111",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_411",
+            "source": "node_116",
+            "target": "node_411",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_381",
+            "source": "node_118",
+            "target": "node_381",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_152",
+            "source": "node_122",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_145",
+            "source": "node_131",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_215",
+            "source": "node_138",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_209",
+            "source": "node_144",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_208",
+            "source": "node_145",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_216",
+            "source": "node_147",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_251",
+            "source": "node_154",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_253",
+            "source": "node_162",
+            "target": "node_253",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_256",
+            "source": "node_163",
+            "target": "node_256",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_47",
+            "source": "node_167",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_222",
+            "source": "node_172",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_169",
+            "source": "node_177",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_191",
+            "source": "node_181",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e190_to_204",
+            "source": "node_190",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_224",
+            "source": "node_199",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_238",
+            "source": "node_200",
+            "target": "node_238",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_246",
+            "source": "node_201",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_246",
+            "source": "node_202",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_224",
+            "source": "node_203",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_238",
+            "source": "node_204",
+            "target": "node_238",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_216",
+            "source": "node_212",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_172",
+            "source": "node_219",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_397",
+            "source": "node_226",
+            "target": "node_397",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_188",
+            "source": "node_231",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e236_to_188",
+            "source": "node_236",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_400",
+            "source": "node_240",
+            "target": "node_400",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_202",
+            "source": "node_241",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_201",
+            "source": "node_242",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_201",
+            "source": "node_243",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_202",
+            "source": "node_244",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_329",
+            "source": "node_245",
+            "target": "node_329",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_329",
+            "source": "node_246",
+            "target": "node_329",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_307",
+            "source": "node_247",
+            "target": "node_307",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_247",
+            "source": "node_248",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e249_to_113",
+            "source": "node_249",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e253_to_250",
+            "source": "node_253",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_254",
+            "source": "node_255",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e262_to_268",
+            "source": "node_262",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_282",
+            "source": "node_272",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_283",
+            "source": "node_277",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_285",
+            "source": "node_281",
+            "target": "node_285",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_302",
+            "source": "node_294",
+            "target": "node_302",
+            "type": "step"
+        },
+        {
+            "id": "e306_to_250",
+            "source": "node_306",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_372",
+            "source": "node_314",
+            "target": "node_372",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_73",
+            "source": "node_327",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e332_to_117",
+            "source": "node_332",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_352",
+            "source": "node_350",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_410",
+            "source": "node_351",
+            "target": "node_410",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_359",
+            "source": "node_355",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_377",
+            "source": "node_357",
+            "target": "node_377",
+            "type": "step"
+        },
+        {
+            "id": "e358_to_360",
+            "source": "node_358",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e366_to_118",
+            "source": "node_366",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e369_to_347",
+            "source": "node_369",
+            "target": "node_347",
+            "type": "step"
+        },
+        {
+            "id": "e374_to_316",
+            "source": "node_374",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_316",
+            "source": "node_375",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e391_to_4",
+            "source": "node_391",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e402_to_201",
+            "source": "node_402",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e403_to_105",
+            "source": "node_403",
+            "target": "node_105",
+            "type": "step"
+        }
+    ]
+}

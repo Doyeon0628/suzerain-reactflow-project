@@ -1,0 +1,329 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "GoToMeeting\n\nGoToMeeting"
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOne by one, my ministers packed up and left the White Room."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI stared at the secret phone in my office and thought about what Remus Holstron had told me."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI wasn't sure if using Karl to go against the Old Guard was a sound choice. I wondered if he could be trusted."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nBut I decided against it."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI left the White Room and headed to my office."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI followed suit and headed to my office."
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“In a few years the vineyard may even challenge its regional rivals. But it would need some further attention to rank among Sordland's best.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“FC Anrica has seen a boost in ticket sales following your endorsement and participation in the club. The management decided to send over a slice of that pie.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“The management of Underhall has decided to send big bonuses to the board after high revenue growth this quarter.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“Several construction projects have been accomplished around the country. The company coffers are full and we stand to benefit.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“Your vineyard in Erlory has begun producing some wine. I have also arranged for several tasting sessions in order to sample the product and give ideas on how to improve the quality.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Mr. President. Just a quick word regarding the investment I arranged for you.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“The money should be arriving in your account shortly.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's great news, Gus.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"What did I tell you, Mr. President? Take a little risk and it'll pay off in the end.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So awarding Underhall a government contract caused me to benefit personally. That doesn't sound entirely above-board.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"And they're happy to receive that support. Truly a two-way street.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"It's a pleasure doing business with you.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_105",
+            "source": "node_1",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_1",
+            "source": "node_4",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_86",
+            "source": "node_95",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_90",
+            "source": "node_96",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_1",
+            "source": "node_99",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_151",
+            "source": "node_116",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_180",
+            "source": "node_117",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_111",
+            "source": "node_131",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_133",
+            "source": "node_138",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_153",
+            "source": "node_139",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_148",
+            "source": "node_140",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_152",
+            "source": "node_142",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_141",
+            "source": "node_150",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_136",
+            "source": "node_151",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_145",
+            "source": "node_156",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_172",
+            "source": "node_158",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_166",
+            "source": "node_159",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_117",
+            "source": "node_169",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_166",
+            "source": "node_170",
+            "target": "node_166",
+            "type": "step"
+        }
+    ]
+}

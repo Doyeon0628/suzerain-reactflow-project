@@ -1,0 +1,159 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI had done this many times now. Too many times. My wife, my father and many others."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Make way. Make way for the Princess of Rizia.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs per tradition, Hugo was leading the cortège. Around us were thousands of people, crying for their Princess."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe coffin was placed in the center where it was going to be lowered for the final voyage."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"How are you holding up, Mother?\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI did not answer."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Your Majesty.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am sorry.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI took my place for the final voyage ritual."
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_85",
+            "source": "node_1",
+            "target": "node_85",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_75",
+            "source": "node_4",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_86",
+            "source": "node_5",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_76",
+            "source": "node_21",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_77",
+            "source": "node_24",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_68",
+            "source": "node_32",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_82",
+            "source": "node_54",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_52",
+            "source": "node_61",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_23",
+            "source": "node_77",
+            "target": "node_23",
+            "type": "step"
+        }
+    ]
+}

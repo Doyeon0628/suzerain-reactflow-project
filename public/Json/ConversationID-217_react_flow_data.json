@@ -1,0 +1,125 @@
+{
+    "nodes": [
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe usual crowd of protesters was waiting for me outside the gates of the complex."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBefore kickoff, the team captain gave a short speech endorsing me for president. At least my own football team still liked me."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBefore kickoff, the team captain gave a short speech thanking me for all I'd done during my term. At least my own football team still liked me."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRight before kickoff, all of the members of FC Anrica suddenly lay down on the field."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI went up to my office and began drafting a speech announcing my retirement from politics."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI started packing my suitcase. I wasn't going to stay in Sordland a second longer."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI gritted my teeth. I would stick it out until the end of my term -- but no longer."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e5_to_15",
+            "source": "node_5",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_37",
+            "source": "node_21",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_22",
+            "source": "node_31",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_52",
+            "source": "node_32",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_2",
+            "source": "node_87",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_82",
+            "source": "node_91",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_107",
+            "source": "node_94",
+            "target": "node_107",
+            "type": "step"
+        }
+    ]
+}

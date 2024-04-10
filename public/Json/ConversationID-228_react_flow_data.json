@@ -1,0 +1,499 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI woke up to a loud knock on the door."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“We need to talk, Mr. President. This is urgent.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOut of habit, I looked towards the other side of the bed. It was empty."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at the other side of the bed. Monica was sleeping soundly."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI started walking downstairs. I heard another knock on the door, louder this time."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI looked through the peephole."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n“Anton! What is going on?”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It's okay. I'll handle this.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was met with 20 to 30 men waiting near personnel trucks, all in full combat gear."
+            },
+            "position": {
+                "x": 6750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Explain yourselves! Immediately!”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You can't just barge into the house of the President! I will have you removed!”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnother thud and the door was cracked open."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“I'm sorry, but your time is over, Mr. President.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Rest assured. Your family will be under our watch and they will remain safe. That is, of course, if you cooperate.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“That includes you, Mr. President.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“No. You can't do this! I won't let you. I am the President of Sordland!”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Not anymore.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“The only heinous actions in question are yours.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“He will wait in a cell in Antel Rock Prison until his trial.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n“Anton! No! I won't let you take him!”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe escorted me to the truck. I realized I still had my slippers on."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“There is no need for handcuffs. I know when I have no way out.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“You have given us an order to protect this country from threats. We are doing exactly that.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n“You have given us an order to protect this country from threats. We are doing exactly that.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOut of habit, I looked towards the other side of the bed. It was empty. Monica and Deana were at the main house on the other side of the complex."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnother thud, and the door was cracked open."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_185",
+            "type": "customNode",
+            "data": {
+                "label": "Valken Kruger\n\n\"Your wife and daughter have been taken into military custody. Rest assured, they will remain safe as long as you cooperate.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSuddenly, Monica came running across the courtyard, tailed closely by two military men."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe engine rumbled to life and the truck started moving."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_210",
+            "source": "node_3",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_17",
+            "source": "node_5",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_167",
+            "source": "node_12",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_209",
+            "source": "node_13",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_209",
+            "source": "node_14",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_45",
+            "source": "node_18",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_170",
+            "source": "node_39",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_50",
+            "source": "node_42",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_40",
+            "source": "node_44",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_175",
+            "source": "node_47",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_175",
+            "source": "node_48",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_175",
+            "source": "node_49",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_162",
+            "source": "node_66",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_183",
+            "source": "node_89",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_107",
+            "source": "node_102",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_129",
+            "source": "node_104",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_124",
+            "source": "node_108",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_113",
+            "source": "node_117",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_203",
+            "source": "node_127",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_187",
+            "source": "node_131",
+            "target": "node_187",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_199",
+            "source": "node_146",
+            "target": "node_199",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_199",
+            "source": "node_148",
+            "target": "node_199",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_68",
+            "source": "node_160",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_67",
+            "source": "node_164",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_67",
+            "source": "node_165",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_44",
+            "source": "node_172",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e185_to_86",
+            "source": "node_185",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_132",
+            "source": "node_189",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_140",
+            "source": "node_197",
+            "target": "node_140",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,3355 @@
+{
+    "nodes": [
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI sat down in my office chair and sighed deeply."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI sat down in my office chair and sighed deeply."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sorry you didn't get to be Vice President for longer.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Well, we had a good run.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n\"It's an honor just to have been chosen.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n\"I can't tell if you're being sarcastic.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGloria's arms were crossed. She barely looked at me."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I guess all that change you hoped for will have to wait.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n\"Thanks for that.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGloria gave me an uncomfortable-looking smile."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs the director gave the signal to roll the camera, I fumbled with the notes I had prepared."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"People of Sordland, let me be honest with you.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The truth is, I'm just plain tired.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The truth is, I failed you.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Soll and Alphonso left the country in shambles. There was nothing I could've done to make things better.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"My political opponents blocked me at every turn. By trying to compromise with them, I compromised your trust.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Constant distraction from our enemies abroad made it impossible for me to focus on improving the situation at home.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland is too complicated a country for a single President to make a difference. I will resign at the end of my term.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"At the end of my term, I will be ending my political career to spend more time with my family.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"At the end of my term, I will be ending my political career to take some time for myself.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"At the end of my term, I will be ending my political career for personal reasons.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"People of Sordland, it gives me great pleasure and great sorrow to address you for what may be the last time.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As for who should be running the country in my stead...\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I urge you to vote for Lileas Graf.\""
+            },
+            "position": {
+                "x": 47520,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It has been an honor to serve you.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr came in without knocking."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was completely on my own now, not beholden to friends, colleagues or family members. I could go wherever and do whatever I wanted."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"What's the plan, Mr. President?\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Although I also wouldn't mind joining Franc in United Contana.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's stay in Sordland.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Or we could spend some time in Arcasia to learn from their women's rights movement -- don't you still have shares in that electronics business over there?\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's give Arcasia a try. We can always come back to Sordland if we hate it.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You know what? I think United Contana is the place for us.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Franc's certainly given it a ringing endorsement.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Maybe you two could finally mend your relationship.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Maybe you two could finally mend your relationship.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"If Franc's to be believed, we'll never want to go back.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica smiled and gave me a big hug."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"...and with our budget, the sky's the limit.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We could get a mansion on the Benfi coast.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I've always wanted to take a more active role in Underhall Construction.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"It'd give us a chance to redeem ourselves after that scene at the festival.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"With the size of your stake in the team, they'd have to let you do whatever you want.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"I've been meaning to spend more time over there.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Really? Well, at least staying in Holsord wouldn't be too disruptive for Deana...\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"That's true. And it would be easy for both of us to stay involved in politics, if we wanted to.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Let's break the news to Deana tomorrow.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs my closest friend, I'd asked him to help me decide on a retirement plan."
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'd like to think about my other options before deciding on anything.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Well, obviously, if I were you, I'd go to the Benfi coast.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'd like to think about my other options before deciding on anything.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Have you thought about joining Franc abroad? The two Rayne men, conquering the continent.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_273",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Have you thought about moving abroad? There's that electronics corporation you invested in in Arcasia -- Armadillo or something?\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_274",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"There's always Anrica -- I know you think you could do a better job with the football team than the current manager.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_285",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"A house on the coast in Benfi would be my next choice if I were you. A retirement cliche, but for a reason...\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Come on, Anton, what'll it be?\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_300",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm staying in Holsord.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_301",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"All right! Arcasia, then.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sure.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_328",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Actually, I intend to keep a low profile.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_331",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I suppose so.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_332",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Yes! I knew you were going to say that!\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs I finished my drink, I wondered what life after the presidency would look like..."
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Yes! You won't regret it, Anton.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_342",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I can't wait.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_345",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's settled, then. Benfi it is. I hope you like shellfish.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_347",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's settled, then. Rayne Wines it is.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'd rather go to Benfi.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_370",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I can't wait.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_372",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI pulled Monica in for a kiss."
+            },
+            "position": {
+                "x": 16200,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy first thought was of my vineyard in Erlory."
+            },
+            "position": {
+                "x": 16200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_378",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA villa on a sunny hillside and a career in winemaking didn't sound bad at all."
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_380",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI could also stay in Holsord. It wouldn't be very exciting, but I'd have the chance to see my daughter."
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_381",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI could also stay in Holsord and get more involved in Underhall Construction. It wouldn't be glamorous, but I could get rich."
+            },
+            "position": {
+                "x": 17820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_382",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe'd finally have the time we needed to mend our broken relationship."
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_383",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBut then again..."
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_387",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn the other hand..."
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was always Anrica. I knew I could do a better job with the team than the current manager."
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_389",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI could go to the Benfi coast."
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_400",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith my budget, I could afford a little house on the beach."
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_411",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI could move abroad. I still owned stakes in Armadine, the electronics company in Arcasia. The board would welcome me with open arms."
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFranc was in United Contana, but Armadine, the electronics company I owned shares in, was in Arcasia. I could pivot to a career in business."
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_417",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI carefully weighed the pros and cons."
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_426",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI decided to move to Arcasia."
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI thought to myself that I could always just remain in Holsord. I already had lots of connections. Yeah. That was a good idea."
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_436",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI thought to myself that I could always just retire on the Benfi coast. I do need some resting time anyways. Yeah. That was a good idea."
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_446",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was headed for a new beginning in a new country."
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_447",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was headed for a new career and a new beginning."
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_451",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was headed for a new home and a new beginning."
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_461",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI paced the floor of my office in the Maroon Palace. The camera crew was due to arrive any moment now."
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_468",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I stand by my support of Lileas Graf and the USP.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_475",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I stand by my support of the PFJP.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_476",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I stand by my support of the NFP.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_477",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I stand by my support of the WPB and CSP.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_512",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must thank my wife, Monica, the First Lady of Sordland, for being such a strong woman.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_513",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I am grateful to walk this path in life with the amazing Monica Rayne, who has supported me through the last four years.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_514",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have successfully finished the de-Sollinisation of Sordland. A new era has begun!\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_518",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, Tarquin Soll's cult of personality is no more. His images have been erased from public places.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_519",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Tarquin Soll was finally brought to justice as was due.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_520",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must thank Monica for her hard work in leading the campaign to expand the rights of Sordish women.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_521",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We made the once-untouchable Soll answer for his crimes!\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_522",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"When I look back, I see achievements that will never be forgotten.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_523",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I thank my family for making me the man I am today. I am very lucky to have them.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_526",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As I promised four years ago, I made law enforcement the focus of my administration, and our country is safer and more secure for it.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_528",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I took responsibility to strengthen our law enforcement and I delivered the best possible results in four years' time.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_529",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As I promised four years ago, I made military the focus of my administration and greatly strengthened our defense forces.\""
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_530",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I took responsibility for strengthening our military and delivered the best possible results in four years' time.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_532",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As I promised four years ago, I made education the focus of my administration and greatly expanded our services to the Sordish people.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_533",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"When you asked me to fix our education system, I took responsibility and delivered the best results in four years' time.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_534",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"When you asked me to fix our healthcare system, I took responsibility and delivered the best results in four years' time.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_535",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"And most importantly, I thank *you* for supporting me through these difficult years.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_536",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"And my greatest thanks goes out to all of you who came here today. You are the backbone of this campaign. Your noise is shaking the whole country!\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_537",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must also thank every one of our citizens who resisted and fought with us.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_541",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI had to pause and had a few sips of water before continuing."
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_543",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Unfortunately, most of my term saw a period of emergency. But I had to take action, and it proved to be justified.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_548",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We completed one of the biggest infrastructure projects in Sordland's history, which led to rapid economic development.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_549",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Since 1954, Sords have been given cliffs to climb, and found the tenacity to climb them. Now, we can see the valley below.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_550",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You once protested our corrupt political establishment and you elected me to fight for you. To finally put Sordland first.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_551",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With the power you entrusted upon us, my administration fought to serve your interests alone.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_552",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our government showed this nation steady, consistent and principled leadership with a clear and positive plan.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_553",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"They did not believe in me when I first proposed our constitutional changes. I proved everyone wrong.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_557",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Economic instability and depression plagued our country, but together, we overcame them.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_558",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We managed to fix the recession and put it behind us. Now we can safely begin building our country back up again.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_560",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We were faced with existential threats from both inside and outside. But we eliminated all who threatened the integrity of our great nation.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_578",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Plagued by political turmoil in our first days in office, I took decisive action and brought stability to Sordland.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_591",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We improved rural treatment substantially by hiring health staff and upgrading equipment.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_593",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We agreed to pay doctors, nurses and other health staff salaries commensurate with their value to our society.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_594",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We built new hospitals where they were needed. Access to health became available for all.\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_603",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Every one of my decisions was made to serve all Sordish citizens regardless of their ethnic background, religion or personal wealth.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_605",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We took steps to protect our proud mother tongue and unified our education in the Sordish language.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_606",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thanks to our policies, Sordish people can now enjoy more accessible and higher-quality healthcare.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_607",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI took a look at my supporters."
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_620",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, Sordish citizens enjoy more services and liberties than ever before.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_621",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, every Sordish citizen is entitled to medicine for free!\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_622",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, Sordish citizens enjoy a lower retirement age. By five years, no less...\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_623",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland will stand with the CSP against Arcasian capitalism. With the power of the East, Sordland will be the dominant force in Eastern Merkopa.\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_632",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As a new member of the CSP, we will be walking towards the future with more confident steps, together with our allies.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_634",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We integrated Sordland into the international arena. Now, Sordland is a member of the CSP.\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_635",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We integrated Sordland into the international arena. Now, Sordland is a member of the ATO.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_636",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As a new member of the ATO, we will be walking towards the future with more confident steps, together with our allies.\""
+            },
+            "position": {
+                "x": 33480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_637",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland will stand with the ATO against Malenyevism. With the power of the West, Sordland will be the dominant force in Eastern Merkopa.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_639",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We established a minimum wage and expanded rights and legal protection for our workers.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_643",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We built new rural schools and increased access to education.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_644",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We increased the salaries of teachers, principals and other education staff all around the country.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_645",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We improved rural education by purchasing new materials and upgrading old school equipment.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_646",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We provided the Sordish people with higher-quality and more accessible education.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_647",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"During our term, the traditional values of Sordland were protected and strengthened like never before.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_677",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As one of my last actions in office, I also made peace with our historical rival, Rumburg, managing the unthinkable.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_679",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We taxed the elites of Sordland to balance the unequal share of wealth across our nation.\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_680",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We helped thousands of Sordish citizens with disabilities.\""
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_681",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We helped millions of children and parents with our child benefit policy.\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_682",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We enacted policies that protect the interests of the Sordish people.\""
+            },
+            "position": {
+                "x": 36450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_689",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We unified our religious system and stopped militant groups from using religion to justify their violence.\""
+            },
+            "position": {
+                "x": 36720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_690",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That was not all. I stood at the precipice of a possible war with Rumburg. And rather than giving in to bloodshed, I began a peace process.\""
+            },
+            "position": {
+                "x": 36990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_694",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I defended Sordland's international interests and fought for peace in Eastern Merkopa.\""
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_698",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"During my term, the minorities of Sordland saw a great expansion of their political and social freedoms like they have never seen before.\""
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_699",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe crowd was cheering: \"President Rayne!\""
+            },
+            "position": {
+                "x": 37800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_708",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I gave the Bludish minority what they wanted for decades. An autonomous Bergia!\""
+            },
+            "position": {
+                "x": 38070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_710",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I worked hard to expand the rights of our minorities. I formed a commission for Bludish rights and gave amnesty to all Bluds prosecuted for their ethnicity.\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_713",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We brought free public transportation to all Sordish citizens!\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_717",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I stood in the way of the ultranationalists and I crushed every bill that sought to undermine the Bludish people.\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_721",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With increased control over the Central Bank, Sordland will be much swifter in taking action against economic turmoil.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_723",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We now give housing assistance to all Sordish citizens who need it. We're one step closer to eliminating homelessness!\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_724",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Today, every unemployed Sordish citizen is entitled to government assistance until they find a job.\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_725",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have always had the best interests of our people at heart, and I will continue to do so.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_729",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"One of our historic achievements was to pay off all student debts. We erased it completely.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_730",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"In the face of foreign intervention and internal militants, we enacted new security laws and eliminated the threats.\""
+            },
+            "position": {
+                "x": 40230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_731",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"By establishing the Free Trade Commission, we ensured healthy competition, so that our citizens can buy higher-quality products for less.\""
+            },
+            "position": {
+                "x": 41850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_732",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I worked long and hard to ensure a brighter future for our country and our people.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_741",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"My term saw a great expansion of women's rights. Sordish women now finally have a voice.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_743",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"In the last four years, the women of this country won a decades-long fight against the patriarchy.\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_744",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I de-segregated our education system which had deep roots in misogyny. Now every Sordish student is equal.\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_745",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I heard the pleas of our women and acted to represent their rights. I enacted laws that protect and liberate the women of this great nation.\""
+            },
+            "position": {
+                "x": 41580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_751",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The truth is, I have done my part for this country. And I am proud of what I achieved.\""
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_753",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The truth is, it is important to let go and allow new leadership to take the reigns.\""
+            },
+            "position": {
+                "x": 42120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_754",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"My dear citizens, this has been the greatest honor bestowed upon me as a fellow countryman.\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_758",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"At the end of my term, I will be ending my political career for personal reasons.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_759",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have demonstrated that Sordland can improve as a society. Never lose hope, my fellow citizens.\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_760",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I gave my heart and soul to serve this beautiful nation.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_761",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our people are great and unique. We are destined for great things.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_762",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I wish my successor the best of luck. For this is the greatest test of oneself.\""
+            },
+            "position": {
+                "x": 43740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_766",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland must walk the path of malenyevism to achieve true parity in society.\""
+            },
+            "position": {
+                "x": 44010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_767",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our nation should adopt the middle-ground solution of Valgslandian socialism to advance.\""
+            },
+            "position": {
+                "x": 44280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_768",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This country can combine strong elements of socialism and democracy to provide an alternative.\""
+            },
+            "position": {
+                "x": 44550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_772",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'd like to make a statement regarding the future of the country.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_773",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'd like to conclude on that note.\""
+            },
+            "position": {
+                "x": 45090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_774",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The Colonel has provided a different and stronger path for the future of Sordland. One we should follow.\""
+            },
+            "position": {
+                "x": 43740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_775",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our society, culture and the values Sords represent must be at the forefront of any governance.\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_776",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our country is great as is and there is little reason to make a drastic change to steer from this course.\""
+            },
+            "position": {
+                "x": 45630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_780",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland can enrich itself and be part of a new world order with an incentive-driven capitalist structure.\""
+            },
+            "position": {
+                "x": 45900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_781",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our nation must unlock the ambitions and potentials of individuals with material rewards to compete with the world.\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_782",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It is possible to find balance in the system of the west and still achieve high living standards for many.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_786",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland should be a beacon of liberty and democracy. We can cherish our idealistic values.\""
+            },
+            "position": {
+                "x": 46710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_787",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our country should provide all types of freedoms and allow for safe transition of power regardless of who the people choose.\""
+            },
+            "position": {
+                "x": 46980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_788",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Whichever way Sordland may evolve to, democracy must take a part in the form of government.\""
+            },
+            "position": {
+                "x": 47250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_789",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We wrote history when we celebrated our changes to the outdated Constitution of 1929.\""
+            },
+            "position": {
+                "x": 47520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_790",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have amended our once-untouchable constitution and opened the way for further reforms.\""
+            },
+            "position": {
+                "x": 47790,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e26_to_55",
+            "source": "node_26",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_53",
+            "source": "node_27",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_82",
+            "source": "node_49",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_60",
+            "source": "node_52",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_72",
+            "source": "node_59",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_75",
+            "source": "node_60",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_75",
+            "source": "node_61",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_49",
+            "source": "node_73",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_49",
+            "source": "node_79",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_49",
+            "source": "node_80",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_49",
+            "source": "node_81",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_755",
+            "source": "node_82",
+            "target": "node_755",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_756",
+            "source": "node_85",
+            "target": "node_756",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_756",
+            "source": "node_86",
+            "target": "node_756",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_756",
+            "source": "node_87",
+            "target": "node_756",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_510",
+            "source": "node_88",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_510",
+            "source": "node_89",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_510",
+            "source": "node_90",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_510",
+            "source": "node_91",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_510",
+            "source": "node_92",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_510",
+            "source": "node_93",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_510",
+            "source": "node_94",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_87",
+            "source": "node_95",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_503",
+            "source": "node_96",
+            "target": "node_503",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_506",
+            "source": "node_103",
+            "target": "node_506",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_125",
+            "source": "node_135",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_216",
+            "source": "node_139",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_376",
+            "source": "node_140",
+            "target": "node_376",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_170",
+            "source": "node_150",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_432",
+            "source": "node_161",
+            "target": "node_432",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_183",
+            "source": "node_162",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_197",
+            "source": "node_166",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_342",
+            "source": "node_167",
+            "target": "node_342",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_341",
+            "source": "node_168",
+            "target": "node_341",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_156",
+            "source": "node_172",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_164",
+            "source": "node_176",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_164",
+            "source": "node_177",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_214",
+            "source": "node_182",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_197",
+            "source": "node_188",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_210",
+            "source": "node_195",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_191",
+            "source": "node_199",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_353",
+            "source": "node_208",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_353",
+            "source": "node_209",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_350",
+            "source": "node_210",
+            "target": "node_350",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_351",
+            "source": "node_211",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_352",
+            "source": "node_212",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_352",
+            "source": "node_213",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_344",
+            "source": "node_214",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_284",
+            "source": "node_229",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_245",
+            "source": "node_230",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_285",
+            "source": "node_242",
+            "target": "node_285",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_286",
+            "source": "node_245",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e273_to_272",
+            "source": "node_273",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e274_to_272",
+            "source": "node_274",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e285_to_340",
+            "source": "node_285",
+            "target": "node_340",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_247",
+            "source": "node_286",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e300_to_335",
+            "source": "node_300",
+            "target": "node_335",
+            "type": "step"
+        },
+        {
+            "id": "e301_to_334",
+            "source": "node_301",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_312",
+            "source": "node_319",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e328_to_322",
+            "source": "node_328",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e331_to_322",
+            "source": "node_331",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e332_to_322",
+            "source": "node_332",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_337",
+            "source": "node_338",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_457",
+            "source": "node_339",
+            "target": "node_457",
+            "type": "step"
+        },
+        {
+            "id": "e342_to_179",
+            "source": "node_342",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e345_to_339",
+            "source": "node_345",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e347_to_367",
+            "source": "node_347",
+            "target": "node_367",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_367",
+            "source": "node_354",
+            "target": "node_367",
+            "type": "step"
+        },
+        {
+            "id": "e370_to_373",
+            "source": "node_370",
+            "target": "node_373",
+            "type": "step"
+        },
+        {
+            "id": "e372_to_339",
+            "source": "node_372",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_372",
+            "source": "node_373",
+            "target": "node_372",
+            "type": "step"
+        },
+        {
+            "id": "e378_to_390",
+            "source": "node_378",
+            "target": "node_390",
+            "type": "step"
+        },
+        {
+            "id": "e380_to_409",
+            "source": "node_380",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e381_to_418",
+            "source": "node_381",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e382_to_418",
+            "source": "node_382",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e383_to_409",
+            "source": "node_383",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e387_to_381",
+            "source": "node_387",
+            "target": "node_381",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_402",
+            "source": "node_388",
+            "target": "node_402",
+            "type": "step"
+        },
+        {
+            "id": "e389_to_385",
+            "source": "node_389",
+            "target": "node_385",
+            "type": "step"
+        },
+        {
+            "id": "e400_to_385",
+            "source": "node_400",
+            "target": "node_385",
+            "type": "step"
+        },
+        {
+            "id": "e411_to_398",
+            "source": "node_411",
+            "target": "node_398",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_398",
+            "source": "node_412",
+            "target": "node_398",
+            "type": "step"
+        },
+        {
+            "id": "e417_to_406",
+            "source": "node_417",
+            "target": "node_406",
+            "type": "step"
+        },
+        {
+            "id": "e426_to_456",
+            "source": "node_426",
+            "target": "node_456",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_455",
+            "source": "node_427",
+            "target": "node_455",
+            "type": "step"
+        },
+        {
+            "id": "e436_to_167",
+            "source": "node_436",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e446_to_449",
+            "source": "node_446",
+            "target": "node_449",
+            "type": "step"
+        },
+        {
+            "id": "e447_to_339",
+            "source": "node_447",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e451_to_452",
+            "source": "node_451",
+            "target": "node_452",
+            "type": "step"
+        },
+        {
+            "id": "e461_to_128",
+            "source": "node_461",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e468_to_97",
+            "source": "node_468",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e475_to_99",
+            "source": "node_475",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e476_to_104",
+            "source": "node_476",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e477_to_104",
+            "source": "node_477",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e512_to_524",
+            "source": "node_512",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e513_to_532",
+            "source": "node_513",
+            "target": "node_532",
+            "type": "step"
+        },
+        {
+            "id": "e514_to_532",
+            "source": "node_514",
+            "target": "node_532",
+            "type": "step"
+        },
+        {
+            "id": "e518_to_513",
+            "source": "node_518",
+            "target": "node_513",
+            "type": "step"
+        },
+        {
+            "id": "e519_to_546",
+            "source": "node_519",
+            "target": "node_546",
+            "type": "step"
+        },
+        {
+            "id": "e520_to_546",
+            "source": "node_520",
+            "target": "node_546",
+            "type": "step"
+        },
+        {
+            "id": "e521_to_532",
+            "source": "node_521",
+            "target": "node_532",
+            "type": "step"
+        },
+        {
+            "id": "e522_to_546",
+            "source": "node_522",
+            "target": "node_546",
+            "type": "step"
+        },
+        {
+            "id": "e523_to_581",
+            "source": "node_523",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e526_to_519",
+            "source": "node_526",
+            "target": "node_519",
+            "type": "step"
+        },
+        {
+            "id": "e528_to_587",
+            "source": "node_528",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e529_to_587",
+            "source": "node_529",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e530_to_587",
+            "source": "node_530",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e532_to_538",
+            "source": "node_532",
+            "target": "node_538",
+            "type": "step"
+        },
+        {
+            "id": "e533_to_587",
+            "source": "node_533",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e534_to_587",
+            "source": "node_534",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e535_to_587",
+            "source": "node_535",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e536_to_543",
+            "source": "node_536",
+            "target": "node_543",
+            "type": "step"
+        },
+        {
+            "id": "e537_to_543",
+            "source": "node_537",
+            "target": "node_543",
+            "type": "step"
+        },
+        {
+            "id": "e541_to_522",
+            "source": "node_541",
+            "target": "node_522",
+            "type": "step"
+        },
+        {
+            "id": "e543_to_551",
+            "source": "node_543",
+            "target": "node_551",
+            "type": "step"
+        },
+        {
+            "id": "e548_to_571",
+            "source": "node_548",
+            "target": "node_571",
+            "type": "step"
+        },
+        {
+            "id": "e549_to_571",
+            "source": "node_549",
+            "target": "node_571",
+            "type": "step"
+        },
+        {
+            "id": "e550_to_553",
+            "source": "node_550",
+            "target": "node_553",
+            "type": "step"
+        },
+        {
+            "id": "e551_to_553",
+            "source": "node_551",
+            "target": "node_553",
+            "type": "step"
+        },
+        {
+            "id": "e552_to_581",
+            "source": "node_552",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e553_to_581",
+            "source": "node_553",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e557_to_546",
+            "source": "node_557",
+            "target": "node_546",
+            "type": "step"
+        },
+        {
+            "id": "e558_to_571",
+            "source": "node_558",
+            "target": "node_571",
+            "type": "step"
+        },
+        {
+            "id": "e560_to_571",
+            "source": "node_560",
+            "target": "node_571",
+            "type": "step"
+        },
+        {
+            "id": "e578_to_549",
+            "source": "node_578",
+            "target": "node_549",
+            "type": "step"
+        },
+        {
+            "id": "e591_to_593",
+            "source": "node_591",
+            "target": "node_593",
+            "type": "step"
+        },
+        {
+            "id": "e593_to_618",
+            "source": "node_593",
+            "target": "node_618",
+            "type": "step"
+        },
+        {
+            "id": "e594_to_618",
+            "source": "node_594",
+            "target": "node_618",
+            "type": "step"
+        },
+        {
+            "id": "e603_to_711",
+            "source": "node_603",
+            "target": "node_711",
+            "type": "step"
+        },
+        {
+            "id": "e605_to_727",
+            "source": "node_605",
+            "target": "node_727",
+            "type": "step"
+        },
+        {
+            "id": "e606_to_641",
+            "source": "node_606",
+            "target": "node_641",
+            "type": "step"
+        },
+        {
+            "id": "e607_to_618",
+            "source": "node_607",
+            "target": "node_618",
+            "type": "step"
+        },
+        {
+            "id": "e620_to_652",
+            "source": "node_620",
+            "target": "node_652",
+            "type": "step"
+        },
+        {
+            "id": "e621_to_661",
+            "source": "node_621",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e622_to_661",
+            "source": "node_622",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e623_to_661",
+            "source": "node_623",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e632_to_646",
+            "source": "node_632",
+            "target": "node_646",
+            "type": "step"
+        },
+        {
+            "id": "e634_to_608",
+            "source": "node_634",
+            "target": "node_608",
+            "type": "step"
+        },
+        {
+            "id": "e635_to_608",
+            "source": "node_635",
+            "target": "node_608",
+            "type": "step"
+        },
+        {
+            "id": "e636_to_608",
+            "source": "node_636",
+            "target": "node_608",
+            "type": "step"
+        },
+        {
+            "id": "e637_to_608",
+            "source": "node_637",
+            "target": "node_608",
+            "type": "step"
+        },
+        {
+            "id": "e639_to_661",
+            "source": "node_639",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e643_to_661",
+            "source": "node_643",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e644_to_652",
+            "source": "node_644",
+            "target": "node_652",
+            "type": "step"
+        },
+        {
+            "id": "e645_to_652",
+            "source": "node_645",
+            "target": "node_652",
+            "type": "step"
+        },
+        {
+            "id": "e646_to_652",
+            "source": "node_646",
+            "target": "node_652",
+            "type": "step"
+        },
+        {
+            "id": "e647_to_652",
+            "source": "node_647",
+            "target": "node_652",
+            "type": "step"
+        },
+        {
+            "id": "e677_to_606",
+            "source": "node_677",
+            "target": "node_606",
+            "type": "step"
+        },
+        {
+            "id": "e679_to_658",
+            "source": "node_679",
+            "target": "node_658",
+            "type": "step"
+        },
+        {
+            "id": "e680_to_727",
+            "source": "node_680",
+            "target": "node_727",
+            "type": "step"
+        },
+        {
+            "id": "e681_to_692",
+            "source": "node_681",
+            "target": "node_692",
+            "type": "step"
+        },
+        {
+            "id": "e682_to_692",
+            "source": "node_682",
+            "target": "node_692",
+            "type": "step"
+        },
+        {
+            "id": "e689_to_684",
+            "source": "node_689",
+            "target": "node_684",
+            "type": "step"
+        },
+        {
+            "id": "e690_to_641",
+            "source": "node_690",
+            "target": "node_641",
+            "type": "step"
+        },
+        {
+            "id": "e694_to_727",
+            "source": "node_694",
+            "target": "node_727",
+            "type": "step"
+        },
+        {
+            "id": "e698_to_658",
+            "source": "node_698",
+            "target": "node_658",
+            "type": "step"
+        },
+        {
+            "id": "e699_to_641",
+            "source": "node_699",
+            "target": "node_641",
+            "type": "step"
+        },
+        {
+            "id": "e708_to_719",
+            "source": "node_708",
+            "target": "node_719",
+            "type": "step"
+        },
+        {
+            "id": "e710_to_641",
+            "source": "node_710",
+            "target": "node_641",
+            "type": "step"
+        },
+        {
+            "id": "e713_to_723",
+            "source": "node_713",
+            "target": "node_723",
+            "type": "step"
+        },
+        {
+            "id": "e717_to_710",
+            "source": "node_717",
+            "target": "node_710",
+            "type": "step"
+        },
+        {
+            "id": "e721_to_732",
+            "source": "node_721",
+            "target": "node_732",
+            "type": "step"
+        },
+        {
+            "id": "e723_to_655",
+            "source": "node_723",
+            "target": "node_655",
+            "type": "step"
+        },
+        {
+            "id": "e724_to_700",
+            "source": "node_724",
+            "target": "node_700",
+            "type": "step"
+        },
+        {
+            "id": "e725_to_700",
+            "source": "node_725",
+            "target": "node_700",
+            "type": "step"
+        },
+        {
+            "id": "e729_to_687",
+            "source": "node_729",
+            "target": "node_687",
+            "type": "step"
+        },
+        {
+            "id": "e730_to_700",
+            "source": "node_730",
+            "target": "node_700",
+            "type": "step"
+        },
+        {
+            "id": "e731_to_641",
+            "source": "node_731",
+            "target": "node_641",
+            "type": "step"
+        },
+        {
+            "id": "e732_to_655",
+            "source": "node_732",
+            "target": "node_655",
+            "type": "step"
+        },
+        {
+            "id": "e741_to_725",
+            "source": "node_741",
+            "target": "node_725",
+            "type": "step"
+        },
+        {
+            "id": "e743_to_687",
+            "source": "node_743",
+            "target": "node_687",
+            "type": "step"
+        },
+        {
+            "id": "e744_to_687",
+            "source": "node_744",
+            "target": "node_687",
+            "type": "step"
+        },
+        {
+            "id": "e745_to_687",
+            "source": "node_745",
+            "target": "node_687",
+            "type": "step"
+        },
+        {
+            "id": "e751_to_731",
+            "source": "node_751",
+            "target": "node_731",
+            "type": "step"
+        },
+        {
+            "id": "e753_to_756",
+            "source": "node_753",
+            "target": "node_756",
+            "type": "step"
+        },
+        {
+            "id": "e754_to_756",
+            "source": "node_754",
+            "target": "node_756",
+            "type": "step"
+        },
+        {
+            "id": "e758_to_94",
+            "source": "node_758",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e759_to_510",
+            "source": "node_759",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e760_to_774",
+            "source": "node_760",
+            "target": "node_774",
+            "type": "step"
+        },
+        {
+            "id": "e761_to_774",
+            "source": "node_761",
+            "target": "node_774",
+            "type": "step"
+        },
+        {
+            "id": "e762_to_774",
+            "source": "node_762",
+            "target": "node_774",
+            "type": "step"
+        },
+        {
+            "id": "e766_to_770",
+            "source": "node_766",
+            "target": "node_770",
+            "type": "step"
+        },
+        {
+            "id": "e767_to_96",
+            "source": "node_767",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e768_to_96",
+            "source": "node_768",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e772_to_778",
+            "source": "node_772",
+            "target": "node_778",
+            "type": "step"
+        },
+        {
+            "id": "e773_to_764",
+            "source": "node_773",
+            "target": "node_764",
+            "type": "step"
+        },
+        {
+            "id": "e774_to_104",
+            "source": "node_774",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e775_to_96",
+            "source": "node_775",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e776_to_96",
+            "source": "node_776",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e780_to_784",
+            "source": "node_780",
+            "target": "node_784",
+            "type": "step"
+        },
+        {
+            "id": "e781_to_96",
+            "source": "node_781",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e782_to_96",
+            "source": "node_782",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e786_to_96",
+            "source": "node_786",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e787_to_96",
+            "source": "node_787",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e788_to_96",
+            "source": "node_788",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e789_to_96",
+            "source": "node_789",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e790_to_555",
+            "source": "node_790",
+            "target": "node_555",
+            "type": "step"
+        }
+    ]
+}

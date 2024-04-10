@@ -1,0 +1,805 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith a final whistle, the Maroon Train came to a stop in the middle of the Forest of October."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI opened the window to look outside. The air was cool and I enjoyed the smell of nature for a brief moment."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI straightened my jacket as she approached."
+            },
+            "position": {
+                "x": 4590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA few minutes later, another train pulled in behind ours and stopped with a whistle."
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe looked much older and more tired than the last time I had seen her. Clearly, the war had taken its toll on her."
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nWe shook hands."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI gestured towards the wagon."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What's wrong with being out in nature?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“Oh, come on. Such childish behavior.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe paused for a second and glared at me in pure fury."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n“Oh, trust me...”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI took a look at the newspaper."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"...After the triumphant victory of our soldiers, President Rayne welcomed them back home in Holsord. The entire country has broken out in celebration of Rumburg's defeat...\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Defense minister Iosef Lancea was the man of the hour as his radical plan, in his own words, 'Maradunen Schlium', caught the enemy off guard. Our troops immediately broke their ranks and started marching towards Rumburg's capital...'"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Defense minister Iosef Lancea was the man of the hour as his superior strategies broke the morale of the enemy. Our troops were victorious in their assault and tipped the scales in our favor. Soon after, they were on their way to Rumburg's capital...'"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Experts are still analyzing the particulars of the victory, but there is one fact they agree on: The siege of Thornbourgh was the turning point that drove Rumburg into where they are now. A full and unconditional surrender...'"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n'P.S.: Mom is fine and Deana might have a boyfriend.'"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI stepped out of my cabin and exited the wagon to greet my esteemed guests."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nQueen Beatrice stepped out of the front-most wagon."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe shook hands and waited in silence for the Queen's arrival."
+            },
+            "position": {
+                "x": 4860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"I can't help but think about all my friends and squadmates on the front lines. I know I'm lucky to be deployed here in Holsord, but part of me wishes I could've fought with them.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Still... I wonder if you and the other bigwigs back in Holsord know the real cost of this war. It's not just that I could've died. It's that some of the things I did make me wish I had.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Please accept this pen as a reminder of this historic occasion.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Everyone's talking about the war here in Arcasia. I have to say it feels pretty nice being part of the winning coalition.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Everyone's talking about the war here in United Contana. I have to say it feels pretty nice being part of the winning coalition.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"...no matter what, Wehlen came to Sordland's aid in its time of need. This is definitely the start of a new and lasting alliance in the region, Wiktor Smolak proclaimed...\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWiktor Smolak walked over with his arms open. He was smiling."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“Anton! My friend! It's certainly been a long ride but finally, we are here.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"...PM Maartin Van Hoorten proclaimed that peace had finally arrived in Eastern Merkopa...\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI remembered the jubilant welcome ceremony and smiled. I flipped the page."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe witnesses were called for the signing of the agreement titled the 'Treaty of Estord'."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n\"Sordland's government affirms and the Rumburg accepts the responsibility of Rumburg for causing for the losses and damages...\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n\"Section V... Sordland's Front...\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_190",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n\"Rumburg will immediately surrender the cities of Tzarsbourgh, Dome, and their respective surrounding territories...\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n\"Part I... Section II... Reparations... \""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n\"This is outrageous!\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n\"Rumburg will immediately surrender the cities of Tzarsbourgh, Dome, and their respective surrounding territories to the Republic of Sordland.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Emmerich Hegel\n\n\"You won't be in any position to worry about that.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't think you are in any position to negotiate.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Ms. Livingston, it seems you do not fully comprehend the situation. We are not asking!\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Ms. Livingston, would you rather we continue our march towards Thornbourgh so that we can sign the treaty there?\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_250",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Ms. Livingston, we can always replace you with someone else and have that person sign the treaty instead.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_256",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n\"Section X... Status of Forces Agreement... Rumburg grants, and ATO accepts, the right, upon the coming into force of this Treaty, to deploy ATO land, air and sea forces in and about Rumburg.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_263",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n\"Wait, what's this?\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston\n\n\"Wait, what's this?\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_279",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Credit as well goes to Foreign Minister Deivid Wisci, whose insight into Sordland's allies proved invaluable. He certainly deserves a long and peaceful retirement.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe laid out the treaty and began to read the document."
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_52",
+            "source": "node_1",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_108",
+            "source": "node_3",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_282",
+            "source": "node_4",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_51",
+            "source": "node_6",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_112",
+            "source": "node_7",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_114",
+            "source": "node_11",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_114",
+            "source": "node_12",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_114",
+            "source": "node_13",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_281",
+            "source": "node_32",
+            "target": "node_281",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_6",
+            "source": "node_47",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_35",
+            "source": "node_48",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_102",
+            "source": "node_55",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_163",
+            "source": "node_67",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_273",
+            "source": "node_75",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_273",
+            "source": "node_76",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_273",
+            "source": "node_77",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_122",
+            "source": "node_100",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_4",
+            "source": "node_106",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_7",
+            "source": "node_111",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_8",
+            "source": "node_112",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_15",
+            "source": "node_114",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_98",
+            "source": "node_115",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_65",
+            "source": "node_124",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_88",
+            "source": "node_128",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_92",
+            "source": "node_132",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_68",
+            "source": "node_136",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_151",
+            "source": "node_155",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_113",
+            "source": "node_160",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_134",
+            "source": "node_173",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_134",
+            "source": "node_174",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_37",
+            "source": "node_182",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_36",
+            "source": "node_183",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_264",
+            "source": "node_188",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e190_to_264",
+            "source": "node_190",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_180",
+            "source": "node_200",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_265",
+            "source": "node_207",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_265",
+            "source": "node_208",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_252",
+            "source": "node_238",
+            "target": "node_252",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_252",
+            "source": "node_243",
+            "target": "node_252",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_250",
+            "source": "node_244",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_250",
+            "source": "node_245",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e250_to_180",
+            "source": "node_250",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e256_to_244",
+            "source": "node_256",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e263_to_259",
+            "source": "node_263",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_189",
+            "source": "node_264",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e279_to_78",
+            "source": "node_279",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_78",
+            "source": "node_280",
+            "target": "node_78",
+            "type": "step"
+        }
+    ]
+}

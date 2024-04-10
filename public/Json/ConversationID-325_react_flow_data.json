@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Is there a particular program you wish to focus on? Keep in mind, our budget is limited.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e17_to_8",
+            "source": "node_17",
+            "target": "node_8",
+            "type": "step"
+        }
+    ]
+}

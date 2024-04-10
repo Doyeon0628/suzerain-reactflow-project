@@ -1,0 +1,91 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "PreBriefWelfareHub\n\nPreBriefWelfareHub"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe royal council convened upon my calling."
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe councilors gathered themselves and left."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Greetings councilors. We have matters to discuss.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe councilors waited for a response."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_23",
+            "source": "node_3",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_183",
+            "source": "node_22",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_22",
+            "source": "node_182",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_22",
+            "source": "node_184",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_21",
+            "source": "node_195",
+            "target": "node_21",
+            "type": "step"
+        }
+    ]
+}

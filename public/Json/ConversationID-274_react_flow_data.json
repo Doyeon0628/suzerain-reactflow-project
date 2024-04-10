@@ -1,0 +1,210 @@
+{
+    "nodes": [
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...started a charitable foundation to stop global hunger."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou were happy not only to live in a country that aligned with your personal values, but to reconnect with Franc."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen he heard you were in the country, he refused to speak to you. But gradually, your relationship began to thaw.\\n\\nMeanwhile, you yourself..."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYour new role on the board of Armadine Enterprises fit you like a glove.\\n\\nMonica, meanwhile, was thrilled by the new possibilities and viewpoints the Arcasian women's movement had to offer.\\n\\nIn the face of escalating tensions with United Contana, you..."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSome time passed. A series of breakthrough inventions made Armadine one of the wealthiest corporations in Arcasia. \\n\\nYou suddenly had more money than you'd ever been able to enjoy in Sordland. You..."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou helped him with whatever he needed."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou accepted."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nMore time went by."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...a city apartment."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...an opulent hillside villa recently vacated by a disgraced government official."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou lived out the rest of your days in comfort, insulated from the global tensions around you. Your only regret was that you..."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou lived out the rest of your days in relative anonymity as your presidency became a footnote in Sordish history.\\n\\nYour only regret was that you..."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e29_to_45",
+            "source": "node_29",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_146",
+            "source": "node_30",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_17",
+            "source": "node_32",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_142",
+            "source": "node_35",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_143",
+            "source": "node_41",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_128",
+            "source": "node_87",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_128",
+            "source": "node_94",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_151",
+            "source": "node_107",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_140",
+            "source": "node_117",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_141",
+            "source": "node_122",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_148",
+            "source": "node_130",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_109",
+            "source": "node_137",
+            "target": "node_109",
+            "type": "step"
+        }
+    ]
+}

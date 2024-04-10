@@ -1,0 +1,176 @@
+{
+    "nodes": [
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBack during the '53 election, I had debated my political opponents on the radio. Now the debate was to be televised, like everything else these days."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI kept my mouth shut."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"That's right. The President may have tried to silence me, but he couldn't silence our movement. The poor and downtrodden of Sordland *will* unite and rise up.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Moderator\n\n\"To my right, Lileas Graf, former Interior Minister and leader of the USP.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Moderator\n\n\"Frens Ricter, leader of the PFJP.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Moderator\n\n\"Remus Holstron, new chairman of the NFP.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"Greci Sordland.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"That's right. We may have failed to meet the threshold last time, but the poor and downtrodden of Sordland *will* unite and rise up.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"And protector of the legacy of Tarquin Soll, lest we forget. I'm looking forward to your questions.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe shot a pointed glance in my direction."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e27_to_140",
+            "source": "node_27",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_132",
+            "source": "node_45",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_76",
+            "source": "node_60",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_82",
+            "source": "node_61",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_63",
+            "source": "node_66",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_78",
+            "source": "node_68",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_98",
+            "source": "node_75",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_47",
+            "source": "node_83",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_54",
+            "source": "node_96",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_54",
+            "source": "node_97",
+            "target": "node_54",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,839 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSordland One's flight from Holsord to Wraclawitz took approximately five hours. Despite heavy turbulence, I managed to sleep a little."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOur plane landed, and the door opened. The sun blinded me for a moment. I stepped outside."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I don't smoke.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“I know you have put an embargo on Rumburg, and I congratulate you for standing up to them. But let me ask you a question. What do you really think about Rumburg?”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“Exactly! To hell with Rumburg! I like you already, Anton!”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“I agree with your sentiments, Anton. They are a threat to everyone in the region.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“I wouldn't be so sure, Anton.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Regardless, I would rather prevent further conflict in the region.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“You know as well as I do, Anton. They are coming whether we like it or not. They are the aggressor, not us.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Not much in particular. Like any other country, they have their needs and their own agenda.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“We must be careful, Mr. President.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What is it?”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“I call it Operation Bear Trap.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What do you want from me?”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“Here is the deal. I will give you objectively the *best* trade deal in the region.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“You will give me your assistance crushing the terrorists on both of our borders.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I need specifics.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Absolutely not. I won't meddle in Wehlen's military interventions.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“You know that as long as they use the mountains in Wehlen as a base, Sordland and Lespia will equally suffer. This is in the interest of the whole region.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“There might be international ramifications.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“What I want from you in return for all the money and the resources, is only a joint operation between our armies against the BFF.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Deal.”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI took a moment to think about it."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“You are a tough one, Anton.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“You are a tough one, Mr. President.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“Wait, Mr. President. Wait.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“I knew I could trust you, Anton.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“Normally, I wouldn't offer anything else but, I like you.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“That's unfortunate. I thought we could be friends.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“Tonight we will drink!”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe next day, I returned to Sordland with a hangover."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“My assistants will show you the way.”"
+            },
+            "position": {
+                "x": 7290,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI nodded and left."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“I knew I could trust you, Anton.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Deal.”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“Tonight we will drink!”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe clapped his hands again."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“I knew I could trust you, Mr. President.”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_279",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n\"Exactly.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“I will cut all their supplies from Rumburg and trap them on the mountains.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Why would you offer me so much?\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was probably the highest-quality tobacco I had ever smoked. I handed it back."
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_300",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n\"However, the main problem is the border security between our nations. BFF militants have been using the mountains between Sordland and Wehlen to escape justice in both of our countries.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“In return, you will assist me in destroying the armed militants in my country.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“And now, I need to solve some problems they are creating for me.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“But now, I need to solve some problems they are creating for me.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n\"What I seek from you, in reciprocation for this advantageous collaboration, is merely a cooperative military endeavor involving our forces against the BFF.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_328",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Are you suggesting we pay a higher rate than usual?\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak\n\n“In exchange, we will offer you a competitive new oil price, aligned with the latest market dynamics, and in turn, you'll aid me in dismantling the armed militants in my country.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_316",
+            "source": "node_1",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_297",
+            "source": "node_4",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_299",
+            "source": "node_87",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_97",
+            "source": "node_100",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_126",
+            "source": "node_104",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_112",
+            "source": "node_105",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_112",
+            "source": "node_106",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_280",
+            "source": "node_114",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_140",
+            "source": "node_118",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_304",
+            "source": "node_123",
+            "target": "node_304",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_112",
+            "source": "node_137",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_112",
+            "source": "node_138",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_281",
+            "source": "node_144",
+            "target": "node_281",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_152",
+            "source": "node_146",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_150",
+            "source": "node_148",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_149",
+            "source": "node_150",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_149",
+            "source": "node_152",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_158",
+            "source": "node_153",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_331",
+            "source": "node_167",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_322",
+            "source": "node_170",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_322",
+            "source": "node_172",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_175",
+            "source": "node_173",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_321",
+            "source": "node_174",
+            "target": "node_321",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_182",
+            "source": "node_180",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_193",
+            "source": "node_181",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_193",
+            "source": "node_182",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_183",
+            "source": "node_187",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_202",
+            "source": "node_192",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_233",
+            "source": "node_198",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_208",
+            "source": "node_201",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_300",
+            "source": "node_206",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_214",
+            "source": "node_207",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_212",
+            "source": "node_210",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_231",
+            "source": "node_216",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_214",
+            "source": "node_218",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_227",
+            "source": "node_219",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_229",
+            "source": "node_221",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_218",
+            "source": "node_229",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e279_to_312",
+            "source": "node_279",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_305",
+            "source": "node_280",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_145",
+            "source": "node_281",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_5",
+            "source": "node_297",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e300_to_207",
+            "source": "node_300",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_161",
+            "source": "node_302",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_168",
+            "source": "node_303",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_140",
+            "source": "node_304",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_173",
+            "source": "node_324",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e328_to_282",
+            "source": "node_328",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_303",
+            "source": "node_333",
+            "target": "node_303",
+            "type": "step"
+        }
+    ]
+}

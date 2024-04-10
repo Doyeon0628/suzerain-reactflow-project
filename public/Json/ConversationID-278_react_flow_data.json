@@ -1,0 +1,1944 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n... a wealthy family in the city of Lachaven."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYour parents named you Anton. As the only child of a diligent civil servant, you lived quite an ordinary childhood.\\n\\nLife was not bad. You were lucky enough to attend a well-known public school.\\n\\nBut frequent fights broke out at the Rayne family home, which made you feel uneasy."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYour parents named you Anton. As the only child of a farmer, you spent your childhood among wheat fields.\\n\\nLife was not easy. You were too poor to afford a good education.\\n\\nThe Rayne family was caring regardless of the economically dire situation. Your parents always did their best to support you."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuring a history class at school, the bell started to ring unexpectedly. You heard a loud commotion outside.\\n\\nAs everyone tried to figure out what was going on, the principal announced the historic revolution. \\n\\nThe Kingdom was no more. The Republic of Sordland was born."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou did not fully understand."
+            },
+            "position": {
+                "x": 270,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou were happy that you had the day off."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou were somewhat worried."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter graduating, you passed the university exam with high marks.\\n\\nYou had the opportunity to choose between several studies. You chose..."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...History at the Deyr University of Culture."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuring the first year you attended a lecture with Deivid Wisci. He was a well-known diplomat from the Foreign Ministry and the son of the President.\\n\\nAfter observing the hall in silence, he explained how the Supreme Court is obstructing justice in Sordland. \\n\\nHe stated that laws should be applied fairly, and that even the members of the Supreme Court, are subject to the same laws."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuring the first year you attended a lecture with Deivid Wisci. He was a well-known diplomat from the Foreign Ministry and the son of the President.\\n\\nAfter observing the hall in silence, he explained why Realpolitik is important for a successful foreign policy.\\n\\nHe argued that a strategy based on practical and material factors would be much more successful in reaching Sordland's ambitions."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSoldiers entered the campus in the evening ahead of the first election.\\n\\nMany were in shock as the uniformed men created a security cordon and started arresting the teachers. \\n\\nA group of students started gathering in protest. Along with your best friend Petr Vectern, you decided to..."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...protest with the students."
+            },
+            "position": {
+                "x": 22950,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe majority of the students and teachers displayed their opposition.\\n\\nThus, Lachaven became a target for the military regime.\\n\\nYou didn't want to stay idle and decided to join..."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe coup split the students into two groups and caused frequent fights. \\n\\nTorture and imprisonment of any opposing voice became a daily routine in Deyr.\\n\\nYou didn't want to stay idle and decided to join..."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...a political debate group."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA student fell and was trampled as everybody started running away."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou tried to go out to see."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nUnlike the others, you were lucky to escape."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou tried to bury yourself under the sheets."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBut the soldiers locked the doors."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe dozens of debates helped you hone your oratory skills while also helping you grow your network.\\n\\nEven though the discussions between different groups often became heated, you all grew from sharing ideas.\\n\\nIn one of the meetings, Petr Vectern introduced you to a classmate of his, Monica. You were immediately attracted to..."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...join the Red Youth, the socialists."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...join the Young Sords, the nationalists."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe radio relayed that the communist general Rikard surrounded Luderin and his troops, demanding their surrender.\\n\\nThey refused and heavy fighting broke out across the country. \\n\\nYou just couldn't believe it. The army was fighting amongst themselves."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRikard's sudden attack caused even more bloodshed in the country. \\n\\nHe seemed different compared to fascist Luderin. In your opinion however, he was more of the same. \\n\\nSo you participated in a protest march. You were chanting..."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...“United we stand, divided we fall!”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou ran to save her."
+            },
+            "position": {
+                "x": 18360,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBut you couldn't reach her in time..."
+            },
+            "position": {
+                "x": 18630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBut all your efforts were in vain..."
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe clashes escalated into a full blown civil war. The horrors made you isolate yourself for a while.\\n\\nMonica helped you cope and love grew between the two of you.\\n\\nHowever, it was a difficult time for love."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe charismatic Colonel, Tarquin Soll, orchestrated a sudden attack on the capital where the Luderinist and Rikardist forces were battling each other. He defeated both, ending the war.\\n\\nA new constitution was written, and the military government began efforts to restore stability. Many people saw the Colonel as a savior. \\n\\nHe formed the United Sordland party and ran as a presidential candidate. In the first-ever single-party elections..."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...you did not vote."
+            },
+            "position": {
+                "x": 18360,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA devastating civil war broke out in the neighboring country, Wehlen. It quickly turned into a proxy war between regional and world powers.\\n\\nThe distinguished major, Iosef Lancea, ordered you to lead your squad on a border patrol mission.\\n\\nIt was a very cold winter night when you began marching out of Gumren Outpost."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nThe years passed."
+            },
+            "position": {
+                "x": 8370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYour only concern was passing the exams."
+            },
+            "position": {
+                "x": 270,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou did exactly as they said."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou could see your breath."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...escorted them back."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou became the legal assistant to one of the more experienced members of assembly.\\n\\nYou worked long and hard, going through hundreds of pages of legal documents late into the night."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou became the economics assistant to one of the more experienced members of assembly.\\n\\nYou worked long and hard, investigating hundreds of pages of economic reports late into the night."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou became the foreign policy assistant to one of the more experienced members of assembly.\\n\\nYou worked long and hard, reviewing dozens of foreign policy plans late into the night."
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nIt was the best opportunity to change the country for the better."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou were climbing the ladder."
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPresident Soll barely secured a majority in the election against the opposition leader.\\n\\nOver the next year, the Sordish people grew increasingly discontent with corruption and the worsening quality of life. Economic growth was slowing down.\\n\\nMeanwhile, calls for a United Sordland Party congress became louder as a leadership struggle started to brew. You..."
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...joined the internal opposition."
+            },
+            "position": {
+                "x": 24840,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe president offered you the position of Minister of Economy, Commerce and Energy in the next government if you backed him in the upcoming vote."
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe president offered you the position of Minister of Foreign Affairs and Trade in the next government if you backed him in the upcoming vote."
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou accepted."
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe congress was nothing short of impressive. The banners of the United Sordland Party were decorating every possible spot.\\n\\nThousands of influential political figures, lobbyists and benefactors gathered for this turning point. \\n\\nThe voting for the party leadership began."
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou voted for Ewald Alphonso."
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou voted for Tarquin Soll."
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...didn't care about who was in charge."
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Presidency of Alphonso saw many bold reforms in government and law and advancements in liberal democratic values.\\n\\nHowever, due to infighting and disorganization, continental economic tensions, and fast-track privatization, it was followed by a severe economic recession.\\n\\nThe other parties announced their bids for the 1953 election, but the unfair election system hampered opposition efforts to campaign. You..."
+            },
+            "position": {
+                "x": 15660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe listened to your advice. \\n\\nAlphonso conceded the leadership struggle and the party eventually voted you in because of your indisputable influence.\\n\\nFollowing this, you announced that you would be running for President in the general election with Petr as your running mate."
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...worried that your reputation would be tarnished along with Alphonso."
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nIt was a gloomy year."
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...her diligence."
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nSordland plunged into chaos."
+            },
+            "position": {
+                "x": 22410,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou stayed."
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou never forgot her face."
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nThe chaos had to end."
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe contender for party leadership was Ewald Alphonso, a reformist and talented business magnate with a growing follower base within the party.\\n\\nPresident Soll noticed your attempts to secure votes for him and approached you with a lucrative deal."
+            },
+            "position": {
+                "x": 18360,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA month later, your daughter was born. Monica named her Deana. She motivated you during a tumultuous period in the party.\\n\\nAs the VP and the leader of the USP, Ewald Alphonso began dismantling the old organizations and structures established by the USP such as the State Educators Corps and the Sordish State Corporation Bills.\\n\\nThe general elections were approaching. The United Sordland party was under new leadership. You..."
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...did your best not to help him."
+            },
+            "position": {
+                "x": 21060,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...dedicated yourself to the party and its success."
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter visiting every city and town during the campaign, you made a speech on state television.\\n\\nYou promised to..."
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...preserve national values."
+            },
+            "position": {
+                "x": 14040,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nThe broadcast ended."
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...blamed Alphonso for the crisis on television."
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou questioned what you were being taught."
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...a student council."
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...a human rights group."
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...“End the chaos! We want stability!”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...“Workers of the world, unite!”"
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...“Bring down the fascists!”"
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...“One nation, one system, one people!”"
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou left."
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...you voted for the United Sordland Party."
+            },
+            "position": {
+                "x": 18360,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nWorking for the ruling party was the easiest path to power."
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou accepted right away."
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...kept supporting the president."
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...watched from the sidelines."
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe contender for party leadership was Ewald Alphonso, a reformist and talented business magnate with a growing follower base within the party.\\n\\nMeanwhile, in a desperate effort to secure votes before the congress, President Soll was meeting party members one by one."
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nHe approached you too."
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nUnfortunately, Tarquin Soll lost the leadership vote to Ewald Alphonso by a small margin. \\n\\nDuring the congress, Soll announced he would retire from politics at the end of his term, and appointed Alphonso as Vice President.\\n\\nThe systems he had established were to stay much longer; his achievements wouldn't be forgotten. You..."
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...were troubled by the departure of Soll."
+            },
+            "position": {
+                "x": 12960,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...were happy that Soll was finally leaving."
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...joined the party effort and campaigned for him."
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...did your best in order to make Sordland a better place."
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...thought that your party could not survive another crisis."
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_175",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe council was focused on increasing the student involvement in the campus along with partaking in the budget. \\n\\nThrough active participation, you gained budget management and leadership skills.\\n\\nIn one of the meetings, Petr Vectern introduced you to a classmate of his, Monica. You were immediately attracted to..."
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe group heavily protested against the deteriorating human rights situation in Sordland. \\n\\nYou contributed in thorough discussions on how to protect and expand freedoms.\\n\\nIn one of the meetings, Petr Vectern introduced you to a classmate of his, Monica. You were immediately attracted to..."
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...her beauty."
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe clashes escalated into a full blown civil war. The horrors made you isolate yourself for a while.\\n\\nMonica helped you cope and love grew between the two of you.\\n\\nHowever, it was a difficult time for love."
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nIt was time to serve your national duty."
+            },
+            "position": {
+                "x": 18360,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou agreed in principle."
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...were worried about the economic recession."
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nIt was time to face the truth."
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter the patrol, Major Lancea arrived with anger and immediately relieved you of your command, calling you a disappointment.\\n\\nOne of your squad members had reported your actions.\\n\\nAfter several months of scrubbing the floors as a punishment..."
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe media backlash prompted President Alphonso to reshuffle his cabinet, but most of his inner circle, even Minister of Development Gus Manger, abandoned him.\\n\\nAlphonso was removed from power by a no-confidence vote. The party eventually voted you in because of your influence.\\n\\nFollowing this, you announced that you would be running for President in the general election with Petr as your running mate."
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...her intelligence."
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...your duties ended and you went back to civilian life."
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuring your absence, Petr Vectern found trustworthy contacts and strengthened your position in the party.\\n\\nAt the same time, President Soll increased his authority over the years. His growing ego started to cause strife within the USP."
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nThe cracks began to show."
+            },
+            "position": {
+                "x": 26190,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...stay away from any political organization."
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nSordland plunged into chaos."
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n“Great nation of Sordland! Due to our incompetent leadership, enemies both internal and external are influencing our glorious nation.\\n\\nToday, more than ever, we need to unite under one flag and protect our values! Greci Sordland!\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs the youngest MP, it was difficult to connect with the influential inner circle. You needed allies, so you brought on Petr Vectern as your right hand man.\\n\\nThe birth of your son, Franc, provided a brief moment of joy and relief.\\n\\nYou..."
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...sacrificed work to spend time with your family."
+            },
+            "position": {
+                "x": 25920,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe new five-year plan and the subsequent financial work put you under a lot of pressure.\\n\\nBut your significant contribution to the economic strategy triggered an invitation to meet President Tarquin Soll himself, who offered you a key position.\\n\\nYou were to become the youngest Member of Assembly."
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nJust like your father once did, you prioritized work over family. Along with Petr Vectern, you accomplished great things for your party. \\n\\nAt home, Monica and Franc felt your absence.\\n\\nMeanwhile, President Soll increased his authority over the years. His growing ego started to cause strife within the USP."
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter graduating, you passed the university exam with high marks.\\n\\nEven though your family was poor, the public education system made it possible to go to university. You had the opportunity to choose between several studies.\\n\\nYou chose..."
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Presidency of Alphonso saw many bold reforms in government and law and advancements in liberal democratic values. He valued your support throughout.\\n\\nHowever, due to infighting and disorganization, continental economic tensions, and fast-track privatization, it was followed by a severe economic recession.\\n\\nThe other parties announced their bids for the 1953 election, but the unfair election system hampered opposition efforts to campaign. You..."
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_281",
+            "source": "node_1",
+            "target": "node_281",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_206",
+            "source": "node_7",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_231",
+            "source": "node_8",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_232",
+            "source": "node_9",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_248",
+            "source": "node_10",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_240",
+            "source": "node_11",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_240",
+            "source": "node_12",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_240",
+            "source": "node_13",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_28",
+            "source": "node_16",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_249",
+            "source": "node_18",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_249",
+            "source": "node_19",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_249",
+            "source": "node_20",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_250",
+            "source": "node_21",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_251",
+            "source": "node_41",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_252",
+            "source": "node_42",
+            "target": "node_252",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_253",
+            "source": "node_43",
+            "target": "node_253",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_195",
+            "source": "node_44",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_192",
+            "source": "node_47",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_129",
+            "source": "node_50",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_129",
+            "source": "node_51",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_129",
+            "source": "node_53",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_129",
+            "source": "node_54",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_200",
+            "source": "node_56",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_227",
+            "source": "node_57",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_228",
+            "source": "node_58",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_257",
+            "source": "node_63",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_256",
+            "source": "node_64",
+            "target": "node_256",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_157",
+            "source": "node_67",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_157",
+            "source": "node_70",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_258",
+            "source": "node_72",
+            "target": "node_258",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_133",
+            "source": "node_73",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_134",
+            "source": "node_74",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_259",
+            "source": "node_75",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_180",
+            "source": "node_77",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_260",
+            "source": "node_78",
+            "target": "node_260",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_10",
+            "source": "node_79",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_21",
+            "source": "node_80",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_46",
+            "source": "node_81",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_185",
+            "source": "node_84",
+            "target": "node_185",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_261",
+            "source": "node_94",
+            "target": "node_261",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_262",
+            "source": "node_95",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_262",
+            "source": "node_96",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_262",
+            "source": "node_97",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_263",
+            "source": "node_99",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_210",
+            "source": "node_101",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_267",
+            "source": "node_102",
+            "target": "node_267",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_269",
+            "source": "node_110",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_269",
+            "source": "node_111",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_269",
+            "source": "node_112",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_233",
+            "source": "node_113",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_270",
+            "source": "node_114",
+            "target": "node_270",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_271",
+            "source": "node_116",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_169",
+            "source": "node_120",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_273",
+            "source": "node_122",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_191",
+            "source": "node_125",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_275",
+            "source": "node_126",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_140",
+            "source": "node_128",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_32",
+            "source": "node_129",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_286",
+            "source": "node_130",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_60",
+            "source": "node_131",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_72",
+            "source": "node_132",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_222",
+            "source": "node_133",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_75",
+            "source": "node_134",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_104",
+            "source": "node_136",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_272",
+            "source": "node_137",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_122",
+            "source": "node_138",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_244",
+            "source": "node_139",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_276",
+            "source": "node_140",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_190",
+            "source": "node_146",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_277",
+            "source": "node_148",
+            "target": "node_277",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_236",
+            "source": "node_149",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_21",
+            "source": "node_150",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_194",
+            "source": "node_151",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_193",
+            "source": "node_152",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_70",
+            "source": "node_153",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_67",
+            "source": "node_154",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_67",
+            "source": "node_155",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_70",
+            "source": "node_156",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_179",
+            "source": "node_157",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_87",
+            "source": "node_159",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_207",
+            "source": "node_161",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_207",
+            "source": "node_162",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_229",
+            "source": "node_163",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_268",
+            "source": "node_165",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_114",
+            "source": "node_167",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_104",
+            "source": "node_168",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_271",
+            "source": "node_169",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_137",
+            "source": "node_170",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_137",
+            "source": "node_171",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_244",
+            "source": "node_173",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_244",
+            "source": "node_174",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e175_to_124",
+            "source": "node_175",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_130",
+            "source": "node_176",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_130",
+            "source": "node_177",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_286",
+            "source": "node_178",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_134",
+            "source": "node_179",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_78",
+            "source": "node_180",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_21",
+            "source": "node_181",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_124",
+            "source": "node_182",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_45",
+            "source": "node_184",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_275",
+            "source": "node_186",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_275",
+            "source": "node_187",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_55",
+            "source": "node_195",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_261",
+            "source": "node_197",
+            "target": "node_261",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_266",
+            "source": "node_198",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_102",
+            "source": "node_199",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_255",
+            "source": "node_201",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_93",
+            "source": "node_204",
+            "target": "node_93",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_79",
+            "source": "node_206",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_264",
+            "source": "node_208",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_208",
+            "source": "node_216",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_198",
+            "source": "node_219",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_14",
+            "source": "node_242",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_123",
+            "source": "node_246",
+            "target": "node_123",
+            "type": "step"
+        }
+    ]
+}

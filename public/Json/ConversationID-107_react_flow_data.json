@@ -1,0 +1,1757 @@
+{
+    "nodes": [
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe waiter approached us and bowed in respect."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Not yet.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Waiter\n\n\"And madame?\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"We'll order later, thank you.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Waiter\n\n\"Of course, sir.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'll have Salade Luco.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I won't order now.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"No thank you. I'd rather wait for our guest to arrive.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Waiter\n\n\"Of course. I'll be around.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Let's try not to agitate her when she comes. We won the vote, so she already has pressure on her.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I disagree. We must keep up the pressure.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Mr. President. Good to see you.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe bowed her head slightly."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Waiter\n\n\"May I?\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Oh, Good to see you, Mrs. Edmonds.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia got up from her chair to shake Isabel's hand."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Please, join me.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Please, take a seat.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Oh no, there's nothing wrong. I just don't want to eat up too much of your time.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'll have the sauté-Perlase, please. And for Mrs. Edmonds...\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Please, take a seat.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSuddenly, the waiter approached us."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'll have the sauté-Perlase, please.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Waiter\n\n\"Perfect, sir.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'll have the salad too.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Waiter\n\n\"For the entrée, we have the options of sauté-Perlase with Lespian style Zabla, Falenco style liver fricassée, or Salade Luco made with fresh vegetables and herbs from southern Lespia.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'll have sauté-Perlase with Lespian Zabla.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Waiter\n\n\"Perfect.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAt that moment, the waiter came back from downstairs, carrying plates of food. After seeing that we were in the midst of a discussion, he averted his eyes as he approached us."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe placed the plate of Falenco style liver fricassée in front of me. It looked and smelled like heaven."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Waiter\n\n\"Bon Appétit.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Thank you. It looks delicious.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I'll have the same. Thank you.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I am, thank you.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe waiter bowed to us and quickly went downstairs."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe wished each other a good meal as Isabel and Nia slowly started to eat."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"You have decided then?\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I think I can get behind this proposal.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I regret to say I do not see eye to eye with you, Mr. President. I don't think I can support this proposal.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's very sad to hear. Is there no way to change your mind?\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Look, I will be clear. Whatever you think about it, you will vote yes!\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's great to hear.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You think?\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Yes.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I think I can get you the votes you need.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I don't think so, Mr. President.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I don't think my conclusion will differ.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Justice Edmonds...\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I'll do my best to convince my group. But I can only speak for myself.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Are you sure that you can bring three votes?\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Yes. We always act together. They will listen to me.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's not good enough.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIsabel took her coat and walked downstairs. Nia and I looked at each other."
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Nothing but your support, Mrs. Edmonds.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"That's great to hear that you will support us. Thank you.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_232",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"And that I will give.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't disrespect me like this, Mrs. Edmonds.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I don't know what you mean. I have already told you my position. And I have another place to be, Mr. President.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Thank you for the meeting, Mrs. Edmonds.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I see that we're all finished with our meals too. I think it's time to conclude this meeting.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Thank you for the meeting, Mrs. Edmonds.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_250",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"That's not good.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_252",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's not...\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_257",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIsabel took her coat and walked downstairs. Nia and I looked at each other."
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"No, thank you. I'll be leaving soon.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_271",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"No thank you. I'll be leaving soon.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_275",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Mr. President...\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Oh I know that feeling.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_285",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe shook our hands and left the room."
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Have a nice evening, Mr. President. Mrs. Edmonds.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_287",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe shook our hands and left the room."
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_288",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Have a nice evening, Mr. President. Mrs. Edmonds.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_293",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Well...\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"But now that you are here, I will take my leave. I have business to take care of.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_301",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe quickly served Isabel's food and refilled our glasses."
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_307",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe wished each other a good meal as Isabel started to eat."
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIsabel took her coat and walked downstairs."
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_328",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was not a good start. It looked like I had no choice but to work with the Old Guards if I wanted to pass this Constitution."
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_329",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was a good start. But I was still uncertain if Isabel would be enough."
+            },
+            "position": {
+                "x": 15930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_332",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI got in the presidential Kadilla and Serge started driving me home."
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn the way, I received a call on the brand new radio phone that was mounted in our vehicle."
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_340",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn the way, I received a call from on the brand new radio phone that was mounted in our vehicle."
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_343",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"Mr. President. I hope your meeting went well.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_345",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"I have some good news for you.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_348",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I have urgent news to share. Heron has agreed to meet before the Court Vote.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_352",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That I cannot do, Lucian.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Understood, sir.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Understood, sir.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_356",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Okay, I'll leave it to your judgement.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_359",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't make me repeat myself, Lucian.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_360",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Good evening. Leaving the call.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_362",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Arrange a meeting with him immediately.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_363",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's good news. I'll leave the arrangement up to you.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_366",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"Understood. Leave that up to me.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_367",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. Okay, I'll leave the arrangement to your judgement, Kesaro.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_368",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes, I did. But the meeting has to be on my terms. Is he not willing to meet in Holsord?\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_369",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"He's either going to come to my office or we won't have a meeting.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_374",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"I'll let you return to your duties now. Good evening.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"Okay. I'll arrange it soon.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"I already did. You are asking for too much.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_377",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"Anyway, I'll leave you to your duties. Good evening.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_411",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I'll do my best to get the three votes but I can only speak for myself.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_415",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So you are not sure if you can bring three votes?\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e9_to_1",
+            "source": "node_9",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_19",
+            "source": "node_12",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_30",
+            "source": "node_16",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_265",
+            "source": "node_17",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_29",
+            "source": "node_18",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_58",
+            "source": "node_22",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_57",
+            "source": "node_23",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_269",
+            "source": "node_26",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_273",
+            "source": "node_31",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_150",
+            "source": "node_32",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_45",
+            "source": "node_39",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_76",
+            "source": "node_53",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_107",
+            "source": "node_54",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_49",
+            "source": "node_62",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_83",
+            "source": "node_75",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_53",
+            "source": "node_77",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_86",
+            "source": "node_90",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_86",
+            "source": "node_91",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_86",
+            "source": "node_92",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_283",
+            "source": "node_104",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_137",
+            "source": "node_106",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_295",
+            "source": "node_113",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_279",
+            "source": "node_115",
+            "target": "node_279",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_396",
+            "source": "node_119",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_291",
+            "source": "node_122",
+            "target": "node_291",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_139",
+            "source": "node_129",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_397",
+            "source": "node_131",
+            "target": "node_397",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_171",
+            "source": "node_136",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_1",
+            "source": "node_148",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_157",
+            "source": "node_162",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_406",
+            "source": "node_167",
+            "target": "node_406",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_406",
+            "source": "node_168",
+            "target": "node_406",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_138",
+            "source": "node_170",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_138",
+            "source": "node_171",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_86",
+            "source": "node_172",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_305",
+            "source": "node_173",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_1",
+            "source": "node_188",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_395",
+            "source": "node_197",
+            "target": "node_395",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_205",
+            "source": "node_198",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_214",
+            "source": "node_200",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_213",
+            "source": "node_201",
+            "target": "node_213",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_326",
+            "source": "node_203",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_409",
+            "source": "node_204",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_409",
+            "source": "node_206",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_220",
+            "source": "node_211",
+            "target": "node_220",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_219",
+            "source": "node_212",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_326",
+            "source": "node_213",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_326",
+            "source": "node_214",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_234",
+            "source": "node_218",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_231",
+            "source": "node_221",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_231",
+            "source": "node_223",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_231",
+            "source": "node_224",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_313",
+            "source": "node_228",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_251",
+            "source": "node_229",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_316",
+            "source": "node_231",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e232_to_243",
+            "source": "node_232",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_231",
+            "source": "node_233",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_319",
+            "source": "node_238",
+            "target": "node_319",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_319",
+            "source": "node_240",
+            "target": "node_319",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_229",
+            "source": "node_242",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_323",
+            "source": "node_248",
+            "target": "node_323",
+            "type": "step"
+        },
+        {
+            "id": "e250_to_258",
+            "source": "node_250",
+            "target": "node_258",
+            "type": "step"
+        },
+        {
+            "id": "e252_to_255",
+            "source": "node_252",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e257_to_329",
+            "source": "node_257",
+            "target": "node_329",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_18",
+            "source": "node_267",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e271_to_27",
+            "source": "node_271",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e275_to_1",
+            "source": "node_275",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_116",
+            "source": "node_281",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e285_to_103",
+            "source": "node_285",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_114",
+            "source": "node_286",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e287_to_286",
+            "source": "node_287",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e288_to_294",
+            "source": "node_288",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e293_to_124",
+            "source": "node_293",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_114",
+            "source": "node_297",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e301_to_154",
+            "source": "node_301",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e307_to_174",
+            "source": "node_307",
+            "target": "node_174",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_241",
+            "source": "node_321",
+            "target": "node_241",
+            "type": "step"
+        },
+        {
+            "id": "e328_to_215",
+            "source": "node_328",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e329_to_333",
+            "source": "node_329",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e332_to_418",
+            "source": "node_332",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_402",
+            "source": "node_336",
+            "target": "node_402",
+            "type": "step"
+        },
+        {
+            "id": "e340_to_334",
+            "source": "node_340",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e343_to_345",
+            "source": "node_343",
+            "target": "node_345",
+            "type": "step"
+        },
+        {
+            "id": "e345_to_349",
+            "source": "node_345",
+            "target": "node_349",
+            "type": "step"
+        },
+        {
+            "id": "e348_to_365",
+            "source": "node_348",
+            "target": "node_365",
+            "type": "step"
+        },
+        {
+            "id": "e352_to_355",
+            "source": "node_352",
+            "target": "node_355",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_360",
+            "source": "node_354",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_393",
+            "source": "node_355",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e356_to_388",
+            "source": "node_356",
+            "target": "node_388",
+            "type": "step"
+        },
+        {
+            "id": "e359_to_393",
+            "source": "node_359",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e360_to_356",
+            "source": "node_360",
+            "target": "node_356",
+            "type": "step"
+        },
+        {
+            "id": "e362_to_384",
+            "source": "node_362",
+            "target": "node_384",
+            "type": "step"
+        },
+        {
+            "id": "e363_to_367",
+            "source": "node_363",
+            "target": "node_367",
+            "type": "step"
+        },
+        {
+            "id": "e366_to_368",
+            "source": "node_366",
+            "target": "node_368",
+            "type": "step"
+        },
+        {
+            "id": "e367_to_400",
+            "source": "node_367",
+            "target": "node_400",
+            "type": "step"
+        },
+        {
+            "id": "e368_to_374",
+            "source": "node_368",
+            "target": "node_374",
+            "type": "step"
+        },
+        {
+            "id": "e369_to_371",
+            "source": "node_369",
+            "target": "node_371",
+            "type": "step"
+        },
+        {
+            "id": "e374_to_401",
+            "source": "node_374",
+            "target": "node_401",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_362",
+            "source": "node_375",
+            "target": "node_362",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_400",
+            "source": "node_376",
+            "target": "node_400",
+            "type": "step"
+        },
+        {
+            "id": "e377_to_392",
+            "source": "node_377",
+            "target": "node_392",
+            "type": "step"
+        },
+        {
+            "id": "e411_to_208",
+            "source": "node_411",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e415_to_231",
+            "source": "node_415",
+            "target": "node_231",
+            "type": "step"
+        }
+    ]
+}

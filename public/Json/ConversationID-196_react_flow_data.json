@@ -1,0 +1,5939 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe makeup crew had just finished their preparations for the interview."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Thank you so much for taking the time to speak with us.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Just a few days after the incident, Sordish anti-air guns shot down a Rumburgian airplane. This time, your government proclaimed exactly the same while the Rumburgian government insisted that the plane was inside their airspace.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Many argue that this was not a coincidence and the Sordish army acted intentionally in retaliation. Did you give such an order?\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. I didn't. Our forces only acted in response to their breach of our airspace.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Does that mean your side is willing to have diplomatic talks with Rumburg?\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Are you saying that the Rumburgian officials are lying? Are you absolutely certain that their plane was inside Sordish airspace?\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. They lied in both instances. These were harassments against Sordland.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Why aren't you asking about the first attack? They started all this.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I didn't say anything about fighting. Nobody wants a war.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Their plane breached our airspace. Our forces only acted in response to that.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course it wasn't an accident. It was done in retaliation for their attack.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course. Rumburg is our neighbor, and we want to have good relations with all of our neighbors.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"If they're willing to, yes.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. The time of diplomacy is long past.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I can't say that for sure. We'll have to ask Queen Livingston herself.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It is up to Rumburg to decide that now.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Mr. President, I know this is a sensitive topic, but please... I'm the moderator here.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"You have also earlier claimed that Rumburg has been spying on your administration. And the alleged spy was none other than your own secretary.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I just laugh at these baseless accusations. I talked about this in detail in the past. You can check what I've said.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm still mourning the loss of Mr. Vectern. I don't appreciate you asking me such a question. He was a friend of mine.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Do you believe these harassments could lead to an actual war between Sordland and Rumburg in the future?\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Unfortunately, I doubt that. She has been increasingly hostile against our country since I took office.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I hope not. We are willing to do what it takes to avoid conflict.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It is very likely, yes.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"This week, the Arcasian government has condemned Rumburg for their actions against Sordland.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I honestly doubt that.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"This week, the United Contanan government has condemned Rumburg for their actions against Sordland.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's not even a question. Queen Beatrice is not crazy enough to go against the entirety of ATO.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"However, Sordland seems to have sacrificed quite a lot to achieve this peace.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm not sure. Rumburg sees itself as the third superpower of this world. We can't put anything past them.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's not even a question. Queen Beatrice is not crazy enough to go against the entire CSP.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. It will surely deter them from creating a war, but they will likely continue their harassments in other ways.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm not sure. Rumburg sees itself as the third superpower of this world. We can't put anything past them.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"They would surely get involved, but I don't know if it would be as mediators.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I hope so. We look up to the international community to maintain peace in all of Merkopa.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Honestly, I don't expect much from them.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"The Estord Incident was largely ignored by the international community, nor it was a talking point of the former king of Rumburg.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"This week, the Arcasian government has expressed their support for your decision to pay reparations to Rumburg.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"This week, the United Contanan government has expressed their support for your decision to pay reparations to Rumburg.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It may. Queen Beatrice has no reason to be against ATO.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's not even a question. They would surely get involved, but I don't know if as mediators.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. We have definitely given them great incentive to do so. I'd like to see them on our side.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm not sure. Rumburg sees itself as the third superpower of this world. I wouldn't rely on them joining our side any time soon.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. We have definitely given them great incentive to do so. I'd like to see them on our side.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't think we'll have a conflict with Rumburg. We have reached a common ground.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Don't you think you were partly to blame?\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"First, I'm not responsible for processing background checks. Second, it was Mr. Vectern who employed her.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"To some extent, yes. All of our administration shares the responsibility for letting such a scandal take place.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Why would I oust my largest supporter, close friend, and the backbone of my administration?\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The accusations are absurd. Mr. Vectern was guilty for leaking classified information to a foreign spy.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Look, Mr. Sacker. I don't want to speak ill of the dead.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I disagree. We took responsibility together. Nobody forced him to resign.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_175",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You are missing the part where I also took on the responsibility and accepted the blame.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Why would I force my largest supporter, close friend, and the backbone of my administration to resign?\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't want to repeat myself here. I've already talked about this earlier.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"First, I'm not responsible for processing background checks. Second, I wasn't the one who hired her.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"To some extent, yes. All of our administration shares the responsibility for letting such a scandal take place.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Before we move on with that, I want to ask about another topic.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Not so long ago, you indicated that your vice president, Mr. Vectern, was having an affair with your secretary.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"The resulting scandal resulted in Mr. Vectern leaving office. He was blamed and you appointed a new vice president. Many claim that this was just an internal political move designed to replace Mr. Vectern.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have evidence she was using her position to exploit the administration.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Unfortunately, we still don't know who she was working for. The investigations are still ongoing.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"And consequently, they were arrested.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Everything happened rather quickly. Some claim your administration was hiding the real truth behind this incident.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have all the evidence it was them. The world should know about Rumburg's interference with its neighbors.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe stared into my eyes, awaiting a response."
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_235",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Both Ms. Suno and Mr. Vectern have since vanished without any trace.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's all nonsense. They were arrested on legal grounds as I stated before.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Who claim that? I think everything was explained in detail with transparency.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This is not a question worth answering. You can check our administration's statements about the incident.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_251",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As we announced earlier, they ran away. We think they fled the country.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_252",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The pertinent information has already been shared with the press. I can't share further than that.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_261",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You are distorting the truth, Mr. Sacker.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_265",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"It seems we're not going anywhere with this topic...\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_266",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes, it does. It endangered the administration. It could have led to sensitive information being leaked.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This was a special case. Unfortunately, I cannot disclose all the details. It's classified information.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_268",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Was that a coincidence?\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_274",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I'm only asking a question, Mr. President.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_279",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Mr. Vectern used to be a close friend of mine. I'd rather not talk about it.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The administration and I have shared all the necessary information with the public.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_293",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Let's continue on that note.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I believe Sordland stands with Agnolia on this matter. In fact, despite condemnation from Valgslandian leader Emmerich Hegel, you recognized Heljiland as Agnolian land.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Let's talk about the ongoing conflict around Heljiland Island.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"You have previously recognized Heljiland as Agnolian land. Yet, you recently changed your stance ahead of your meeting with Malenyev.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I believe Sordland is committed to stand with Valgsland. In fact, you have a military alliance with them.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I believe Sordland stands together with Valgsland on this matter. In fact, despite condemnation from Agnolian leader Van Hoorten, you recognized Heljiland as rightful Valgslandian land.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Sordland is not officially taking any sides between Agnolia and Valgsland.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_322",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Agnolia is the rightful owner of Heljiland. What Valgsland is trying to do is against international law.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Do you think the hostilities between Agnolia and Valgsland might erupt into a hot war?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_328",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"According to reports from yesterday, the Valgslandian navy has finally attacked the Agnolian fleet at Heljiland Island.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_331",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"You also recently joined the CSP. I'm sure this invasion was a point of discussion in your meeting with Malenyev.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_335",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I'm asking you the questions here, Mr. President.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe didn't look like he was satisfied by my response. He stopped for a moment and took a brief look at his papers."
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"According to reports from yesterday, the Valgslandian navy has finally attacked the Agnolian fleet at Heljiland Island.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_342",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI went inside the building."
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_347",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Yet, despite your support for Valgsland, you recently joined ATO. Chancellor Hegel outright condemned you for this decision.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Reports from yesterday show that the Valgslandian Navy has finally attacked the Agnolian fleet at Heljiland Island.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"What is Sordland's role in this conflict? What was discussed in that meeting that led to the island's invasion?\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_358",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"We've also received several reports claiming there were Sordish ships and planes aiding the Valgslandian Navy.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_360",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"So, here's my question. What is Sordland's role in all this, and what will it be going forward?\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_361",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"According to reports from yesterday, the Valgslandian navy has finally attacked the Agnolian fleet at Heljiland Island.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_367",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"We've also received reports that the Contanan ships you are housing in Conriat are actively aiding the invading forces.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_369",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Despite your lack of an official stance, Sordland seems to be indirectly supporting the Valgslandian side of this conflict.\""
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_371",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That was not a point of discussion in our meeting. Sordland is not taking any sides.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_372",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We stand with Valgsland in their rightful intervention in Heljiland. However, we are not partaking in the invasion.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We discussed the reality of the situation. Agnolia has been oppressing the ethnic Valgs on the island. We had to reposition our stance.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_374",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That was not a point of discussion in our meeting. Sordland is not taking any sides.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We discussed the reality of the situation. Agnolia has been oppressing the ethnic Valgs on the island. That is unacceptable.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has nothing to do with the invasion. However, Valgsland has a right to intervene in Heljiland.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_377",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Neither Sordland, nor the Sordish Air Force, nor the Sordish Navy is involved in this conflict. Those reports are not reflecting the truth.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_378",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has nothing to do with the invasion. However, Valgsland has a right to intervene in Heljiland.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_379",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We stand with our allies and will continue to support them.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_380",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has no role in this conflict, nor do we plan to have one. We are not taking any sides.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_381",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has nothing to do with the invasion. However, Valgsland has a right to intervene in Heljiland.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_382",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We stand with Valgsland in their rightful intervention in the island.\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_383",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has no role in this conflict, nor do we plan to have one. We are not taking any sides.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_384",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Neither Sordland nor ATO supports this invasion. However, Valgsland has a right to intervene in Heljiland.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_385",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We still stand with Valgsland in their rightful intervention in the island.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_386",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has no role in this conflict, nor do we plan to have one. We are not taking any sides.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_387",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has nothing to do with the invasion. However, Valgsland has a right to intervene in Heljiland.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We stand with Valgsland in their rightful intervention in the island.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_390",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has nothing to do with the United Contanan fleet or the invasion.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_391",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We stand with Valgsland in their rightful intervention in the island.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_392",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We stand with the people of Heljiland.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_393",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We stand together with the Agnolian government.\""
+            },
+            "position": {
+                "x": 25650,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Would Sordland also get involved if the situation gets out of control?\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_396",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I believe you have already taken a side by recognizing Heljiland as rightful Valgslandian territory.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I believe you have already taken a side by recognizing Heljiland as rightful Valgslandian territory.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_401",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Do you think your stance will complicate your relations with ATO countries?\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_404",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It means we only support the people of Heljiland. Not the governments or their war machines.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_405",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We stand with the people, who are ethnic Valgs by majority.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_406",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Heljiland is a very strategic island in the middle of the Markian Sea. Do you think this invasion could get out of hand, now that Sordland is officially involved?\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_407",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Mr. President. I have the report from the Alliance of Nations here.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_408",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. As troublesome it is, it is very likely.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_409",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It is definitely a possibility. Therefore, all nations of Eastern Merkopa should do their best to calm the situation.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_410",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't think it would go that far. Both sides are able to see reason.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_411",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As a peacekeeping force, yes. We can't let the Markian Sea turn into a war zone.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. Sordland has no intention of intervening in other nations' conflicts.\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_413",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I hope the situation won't come to that.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_414",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Why would that be a problem? I merely stated that Valgsland's intervention is justified.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_415",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course not.\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_416",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. This conflict has nothing to do with ATO nations.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_417",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Do you think your stance will complicate your relations with ATO countries?\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_423",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Yesterday morning, the Sordish fleet was spotted in the vicinity of Heljiland and reconnaissance planes were observed flying above the island.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_424",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"On the contrary, with the aid of Sordland, it will be swift and will end with as little bloodshed as possible.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_425",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't think we'll face any major problems. But we stand ready for anything.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_426",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must correct you, Mr. Sacker. We are not officially partaking in this invasion.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_428",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We discussed the reality of the situation. Agnolia has been oppressing the ethnic Valgs in the island. We had to reposition our stance.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_429",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We discussed the complexity of the situation with Mr. Malenyev. And decided to stay out of it.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I believe I've already given an answer, Mr. Sacker.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_439",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. The Sordish Armed Forces and the Sordish Navy are ready to act if Valgsland attacks the island.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_441",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Are you now denying your own words?\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_443",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You are distorting my words, Mr. Sacker. I do not like where this interview is going.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_444",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm sorry. That must have come across wrong. We are not aiding Valgsland. I meant that we would aid them if necessary.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_445",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe pulled a grainy photograph of a ship and showed it to me."
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_448",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"It clearly shows that your forces are interfering. How will you explain this?\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_449",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That doesn't prove anything. Our ships are there for humanitarian aid. Nothing more.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_450",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The photograph is clearly altered.\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_451",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I think this interview is over.\""
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_453",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Are you ready for the interview, sir?\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_454",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you for coming, Mr. Sacker.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_455",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It doesn't show them taking any action though, does it?\""
+            },
+            "position": {
+                "x": 36450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_458",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"The AN's report clearly states that Sordish ships were blocking the route from Staalport to Heljiland right before the Valgslandian attack occurred.\""
+            },
+            "position": {
+                "x": 36720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_460",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"What you are saying is a bit of an overstretch, don't you think, Mr. President?\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_461",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"This is AN's report we're talking about here, Mr. President.\""
+            },
+            "position": {
+                "x": 36990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_464",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It looks like it. There's no reason for me to believe a foreign report. I know what my forces are doing.\""
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm not saying the AN is lying, but they're definitely biased. Plus, we don't know who took and provided that photograph.\""
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_466",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, that's not what I meant.\""
+            },
+            "position": {
+                "x": 37800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_470",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes.\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_471",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I believe I've gave you an answer already.\""
+            },
+            "position": {
+                "x": 38070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_473",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm just saying that there's no reason for me to believe a foreign report. I know what my forces are doing. The AN is only an external spectator.\""
+            },
+            "position": {
+                "x": 38340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_474",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I see. This is a very huge accusation from your side, Mr. President.\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_475",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Why is it that you support Valgsland's side in this conflict, Mr. President?\""
+            },
+            "position": {
+                "x": 38070,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_476",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Why is it that you support Agnolia's side in this conflict, Mr. President?\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_480",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"But what if it does, Mr. President?\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_481",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We'd only get involved as a peacekeeping force.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_489",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"If the situation comes to that, The Sordish Armed Forces and the Sordish Navy will be ready to defend the island.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_490",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It won't.\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_491",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has no intentions in intervening in other nations' conflicts.\""
+            },
+            "position": {
+                "x": 39690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_499",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Because the island belongs to Agnolia. It has been the case for more than three decades.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_501",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sordland has always had good relations with Agnolia. They control the island and nobody has the right to interfere.\""
+            },
+            "position": {
+                "x": 40230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_502",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Because Agnolia has been illegally occupying Heljiland. It is time the island is returned to its real owners.\""
+            },
+            "position": {
+                "x": 40500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_503",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'd rather not pick any sides here. But it's Agnolia who's oppressing the natives of the island, who are mainly Valgs.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_504",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Agnolian government is massacring the natives of the island. Valgsland is interfering to protect their people.\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_505",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Just like how you interfered in Wehlen?\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_506",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"How about Wehlen? You *did* interfere in Wehlen, didn't you?\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_509",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sure. I'm not proud of what went on in Wehlen, but it was part of our deal with their government.\""
+            },
+            "position": {
+                "x": 42120,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_511",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Please, let's continue with other questions.\""
+            },
+            "position": {
+                "x": 42120,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_513",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"If we're going to be stuck on this subject, I'd rather finish the interview here.\""
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_521",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI waited for him to finish his question."
+            },
+            "position": {
+                "x": 42120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_522",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Last year, a huge conflict took place close to your borders with Wehlen.\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_523",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Your operation was aimed at eliminating the Bludish Freedom Front.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_528",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"When the Wehzek forces partook in a massacre of Bludish civilians under the guise of eliminating the Bludish Freedom Front...\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_531",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"When the Wehzek forces partook in a massacre of Bludish civilians under the guise of eliminating the Bludish Freedom Front...\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_533",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"In fact, you not only closed the borders to the refugees fleeing from a massacre, your border guards worked in cooperation with the Wehzek forces.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_538",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Sordland decided to stay out of the conflict. In fact, many refugees fleeing from the massacre came to Sordland.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_539",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Knowing that Sordland also had its troubles with the Bludish independence movement, how did Sordland cope with the influx of Bludish refugees coming in from Wehlen?\""
+            },
+            "position": {
+                "x": 43740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_540",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"In fact, a recent AN investigation revealed that the death toll of the civilians is way more than first estimated, and that the Wehzek forces created mass graves all around the country to hide the true numbers.\""
+            },
+            "position": {
+                "x": 44010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_543",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That is insane. We had no knowledge of this inhumanity. I'd be more than willing to share our information with the AN.\""
+            },
+            "position": {
+                "x": 44280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_544",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I think that's an overexaggeration. I don't think Mr. Smolak would partake in a genocide. It needs proper investigation.\""
+            },
+            "position": {
+                "x": 44550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_545",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course not. We had nothing to do with that conflict in Wehlen.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_546",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't think anybody can blame Sordland for protecting its borders.\""
+            },
+            "position": {
+                "x": 45090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_547",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It breaks my heart to see so many people die in Wehlen. Could we have done something? Definitely. But the conflict had nothing to do with us.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_551",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It breaks my heart to see so many people die in Wehlen. Could we have done something? Definitely. But the conflict had nothing to do with us.\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_552",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Many have criticized Sordland for staying idle. Do you not accept any of the criticisms?\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_553",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. There is nothing wrong with protecting our country.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_554",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our role? Really? Why don't you ask Mr. Smolak these questions?\""
+            },
+            "position": {
+                "x": 45630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_555",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sure. We could have helped the refugees, but then again, how do we distinguish civilians from militants?\""
+            },
+            "position": {
+                "x": 45900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_556",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. There is nothing to accept. We didn't even do anything.\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_558",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sure. We could have helped the refugees, but I can't accept the blame for what Wehlen did.\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_559",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"So, you are denying the knowledge of the civilian deaths?\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_560",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. I can easily say that we had zero knowledge of it.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_561",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We've had reports of some innocent casualties, but they were not intentional, and definitely nowhere close to those numbers.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_562",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Of course. I think these reports are a bunch of rubbish intended to falsely accuse our governments' fight against Bludish terror.\""
+            },
+            "position": {
+                "x": 46710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_563",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I'm talking to you now, Mr. President.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_565",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I think I gave you all the necessary answers, Mr. Sacker.\""
+            },
+            "position": {
+                "x": 46980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_566",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Then I think you should interview Mr. Smolak.\""
+            },
+            "position": {
+                "x": 47250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_568",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Are you blaming the AN again, Mr. President?\""
+            },
+            "position": {
+                "x": 47520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_570",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"You could have-\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_573",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"But how about-\""
+            },
+            "position": {
+                "x": 47790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_579",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It looks like it. There's no reason for me to believe a foreign report. I know what my forces have and haven't done.\""
+            },
+            "position": {
+                "x": 48060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_580",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Are you saying that the AN is lying?\""
+            },
+            "position": {
+                "x": 48330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_582",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, that's not what I meant.\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_585",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I think this interview is over.\""
+            },
+            "position": {
+                "x": 48870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_586",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI stood up and walked up to Lucian."
+            },
+            "position": {
+                "x": 49140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_587",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you for coming, Mr. Sacker.\""
+            },
+            "position": {
+                "x": 49410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_588",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"You're still insisting on your stance? You're denying it then?\""
+            },
+            "position": {
+                "x": 49140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_589",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes.\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_590",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Do you have any other questions about other topics?\""
+            },
+            "position": {
+                "x": 49680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_592",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I believe I've gave you an answer already.\""
+            },
+            "position": {
+                "x": 50490,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_593",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"If we're going to be stuck on this subject, I'd rather finish the interview here.\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_595",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I see. This is a very huge accusation from your side, Mr. President.\""
+            },
+            "position": {
+                "x": 50490,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_596",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Please, let's continue with other questions.\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_597",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian stopped me on my way out to the balcony of the Blue Mansion, where the filming crew was standing ready."
+            },
+            "position": {
+                "x": 50490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_598",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It was definitely tough. Sordland has its own problems and this put extra pressure on our economy.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_599",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I think we've handled it pretty well. Most of those refugees have already been relocated to major Sordish cities.\""
+            },
+            "position": {
+                "x": 50760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_600",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The Bludish movement has nothing to do with this. They could have been Sords or Wehzeks as well. First and foremost, they are human beings.\""
+            },
+            "position": {
+                "x": 51030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_604",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"That's not what I meant. Let's not change the topic, Mr. President. Your administration has a history of oppression against your own Bludish populace.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_605",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Can you say with certainty that these refugees are and will be accepted in Sordland?\""
+            },
+            "position": {
+                "x": 51570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_606",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"The world has been watching this humanitarian crisis with utmost attention. And I have to give you credit for allowing these people to enter Sordland.\""
+            },
+            "position": {
+                "x": 52380,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_607",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Unlike your neighbour Lespia, Sordland took this responsibility.\""
+            },
+            "position": {
+                "x": 51030,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_608",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"The world has been watching this humanitarian crisis with utmost attention. And I have to give you credit for allowing these people to enter Sordland.\""
+            },
+            "position": {
+                "x": 52110,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_612",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"However, your administration has a history of oppression against your own Bludish populace.\""
+            },
+            "position": {
+                "x": 52110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_613",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't agree with that. Of course they will be. Sordland is a place that respects all kinds of cultures.\""
+            },
+            "position": {
+                "x": 52380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_614",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have a history of conflict with the Bludish Freedom Front, not the Bludish people.\""
+            },
+            "position": {
+                "x": 52650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_615",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As long as they abide by our rules and respect our culture, there is no reason for them to be discriminated against.\""
+            },
+            "position": {
+                "x": 52920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_620",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Do you feel the burden for being the only country who opened their borders to their refugees?\""
+            },
+            "position": {
+                "x": 53190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_621",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"So are you saying the Wehzek Bluds can adapt and find a better life in Sordland?\""
+            },
+            "position": {
+                "x": 52110,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_622",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. Sordland has the power to provide for all.\""
+            },
+            "position": {
+                "x": 52920,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_623",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. Nobody expects them to adapt. They must return to their country when the conflict is over. Sordland is not a charity organization.\""
+            },
+            "position": {
+                "x": 53460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_624",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I must be honest. If they can integrate in our society, yes. Otherwise, they will certainly face problems.\""
+            },
+            "position": {
+                "x": 53730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_626",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. Our country has the power to provide for all.\""
+            },
+            "position": {
+                "x": 53730,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_627",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"To some extent, but we can't complain. In an ideal world, all surrounding nations would take the responsibility. But Sordland stands alone yet again.\""
+            },
+            "position": {
+                "x": 54000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_628",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Definitely. I deplore Prime Minister Alvarez for not doing anything about the humanitarian crisis right next to us.\""
+            },
+            "position": {
+                "x": 54270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_635",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. Nobody expects them to adapt. They must return to their country when the conflict is over. Sordland is not a charity organization.\""
+            },
+            "position": {
+                "x": 54540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_640",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. I genuinely believe that.\""
+            },
+            "position": {
+                "x": 54810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_641",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That is one of our concerns, but we'll do everything for that not to happen.\""
+            },
+            "position": {
+                "x": 55080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_642",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. That would be an overexaggeration.\""
+            },
+            "position": {
+                "x": 55350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_643",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. The BFF has been eradicated from Sordland thanks to the Sordish Armed Forces.\""
+            },
+            "position": {
+                "x": 55620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_649",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't think we have any problems with the BFF anymore. Sordland has everything under control.\""
+            },
+            "position": {
+                "x": 55890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_651",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. The AN should mind their own business.\""
+            },
+            "position": {
+                "x": 55890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_653",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, I'm not.\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_655",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"These are very big accusations.\""
+            },
+            "position": {
+                "x": 56160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_656",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe director shouted at the filming crew to stop filming."
+            },
+            "position": {
+                "x": 56160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_657",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe gave an awkward and faint smile as I stood up."
+            },
+            "position": {
+                "x": 49410,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_659",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe director shouted at the filming crew to stop filming."
+            },
+            "position": {
+                "x": 56430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_660",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI walked up to Lucian and the director shouted at the filming crew to stop filming."
+            },
+            "position": {
+                "x": 36180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_661",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe gave an awkward and faint smile as I stood up."
+            },
+            "position": {
+                "x": 36450,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_662",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSeeing me walk up to him, Lucian rushed towards me."
+            },
+            "position": {
+                "x": 36450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_663",
+            "type": "customNode",
+            "data": {
+                "label": "EarlyLeave\n\nEarlyLeave"
+            },
+            "position": {
+                "x": 56700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_665",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Sir.\""
+            },
+            "position": {
+                "x": 49410,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_666",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe director shouted at the crew to stop recording. We both stood up and shook hands."
+            },
+            "position": {
+                "x": 56700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_669",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Likewise, Mr. Sacker.\""
+            },
+            "position": {
+                "x": 56970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_670",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I enjoyed it very much. Thank you for coming to Sordland.\""
+            },
+            "position": {
+                "x": 57240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_671",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Can't say the same.\""
+            },
+            "position": {
+                "x": 57510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_672",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Hopefully, next time we'll meet again in Kyrute.\""
+            },
+            "position": {
+                "x": 57780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_673",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"This was only being broadcasted live in Eastern Merkopa.\""
+            },
+            "position": {
+                "x": 56970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_674",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"We can still seize the tape before they send it to the world, if you want.\""
+            },
+            "position": {
+                "x": 56700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_676",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, it's fine.\""
+            },
+            "position": {
+                "x": 58050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_677",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Lucian, that's not going to fix this. Leave it.\""
+            },
+            "position": {
+                "x": 58320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_680",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis expression soured."
+            },
+            "position": {
+                "x": 58590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_681",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled."
+            },
+            "position": {
+                "x": 57780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_682",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"I hope to interview you again in the future.\""
+            },
+            "position": {
+                "x": 56970,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_683",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Of course, Mr. President.\""
+            },
+            "position": {
+                "x": 57510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_684",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"You'd always be welcome in Kyrute.\""
+            },
+            "position": {
+                "x": 56970,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_685",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian walked up to the director and started talking to him."
+            },
+            "position": {
+                "x": 56970,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_686",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Well... Thanks again for the opportunity.\""
+            },
+            "position": {
+                "x": 57780,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_687",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Why? Don't I look ready?\""
+            },
+            "position": {
+                "x": 57780,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_688",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_691",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Good. I have done my best to make this happen. This is very important for our administration.\""
+            },
+            "position": {
+                "x": 58860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_692",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Of course, sir. You look great.\""
+            },
+            "position": {
+                "x": 59130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_693",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"The crew is prepared to start filming. Mr. Sacker is excited to interview you.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_694",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"As I explained before, it would be bad press to decline this offer. They are the most prestigious interview program in the world.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_695",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"And they are from Kyrute. The country is known for its neutrality. I don't think there will be too much pressure.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_696",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I hope so, Lucian.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_697",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's fine. I can handle it.\""
+            },
+            "position": {
+                "x": 59400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_698",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You and your ideas... Let's get this over with.\""
+            },
+            "position": {
+                "x": 59670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_823",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe phone rang."
+            },
+            "position": {
+                "x": 59940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_824",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe line dropped dead."
+            },
+            "position": {
+                "x": 60210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_825",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI picked up the phone."
+            },
+            "position": {
+                "x": 69390,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_826",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Talk to you later.”"
+            },
+            "position": {
+                "x": 60210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_827",
+            "type": "customNode",
+            "data": {
+                "label": "Gloria Tory\n\n“Talk to you later.”"
+            },
+            "position": {
+                "x": 66420,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_828",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n“Talk to you later.”"
+            },
+            "position": {
+                "x": 69930,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_829",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Hang in there, buddy.”"
+            },
+            "position": {
+                "x": 62100,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_830",
+            "type": "customNode",
+            "data": {
+                "label": "Gloria Tory\n\n“We need to stay optimistic. We may still have a chance.”"
+            },
+            "position": {
+                "x": 69390,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_831",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n“We will defend ourselves and present the best possible case, of course, but it will not be easy.”"
+            },
+            "position": {
+                "x": 69930,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_832",
+            "type": "customNode",
+            "data": {
+                "label": "Gloria Tory\n\n“But, for now, I will let you take it all in.”"
+            },
+            "position": {
+                "x": 62100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_833",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n“But, for now, I will let you take it all in.”"
+            },
+            "position": {
+                "x": 69930,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_834",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“For now, I guess I should give you a moment.”"
+            },
+            "position": {
+                "x": 62100,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_835",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“But, for now, I will let you take it all in.”"
+            },
+            "position": {
+                "x": 69390,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_836",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We need to stay optimistic. We may still have a chance.”"
+            },
+            "position": {
+                "x": 66420,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_837",
+            "type": "customNode",
+            "data": {
+                "label": "Gloria Tory\n\n“We will defend ourselves and present the best possible case, of course, but it will not be easy.”"
+            },
+            "position": {
+                "x": 69390,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_838",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n“We need to stay optimistic. We may still have a chance.”"
+            },
+            "position": {
+                "x": 69930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_839",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“You know I'm on your side, but... they've got a pretty good case against you.”"
+            },
+            "position": {
+                "x": 62100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_840",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“We need to stay optimistic. We may still have a chance.”"
+            },
+            "position": {
+                "x": 69390,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_841",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“We will defend ourselves and present the best possible case, of course, but it will not be easy.”"
+            },
+            "position": {
+                "x": 66420,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_842",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe operator said that it was Albin Clavin on the line."
+            },
+            "position": {
+                "x": 66420,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_843",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n“Mr. President. Sorry for calling you directly, but this is important.”"
+            },
+            "position": {
+                "x": 64260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_844",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe took a deep breath in."
+            },
+            "position": {
+                "x": 64260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_845",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We might be screwed.”"
+            },
+            "position": {
+                "x": 64530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_846",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n“I just received word that they started the impeachment process.”"
+            },
+            "position": {
+                "x": 69390,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_847",
+            "type": "customNode",
+            "data": {
+                "label": "Gloria Tory\n\n“We might be screwed.”"
+            },
+            "position": {
+                "x": 64260,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_851",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe operator said that it was Gloria Tory on the line."
+            },
+            "position": {
+                "x": 65070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_852",
+            "type": "customNode",
+            "data": {
+                "label": "Gloria Tory\n\n“Mr. President. Sorry for calling you directly, but this is important.”"
+            },
+            "position": {
+                "x": 65340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_853",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe operator said that it was Lucian Galade on the line."
+            },
+            "position": {
+                "x": 65340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_854",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n“We might be screwed.”"
+            },
+            "position": {
+                "x": 65610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_855",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I just received word that they started the impeachment process.”"
+            },
+            "position": {
+                "x": 69660,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_859",
+            "type": "customNode",
+            "data": {
+                "label": "Gloria Tory\n\n“I just received word that they started the impeachment process.”"
+            },
+            "position": {
+                "x": 66150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_860",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“We might be screwed, sir.”"
+            },
+            "position": {
+                "x": 65340,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_861",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“An impeachment? For what?”"
+            },
+            "position": {
+                "x": 66420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_862",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What happened? Speak.”"
+            },
+            "position": {
+                "x": 66690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_863",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Anton. Bad news.”"
+            },
+            "position": {
+                "x": 66960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_867",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“To be frank...”"
+            },
+            "position": {
+                "x": 67230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_868",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe operator said that it was Petr Vectern on the line."
+            },
+            "position": {
+                "x": 69390,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_869",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took a deep breath in."
+            },
+            "position": {
+                "x": 69120,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_870",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took a deep breath in."
+            },
+            "position": {
+                "x": 69390,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_871",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What the hell is going on?”"
+            },
+            "position": {
+                "x": 69660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_872",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took a deep breath in."
+            },
+            "position": {
+                "x": 65340,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_876",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I just received word that they started the impeachment process.”"
+            },
+            "position": {
+                "x": 68310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_877",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“To be frank...”"
+            },
+            "position": {
+                "x": 68580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_878",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Mr. President. Sorry for calling you directly, but this is important.”"
+            },
+            "position": {
+                "x": 68850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_882",
+            "type": "customNode",
+            "data": {
+                "label": "Gloria Tory\n\n“To be frank...”"
+            },
+            "position": {
+                "x": 69120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_886",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n“To be frank...”"
+            },
+            "position": {
+                "x": 69390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_887",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Supreme Court and Chief Justice Orso Hawker is citing the emergency decree as an act of high treason against Sordland due to Article 100.”"
+            },
+            "position": {
+                "x": 69660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_888",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Supreme Court and Chief Justice Orso Hawker is citing the emergency decree as an act of high treason against Sordland due to Article 100.”"
+            },
+            "position": {
+                "x": 69390,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_889",
+            "type": "customNode",
+            "data": {
+                "label": "Gloria Tory\n\n“Supreme Court and Chief Justice Orso Hawker is citing the emergency decree as an act of high treason against Sordland due to Article 100.”"
+            },
+            "position": {
+                "x": 66420,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_890",
+            "type": "customNode",
+            "data": {
+                "label": "Albin Clavin\n\n“Supreme Court and Chief Justice Orso Hawker is citing the emergency decree as an act of high treason against Sordland due to Article 100.”"
+            },
+            "position": {
+                "x": 69930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_895",
+            "type": "customNode",
+            "data": {
+                "label": "Tuomas Sacker\n\n\"Okay, let's move on to another topic.\""
+            },
+            "position": {
+                "x": 70200,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_942",
+            "source": "node_1",
+            "target": "node_942",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_598",
+            "source": "node_3",
+            "target": "node_598",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_47",
+            "source": "node_22",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_33",
+            "source": "node_25",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_42",
+            "source": "node_27",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_44",
+            "source": "node_34",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_54",
+            "source": "node_36",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_81",
+            "source": "node_38",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_81",
+            "source": "node_40",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_56",
+            "source": "node_41",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_909",
+            "source": "node_42",
+            "target": "node_909",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_914",
+            "source": "node_43",
+            "target": "node_914",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_27",
+            "source": "node_44",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_909",
+            "source": "node_45",
+            "target": "node_909",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_909",
+            "source": "node_46",
+            "target": "node_909",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_909",
+            "source": "node_52",
+            "target": "node_909",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_81",
+            "source": "node_53",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_111",
+            "source": "node_55",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_181",
+            "source": "node_59",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_915",
+            "source": "node_69",
+            "target": "node_915",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_167",
+            "source": "node_70",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_162",
+            "source": "node_80",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_910",
+            "source": "node_84",
+            "target": "node_910",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_910",
+            "source": "node_85",
+            "target": "node_910",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_96",
+            "source": "node_90",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_94",
+            "source": "node_101",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_91",
+            "source": "node_106",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_96",
+            "source": "node_107",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_117",
+            "source": "node_109",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_57",
+            "source": "node_110",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_57",
+            "source": "node_113",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_57",
+            "source": "node_114",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_57",
+            "source": "node_115",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_57",
+            "source": "node_116",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_57",
+            "source": "node_117",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_57",
+            "source": "node_118",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_912",
+            "source": "node_119",
+            "target": "node_912",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_57",
+            "source": "node_120",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_57",
+            "source": "node_145",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_57",
+            "source": "node_148",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_57",
+            "source": "node_151",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_57",
+            "source": "node_152",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_57",
+            "source": "node_153",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_57",
+            "source": "node_154",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_57",
+            "source": "node_155",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_57",
+            "source": "node_156",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_171",
+            "source": "node_166",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_286",
+            "source": "node_169",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_286",
+            "source": "node_170",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_286",
+            "source": "node_171",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_336",
+            "source": "node_172",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_165",
+            "source": "node_173",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_286",
+            "source": "node_174",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e175_to_287",
+            "source": "node_175",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_337",
+            "source": "node_176",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_336",
+            "source": "node_177",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_287",
+            "source": "node_178",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_287",
+            "source": "node_179",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_274",
+            "source": "node_183",
+            "target": "node_274",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_223",
+            "source": "node_199",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_202",
+            "source": "node_205",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_165",
+            "source": "node_217",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_165",
+            "source": "node_218",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_165",
+            "source": "node_219",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_269",
+            "source": "node_227",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_243",
+            "source": "node_229",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_913",
+            "source": "node_230",
+            "target": "node_913",
+            "type": "step"
+        },
+        {
+            "id": "e235_to_62",
+            "source": "node_235",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_236",
+            "source": "node_240",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_255",
+            "source": "node_241",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_254",
+            "source": "node_242",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e251_to_259",
+            "source": "node_251",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e252_to_259",
+            "source": "node_252",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e261_to_266",
+            "source": "node_261",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e265_to_292",
+            "source": "node_265",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e266_to_289",
+            "source": "node_266",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_339",
+            "source": "node_267",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e268_to_339",
+            "source": "node_268",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e274_to_294",
+            "source": "node_274",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e279_to_283",
+            "source": "node_279",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_266",
+            "source": "node_290",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e293_to_289",
+            "source": "node_293",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_701",
+            "source": "node_303",
+            "target": "node_701",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_305",
+            "source": "node_313",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_296",
+            "source": "node_314",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_329",
+            "source": "node_315",
+            "target": "node_329",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_340",
+            "source": "node_316",
+            "target": "node_340",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_344",
+            "source": "node_317",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e322_to_371",
+            "source": "node_322",
+            "target": "node_371",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_299",
+            "source": "node_327",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e328_to_411",
+            "source": "node_328",
+            "target": "node_411",
+            "type": "step"
+        },
+        {
+            "id": "e331_to_374",
+            "source": "node_331",
+            "target": "node_374",
+            "type": "step"
+        },
+        {
+            "id": "e335_to_361",
+            "source": "node_335",
+            "target": "node_361",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_287",
+            "source": "node_338",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_288",
+            "source": "node_339",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e342_to_711",
+            "source": "node_342",
+            "target": "node_711",
+            "type": "step"
+        },
+        {
+            "id": "e347_to_352",
+            "source": "node_347",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_348",
+            "source": "node_351",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_386",
+            "source": "node_354",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e358_to_333",
+            "source": "node_358",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e360_to_380",
+            "source": "node_360",
+            "target": "node_380",
+            "type": "step"
+        },
+        {
+            "id": "e361_to_383",
+            "source": "node_361",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e367_to_320",
+            "source": "node_367",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e369_to_393",
+            "source": "node_369",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e371_to_394",
+            "source": "node_371",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e372_to_395",
+            "source": "node_372",
+            "target": "node_395",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_395",
+            "source": "node_373",
+            "target": "node_395",
+            "type": "step"
+        },
+        {
+            "id": "e374_to_396",
+            "source": "node_374",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_399",
+            "source": "node_375",
+            "target": "node_399",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_396",
+            "source": "node_376",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e377_to_396",
+            "source": "node_377",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e378_to_408",
+            "source": "node_378",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e379_to_408",
+            "source": "node_379",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e380_to_407",
+            "source": "node_380",
+            "target": "node_407",
+            "type": "step"
+        },
+        {
+            "id": "e381_to_916",
+            "source": "node_381",
+            "target": "node_916",
+            "type": "step"
+        },
+        {
+            "id": "e382_to_396",
+            "source": "node_382",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e383_to_396",
+            "source": "node_383",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e384_to_397",
+            "source": "node_384",
+            "target": "node_397",
+            "type": "step"
+        },
+        {
+            "id": "e385_to_402",
+            "source": "node_385",
+            "target": "node_402",
+            "type": "step"
+        },
+        {
+            "id": "e386_to_402",
+            "source": "node_386",
+            "target": "node_402",
+            "type": "step"
+        },
+        {
+            "id": "e387_to_916",
+            "source": "node_387",
+            "target": "node_916",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_396",
+            "source": "node_388",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e390_to_916",
+            "source": "node_390",
+            "target": "node_916",
+            "type": "step"
+        },
+        {
+            "id": "e391_to_396",
+            "source": "node_391",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e392_to_396",
+            "source": "node_392",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e393_to_403",
+            "source": "node_393",
+            "target": "node_403",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_429",
+            "source": "node_395",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e396_to_413",
+            "source": "node_396",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_418",
+            "source": "node_397",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e401_to_916",
+            "source": "node_401",
+            "target": "node_916",
+            "type": "step"
+        },
+        {
+            "id": "e404_to_396",
+            "source": "node_404",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e405_to_396",
+            "source": "node_405",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e406_to_396",
+            "source": "node_406",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e407_to_426",
+            "source": "node_407",
+            "target": "node_426",
+            "type": "step"
+        },
+        {
+            "id": "e408_to_446",
+            "source": "node_408",
+            "target": "node_446",
+            "type": "step"
+        },
+        {
+            "id": "e409_to_396",
+            "source": "node_409",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e410_to_396",
+            "source": "node_410",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e411_to_396",
+            "source": "node_411",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_494",
+            "source": "node_412",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e413_to_497",
+            "source": "node_413",
+            "target": "node_497",
+            "type": "step"
+        },
+        {
+            "id": "e414_to_481",
+            "source": "node_414",
+            "target": "node_481",
+            "type": "step"
+        },
+        {
+            "id": "e415_to_396",
+            "source": "node_415",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e416_to_396",
+            "source": "node_416",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e417_to_396",
+            "source": "node_417",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e423_to_478",
+            "source": "node_423",
+            "target": "node_478",
+            "type": "step"
+        },
+        {
+            "id": "e424_to_570",
+            "source": "node_424",
+            "target": "node_570",
+            "type": "step"
+        },
+        {
+            "id": "e425_to_476",
+            "source": "node_425",
+            "target": "node_476",
+            "type": "step"
+        },
+        {
+            "id": "e426_to_476",
+            "source": "node_426",
+            "target": "node_476",
+            "type": "step"
+        },
+        {
+            "id": "e428_to_442",
+            "source": "node_428",
+            "target": "node_442",
+            "type": "step"
+        },
+        {
+            "id": "e429_to_433",
+            "source": "node_429",
+            "target": "node_433",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_396",
+            "source": "node_433",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e439_to_441",
+            "source": "node_439",
+            "target": "node_441",
+            "type": "step"
+        },
+        {
+            "id": "e441_to_477",
+            "source": "node_441",
+            "target": "node_477",
+            "type": "step"
+        },
+        {
+            "id": "e443_to_408",
+            "source": "node_443",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e444_to_408",
+            "source": "node_444",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e445_to_408",
+            "source": "node_445",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e448_to_424",
+            "source": "node_448",
+            "target": "node_424",
+            "type": "step"
+        },
+        {
+            "id": "e449_to_452",
+            "source": "node_449",
+            "target": "node_452",
+            "type": "step"
+        },
+        {
+            "id": "e450_to_460",
+            "source": "node_450",
+            "target": "node_460",
+            "type": "step"
+        },
+        {
+            "id": "e451_to_462",
+            "source": "node_451",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e453_to_660",
+            "source": "node_453",
+            "target": "node_660",
+            "type": "step"
+        },
+        {
+            "id": "e454_to_688",
+            "source": "node_454",
+            "target": "node_688",
+            "type": "step"
+        },
+        {
+            "id": "e455_to_662",
+            "source": "node_455",
+            "target": "node_662",
+            "type": "step"
+        },
+        {
+            "id": "e458_to_463",
+            "source": "node_458",
+            "target": "node_463",
+            "type": "step"
+        },
+        {
+            "id": "e460_to_459",
+            "source": "node_460",
+            "target": "node_459",
+            "type": "step"
+        },
+        {
+            "id": "e461_to_452",
+            "source": "node_461",
+            "target": "node_452",
+            "type": "step"
+        },
+        {
+            "id": "e464_to_467",
+            "source": "node_464",
+            "target": "node_467",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_470",
+            "source": "node_465",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e466_to_470",
+            "source": "node_466",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e470_to_452",
+            "source": "node_470",
+            "target": "node_452",
+            "type": "step"
+        },
+        {
+            "id": "e471_to_475",
+            "source": "node_471",
+            "target": "node_475",
+            "type": "step"
+        },
+        {
+            "id": "e473_to_452",
+            "source": "node_473",
+            "target": "node_452",
+            "type": "step"
+        },
+        {
+            "id": "e474_to_470",
+            "source": "node_474",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e475_to_514",
+            "source": "node_475",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e476_to_505",
+            "source": "node_476",
+            "target": "node_505",
+            "type": "step"
+        },
+        {
+            "id": "e480_to_477",
+            "source": "node_480",
+            "target": "node_477",
+            "type": "step"
+        },
+        {
+            "id": "e481_to_492",
+            "source": "node_481",
+            "target": "node_492",
+            "type": "step"
+        },
+        {
+            "id": "e489_to_476",
+            "source": "node_489",
+            "target": "node_476",
+            "type": "step"
+        },
+        {
+            "id": "e490_to_477",
+            "source": "node_490",
+            "target": "node_477",
+            "type": "step"
+        },
+        {
+            "id": "e491_to_493",
+            "source": "node_491",
+            "target": "node_493",
+            "type": "step"
+        },
+        {
+            "id": "e499_to_493",
+            "source": "node_499",
+            "target": "node_493",
+            "type": "step"
+        },
+        {
+            "id": "e501_to_493",
+            "source": "node_501",
+            "target": "node_493",
+            "type": "step"
+        },
+        {
+            "id": "e502_to_493",
+            "source": "node_502",
+            "target": "node_493",
+            "type": "step"
+        },
+        {
+            "id": "e503_to_896",
+            "source": "node_503",
+            "target": "node_896",
+            "type": "step"
+        },
+        {
+            "id": "e504_to_896",
+            "source": "node_504",
+            "target": "node_896",
+            "type": "step"
+        },
+        {
+            "id": "e505_to_896",
+            "source": "node_505",
+            "target": "node_896",
+            "type": "step"
+        },
+        {
+            "id": "e506_to_510",
+            "source": "node_506",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e509_to_511",
+            "source": "node_509",
+            "target": "node_511",
+            "type": "step"
+        },
+        {
+            "id": "e511_to_524",
+            "source": "node_511",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e513_to_516",
+            "source": "node_513",
+            "target": "node_516",
+            "type": "step"
+        },
+        {
+            "id": "e521_to_509",
+            "source": "node_521",
+            "target": "node_509",
+            "type": "step"
+        },
+        {
+            "id": "e522_to_524",
+            "source": "node_522",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e523_to_525",
+            "source": "node_523",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e528_to_541",
+            "source": "node_528",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e531_to_552",
+            "source": "node_531",
+            "target": "node_552",
+            "type": "step"
+        },
+        {
+            "id": "e533_to_538",
+            "source": "node_533",
+            "target": "node_538",
+            "type": "step"
+        },
+        {
+            "id": "e538_to_547",
+            "source": "node_538",
+            "target": "node_547",
+            "type": "step"
+        },
+        {
+            "id": "e539_to_919",
+            "source": "node_539",
+            "target": "node_919",
+            "type": "step"
+        },
+        {
+            "id": "e540_to_601",
+            "source": "node_540",
+            "target": "node_601",
+            "type": "step"
+        },
+        {
+            "id": "e543_to_560",
+            "source": "node_543",
+            "target": "node_560",
+            "type": "step"
+        },
+        {
+            "id": "e544_to_560",
+            "source": "node_544",
+            "target": "node_560",
+            "type": "step"
+        },
+        {
+            "id": "e545_to_560",
+            "source": "node_545",
+            "target": "node_560",
+            "type": "step"
+        },
+        {
+            "id": "e546_to_553",
+            "source": "node_546",
+            "target": "node_553",
+            "type": "step"
+        },
+        {
+            "id": "e547_to_553",
+            "source": "node_547",
+            "target": "node_553",
+            "type": "step"
+        },
+        {
+            "id": "e551_to_556",
+            "source": "node_551",
+            "target": "node_556",
+            "type": "step"
+        },
+        {
+            "id": "e552_to_917",
+            "source": "node_552",
+            "target": "node_917",
+            "type": "step"
+        },
+        {
+            "id": "e553_to_559",
+            "source": "node_553",
+            "target": "node_559",
+            "type": "step"
+        },
+        {
+            "id": "e554_to_571",
+            "source": "node_554",
+            "target": "node_571",
+            "type": "step"
+        },
+        {
+            "id": "e555_to_564",
+            "source": "node_555",
+            "target": "node_564",
+            "type": "step"
+        },
+        {
+            "id": "e556_to_918",
+            "source": "node_556",
+            "target": "node_918",
+            "type": "step"
+        },
+        {
+            "id": "e558_to_564",
+            "source": "node_558",
+            "target": "node_564",
+            "type": "step"
+        },
+        {
+            "id": "e559_to_571",
+            "source": "node_559",
+            "target": "node_571",
+            "type": "step"
+        },
+        {
+            "id": "e560_to_563",
+            "source": "node_560",
+            "target": "node_563",
+            "type": "step"
+        },
+        {
+            "id": "e561_to_574",
+            "source": "node_561",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e562_to_574",
+            "source": "node_562",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e563_to_575",
+            "source": "node_563",
+            "target": "node_575",
+            "type": "step"
+        },
+        {
+            "id": "e565_to_574",
+            "source": "node_565",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e566_to_574",
+            "source": "node_566",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e568_to_574",
+            "source": "node_568",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e570_to_449",
+            "source": "node_570",
+            "target": "node_449",
+            "type": "step"
+        },
+        {
+            "id": "e573_to_667",
+            "source": "node_573",
+            "target": "node_667",
+            "type": "step"
+        },
+        {
+            "id": "e579_to_581",
+            "source": "node_579",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e580_to_653",
+            "source": "node_580",
+            "target": "node_653",
+            "type": "step"
+        },
+        {
+            "id": "e582_to_653",
+            "source": "node_582",
+            "target": "node_653",
+            "type": "step"
+        },
+        {
+            "id": "e585_to_589",
+            "source": "node_585",
+            "target": "node_589",
+            "type": "step"
+        },
+        {
+            "id": "e586_to_588",
+            "source": "node_586",
+            "target": "node_588",
+            "type": "step"
+        },
+        {
+            "id": "e587_to_657",
+            "source": "node_587",
+            "target": "node_657",
+            "type": "step"
+        },
+        {
+            "id": "e588_to_658",
+            "source": "node_588",
+            "target": "node_658",
+            "type": "step"
+        },
+        {
+            "id": "e589_to_593",
+            "source": "node_589",
+            "target": "node_593",
+            "type": "step"
+        },
+        {
+            "id": "e590_to_596",
+            "source": "node_590",
+            "target": "node_596",
+            "type": "step"
+        },
+        {
+            "id": "e592_to_572",
+            "source": "node_592",
+            "target": "node_572",
+            "type": "step"
+        },
+        {
+            "id": "e593_to_596",
+            "source": "node_593",
+            "target": "node_596",
+            "type": "step"
+        },
+        {
+            "id": "e595_to_592",
+            "source": "node_595",
+            "target": "node_592",
+            "type": "step"
+        },
+        {
+            "id": "e596_to_594",
+            "source": "node_596",
+            "target": "node_594",
+            "type": "step"
+        },
+        {
+            "id": "e597_to_595",
+            "source": "node_597",
+            "target": "node_595",
+            "type": "step"
+        },
+        {
+            "id": "e598_to_454",
+            "source": "node_598",
+            "target": "node_454",
+            "type": "step"
+        },
+        {
+            "id": "e599_to_607",
+            "source": "node_599",
+            "target": "node_607",
+            "type": "step"
+        },
+        {
+            "id": "e600_to_607",
+            "source": "node_600",
+            "target": "node_607",
+            "type": "step"
+        },
+        {
+            "id": "e604_to_609",
+            "source": "node_604",
+            "target": "node_609",
+            "type": "step"
+        },
+        {
+            "id": "e605_to_606",
+            "source": "node_605",
+            "target": "node_606",
+            "type": "step"
+        },
+        {
+            "id": "e606_to_616",
+            "source": "node_606",
+            "target": "node_616",
+            "type": "step"
+        },
+        {
+            "id": "e607_to_610",
+            "source": "node_607",
+            "target": "node_610",
+            "type": "step"
+        },
+        {
+            "id": "e608_to_621",
+            "source": "node_608",
+            "target": "node_621",
+            "type": "step"
+        },
+        {
+            "id": "e612_to_608",
+            "source": "node_612",
+            "target": "node_608",
+            "type": "step"
+        },
+        {
+            "id": "e613_to_606",
+            "source": "node_613",
+            "target": "node_606",
+            "type": "step"
+        },
+        {
+            "id": "e614_to_622",
+            "source": "node_614",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e615_to_622",
+            "source": "node_615",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e620_to_626",
+            "source": "node_620",
+            "target": "node_626",
+            "type": "step"
+        },
+        {
+            "id": "e621_to_630",
+            "source": "node_621",
+            "target": "node_630",
+            "type": "step"
+        },
+        {
+            "id": "e622_to_617",
+            "source": "node_622",
+            "target": "node_617",
+            "type": "step"
+        },
+        {
+            "id": "e623_to_626",
+            "source": "node_623",
+            "target": "node_626",
+            "type": "step"
+        },
+        {
+            "id": "e624_to_626",
+            "source": "node_624",
+            "target": "node_626",
+            "type": "step"
+        },
+        {
+            "id": "e626_to_648",
+            "source": "node_626",
+            "target": "node_648",
+            "type": "step"
+        },
+        {
+            "id": "e627_to_634",
+            "source": "node_627",
+            "target": "node_634",
+            "type": "step"
+        },
+        {
+            "id": "e628_to_920",
+            "source": "node_628",
+            "target": "node_920",
+            "type": "step"
+        },
+        {
+            "id": "e635_to_574",
+            "source": "node_635",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e640_to_574",
+            "source": "node_640",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e641_to_921",
+            "source": "node_641",
+            "target": "node_921",
+            "type": "step"
+        },
+        {
+            "id": "e642_to_921",
+            "source": "node_642",
+            "target": "node_921",
+            "type": "step"
+        },
+        {
+            "id": "e643_to_574",
+            "source": "node_643",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e649_to_651",
+            "source": "node_649",
+            "target": "node_651",
+            "type": "step"
+        },
+        {
+            "id": "e651_to_921",
+            "source": "node_651",
+            "target": "node_921",
+            "type": "step"
+        },
+        {
+            "id": "e653_to_589",
+            "source": "node_653",
+            "target": "node_589",
+            "type": "step"
+        },
+        {
+            "id": "e655_to_656",
+            "source": "node_655",
+            "target": "node_656",
+            "type": "step"
+        },
+        {
+            "id": "e656_to_574",
+            "source": "node_656",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e657_to_665",
+            "source": "node_657",
+            "target": "node_665",
+            "type": "step"
+        },
+        {
+            "id": "e659_to_665",
+            "source": "node_659",
+            "target": "node_665",
+            "type": "step"
+        },
+        {
+            "id": "e660_to_664",
+            "source": "node_660",
+            "target": "node_664",
+            "type": "step"
+        },
+        {
+            "id": "e661_to_664",
+            "source": "node_661",
+            "target": "node_664",
+            "type": "step"
+        },
+        {
+            "id": "e662_to_661",
+            "source": "node_662",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e663_to_666",
+            "source": "node_663",
+            "target": "node_666",
+            "type": "step"
+        },
+        {
+            "id": "e665_to_664",
+            "source": "node_665",
+            "target": "node_664",
+            "type": "step"
+        },
+        {
+            "id": "e666_to_674",
+            "source": "node_666",
+            "target": "node_674",
+            "type": "step"
+        },
+        {
+            "id": "e669_to_673",
+            "source": "node_669",
+            "target": "node_673",
+            "type": "step"
+        },
+        {
+            "id": "e670_to_683",
+            "source": "node_670",
+            "target": "node_683",
+            "type": "step"
+        },
+        {
+            "id": "e671_to_683",
+            "source": "node_671",
+            "target": "node_683",
+            "type": "step"
+        },
+        {
+            "id": "e672_to_681",
+            "source": "node_672",
+            "target": "node_681",
+            "type": "step"
+        },
+        {
+            "id": "e673_to_682",
+            "source": "node_673",
+            "target": "node_682",
+            "type": "step"
+        },
+        {
+            "id": "e674_to_675",
+            "source": "node_674",
+            "target": "node_675",
+            "type": "step"
+        },
+        {
+            "id": "e676_to_679",
+            "source": "node_676",
+            "target": "node_679",
+            "type": "step"
+        },
+        {
+            "id": "e677_to_679",
+            "source": "node_677",
+            "target": "node_679",
+            "type": "step"
+        },
+        {
+            "id": "e680_to_343",
+            "source": "node_680",
+            "target": "node_343",
+            "type": "step"
+        },
+        {
+            "id": "e681_to_687",
+            "source": "node_681",
+            "target": "node_687",
+            "type": "step"
+        },
+        {
+            "id": "e682_to_684",
+            "source": "node_682",
+            "target": "node_684",
+            "type": "step"
+        },
+        {
+            "id": "e683_to_686",
+            "source": "node_683",
+            "target": "node_686",
+            "type": "step"
+        },
+        {
+            "id": "e684_to_685",
+            "source": "node_684",
+            "target": "node_685",
+            "type": "step"
+        },
+        {
+            "id": "e685_to_706",
+            "source": "node_685",
+            "target": "node_706",
+            "type": "step"
+        },
+        {
+            "id": "e686_to_343",
+            "source": "node_686",
+            "target": "node_343",
+            "type": "step"
+        },
+        {
+            "id": "e687_to_686",
+            "source": "node_687",
+            "target": "node_686",
+            "type": "step"
+        },
+        {
+            "id": "e688_to_693",
+            "source": "node_688",
+            "target": "node_693",
+            "type": "step"
+        },
+        {
+            "id": "e691_to_694",
+            "source": "node_691",
+            "target": "node_694",
+            "type": "step"
+        },
+        {
+            "id": "e692_to_694",
+            "source": "node_692",
+            "target": "node_694",
+            "type": "step"
+        },
+        {
+            "id": "e693_to_694",
+            "source": "node_693",
+            "target": "node_694",
+            "type": "step"
+        },
+        {
+            "id": "e694_to_695",
+            "source": "node_694",
+            "target": "node_695",
+            "type": "step"
+        },
+        {
+            "id": "e695_to_696",
+            "source": "node_695",
+            "target": "node_696",
+            "type": "step"
+        },
+        {
+            "id": "e696_to_699",
+            "source": "node_696",
+            "target": "node_699",
+            "type": "step"
+        },
+        {
+            "id": "e697_to_700",
+            "source": "node_697",
+            "target": "node_700",
+            "type": "step"
+        },
+        {
+            "id": "e698_to_700",
+            "source": "node_698",
+            "target": "node_700",
+            "type": "step"
+        },
+        {
+            "id": "e823_to_702",
+            "source": "node_823",
+            "target": "node_702",
+            "type": "step"
+        },
+        {
+            "id": "e824_to_826",
+            "source": "node_824",
+            "target": "node_826",
+            "type": "step"
+        },
+        {
+            "id": "e825_to_702",
+            "source": "node_825",
+            "target": "node_702",
+            "type": "step"
+        },
+        {
+            "id": "e826_to_849",
+            "source": "node_826",
+            "target": "node_849",
+            "type": "step"
+        },
+        {
+            "id": "e827_to_825",
+            "source": "node_827",
+            "target": "node_825",
+            "type": "step"
+        },
+        {
+            "id": "e828_to_825",
+            "source": "node_828",
+            "target": "node_825",
+            "type": "step"
+        },
+        {
+            "id": "e829_to_825",
+            "source": "node_829",
+            "target": "node_825",
+            "type": "step"
+        },
+        {
+            "id": "e830_to_825",
+            "source": "node_830",
+            "target": "node_825",
+            "type": "step"
+        },
+        {
+            "id": "e831_to_833",
+            "source": "node_831",
+            "target": "node_833",
+            "type": "step"
+        },
+        {
+            "id": "e832_to_839",
+            "source": "node_832",
+            "target": "node_839",
+            "type": "step"
+        },
+        {
+            "id": "e833_to_828",
+            "source": "node_833",
+            "target": "node_828",
+            "type": "step"
+        },
+        {
+            "id": "e834_to_829",
+            "source": "node_834",
+            "target": "node_829",
+            "type": "step"
+        },
+        {
+            "id": "e835_to_830",
+            "source": "node_835",
+            "target": "node_830",
+            "type": "step"
+        },
+        {
+            "id": "e836_to_827",
+            "source": "node_836",
+            "target": "node_827",
+            "type": "step"
+        },
+        {
+            "id": "e837_to_835",
+            "source": "node_837",
+            "target": "node_835",
+            "type": "step"
+        },
+        {
+            "id": "e838_to_831",
+            "source": "node_838",
+            "target": "node_831",
+            "type": "step"
+        },
+        {
+            "id": "e839_to_834",
+            "source": "node_839",
+            "target": "node_834",
+            "type": "step"
+        },
+        {
+            "id": "e840_to_837",
+            "source": "node_840",
+            "target": "node_837",
+            "type": "step"
+        },
+        {
+            "id": "e841_to_836",
+            "source": "node_841",
+            "target": "node_836",
+            "type": "step"
+        },
+        {
+            "id": "e842_to_841",
+            "source": "node_842",
+            "target": "node_841",
+            "type": "step"
+        },
+        {
+            "id": "e843_to_844",
+            "source": "node_843",
+            "target": "node_844",
+            "type": "step"
+        },
+        {
+            "id": "e844_to_847",
+            "source": "node_844",
+            "target": "node_847",
+            "type": "step"
+        },
+        {
+            "id": "e845_to_848",
+            "source": "node_845",
+            "target": "node_848",
+            "type": "step"
+        },
+        {
+            "id": "e846_to_888",
+            "source": "node_846",
+            "target": "node_888",
+            "type": "step"
+        },
+        {
+            "id": "e847_to_872",
+            "source": "node_847",
+            "target": "node_872",
+            "type": "step"
+        },
+        {
+            "id": "e851_to_865",
+            "source": "node_851",
+            "target": "node_865",
+            "type": "step"
+        },
+        {
+            "id": "e852_to_853",
+            "source": "node_852",
+            "target": "node_853",
+            "type": "step"
+        },
+        {
+            "id": "e853_to_860",
+            "source": "node_853",
+            "target": "node_860",
+            "type": "step"
+        },
+        {
+            "id": "e854_to_879",
+            "source": "node_854",
+            "target": "node_879",
+            "type": "step"
+        },
+        {
+            "id": "e855_to_891",
+            "source": "node_855",
+            "target": "node_891",
+            "type": "step"
+        },
+        {
+            "id": "e859_to_884",
+            "source": "node_859",
+            "target": "node_884",
+            "type": "step"
+        },
+        {
+            "id": "e860_to_872",
+            "source": "node_860",
+            "target": "node_872",
+            "type": "step"
+        },
+        {
+            "id": "e861_to_889",
+            "source": "node_861",
+            "target": "node_889",
+            "type": "step"
+        },
+        {
+            "id": "e862_to_874",
+            "source": "node_862",
+            "target": "node_874",
+            "type": "step"
+        },
+        {
+            "id": "e863_to_874",
+            "source": "node_863",
+            "target": "node_874",
+            "type": "step"
+        },
+        {
+            "id": "e867_to_880",
+            "source": "node_867",
+            "target": "node_880",
+            "type": "step"
+        },
+        {
+            "id": "e868_to_870",
+            "source": "node_868",
+            "target": "node_870",
+            "type": "step"
+        },
+        {
+            "id": "e869_to_864",
+            "source": "node_869",
+            "target": "node_864",
+            "type": "step"
+        },
+        {
+            "id": "e870_to_846",
+            "source": "node_870",
+            "target": "node_846",
+            "type": "step"
+        },
+        {
+            "id": "e871_to_855",
+            "source": "node_871",
+            "target": "node_855",
+            "type": "step"
+        },
+        {
+            "id": "e872_to_874",
+            "source": "node_872",
+            "target": "node_874",
+            "type": "step"
+        },
+        {
+            "id": "e876_to_857",
+            "source": "node_876",
+            "target": "node_857",
+            "type": "step"
+        },
+        {
+            "id": "e877_to_872",
+            "source": "node_877",
+            "target": "node_872",
+            "type": "step"
+        },
+        {
+            "id": "e878_to_873",
+            "source": "node_878",
+            "target": "node_873",
+            "type": "step"
+        },
+        {
+            "id": "e882_to_869",
+            "source": "node_882",
+            "target": "node_869",
+            "type": "step"
+        },
+        {
+            "id": "e886_to_868",
+            "source": "node_886",
+            "target": "node_868",
+            "type": "step"
+        },
+        {
+            "id": "e887_to_871",
+            "source": "node_887",
+            "target": "node_871",
+            "type": "step"
+        },
+        {
+            "id": "e888_to_840",
+            "source": "node_888",
+            "target": "node_840",
+            "type": "step"
+        },
+        {
+            "id": "e889_to_842",
+            "source": "node_889",
+            "target": "node_842",
+            "type": "step"
+        },
+        {
+            "id": "e890_to_838",
+            "source": "node_890",
+            "target": "node_838",
+            "type": "step"
+        },
+        {
+            "id": "e895_to_929",
+            "source": "node_895",
+            "target": "node_929",
+            "type": "step"
+        }
+    ]
+}

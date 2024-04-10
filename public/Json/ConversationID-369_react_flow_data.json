@@ -1,0 +1,193 @@
+{
+    "nodes": [
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Our great warrior culture. I see...\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"You saw my Disciples earlier. Imagine a larger team, just as trained, wielding sophisticated weaponry and stealth technology.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"And perhaps, lay the foundation for Golcondist acceptance in Rizia.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We are at risk of losing the territory of Zille to Wehlen. I would humbly call upon your great warrior culture for assistance.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"That depends, Your Majesty. What else do you want?\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Then it is up to God to forgive you.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Sounds like a plan. Your men are hired.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"But as long as Rizia is aiding Wehlen in its campaign of persecution, we will not involve ourselves.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"But very well.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I spoke too soon. My kingdom cannot afford to hire your men.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe paused."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e6_to_106",
+            "source": "node_6",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_2",
+            "source": "node_31",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_88",
+            "source": "node_40",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_70",
+            "source": "node_41",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_67",
+            "source": "node_53",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_108",
+            "source": "node_54",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_48",
+            "source": "node_65",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_72",
+            "source": "node_80",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_70",
+            "source": "node_95",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_48",
+            "source": "node_99",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_68",
+            "source": "node_100",
+            "target": "node_68",
+            "type": "step"
+        }
+    ]
+}

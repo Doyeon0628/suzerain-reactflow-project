@@ -1,0 +1,1519 @@
+{
+    "nodes": [
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs I knelt at the water's edge, my gaze fixed upon the mirrored surface, hoping for clarity amidst the distant echoes of protest resounding incessantly within my mind."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"For many, living standards are a primary concern.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Restrictions on the press, despite their aim to prevent the spread of harmful misinformation, have stirred significant public discontent.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith a furrowed brow, I attempted to silence the internal clamor, but the tumult of voices only grew louder."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI closed my eyes and took a deep breath to calm my rising frustration."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was then that I noticed Sal standing nearby. With a gentle grace, Sal retrieved the fallen chalice and approached, holding it out to me."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Congratulations. You win the prize.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Sorry, I lost my temper. I've got a lot on my mind.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Forgive me. I didn't hear you come in.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"No need to apologize, Your Majesty.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I hope I'm not interrupting. Nevertheless...\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Not necessarily, Your Majesty.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I just wanted to inform you that the ceremony is set to begin within the hour, so we'll need to start letting people into the Archsanctuary soon.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nKnown for catering to the noble and elite class of Rizia, the Academy was considered one of the kingdom's most prestigious institutions."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I appreciate your concern, Sal. Lately, it's been difficult to shake off the unrest plaguing our kingdom -- consuming my thoughts more than I'd like.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I share your concern, Your Majesty. Regrettably, the grievances they voice are as diverse as the shifting winds of change.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"As am I, Your Majesty. Unfortunately, their concerns vary as wildly as the winds of change.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"As has the lack of affordable housing.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"As has the worsening housing crisis.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"In addition, inaccessibility to social programs is said to be causing significant hardship, and exacerbating economic disparities, especially for marginalized populations.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"And restrictions on the press, despite their aim to prevent the spread of harmful misinformation, have also stirred significant public discontent.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"The Crown's policy toward Rizia's religious communities hasn't won you any favors either.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Especially with Wruhecists, which may come as a surprise.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"The war in Pales, for one, has hit Rizians especially hard, with support reaching its lowest point since the war began.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"With all that in mind, I hate to say it, but it isn't all that surprising why Malenyevist revolutionaries are gaining support among the populace.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"But as I was saying, while the unrest we're seeing is certainly troubling, I have faith that God will see us through it.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Every day, I hope for a peaceful resolution. However, I'm concerned that we may need to consider more assertive measures.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Remind me, how long does their training last?\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Those are the elite cadets, Your Majesty, known as 'The Devout.'\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"It would be my pleasure.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"An answer that is staring us right in the face.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_262",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The Wruhec's Guardians. They've been doing commendable work thus far, I won't deny that. But deploying them to quell unrest... Are we certain this is the right course of action?\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_273",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I appreciate your perspective, Sal. But for now, I'm not inclined to deploy the Wruhec's Guardians in this manner.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_275",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Of course, Your Majesty. I will make the necessary preparations to ensure that the Wruhec's Guardians are ready to fulfill their new responsibilities.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_276",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Indeed, Your Majesty. I will ensure that the Wruhec's Guardians are fully prepared to uphold justice and restore order in our kingdom.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And I get that. But just because we *can* deploy them doesn't mean that we should.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"At the time, you expressed your desire to 'establish a kingdom rigorously governed by the unyielding doctrine of Wruhecism.'\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_300",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"So... just for the sake of curiosity, if I were agree to what you're proposing, how do you envision such a world? Or better question, how do we make that happen?\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_306",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't like where this is going but I'm willing to hear you out.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_307",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"God be praised! I knew you envisioned this kingdom's future as I do.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_308",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Firstly, as I mentioned the night of the Alignment of the Six Stars, I believe it pertinent that if we're to cement Rizian Wruhecistic principles, the role of Grand Vizier should be given to a religious figurehead -- myself, specifically.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_312",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"This will not only strengthen the bond between the monarchy and the divine but also foster a sense of righteousness and unity among our people.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"The Guardians, much like myself, would uphold the kingdom's laws with unwavering devotion to the divine principles of Wruhecism. They'd ensure justice free from personal bias or political motivations.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, I remember. You'll be pleased to know I'm still open to such a proposal.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"That the advantages of appointing me to such a position would be immense.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Very well. Moving on...\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"My second proposal would be to take the responsibilities currently bestowed upon the Golden Guard, and give them to the Wruhec's Guardians.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Makes sense. If this kingdom is to fully embrace the one true faith, then it needs to in all matters of governance.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_329",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, it goes without saying that Titus wouldn't be happy about that. However, seeing as how he's my security counselor, I don't see him putting up much of a fuss.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_337",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Captain Gordion is one of the most honorable men in this kingdom. I'm sure we could arrange for him to serve in a similar capacity under the Guardians.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I'm glad you see it that way, as it aligns perfectly with my ultimate proposal for the royal council.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_340",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Of course. And I don't mean to diminish or disparage any of their past accomplishments. I only seek to ensure this kingdom reaches its full potential.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_345",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Which brings me to my final proposal, this time involving the royal council.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_346",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Such a replacement, comprised of priests and clerics, would ensure that decisions align closely with divine principles.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_356",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have no intention of supplanting Hugo for you.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_363",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm open to taking such a journey, however, when it comes to replacing Hugo, as I previously said, that's a no-go.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_369",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You already know my answer regarding the Grand Vizier position. It's yours.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If you're really keen on the position of Grand Vizier, you can submit a petition for it during the upcoming council reshuffle. I assure you that your consideration will be given *utmost attention*, if you get my meaning.\" [Promise Grand Vizier]"
+            },
+            "position": {
+                "x": 14040,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Without it, we risk straying further from the path of righteousness and forsaking the will of the Divine.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_380",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I see nothing but a bright future ahead of us. Rizia is blessed to have you as our sovereign king.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_381",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter making his way down, I observed the procession as each cadet approached Sal, who reverently collected the holy water from the sacred pool into a chalice from which to drink."
+            },
+            "position": {
+                "x": 19440,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No thanks. But I appreciate the offer.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_389",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Of course! Just give me clear instructions on what needs to be done.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_404",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe one I recently threw across the room. Nevertheless..."
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_406",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"An excellent question I'm more than happy to answer.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_407",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Bless you! I'm so glad you asked.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_408",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I'm glad you're keeping an open mind.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_409",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"It seems our goals are not as in aligned as I thought. If that's the case, and there's no changing your mind otherwise, I will take my leave.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_416",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Archsanctuary had actually been built around these canals, embracing their presence in its design."
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_423",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIn any case, I was here as a special guest."
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_428",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"If I may speak freely, I feel compelled to return to a previous discussion on Rizia's future, specifically regarding religion's role.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_430",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"This represents the third graduating class of the Benievon Academy, the most prestigious among them.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI stayed silent as the cadets kept filing in."
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Firstly, I believe it pertinent that if we're to cement Rizian Wruhecistic principles, the role of Grand Vizier should be given to a religious figurehead -- myself, specifically.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_437",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I know the position has opened up recently. But I have other candidates in mind.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_438",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"What of the Golden Guard's and the Royal Council's replacement?\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_439",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm not fond of either. While I'm usually open to bold moves, this feels like it's crossing a line, and is a step too far.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_443",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Yes, of course. Then I won't speak of it any longer. Another time perhaps.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_444",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Please do. There's untold possibilities that we could accomplish if you initiated that reform.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_448",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"That's excellent news! But yes, of course. I'll bring this up again when timing is more suitable.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_463",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Bless You, Your Majesty. This momentous decision heralds a new era for our kingdom, one where divine guidance shall illuminate our path forward.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_464",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Overall, I'm heartened to hear your acceptance of at least some of my proposals. Though it falls short of the full theocratic reformation I envisioned, it signifies a step forward nonetheless.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"As Grand Vizier, I vow to exceed the expectations placed upon me by both God and the king, ensuring that every task is carried out with utmost diligence and dedication.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_473",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"As your future Grand Vizier, I vow to exceed the expectations placed upon me by both God and the king, ensuring that every task is carried out with utmost diligence and dedication.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_478",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"That's encouraging to hear. I'll most certainly put in a petition when the time comes.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_481",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"That said, I would recommend that Captain Gordion continue his current duties, but overseeing the Guardians instead, considering his unwavering dedication to Wruhecism.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_502",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"So what do you say, Your Majesty? Shall we walk this path together like the stories of old?\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_506",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"It seems our goals are not as in aligned as I thought. If that's the case, and there's no changing your mind otherwise, I will take my leave.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_510",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I see nothing but a bright future ahead of us. Rizia is blessed to have you as our sovereign king.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e10_to_83",
+            "source": "node_10",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_79",
+            "source": "node_12",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_123",
+            "source": "node_38",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_123",
+            "source": "node_39",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_406",
+            "source": "node_42",
+            "target": "node_406",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_94",
+            "source": "node_51",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_91",
+            "source": "node_65",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_424",
+            "source": "node_76",
+            "target": "node_424",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_12",
+            "source": "node_86",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_70",
+            "source": "node_88",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_70",
+            "source": "node_89",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_70",
+            "source": "node_90",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_70",
+            "source": "node_92",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_70",
+            "source": "node_96",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_72",
+            "source": "node_97",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_430",
+            "source": "node_101",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_14",
+            "source": "node_102",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_24",
+            "source": "node_106",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_26",
+            "source": "node_107",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_25",
+            "source": "node_111",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_36",
+            "source": "node_112",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_146",
+            "source": "node_167",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_150",
+            "source": "node_168",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_191",
+            "source": "node_178",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_180",
+            "source": "node_194",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_425",
+            "source": "node_198",
+            "target": "node_425",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_210",
+            "source": "node_200",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_433",
+            "source": "node_216",
+            "target": "node_433",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_431",
+            "source": "node_233",
+            "target": "node_431",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_216",
+            "source": "node_241",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_429",
+            "source": "node_248",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e262_to_281",
+            "source": "node_262",
+            "target": "node_281",
+            "type": "step"
+        },
+        {
+            "id": "e273_to_260",
+            "source": "node_273",
+            "target": "node_260",
+            "type": "step"
+        },
+        {
+            "id": "e275_to_289",
+            "source": "node_275",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e276_to_288",
+            "source": "node_276",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_288",
+            "source": "node_277",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_416",
+            "source": "node_294",
+            "target": "node_416",
+            "type": "step"
+        },
+        {
+            "id": "e300_to_408",
+            "source": "node_300",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e306_to_410",
+            "source": "node_306",
+            "target": "node_410",
+            "type": "step"
+        },
+        {
+            "id": "e307_to_409",
+            "source": "node_307",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e308_to_494",
+            "source": "node_308",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e312_to_434",
+            "source": "node_312",
+            "target": "node_434",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_327",
+            "source": "node_318",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_482",
+            "source": "node_320",
+            "target": "node_482",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_313",
+            "source": "node_324",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_313",
+            "source": "node_325",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_369",
+            "source": "node_326",
+            "target": "node_369",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_319",
+            "source": "node_327",
+            "target": "node_319",
+            "type": "step"
+        },
+        {
+            "id": "e329_to_341",
+            "source": "node_329",
+            "target": "node_341",
+            "type": "step"
+        },
+        {
+            "id": "e337_to_347",
+            "source": "node_337",
+            "target": "node_347",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_337",
+            "source": "node_339",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e340_to_337",
+            "source": "node_340",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e345_to_337",
+            "source": "node_345",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e346_to_375",
+            "source": "node_346",
+            "target": "node_375",
+            "type": "step"
+        },
+        {
+            "id": "e356_to_373",
+            "source": "node_356",
+            "target": "node_373",
+            "type": "step"
+        },
+        {
+            "id": "e363_to_337",
+            "source": "node_363",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e369_to_316",
+            "source": "node_369",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_337",
+            "source": "node_375",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_476",
+            "source": "node_376",
+            "target": "node_476",
+            "type": "step"
+        },
+        {
+            "id": "e380_to_467",
+            "source": "node_380",
+            "target": "node_467",
+            "type": "step"
+        },
+        {
+            "id": "e381_to_467",
+            "source": "node_381",
+            "target": "node_467",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_382",
+            "source": "node_388",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e389_to_382",
+            "source": "node_389",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e404_to_391",
+            "source": "node_404",
+            "target": "node_391",
+            "type": "step"
+        },
+        {
+            "id": "e406_to_53",
+            "source": "node_406",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e407_to_494",
+            "source": "node_407",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e408_to_494",
+            "source": "node_408",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e409_to_494",
+            "source": "node_409",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e416_to_296",
+            "source": "node_416",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e423_to_62",
+            "source": "node_423",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e428_to_215",
+            "source": "node_428",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e430_to_197",
+            "source": "node_430",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_239",
+            "source": "node_432",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_243",
+            "source": "node_433",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e437_to_322",
+            "source": "node_437",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e438_to_326",
+            "source": "node_438",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e439_to_447",
+            "source": "node_439",
+            "target": "node_447",
+            "type": "step"
+        },
+        {
+            "id": "e443_to_452",
+            "source": "node_443",
+            "target": "node_452",
+            "type": "step"
+        },
+        {
+            "id": "e444_to_451",
+            "source": "node_444",
+            "target": "node_451",
+            "type": "step"
+        },
+        {
+            "id": "e448_to_454",
+            "source": "node_448",
+            "target": "node_454",
+            "type": "step"
+        },
+        {
+            "id": "e463_to_475",
+            "source": "node_463",
+            "target": "node_475",
+            "type": "step"
+        },
+        {
+            "id": "e464_to_381",
+            "source": "node_464",
+            "target": "node_381",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_380",
+            "source": "node_465",
+            "target": "node_380",
+            "type": "step"
+        },
+        {
+            "id": "e473_to_466",
+            "source": "node_473",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e478_to_376",
+            "source": "node_478",
+            "target": "node_376",
+            "type": "step"
+        },
+        {
+            "id": "e481_to_439",
+            "source": "node_481",
+            "target": "node_439",
+            "type": "step"
+        },
+        {
+            "id": "e502_to_500",
+            "source": "node_502",
+            "target": "node_500",
+            "type": "step"
+        },
+        {
+            "id": "e506_to_512",
+            "source": "node_506",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e510_to_378",
+            "source": "node_510",
+            "target": "node_378",
+            "type": "step"
+        }
+    ]
+}

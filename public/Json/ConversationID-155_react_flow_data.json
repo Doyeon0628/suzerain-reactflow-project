@@ -1,0 +1,601 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe laughed."
+            },
+            "position": {
+                "x": 5670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“So, you are here for the trade deal.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“Right.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Mr. Alvarez. Are you making fun of me right now?”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We want to provide Sordish fishing output in return for Lespian capital.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“You know...being a president makes you pretty busy.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“Except there is one problem.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“Wehlen.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“This has negatively affected Lespia. Our economy was indirectly hit due to the destruction of manufacturing sites. In particular the oil refineries.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“Good intuition.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“The only thing anyone could possibly ever want out of Wehlen.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“And how are you planning to get that?”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You really are a shrewd man, Mr. Alvarez.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“Then thank you for coming this far to visit Perla.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Wait. Fine. I accept.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI let him go without saying anything."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“I think it will contribute nicely to the relationship between Lespia and Sordland.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“I do, however, believe that we can do much more than just trade.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“We...by we, I mean ATO...”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“For now...maybe.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“We need to form a defensive pact against United Contana in Eastern Merkopa before it's too late.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I accept. Sordland will be allied to Lespia.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“Speaking of standing together...I want to talk to you about something.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe clenched his fist and slammed it on the coffee table."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“And we need the support of one of the largest players in Eastern Merkopa. Sordland.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“Don't forget that I gave you a choice.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“Not to mention the humanitarian implications. We had to do our duty and send aid to those who were displaced as a result.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Take care of your own country's issues first, Mr. Alvarez.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“And?”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe looked at the clock."
+            },
+            "position": {
+                "x": 2700,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Patricio Alvarez\n\n“You owe me a teapot.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Shrewd but not investigative enough. The Energy Protection Act doesn't allow such a transaction.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Goodbye.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Very well. I accept.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Very well. I accept.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_3",
+            "source": "node_2",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_20",
+            "source": "node_26",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_38",
+            "source": "node_28",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_20",
+            "source": "node_29",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_44",
+            "source": "node_30",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_54",
+            "source": "node_45",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_96",
+            "source": "node_52",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_49",
+            "source": "node_55",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_149",
+            "source": "node_64",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_152",
+            "source": "node_71",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_157",
+            "source": "node_72",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_158",
+            "source": "node_74",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_91",
+            "source": "node_84",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_83",
+            "source": "node_86",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_95",
+            "source": "node_88",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_177",
+            "source": "node_94",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_169",
+            "source": "node_95",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_148",
+            "source": "node_96",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_176",
+            "source": "node_97",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_135",
+            "source": "node_108",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_135",
+            "source": "node_111",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_125",
+            "source": "node_129",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_92",
+            "source": "node_133",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_98",
+            "source": "node_134",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_114",
+            "source": "node_135",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_179",
+            "source": "node_145",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_97",
+            "source": "node_148",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_65",
+            "source": "node_149",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_74",
+            "source": "node_157",
+            "target": "node_74",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_77",
+            "source": "node_158",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_2",
+            "source": "node_174",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_87",
+            "source": "node_184",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_89",
+            "source": "node_191",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_84",
+            "source": "node_195",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_91",
+            "source": "node_196",
+            "target": "node_91",
+            "type": "step"
+        }
+    ]
+}

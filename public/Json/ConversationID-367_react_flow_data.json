@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Tell me. What has Saltana done to deserve my goodwill?\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"As St. Wruhec has said, 'Generosity is the heart's river, but let its waters flow with discernment'.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Ha. That witch has you doing her bidding?\""
+            },
+            "position": {
+                "x": 270,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I will meet with you and Saltana. That is all I can promise.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Silence, both of you. I did not come here to trade aphorisms.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"We will talk to Saltana. I will respect her borders if she respects my pilgrims' rights.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"In that case...\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA faint smile appeared on Sal's lips."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"A pipeline is out of the question. Isn't there anything else you want?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Riches are useless if we are unable to express our gratitude to the Lord who provided them.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hope you are ready to compromise. Derdians are not automatically entitled to enter Morella, after all.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe sat back on his cushion, looking defiant."
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Perfect. I wanted to suggest an energy partnership anyway.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I can't do that. Too much could go wrong.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"'For lo, true virtue lies in balancing the celestial with the hearth.'\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_576",
+            "source": "node_2",
+            "target": "node_576",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_65",
+            "source": "node_11",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_60",
+            "source": "node_13",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_71",
+            "source": "node_16",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_71",
+            "source": "node_17",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_15",
+            "source": "node_31",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_22",
+            "source": "node_36",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_23",
+            "source": "node_41",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_25",
+            "source": "node_42",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_66",
+            "source": "node_45",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_68",
+            "source": "node_48",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_13",
+            "source": "node_65",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_38",
+            "source": "node_76",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_37",
+            "source": "node_82",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_2",
+            "source": "node_95",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

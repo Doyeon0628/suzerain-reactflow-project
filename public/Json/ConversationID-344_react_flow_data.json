@@ -1,0 +1,516 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nToday was a day more important than my coronation, my wedding, even my birth."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Your Majesty. Are you ready?\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Theocracy Declaration Prep\n\nTheocracy Declaration Prep"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI said a short prayer to Saint Wruhec."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at myself in the mirror."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI had to prepare my attire for the momentous balcony speech I would make. I thought about what to hold in my hand."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI pinned the medals on my military uniform."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI did not have to wait long until Sal knocked on the door and entered."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have never been more ready before.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCheers and whistles were heard. Once they subsided, Sal continued."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"None of this would be possible without he who walks and spreads God's words!\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"People of Rizia! We are now the God's Kingdom on Earth! Halaita!\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI drew the ceremonial sword from it's sheath and pointed at the sun."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI waved at the people."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI opened my arms wide."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe crowd went ecstatic. They were chanting 'Terador's Fury'."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Our past systems and structures have not been enough to contain us!\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Without you, we would not be successful.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We are a nation that knows betrayal!\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And we will know many more!\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We were intentionally made weak by the constraints of our ancestors!\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hear your calls and I agree with it!\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Now! That is what matters! That you are here with me! Right here! Right now!\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Work tirelessly without complaints and eternal peace will be your reward!\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Think of your children! Without our sacrifices, they will be doomed!\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If you don't join me, I know not what may befall our beloved country!\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Our children will finish what we start today!\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_237",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"From henceforth, I proclaim the Wruhecist Kingdom of Rizia!\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_253",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal and the Council of Nur went down to their knees. Butlers and guards followed suit."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_262",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI closed my eyes and whispered the word."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_269",
+            "source": "node_1",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_35",
+            "source": "node_4",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_100",
+            "source": "node_5",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_31",
+            "source": "node_6",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_28",
+            "source": "node_7",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_97",
+            "source": "node_34",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_29",
+            "source": "node_75",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_29",
+            "source": "node_96",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_265",
+            "source": "node_97",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_266",
+            "source": "node_113",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_127",
+            "source": "node_115",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_106",
+            "source": "node_126",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_280",
+            "source": "node_139",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_279",
+            "source": "node_140",
+            "target": "node_279",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_281",
+            "source": "node_141",
+            "target": "node_281",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_282",
+            "source": "node_142",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_184",
+            "source": "node_166",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_230",
+            "source": "node_193",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_240",
+            "source": "node_199",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_240",
+            "source": "node_201",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_240",
+            "source": "node_202",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_231",
+            "source": "node_208",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_231",
+            "source": "node_210",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_231",
+            "source": "node_211",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_218",
+            "source": "node_214",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_232",
+            "source": "node_219",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_232",
+            "source": "node_220",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e237_to_196",
+            "source": "node_237",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e253_to_267",
+            "source": "node_253",
+            "target": "node_267",
+            "type": "step"
+        },
+        {
+            "id": "e262_to_2",
+            "source": "node_262",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

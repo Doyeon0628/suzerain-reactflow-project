@@ -1,0 +1,822 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBack at the office, I was eagerly waiting for the decision of the Supreme Court regarding our change to the Constitution. I stood up from my chair and looked out the window."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr and Paskal were with me too. Petr was slouching on the couch on the right side of the office and staring at the ceiling. Paskal sat across from me. He was also eagerly waiting for the results."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I hope so.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Congratulations, sir. The constitutional changes are finalized with 8 Justices voting for the proposal.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Congratulations, sir. The constitutional changes are finalized with 6 Justices voting for the proposal.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Unfortunately, sir, the constitutional changes have been rejected with 6 Justices voting against the proposal.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Unfortunately, sir, the constitutional changes have been rejected with 7 Justices voting against the proposal.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Unfortunately, sir, the constitutional changes have been rejected with 8 Justices voting against the proposal.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. She told us that she will oppose us.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"That's not good.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I hope Lucian managed to talk some sense into him.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Okay. We'll soon hear about the results then.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Maybe you shouldn't have pushed the Court so much... Taking away their immunity was a bit too aggressive.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"By the way, what time is it?\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We have about ten minutes.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Anton?\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I wouldn't blame them if they vote no.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"But anyway...\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I agree. We have to watch him closely.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Maybe we shouldn't allow our party to be so generous with what they support...\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"His party only holds 40 seats, Anton. Yet he manages to pass bills...\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Mr. Kibener aside, we seem to be in a very troubling situation regardless.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"And we've got enough trouble aside from him.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. Please come in. Is there a problem?\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSuddenly, Livia entered the room. In her hands was a large object wrapped in straw paper."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was an old black and white photograph of Tarquin Soll posing on a destroyed tank in Holsord Square. The building behind him had thousands of bullet holes on it and the clearly readable slogan 'Victory is close' written on its walls."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Livia Suno\n\n\"He's obviously trying to send you a message, but--\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs soon as she left the room, Petr came up next to me and took a look at the photograph."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yeah. A picture of Tarquin Soll. What a nice present...\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Damn Orso...\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This must be some kind of a message.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What do you think?\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"What is it?\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Yes! Congratulations, everybody.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"YES!\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Congratulations, Anton!\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We are writing history.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We did it together.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I really want to believe in that...\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_185",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Right away, sir!\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"You must also start preparing a speech to announce the changes, sir.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_237",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Congratulations, sir. The constitutional changes are finalized with 7 Justices voting for the proposal.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What do you think this means, Livia?\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Did Orso say anything to you about this?\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI turned to Livia."
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLivia turned to leave."
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Livia Suno\n\n\"Mr. Vice President. I'll be leaving now.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_391",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Especially after we decided to include the expansion of rights for the Bludish people.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_386",
+            "source": "node_1",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_31",
+            "source": "node_3",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_35",
+            "source": "node_14",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_35",
+            "source": "node_15",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_154",
+            "source": "node_16",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_154",
+            "source": "node_17",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_159",
+            "source": "node_18",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_159",
+            "source": "node_19",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_159",
+            "source": "node_20",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_21",
+            "source": "node_23",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_49",
+            "source": "node_42",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_68",
+            "source": "node_56",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_68",
+            "source": "node_57",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_72",
+            "source": "node_58",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_82",
+            "source": "node_62",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_67",
+            "source": "node_63",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_58",
+            "source": "node_71",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_97",
+            "source": "node_81",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_389",
+            "source": "node_98",
+            "target": "node_389",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_95",
+            "source": "node_100",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_108",
+            "source": "node_101",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_94",
+            "source": "node_103",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_124",
+            "source": "node_110",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_128",
+            "source": "node_118",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_148",
+            "source": "node_123",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_135",
+            "source": "node_136",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_243",
+            "source": "node_138",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_246",
+            "source": "node_141",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_147",
+            "source": "node_143",
+            "target": "node_147",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_121",
+            "source": "node_144",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_121",
+            "source": "node_145",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_121",
+            "source": "node_146",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_121",
+            "source": "node_147",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_215",
+            "source": "node_152",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_165",
+            "source": "node_153",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_318",
+            "source": "node_165",
+            "target": "node_318",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_189",
+            "source": "node_170",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_188",
+            "source": "node_171",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_195",
+            "source": "node_184",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e185_to_195",
+            "source": "node_185",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_333",
+            "source": "node_195",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e237_to_218",
+            "source": "node_237",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_393",
+            "source": "node_239",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_139",
+            "source": "node_240",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_245",
+            "source": "node_242",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_140",
+            "source": "node_244",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_140",
+            "source": "node_245",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e391_to_100",
+            "source": "node_391",
+            "target": "node_100",
+            "type": "step"
+        }
+    ]
+}

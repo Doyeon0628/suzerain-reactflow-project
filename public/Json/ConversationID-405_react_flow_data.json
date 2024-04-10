@@ -1,0 +1,3134 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe strolled further into the gardens. It was a balmy night, and the moon was just beginning to rise."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I can't believe Her Highness is getting married tomorrow.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And me? How did I look?\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe air in the palace suddenly felt suffocating. I went out to the gardens to clear my head."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I was just reviewing our latest battle plans.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I think my mother might have helped her, but I have no proof.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"You should get some rest, Your Majesty. Trust in your security staff to handle the situation.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It won't be easy to rest. But I'll try.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe gave me a terse nod."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe paused, thinking it over."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI knelt on the ground, ignoring the twinge in my bad leg."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Do you love me?\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Are you able to bear children?\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI motioned for Lucita to sit next to me on the bench."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Is this because of your daughter's disappearance?\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe reached up, grabbed the back of my head and pulled my face level with hers."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Unstoppable. I like the sound of that.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"In that case...\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Good night, Your Majesty. I'll let you know at once if the Princess is found.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI crumpled it up and threw it in the corner of the room."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI left the outfit where it was."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI crumpled it up and threw it in the corner of the room."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe pulled back from me slightly."
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Well, Your Majesty... I surrender.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't know if you're lying. I don't care. Marry me, Lucita.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe kissed with such force that we nearly toppled to the ground. I wondered if any guards had eyes on us."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Wait. I have an idea.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter a day spent finalizing arrangements, holding press conferences and reviewing security details, I was exhausted."
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter an endless day of war briefings and strategy planning sessions, I was looking forward to collapsing in my bed."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFirst, though, I decided to take a walk in the palace gardens to clear my head."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I was just reviewing the latest strategies for the Zille resistance.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe made a scoffing sound."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Vina Toras, Duchess of Valenqiris. The day has finally come.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was the night before Vina's investiture ceremony as Duchess of Monqiz."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_235",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe moon had risen by now, illuminating Lucita's features. I thought about everything we'd been through together."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "PROPOSAL\n\nPROPOSAL"
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI thought about how, as of tomorrow, the heir to the throne of Rizia would not be a member of House Toras."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI thought how, if Vina died in Pales, I would be left without an heir."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy mother's words echoed in my head. \"Unless...\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen we broke apart, she was grinning."
+            },
+            "position": {
+                "x": 28620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_250",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe led me through the ground-floor corridors until we came to the entrance to Sal Ignacius' quarters."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_252",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The Grand Wiseman? I still don't trust him.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_269",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You want to go snooping for more evidence against him? Good idea.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I agree. This seems incredibly hasty.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_298",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're insane.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"What's insane is spending endless amounts of time and resources to achieve exactly the same result.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHer breath caught in her throat."
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe door opened and Sal beckoned us inside, now dressed in ceremonial robes."
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Because we are not in a church, some sacred traditions will have to be foregone. But your marriage shall still be valid before the Lord and the law.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe room was as he'd left it: minimally furnished, with shelves full of books and sacred objects lining the walls."
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This seems incredibly hasty.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm afraid it won't be legitimate before the Lord.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_348",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita walked into the room and began browsing the shelves."
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_359",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Almighty and ever-living God, who in Thy infinite wisdom hast blessed the union of two hearts in holy wedlock, look kindly upon His Majesty Romus Toras and Duchess Lucita Azaro, who stand before Thee, seeking Thy blessing.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_367",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal raised his eyebrows."
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_370",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Lucita, I claim you not only as my queen, but as the ironclad partner to my reign.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_372",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Together, we shall forge an unbreakable empire and crush all those who stand against us.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As the memory of my cherished Lena fades into the past, I stand here before you ready to love anew.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_374",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I offer you my heart, my loyalty, and my life, as we embark on this journey together.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I vow that I shall listen to every word you say -- well, except for when you're reviewing logistics reports. Who listens to those?\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_377",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Luce, the past few years I've spent with you have been the happiest in my entire life.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_378",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Whether in the chaos of council meetings or in the intimacy of moments alone, I feel I have truly found my equal.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Duchess Azaro, just as we have navigated the waters of international diplomacy, so too will we chart a course through holy matrimony.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_390",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Together, let us usher in a new era for our kingdom, marked by strength, resilience, and the legacy of the heirs that shall spring from your still-fertile loins.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_394",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In this sacred covenant, love and duty converge to forge a legacy that transcends the temporal realm. Let it be known that in the heart of such a union, the virtues of loyalty, honor, and unwavering commitment are the true jewels that adorn the crown of matrimonial sanctity.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_398",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Perfect. And now for the oath.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_404",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Thank you, Your Majesty. Would you like to do the same, Duchess Azaro?\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_422",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI handed Sal Lena's old wedding ring. He produced another, more ancient-looking one from a drawer."
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_423",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLena took two ancient-looking rings off the desk."
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI produced Lena's ring from my pocket. Lucita took another, more ancient-looking one off the desk."
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_428",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal reached into a drawer and produced two ancient-looking rings."
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_434",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I promised Vina my late wife's ring. But I want you to have it instead.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_439",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"This was salvaged from the Plavo crypt. I don't know who it belonged to.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_440",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"They belong to House Azaro, Grand Wiseman. That much is certain.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_442",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"This is a House Azaro ring. The Grand Wiseman must have salvaged it from the Plavo Archsanctuary.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_454",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"In accordance with tradition, you may now seal your vows with a kiss.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_460",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOnce again, I was a married man."
+            },
+            "position": {
+                "x": 19170,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThis time, by choice."
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_470",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI pushed open the door to my quarters to find Pabel, busy hanging up an outfit on my valet stand."
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_472",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's late. Shouldn't you have done that already?\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_474",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Ooh. What am I wearing tomorrow?\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_475",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I didn't get the chance. There was a snag with the seating arrangements for tomorrow. Some fool from the wedding committee placed the Qinali and Free Cities delegations next to each other.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_481",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"As are you, Your Majesty.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_492",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I can't believe Princess Vina is getting married tomorrow.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_493",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I still miss her. But I have to move on.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_498",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And me? How did I look?\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_501",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel laughed."
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_506",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Believe me, Princess Lena of Rumburg couldn't hold a candle to Mr. Pabel Adria.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_507",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"It seems as though Princess Vina has come into her own as a councilor.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_511",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We argued over every aspect of those celebrations. It was hell.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_513",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We argued over every aspect of those celebrations. It was hell.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_516",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You know, with Vina changing her last name, the reputation of House Toras really doesn't matter anymore.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_519",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Even so, what about my reputation?\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_524",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"You have a modicum of protection as the king. But the moment the truth gets out about us, I'll be torn apart from all sides.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_525",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Let the papers say what they will. I'm not afraid for my reputation.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_531",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"But the rest of the kingdom doesn't.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_532",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I know that decriminalizing homosexuality came at a great cost to your popularity. But I'm so glad you did it.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_533",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's just a shame that you and I can't enjoy that freedom for ourselves.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_538",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I might no longer be breaking the law, but I'm still a very bad boy who needs to be punished.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_547",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"And if something happens to you, or things end badly between us? Rom, I'll have nothing.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_550",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Then we'll continue in secret. As we always have.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_552",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What if I were to confer noble status upon you?\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_565",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Actually, no. It's too difficult.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_578",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe gave me an excited hug."
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_591",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"So I have gathered.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_592",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"His loyalty is undisputed, it's true.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_593",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe eyed us both closely."
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_595",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"It sets a dangerous precedent. We can't have every scullery maid in the palace clamoring to be a lady.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_596",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe turned to Pabel."
+            },
+            "position": {
+                "x": 25920,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_606",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe turned to Pabel."
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_617",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hereby proclaim you Lord Pabel Adria of Veridian. May your actions reflect the honor of your title.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_620",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As you have served me as a butler, so now do I entrust you with the care of your own domain. May you tend to it as thoughtfully as you tend to me.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_621",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe gave me a quick kiss and walked out."
+            },
+            "position": {
+                "x": 27270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_626",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFrom his corner, Bruno whimpered disappointedly as Pabel left."
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_630",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI gave him a reassuring pat on the head before beginning my bedtime routine."
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_631",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Shhh. Bad dog.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_633",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel grinned from ear to ear."
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_641",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"But your many years of service to this household do deserve acknowledgement, Mr. Adria.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_645",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Don't let it get to your head. We need all your focus on coordinating tomorrow's festivities.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_649",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The institution of nobility is a relic of a bygone era, one that perpetuates inequality and stifles the true potential of our people. But enjoy the fruit trees.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_652",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHugo coughed. Pabel, grinning from ear to ear, ignored him."
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_658",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel and Hugo appeared equally surprised."
+            },
+            "position": {
+                "x": 29160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_661",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy uncle stared in open amazement as we left."
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_671",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We're going to get her back. I can feel it in my bones.\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_672",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"When we win this war, Pales will pay for what they did to her.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_673",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The Azaros seem to have given up hope of finding her. Perhaps I should as well.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_681",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I'm sure you have. I'm sorry.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_682",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Don't be ridiculous. There's always hope.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_683",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"That's the spirit.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_684",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"As long as she's still alive, there's hope.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_687",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Absolutely not, Your Grace.\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_698",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"When we win this war, Pales will pay for what they did to her.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_706",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Of course you have. I'm sorry.\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_707",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I should have spoken against him. He hardly even knew the Princess.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_708",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I will make sure of it.\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_709",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI pushed open the door to my quarters."
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_715",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel had hung up my favorite suit on the valet stand."
+            },
+            "position": {
+                "x": 33480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_730",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"But in the end, my deepest loyalty must be to myself.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_734",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I wish Her Highness all the happiness in the world. But the thought of celebrating her love while the law still forces us to conceal our own fills me with unbearable sorrow.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_735",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I can no longer bear silent witness as you deny your daughter, your country and yourself the freedom to love.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_736",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"But I am done waiting.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_743",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy chambers had never seemed this empty before."
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_750",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Why not?\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_753",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI took him to the Grand Vizier's chambers, where Hugo used to keep the book of records for such estates."
+            },
+            "position": {
+                "x": 35370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_754",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was the Veridian estate on the outskirts of Malcos. According to the documents, it's lain abandoned for years after an unresolved inheritance dispute."
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_760",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As you have served me as a butler, so now do I entrust you with the care of your own domain. May you tend to it as thoughtfully as you tend to me.\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_763",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"May this mark the beginning of a new era, where titles are not inherited but earned by merit.\""
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_766",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The institution of nobility is a relic of a bygone era, one that perpetuates inequality and stifles the true potential of our people. But enjoy the fruit trees.\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_770",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I will, Your Majesty.\""
+            },
+            "position": {
+                "x": 36450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_772",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPabel grinned from ear to ear."
+            },
+            "position": {
+                "x": 36990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_773",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Keep this safe.\""
+            },
+            "position": {
+                "x": 36990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_777",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"I will. Thank you.\""
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_778",
+            "type": "customNode",
+            "data": {
+                "label": "Pabel Adria\n\n\"Thank you!\""
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_782",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe left the Grand Vizier's chambers together."
+            },
+            "position": {
+                "x": 37800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_792",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No, I surrender to you. I want you to be Rizia's new Queen Consort.\""
+            },
+            "position": {
+                "x": 38070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_793",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That's all I wanted to know. Good night.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_797",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It won't be easy to rest. But I'll try.\""
+            },
+            "position": {
+                "x": 38340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_800",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"How can you ask me that right now? With my daughter Lord knows where...\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_805",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, I do.\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_806",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I hate to say it, but: exactly. You must be aware that you need a backup plan in case Her Highness doesn't return.\""
+            },
+            "position": {
+                "x": 38340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_810",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Of course, if you did have a second child, he or she would have to be legitimate to qualify for the throne.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_811",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Not to mention... You know I've been careful. But an illegitimate child between the two of us could throw the kingdom into chaos.\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_812",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe looked me in the eye."
+            },
+            "position": {
+                "x": 39690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_818",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Are you trying to wheedle a proposal out of me? It won't work.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_821",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Then by all means, Duchess, let us be wed posthaste.\""
+            },
+            "position": {
+                "x": 40230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_822",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nResolve formed on her face."
+            },
+            "position": {
+                "x": 39690,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_825",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm sorry too. Sorry you only wanted me for my royal seed.\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_826",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This seems sudden.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_827",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If we were not royals, this wouldn't be so complicated.\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_828",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I do love you, you know.\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_829",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe made a disgusted face."
+            },
+            "position": {
+                "x": 42930,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_830",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I know. But I've been thinking about it for some time.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_833",
+            "type": "customNode",
+            "data": {
+                "label": "End No Marriage\n\nEnd No Marriage"
+            },
+            "position": {
+                "x": 41310,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_837",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Good night, Your Majesty. I'll see you at the wedding tomorrow.\""
+            },
+            "position": {
+                "x": 41580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_841",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe turned and walked away from me, breaking into a jog as she reached the edge of the clearing."
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_843",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Good night, Your Majesty. I'll see you at our next council meeting.\""
+            },
+            "position": {
+                "x": 42120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_844",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThat was it. Just as soon as I had found new love, I'd lost it again."
+            },
+            "position": {
+                "x": 41850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_852",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Really? You mean that?\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_853",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I promise that's not the reason.\""
+            },
+            "position": {
+                "x": 39690,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_858",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't think you mean that. The second I impregnate you, the Azaros will be scrambling to get Vina out of the picture.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_861",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If you truly will accept it if Vina stays first in line for the throne... then yes. Let's get married.\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_862",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That may be true. But I still find it too risky to muddy up the line of succession. I'm sorry.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_865",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I know.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_866",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I can't bring another child into this world, Lucita.\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 600
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_747",
+            "source": "node_1",
+            "target": "node_747",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_228",
+            "source": "node_7",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_512",
+            "source": "node_16",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_182",
+            "source": "node_29",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_205",
+            "source": "node_36",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_94",
+            "source": "node_49",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_94",
+            "source": "node_50",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_789",
+            "source": "node_51",
+            "target": "node_789",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_834",
+            "source": "node_58",
+            "target": "node_834",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_834",
+            "source": "node_61",
+            "target": "node_834",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_240",
+            "source": "node_65",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_133",
+            "source": "node_70",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_135",
+            "source": "node_71",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_134",
+            "source": "node_75",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_151",
+            "source": "node_80",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_157",
+            "source": "node_86",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_157",
+            "source": "node_91",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_157",
+            "source": "node_92",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_51",
+            "source": "node_97",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_246",
+            "source": "node_125",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_246",
+            "source": "node_127",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_246",
+            "source": "node_129",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_77",
+            "source": "node_134",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_793",
+            "source": "node_148",
+            "target": "node_793",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_793",
+            "source": "node_149",
+            "target": "node_793",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_90",
+            "source": "node_160",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_247",
+            "source": "node_161",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_24",
+            "source": "node_187",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_24",
+            "source": "node_188",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_468",
+            "source": "node_200",
+            "target": "node_468",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_38",
+            "source": "node_203",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_3",
+            "source": "node_226",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_693",
+            "source": "node_230",
+            "target": "node_693",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_193",
+            "source": "node_234",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e235_to_190",
+            "source": "node_235",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_690",
+            "source": "node_239",
+            "target": "node_690",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_237",
+            "source": "node_241",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_76",
+            "source": "node_242",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_76",
+            "source": "node_243",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_2",
+            "source": "node_246",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e250_to_270",
+            "source": "node_250",
+            "target": "node_270",
+            "type": "step"
+        },
+        {
+            "id": "e252_to_271",
+            "source": "node_252",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e269_to_322",
+            "source": "node_269",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_290",
+            "source": "node_278",
+            "target": "node_290",
+            "type": "step"
+        },
+        {
+            "id": "e298_to_432",
+            "source": "node_298",
+            "target": "node_432",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_353",
+            "source": "node_303",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_353",
+            "source": "node_304",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_353",
+            "source": "node_316",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_350",
+            "source": "node_318",
+            "target": "node_350",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_360",
+            "source": "node_321",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_338",
+            "source": "node_324",
+            "target": "node_338",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_345",
+            "source": "node_336",
+            "target": "node_345",
+            "type": "step"
+        },
+        {
+            "id": "e348_to_302",
+            "source": "node_348",
+            "target": "node_302",
+            "type": "step"
+        },
+        {
+            "id": "e359_to_395",
+            "source": "node_359",
+            "target": "node_395",
+            "type": "step"
+        },
+        {
+            "id": "e367_to_401",
+            "source": "node_367",
+            "target": "node_401",
+            "type": "step"
+        },
+        {
+            "id": "e370_to_390",
+            "source": "node_370",
+            "target": "node_390",
+            "type": "step"
+        },
+        {
+            "id": "e372_to_391",
+            "source": "node_372",
+            "target": "node_391",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_408",
+            "source": "node_373",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e374_to_392",
+            "source": "node_374",
+            "target": "node_392",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_391",
+            "source": "node_376",
+            "target": "node_391",
+            "type": "step"
+        },
+        {
+            "id": "e377_to_391",
+            "source": "node_377",
+            "target": "node_391",
+            "type": "step"
+        },
+        {
+            "id": "e378_to_392",
+            "source": "node_378",
+            "target": "node_392",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_377",
+            "source": "node_388",
+            "target": "node_377",
+            "type": "step"
+        },
+        {
+            "id": "e390_to_387",
+            "source": "node_390",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e394_to_408",
+            "source": "node_394",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e398_to_370",
+            "source": "node_398",
+            "target": "node_370",
+            "type": "step"
+        },
+        {
+            "id": "e404_to_416",
+            "source": "node_404",
+            "target": "node_416",
+            "type": "step"
+        },
+        {
+            "id": "e422_to_429",
+            "source": "node_422",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e423_to_440",
+            "source": "node_423",
+            "target": "node_440",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_424",
+            "source": "node_427",
+            "target": "node_424",
+            "type": "step"
+        },
+        {
+            "id": "e428_to_443",
+            "source": "node_428",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e434_to_296",
+            "source": "node_434",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e439_to_314",
+            "source": "node_439",
+            "target": "node_314",
+            "type": "step"
+        },
+        {
+            "id": "e440_to_431",
+            "source": "node_440",
+            "target": "node_431",
+            "type": "step"
+        },
+        {
+            "id": "e442_to_449",
+            "source": "node_442",
+            "target": "node_449",
+            "type": "step"
+        },
+        {
+            "id": "e454_to_460",
+            "source": "node_454",
+            "target": "node_460",
+            "type": "step"
+        },
+        {
+            "id": "e460_to_457",
+            "source": "node_460",
+            "target": "node_457",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_467",
+            "source": "node_465",
+            "target": "node_467",
+            "type": "step"
+        },
+        {
+            "id": "e470_to_710",
+            "source": "node_470",
+            "target": "node_710",
+            "type": "step"
+        },
+        {
+            "id": "e472_to_27",
+            "source": "node_472",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e474_to_482",
+            "source": "node_474",
+            "target": "node_482",
+            "type": "step"
+        },
+        {
+            "id": "e475_to_483",
+            "source": "node_475",
+            "target": "node_483",
+            "type": "step"
+        },
+        {
+            "id": "e481_to_488",
+            "source": "node_481",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e492_to_509",
+            "source": "node_492",
+            "target": "node_509",
+            "type": "step"
+        },
+        {
+            "id": "e493_to_506",
+            "source": "node_493",
+            "target": "node_506",
+            "type": "step"
+        },
+        {
+            "id": "e498_to_514",
+            "source": "node_498",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e501_to_516",
+            "source": "node_501",
+            "target": "node_516",
+            "type": "step"
+        },
+        {
+            "id": "e506_to_499",
+            "source": "node_506",
+            "target": "node_499",
+            "type": "step"
+        },
+        {
+            "id": "e507_to_502",
+            "source": "node_507",
+            "target": "node_502",
+            "type": "step"
+        },
+        {
+            "id": "e511_to_665",
+            "source": "node_511",
+            "target": "node_665",
+            "type": "step"
+        },
+        {
+            "id": "e513_to_23",
+            "source": "node_513",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e516_to_533",
+            "source": "node_516",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e519_to_517",
+            "source": "node_519",
+            "target": "node_517",
+            "type": "step"
+        },
+        {
+            "id": "e524_to_522",
+            "source": "node_524",
+            "target": "node_522",
+            "type": "step"
+        },
+        {
+            "id": "e525_to_548",
+            "source": "node_525",
+            "target": "node_548",
+            "type": "step"
+        },
+        {
+            "id": "e531_to_522",
+            "source": "node_531",
+            "target": "node_522",
+            "type": "step"
+        },
+        {
+            "id": "e532_to_522",
+            "source": "node_532",
+            "target": "node_522",
+            "type": "step"
+        },
+        {
+            "id": "e533_to_542",
+            "source": "node_533",
+            "target": "node_542",
+            "type": "step"
+        },
+        {
+            "id": "e538_to_527",
+            "source": "node_538",
+            "target": "node_527",
+            "type": "step"
+        },
+        {
+            "id": "e547_to_522",
+            "source": "node_547",
+            "target": "node_522",
+            "type": "step"
+        },
+        {
+            "id": "e550_to_569",
+            "source": "node_550",
+            "target": "node_569",
+            "type": "step"
+        },
+        {
+            "id": "e552_to_573",
+            "source": "node_552",
+            "target": "node_573",
+            "type": "step"
+        },
+        {
+            "id": "e565_to_579",
+            "source": "node_565",
+            "target": "node_579",
+            "type": "step"
+        },
+        {
+            "id": "e578_to_622",
+            "source": "node_578",
+            "target": "node_622",
+            "type": "step"
+        },
+        {
+            "id": "e591_to_596",
+            "source": "node_591",
+            "target": "node_596",
+            "type": "step"
+        },
+        {
+            "id": "e592_to_605",
+            "source": "node_592",
+            "target": "node_605",
+            "type": "step"
+        },
+        {
+            "id": "e593_to_605",
+            "source": "node_593",
+            "target": "node_605",
+            "type": "step"
+        },
+        {
+            "id": "e595_to_605",
+            "source": "node_595",
+            "target": "node_605",
+            "type": "step"
+        },
+        {
+            "id": "e596_to_642",
+            "source": "node_596",
+            "target": "node_642",
+            "type": "step"
+        },
+        {
+            "id": "e606_to_598",
+            "source": "node_606",
+            "target": "node_598",
+            "type": "step"
+        },
+        {
+            "id": "e617_to_621",
+            "source": "node_617",
+            "target": "node_621",
+            "type": "step"
+        },
+        {
+            "id": "e620_to_636",
+            "source": "node_620",
+            "target": "node_636",
+            "type": "step"
+        },
+        {
+            "id": "e621_to_634",
+            "source": "node_621",
+            "target": "node_634",
+            "type": "step"
+        },
+        {
+            "id": "e626_to_632",
+            "source": "node_626",
+            "target": "node_632",
+            "type": "step"
+        },
+        {
+            "id": "e630_to_246",
+            "source": "node_630",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e631_to_246",
+            "source": "node_631",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e633_to_246",
+            "source": "node_633",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e641_to_481",
+            "source": "node_641",
+            "target": "node_481",
+            "type": "step"
+        },
+        {
+            "id": "e645_to_658",
+            "source": "node_645",
+            "target": "node_658",
+            "type": "step"
+        },
+        {
+            "id": "e649_to_636",
+            "source": "node_649",
+            "target": "node_636",
+            "type": "step"
+        },
+        {
+            "id": "e652_to_650",
+            "source": "node_652",
+            "target": "node_650",
+            "type": "step"
+        },
+        {
+            "id": "e658_to_689",
+            "source": "node_658",
+            "target": "node_689",
+            "type": "step"
+        },
+        {
+            "id": "e661_to_637",
+            "source": "node_661",
+            "target": "node_637",
+            "type": "step"
+        },
+        {
+            "id": "e671_to_674",
+            "source": "node_671",
+            "target": "node_674",
+            "type": "step"
+        },
+        {
+            "id": "e672_to_685",
+            "source": "node_672",
+            "target": "node_685",
+            "type": "step"
+        },
+        {
+            "id": "e673_to_684",
+            "source": "node_673",
+            "target": "node_684",
+            "type": "step"
+        },
+        {
+            "id": "e681_to_506",
+            "source": "node_681",
+            "target": "node_506",
+            "type": "step"
+        },
+        {
+            "id": "e682_to_506",
+            "source": "node_682",
+            "target": "node_506",
+            "type": "step"
+        },
+        {
+            "id": "e683_to_506",
+            "source": "node_683",
+            "target": "node_506",
+            "type": "step"
+        },
+        {
+            "id": "e684_to_506",
+            "source": "node_684",
+            "target": "node_506",
+            "type": "step"
+        },
+        {
+            "id": "e687_to_523",
+            "source": "node_687",
+            "target": "node_523",
+            "type": "step"
+        },
+        {
+            "id": "e698_to_705",
+            "source": "node_698",
+            "target": "node_705",
+            "type": "step"
+        },
+        {
+            "id": "e706_to_10",
+            "source": "node_706",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e707_to_10",
+            "source": "node_707",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e708_to_10",
+            "source": "node_708",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e709_to_10",
+            "source": "node_709",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e715_to_725",
+            "source": "node_715",
+            "target": "node_725",
+            "type": "step"
+        },
+        {
+            "id": "e730_to_737",
+            "source": "node_730",
+            "target": "node_737",
+            "type": "step"
+        },
+        {
+            "id": "e734_to_736",
+            "source": "node_734",
+            "target": "node_736",
+            "type": "step"
+        },
+        {
+            "id": "e735_to_730",
+            "source": "node_735",
+            "target": "node_730",
+            "type": "step"
+        },
+        {
+            "id": "e736_to_730",
+            "source": "node_736",
+            "target": "node_730",
+            "type": "step"
+        },
+        {
+            "id": "e743_to_741",
+            "source": "node_743",
+            "target": "node_741",
+            "type": "step"
+        },
+        {
+            "id": "e750_to_565",
+            "source": "node_750",
+            "target": "node_565",
+            "type": "step"
+        },
+        {
+            "id": "e753_to_755",
+            "source": "node_753",
+            "target": "node_755",
+            "type": "step"
+        },
+        {
+            "id": "e754_to_753",
+            "source": "node_754",
+            "target": "node_753",
+            "type": "step"
+        },
+        {
+            "id": "e760_to_768",
+            "source": "node_760",
+            "target": "node_768",
+            "type": "step"
+        },
+        {
+            "id": "e763_to_768",
+            "source": "node_763",
+            "target": "node_768",
+            "type": "step"
+        },
+        {
+            "id": "e766_to_768",
+            "source": "node_766",
+            "target": "node_768",
+            "type": "step"
+        },
+        {
+            "id": "e770_to_767",
+            "source": "node_770",
+            "target": "node_767",
+            "type": "step"
+        },
+        {
+            "id": "e772_to_768",
+            "source": "node_772",
+            "target": "node_768",
+            "type": "step"
+        },
+        {
+            "id": "e773_to_772",
+            "source": "node_773",
+            "target": "node_772",
+            "type": "step"
+        },
+        {
+            "id": "e777_to_664",
+            "source": "node_777",
+            "target": "node_664",
+            "type": "step"
+        },
+        {
+            "id": "e778_to_664",
+            "source": "node_778",
+            "target": "node_664",
+            "type": "step"
+        },
+        {
+            "id": "e782_to_662",
+            "source": "node_782",
+            "target": "node_662",
+            "type": "step"
+        },
+        {
+            "id": "e792_to_55",
+            "source": "node_792",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e793_to_80",
+            "source": "node_793",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e797_to_806",
+            "source": "node_797",
+            "target": "node_806",
+            "type": "step"
+        },
+        {
+            "id": "e800_to_796",
+            "source": "node_800",
+            "target": "node_796",
+            "type": "step"
+        },
+        {
+            "id": "e805_to_809",
+            "source": "node_805",
+            "target": "node_809",
+            "type": "step"
+        },
+        {
+            "id": "e806_to_813",
+            "source": "node_806",
+            "target": "node_813",
+            "type": "step"
+        },
+        {
+            "id": "e810_to_815",
+            "source": "node_810",
+            "target": "node_815",
+            "type": "step"
+        },
+        {
+            "id": "e811_to_822",
+            "source": "node_811",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e812_to_822",
+            "source": "node_812",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e818_to_816",
+            "source": "node_818",
+            "target": "node_816",
+            "type": "step"
+        },
+        {
+            "id": "e821_to_855",
+            "source": "node_821",
+            "target": "node_855",
+            "type": "step"
+        },
+        {
+            "id": "e822_to_853",
+            "source": "node_822",
+            "target": "node_853",
+            "type": "step"
+        },
+        {
+            "id": "e825_to_829",
+            "source": "node_825",
+            "target": "node_829",
+            "type": "step"
+        },
+        {
+            "id": "e826_to_830",
+            "source": "node_826",
+            "target": "node_830",
+            "type": "step"
+        },
+        {
+            "id": "e827_to_831",
+            "source": "node_827",
+            "target": "node_831",
+            "type": "step"
+        },
+        {
+            "id": "e828_to_833",
+            "source": "node_828",
+            "target": "node_833",
+            "type": "step"
+        },
+        {
+            "id": "e829_to_866",
+            "source": "node_829",
+            "target": "node_866",
+            "type": "step"
+        },
+        {
+            "id": "e830_to_854",
+            "source": "node_830",
+            "target": "node_854",
+            "type": "step"
+        },
+        {
+            "id": "e833_to_832",
+            "source": "node_833",
+            "target": "node_832",
+            "type": "step"
+        },
+        {
+            "id": "e837_to_839",
+            "source": "node_837",
+            "target": "node_839",
+            "type": "step"
+        },
+        {
+            "id": "e841_to_844",
+            "source": "node_841",
+            "target": "node_844",
+            "type": "step"
+        },
+        {
+            "id": "e843_to_834",
+            "source": "node_843",
+            "target": "node_834",
+            "type": "step"
+        },
+        {
+            "id": "e844_to_842",
+            "source": "node_844",
+            "target": "node_842",
+            "type": "step"
+        },
+        {
+            "id": "e852_to_845",
+            "source": "node_852",
+            "target": "node_845",
+            "type": "step"
+        },
+        {
+            "id": "e853_to_157",
+            "source": "node_853",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e858_to_863",
+            "source": "node_858",
+            "target": "node_863",
+            "type": "step"
+        },
+        {
+            "id": "e861_to_825",
+            "source": "node_861",
+            "target": "node_825",
+            "type": "step"
+        },
+        {
+            "id": "e862_to_161",
+            "source": "node_862",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e865_to_829",
+            "source": "node_865",
+            "target": "node_829",
+            "type": "step"
+        },
+        {
+            "id": "e866_to_832",
+            "source": "node_866",
+            "target": "node_832",
+            "type": "step"
+        }
+    ]
+}

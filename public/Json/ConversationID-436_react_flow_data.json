@@ -1,0 +1,397 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIn a few seconds, the convoy came to a graceful stop in front of the steps of the House. Titus held the door for me as I stepped out."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI stepped onto my the podium as the applause echoed around me, the faces of the delegates alight with the promise of the future."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen the hall fell silent, I took a deep breath."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My fellow citizens...\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Great people of Rizia...\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI signed the ridiculously large papers."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This delegation of legislative control -- this DLC -- has been a long time coming. I hope it lives up to all of your expectations.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Today, we entrust our future to the hands of those elected to represent Rizia. It's a bold step, but one I believe is right.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"When did you decide on that, Your Majesty?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We are about to enter the hall, Manus. Please keep your act down.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI stood there for a whole minute as the delegates applauded vigorously."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It is with a heart full of hope and a mind conscious of the demands of the democratic movement that I address you on this momentous occasion.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hereby announce that the new constitution was signed and is currently in place.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAmong massive applause, I grabbed the silk sash."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I appoint Daria de Rava as the Head of Government.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA murmur of disapproval rippled through the chamber as he made his way to the podium."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDaria rose from her seat among the delegates, her expression one of confidence."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"God bless Rizia, and long live the Kingdom.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Glovurius axa Rizia!\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI put the sash and the pin on him."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Thank you, Your Majesty.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnother round of applause broke out -- this time for much longer."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Daria de Rava\n\n\"What you're doing is nepotism. Pure and simple.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_380",
+            "source": "node_2",
+            "target": "node_380",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_176",
+            "source": "node_4",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_72",
+            "source": "node_5",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_69",
+            "source": "node_8",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_69",
+            "source": "node_9",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_184",
+            "source": "node_24",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_192",
+            "source": "node_25",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_190",
+            "source": "node_26",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_180",
+            "source": "node_54",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_68",
+            "source": "node_59",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_6",
+            "source": "node_71",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_6",
+            "source": "node_72",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_142",
+            "source": "node_113",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_142",
+            "source": "node_114",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_163",
+            "source": "node_121",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_164",
+            "source": "node_122",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_178",
+            "source": "node_134",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_115",
+            "source": "node_143",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_115",
+            "source": "node_145",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_115",
+            "source": "node_146",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_188",
+            "source": "node_149",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_189",
+            "source": "node_150",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_66",
+            "source": "node_182",
+            "target": "node_66",
+            "type": "step"
+        }
+    ]
+}

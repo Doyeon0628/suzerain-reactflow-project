@@ -1,0 +1,873 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe moment was punctuated by the arrival of a member of the Golden Guard. His armor gleamed under the room's warm lights."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Those with the true courage to face the tempest of uncertainty and survive will echo throughout history.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I will lead our kingdom to battle with an iron fist, and our triumph will echo as a testament to Rizia's unbreakable will.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I will steer our kingdom through this storm to the best of my ability and remembered victor.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Your compassion will be your strength, Romus.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"You alone share this burden.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"It's the heart, not just the sword, that leads a nation to greatness.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"I hope you can give them what I lacked.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Faith can sometimes misguide us.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"History is unfolding; we must be ready. We are not safe from the consequences.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Nothing is safe during turmoil, don't lose your footing my son.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"I hope we don't repeat history once more.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Compassion is noble but must not overshadow the need for decisive action in times of war.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"The Golden Guard stands vigilant, ensuring the palace and its surroundings remain secure.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Your path was yours alone. Mine will be marked by the decisions I make now.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Prayer offers solace, Vina, but in the face of war with Pales, it is action that must prevail.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Calmness is a virtue in the face of conflict with Pales.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"While I bear the crown to this struggle, the wisdom of my family and council will always be valued.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We need to defend our kingdom's sovereignty and future.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Faith guides us, but in confronting Pales, our faith will only grow stronger.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We face Pales informed by our past, ready to write a new chapter in Rizia's history.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I will protect our family. No harm shall befall any of the Toras family.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We aren't bound by our past as we confront Pales. We forge a new path for Rizia.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Strength in facing Pales is necessary, but it will be a shield, not a weapon of oppression.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Against Pales, we will show our might, but it will be to protect our people.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Our history with Pales is a guide. We'll use it to avoid repeating old errors.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Our passionate spirit and unchallenged unity will be our greatest strength.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The speech will set a tone of controlled strength.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We confront Pales with an understanding of our past war, ensuring we don't fall into old pitfalls.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In facing Pales, we chart a new, mindful course.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"The air is tense, reminiscent of the days before battle, yet there's an undeniable resolve among our people.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Unlike the last conflict, we should strive for solutions that bring the least harm in this war.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We'll aim to pacify Pales, but not at the expense of our humanity. It's a delicate balance.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Our goal is peace, but we must be ready for resistance. I'll make decisions with a clear focus on our national interests.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Peace might seem distant, Vina, but our unity and preparation are key to navigating these treacherous waters.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We mustn't lose hope in peace. Our path must be one of cautious optimism.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Peace is a fragile thing, Romus. Your words will reflect in people's souls.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're right, Mother. This speech is a call to unity, a reminder that we are stronger together.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Indeed, unity has always been our fortress and discord our nightmare.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"All is prepared. Would you like any of us to be by your side with you on the balcony?\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Then together we shall present a united front to the world. Rizia's strength lies in its family.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"The Golden Guard has been deployed with its entire division, ensuring the city center is a safe zone.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Mother and uncle, I need you by my side during this pivotal moment.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"I shall stand beside you. Together, we shall face whatever comes with resolve and dignity.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Give them a reason to fight. A passion to follow..\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Darkness goes hand in hand with war. Don't lose yourself in it, my son.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Peace is never distant, no matter how far it seems. We achieved it in the past, we will achieve it again.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Horrible things await a weak Rizia. Don't ever let it come to that and mobilize the people.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Estela Toras\n\n\"Truth and humanity are often lost in first contact during war, Romus.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"The Queen-Mother's presence will indeed send a powerful message of resilience.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"If it must be so, Father. I will stand with you, for Rizia.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_498",
+            "source": "node_2",
+            "target": "node_498",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_124",
+            "source": "node_3",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_30",
+            "source": "node_7",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_45",
+            "source": "node_8",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_63",
+            "source": "node_13",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_73",
+            "source": "node_20",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_67",
+            "source": "node_24",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_67",
+            "source": "node_28",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_67",
+            "source": "node_39",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_67",
+            "source": "node_51",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_78",
+            "source": "node_53",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_79",
+            "source": "node_61",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_80",
+            "source": "node_62",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_158",
+            "source": "node_67",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_67",
+            "source": "node_71",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_90",
+            "source": "node_75",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_98",
+            "source": "node_78",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_99",
+            "source": "node_80",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_67",
+            "source": "node_85",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_67",
+            "source": "node_89",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_67",
+            "source": "node_93",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_67",
+            "source": "node_94",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_67",
+            "source": "node_95",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_67",
+            "source": "node_96",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_67",
+            "source": "node_97",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_67",
+            "source": "node_98",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_67",
+            "source": "node_100",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_67",
+            "source": "node_101",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_67",
+            "source": "node_102",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_67",
+            "source": "node_103",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_67",
+            "source": "node_104",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_127",
+            "source": "node_118",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_138",
+            "source": "node_124",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_3",
+            "source": "node_128",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_165",
+            "source": "node_129",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_164",
+            "source": "node_130",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_163",
+            "source": "node_132",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_3",
+            "source": "node_133",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_162",
+            "source": "node_136",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_3",
+            "source": "node_137",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_175",
+            "source": "node_150",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_172",
+            "source": "node_153",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_105",
+            "source": "node_154",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_174",
+            "source": "node_156",
+            "target": "node_174",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_3",
+            "source": "node_161",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_3",
+            "source": "node_162",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_3",
+            "source": "node_163",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_3",
+            "source": "node_164",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_3",
+            "source": "node_165",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_189",
+            "source": "node_171",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_187",
+            "source": "node_191",
+            "target": "node_187",
+            "type": "step"
+        }
+    ]
+}

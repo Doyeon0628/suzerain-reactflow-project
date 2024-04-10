@@ -1,0 +1,703 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe angelic-sounding voices of a boy's choir echoed through the Great Hall of Palas Rezna."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI remembered playing hide-and-seek among the mosaic-tiled columns while visiting my grandmother. Goofing off with Pabel in the upper gallery as my father met with foreign dignitaries."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"How are you feeling, Father?\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Shh. Stop fidgeting. The cameras are on us.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Honestly? A little nervous.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe final notes of the coronation hymn \"By His Sword I Live\" rang out. An expectant silence filled the hall."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI caught my mother's eye. She gave me a conspiratorial wink."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Coronation Hub\n\nCoronation Hub"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI held up my hand for silence. The choir stopped singing. Confused whispers ran through the crowd."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI hoped my limp wasn't visible to television viewers. I thought about the kidnapper's bullet and how close I had come to never seeing this day."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe reached the end of the hall, where a spiral staircase led to the palace balcony."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Come, Vina, let's greet your future subjects.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I know this is highly unusual, but we are living in unusual times.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Ladies and gentlemen of Rizia...\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nUncle Hugo had been smiling proudly up to this point. His expression now grew serious."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Only by achieving harmony with our neighbors can a new era begin.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Only once Rizia is united under a strong king can a new era begin.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"A new era begins now.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thank you all.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe attendees hurriedly broke into enthusiastic applause. The choir restarted the national anthem."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy daughter beamed and put her arm through mine. We walked up and up the stairs until we came to a door."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLeaving Vina behind, I walked up and up the stairs until I came to a door."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI stepped out onto the balcony. The sunlight was so dazzling I was almost blinded."
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We must stop letting our past grudges dictate our future.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI leaned forward in the Sila Orica, the gold-plated wooden throne on which all monarchs of Rizia were coronated."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"May St. Wruhec fill you with his holy spirit on this day, as he did your ancestors before you.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"May you keep the promises you have made before God and your people.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"By the divine power vested in me, I proclaim you sovereign king of Rizia.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Arise, King Romus.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Only when the people of Rizia are given a voice can a new era begin.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Vina Toras\n\n\"Don't worry, Father.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy daughter smiled."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy daughter smiled."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy daughter seemed to shrink in her chair."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe ceremonial robes I was wearing chafed against the scar on my shoulder. I thought about the kidnapper's bullet and how close I had come to never seeing this day."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was made of pure gold, adorned with two twisting spires resembling bull's horns."
+            },
+            "position": {
+                "x": 5670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was inlaid with a trio of diamonds, representing the three royal houses of Rizia: Toras, Azaro and Sazon."
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGlory to Rizia. His shout reverberated throughout the hall."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Coronation End\n\nCoronation End"
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI passed my cousin Rico in the second row. He looked up at me and smiled."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs we kept walking, I recognized various other members of Rizia's three royal houses as well as monarchs from distant kingdoms."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_173",
+            "source": "node_1",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_105",
+            "source": "node_4",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_122",
+            "source": "node_14",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_125",
+            "source": "node_16",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_123",
+            "source": "node_17",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_120",
+            "source": "node_18",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_171",
+            "source": "node_23",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_170",
+            "source": "node_25",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_95",
+            "source": "node_48",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_174",
+            "source": "node_49",
+            "target": "node_174",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_183",
+            "source": "node_50",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_80",
+            "source": "node_52",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_189",
+            "source": "node_53",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_97",
+            "source": "node_54",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_97",
+            "source": "node_55",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_114",
+            "source": "node_68",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_115",
+            "source": "node_69",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_116",
+            "source": "node_70",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_175",
+            "source": "node_71",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_179",
+            "source": "node_76",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_166",
+            "source": "node_78",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_169",
+            "source": "node_79",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_134",
+            "source": "node_80",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_136",
+            "source": "node_85",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_66",
+            "source": "node_86",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_32",
+            "source": "node_89",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_32",
+            "source": "node_92",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_47",
+            "source": "node_93",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_180",
+            "source": "node_95",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_175",
+            "source": "node_116",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_175",
+            "source": "node_118",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_165",
+            "source": "node_119",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_19",
+            "source": "node_121",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_19",
+            "source": "node_124",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_37",
+            "source": "node_129",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_81",
+            "source": "node_169",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_91",
+            "source": "node_170",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_75",
+            "source": "node_178",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_77",
+            "source": "node_179",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_166",
+            "source": "node_181",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_51",
+            "source": "node_187",
+            "target": "node_51",
+            "type": "step"
+        }
+    ]
+}

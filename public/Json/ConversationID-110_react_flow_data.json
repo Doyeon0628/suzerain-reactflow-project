@@ -1,0 +1,737 @@
+{
+    "nodes": [
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Tell me, Mr. President. What are your real intentions?\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I know that I can't do a lot. But I'm doing my best to start the change.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I only want a strong Sordland.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We need a better democracy. That's all I'm striving for.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"But what happens when they have no checks on them?\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"So is that your intention after all? Bringing parliamentary democracy to Sordland?\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"You are giving the Assembly all the authority with this proposal with no checks and balances.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"That's not really convincing, is it?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We must eventually transform into the parliamentary system.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"The Constitution must be respected.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I don't see how this proposal democratizes anything.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The MP's are elected. If they have a majority, then we must respect that decision.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"For some reason, I doubt that.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I think that era is closing. We have many popular parties now.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"...But let's say this proposal goes through...\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Starting a change by eliminating the Justices whenever you want? Is this the change?\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There are still checks and balances.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Strong? You are weakening both the executive and the judiciary.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I don't see any in this proposal.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I don't see how this proposal helps with that.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Maybe you are right about that. But I still don't think if this proposal would help with that.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Not my intention. But if there is demand, we must consider it.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"But this will also result in the same, Mr. President. What happens if a party holds an absolute majority in the Assembly?\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I am sure this is what takes up everybody's mind.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I guess it's a fitting description.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Interesting. But I am not sure if this proposal would help with that.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Is that what you call it?\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Of course it's not your intention.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"How? This is an attack against the Court...\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yes. We must eventually decrease the threshold.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I see.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Is that one of your intentions then?\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Why did you include that in the proposal, knowing that you need our vote?\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"What a convincing answer, Mr. President.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"The proposal doesn't contain any democratic reforms about the elections, decrees nor the minister procedures.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't think this is the right time for such reform. It can create a political crisis.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That can be addressed later.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sometimes that's the sad reality. I need to care for myself and the party too.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Well, that's true to some extent. Don't get me wrong, I am not against the current threshold.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's not my intention but my hope for the future.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"I don't agree with this.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I've had to take my chances. We need it to clean up the Old Guard.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Isabel Edmonds\n\n\"Oh yes. People wanted to make you king.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e5_to_114",
+            "source": "node_5",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_59",
+            "source": "node_7",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_38",
+            "source": "node_8",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_51",
+            "source": "node_9",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_71",
+            "source": "node_14",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_34",
+            "source": "node_23",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_106",
+            "source": "node_24",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_107",
+            "source": "node_25",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_42",
+            "source": "node_26",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_86",
+            "source": "node_28",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_42",
+            "source": "node_29",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_29",
+            "source": "node_34",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_23",
+            "source": "node_35",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_82",
+            "source": "node_36",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_26",
+            "source": "node_41",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_96",
+            "source": "node_46",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_92",
+            "source": "node_47",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_42",
+            "source": "node_54",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_16",
+            "source": "node_55",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_67",
+            "source": "node_56",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_3",
+            "source": "node_61",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_42",
+            "source": "node_67",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_79",
+            "source": "node_68",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_35",
+            "source": "node_69",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_76",
+            "source": "node_70",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_118",
+            "source": "node_72",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_66",
+            "source": "node_74",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_42",
+            "source": "node_78",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_24",
+            "source": "node_84",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_42",
+            "source": "node_87",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_62",
+            "source": "node_89",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_42",
+            "source": "node_90",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_68",
+            "source": "node_91",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_83",
+            "source": "node_93",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_62",
+            "source": "node_95",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_42",
+            "source": "node_98",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_58",
+            "source": "node_100",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_42",
+            "source": "node_102",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_64",
+            "source": "node_103",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_15",
+            "source": "node_105",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_73",
+            "source": "node_106",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_84",
+            "source": "node_107",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_72",
+            "source": "node_116",
+            "target": "node_72",
+            "type": "step"
+        }
+    ]
+}

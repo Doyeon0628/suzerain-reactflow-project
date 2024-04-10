@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI returned to Holsord with good news."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e70_to_65",
+            "source": "node_70",
+            "target": "node_65",
+            "type": "step"
+        }
+    ]
+}

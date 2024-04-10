@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey read the decree and discussed it amongst themselves."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter I made the final changes to the decree, I showed it to them."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I agree with declaring the Young Sords as a threat, especially after the shooting. However, I think we might bring the nationalists wrath upon ourselves.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I agree. Anyone who have any connections to them should be investigated.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Going against United Contana and banning the Red Youth will definitely make us an enemy of the Contanan Security Pact.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n\"What's important here is that we're taking the steps to fight against the communists.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"We can't take this lightly.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"But we're also acting against Arcasia, Mr. President. We'll need them against the Eastern powers.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n\"As much as I despise Arcasia and have a reason to believe that they're behind all this mess...\""
+            },
+            "position": {
+                "x": 0,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n\"With the order of this decree, we would be able to detain anybody who is suspected for a crime.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n\"Whatever you say, Mr. President.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n\"That's precisely who we are against, Mr. Galade.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n\"I'll be in touch, Mr. President.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you for all the hard work.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n\"Of course, Mr. President. We are working together in this.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_42",
+            "source": "node_2",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_6",
+            "source": "node_3",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_23",
+            "source": "node_16",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_17",
+            "source": "node_20",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_46",
+            "source": "node_34",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_37",
+            "source": "node_35",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_35",
+            "source": "node_36",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_43",
+            "source": "node_40",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_52",
+            "source": "node_42",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_56",
+            "source": "node_48",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_61",
+            "source": "node_58",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_62",
+            "source": "node_67",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_88",
+            "source": "node_72",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_72",
+            "source": "node_76",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_72",
+            "source": "node_79",
+            "target": "node_72",
+            "type": "step"
+        }
+    ]
+}

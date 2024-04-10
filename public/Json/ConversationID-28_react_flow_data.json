@@ -1,0 +1,2879 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Such a spectacular view.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhile I was mesmerised by the scenery, Paskal Beniwoll walked up to me."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Hopelessness and a lack of opportunities can drive people to extreme solutions. We're seeing increased crime, domestic violence, and yes, rising inequality between men and women...\""
+            },
+            "position": {
+                "x": 0,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“There is another subject I want to mention. I have been working on improving the rights of workers in our country and have proposed a draft bill that is currently being reviewed by our party.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe headed back inside."
+            },
+            "position": {
+                "x": 9720,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Tell me more about your plans, Ciara.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Healthcare Hub\n\nHealthcare Hub"
+            },
+            "position": {
+                "x": 22140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Education Hub\n\nEducation Hub"
+            },
+            "position": {
+                "x": 1080,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How many doctors and nurses are employed?”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How many hospital beds are there per ten thousand citizens?”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What's the life expectancy and mortality rates?”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Tell me about the difference between urban and rural education.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What is the literacy rate of Sordland?”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How many students and teachers do we have?”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“We have 31.594 doctors and 73.680 nurses working for the Ministry of Health. This is a high number. What I think is-”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“There are ten beds per ten thousand citizens which is a very good number according to our comparisons with other neighbours.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Our life expectancy is sixty-five years and the infant mortality rate is a worrying 121 per one thousand births while our maternal mortality is at 5 per thousand.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“The literacy rate of Sordland is at eighty percent. This is a very good indicator for future growth, but it needs to increase. It's also far lower among girls than boys.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Urban areas have three times the number of schools per ten thousand people compared to rural areas. Rural areas also suffer from a lack of teachers.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“I am doing my best to ensure that citizens of all ages receive the best healthcare they can. I also personally want to solve the high infant and maternal mortality problem.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I don't want to be rude but out of those numbers how many are in urban and in rural areas?”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“The data shows that per ten thousand people in urban areas there are about eleven doctors while in rural areas there are only three.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I want to hear about the healthcare system.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“We see a lower number in the countries of Agnolia and Wehlen but obviously can't match Lespia or Valgsland.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Be assured that we are doing everything we can to save mothers and their new-born.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara stood up and moved towards the window. She took a deep breath."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“My highest priority is to get enough funding to be able to build schools in rural areas while I cleanse our educational system of its nationalistic indoctrination and sexist teachings.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Sordland is full of young and bright minds.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We should keep striving to make education available for all.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It indeed is, full of potential.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“If I remember correctly, the most illiterate areas are Bergia and Agnland.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“That is correct. Although, Lachaven skews the statistics for the Nargis region, which also has a vast number of illiterate citizens. This underlines my point about the lack of access to education.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I can imagine teachers not preferring desolate areas for work.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“That's not a very good ratio. The situation is worse than expected.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I want to hear about the education system.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What is it, Ciara?”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“That remains to be seen. I'm working on the new education system, and your support would be welcome.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Really? I must agree to disagree then.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Did we cover all the necessary subjects?”"
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I do hope we won't repeat the same mistakes again and again. Have a good day, Mr. President.”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBy looking at the citizens’ attire, it was easy to understand the current state of Narbel. Some people were wearing clothes a few sizes too large. Some kids did not even have shoes. Yet there was hope in their eyes."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“My plans require an increase in the government budget. I aim to solve the problems we highlighted with the allocated money.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Improving the situation in rural areas is indeed a good idea.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Wouldn't a promotion of private education help create additional funds?”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What are you working towards, Paskal?”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“I can do more with an increased budget. Additionally, a privatization plan to promote private investments in the healthcare system could allocate extra funds.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Quality of healthcare in less fortunate areas matters more.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Exactly. It would directly diminish the depressingly high infant and maternal mortality situation. Besides the push would also have economic benefits.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Lileas Graf will take care of crime. She's an expert on the subject.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“If only we could stop the recession, create jobs and growth...”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“She is certainly a proven administrator. From what I heard she reduced crime in Arvory by 40% during her mayoral term.”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I don't think brute force will get us anywhere. Look at where the tight grip of Tarquin Soll got us.”"
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"That could prove useful, but we need to be doing a lot more. Education has similar issues.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“We can't fix the economy by ourselves. We have to educate the people and let them create new opportunities too.”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Agnolia and Wehlen are hardly countries to take as a standard but it is good to know we aren't in a huge health crisis, yet.”"
+            },
+            "position": {
+                "x": 9990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I think there needs to be a change in the way of thought. We should help children to question and educate themselves.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara sat back down and sighed."
+            },
+            "position": {
+                "x": 3510,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Tell me more about your plans, Ciara.”"
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“My expectation from our government is that we understand and focus on the needs of the people.”"
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“With pleasure.”"
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Sordland has a free healthcare system except for a few private hospitals operating under it. Most of the populace receives adequate treatment. Health issues primarily appear in rural areas due to a lack of quality services.”"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“As you wish, Mr. President.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“I do hope to create competition and increase the quality of healthcare with the privatization effort.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Salaries for teachers are very low here. We need to increase their pay to give them more incentive.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“So, I created draft plans to increase the salary of doctors and to upgrade the equipment of the hospitals.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I am glad we see eye to eye on the issue.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“If you look past the view, you can see the real problems.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Well put, Ms. Walda. I don't need to tell you about my own experiences with poverty. I'm sure you have similar stories, am I right, Mr. President?”"
+            },
+            "position": {
+                "x": 270,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thankfully, we never had any problems with money.”"
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“So, you could at least sympathize with the plight of these people.”"
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“You know the saying; you don't know what you have until it is taken from you.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It feels like the cards are stacked against you.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“True but some lives are more difficult than others. Like ours was, and still is for hundreds of thousands in Sordland.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_175",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We have all gone through difficult times.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“As I was saying -- isn't it about time Holsord addressed this country's real issues? Rather than bowing to the wishes of the hawks and fearmongerers in the establishment, and diverting yet more resources to the military and law enforcement?”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Sordland needs more schools full of children instead of barracks full of soldiers, more hospitals instead of police stations.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The capital must be prioritised towards the resources that matter the most.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Treatment time is still too high due to the low number of doctors in rural areas which get barely any proper coverage.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“One cannot be separated from the other, Mr. Rayne. The issues stem from the ideology.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let's not get in an ideological debate. We need to focus on the issues.”"
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Besides, I believe we have decided to promote a more planned economy.”"
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“The decision not to promote more state control would cost the people dearly.”"
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I don't want to sound cynical but almost all governments keep making the same promises. We must show we are different through our actions.”"
+            },
+            "position": {
+                "x": 14040,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It is the same play and the same book. The security complex in the country keeps driving the agenda as usual.”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_190",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We are elected representatives of our people and we will prioritise their needs.”"
+            },
+            "position": {
+                "x": 15390,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“There are other significant issues that we need to focus on, like security.”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“There have been a lot of negative developments lately.”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“It was a pleasure.”"
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Spectacular indeed. But if you look at the opposite direction, you will see what Soll's decades of neglect did to the city.”"
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI arrived at the meeting room for my talk with Ciara and Paskal. Before beginning, I took a moment to appreciate the view from the balcony. The mountains of Narbel were completely covered with snow."
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Whatever. I'd much rather be in Holsord right now.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Most of the people living in Narbel are workers, farmers and their wives and children. They're breaking their backs for close to no pay, all thanks to greedy corporations.”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It is important for the people.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Real problems like poverty.”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We can't really blame the companies. That's just how they work.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Yes we can. Similar companies are doing much better for their workers in United Contana and Arcasia.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs I made my way out, the weather was noticeably cold, but it didn’t keep a group of USP supporters from coming out to cheer us on the streets."
+            },
+            "position": {
+                "x": 270,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey were excited to see their president in their city."
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I personally promised that our health systems were to be improved in our term. I fully support you, Paskal.”"
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Welfare is my top priority. Both education and health will be improved significantly under this administration.”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“The people will rejoice if they see grand improvements in welfare. Our public opinion ratings will increase drastically.”"
+            },
+            "position": {
+                "x": 17010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“It's getting a little cold out here, let's head inside and continue our discussions.”"
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I agree. We need to improve the standards for our workers.”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“There is always room for improvement and it is good to hear that you are pushing for it.”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It also is a matter of life and death. Every decade we hear of some horrific accident due to employers' disregard for their workers' safety.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Exactly. Sordland must provide for its own people to move forward.”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Appreciate the kind words, Mr. President. I will not let you down.”"
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_232",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Why would you turn away from the pro-labor cause when you yourself supported the Red Youth during your university years?”"
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“This wouldn't alter the balance of operational companies drastically. It would just punish them if they are treating their workers unfairly.”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It has shown your dedication, but there are many years ahead of us. This is just the beginning of the journey.”"
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Minister Walda, I have bailed out people in need instead of businesses. Trust me, my priorities are correct.”"
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“So, would you back the bill when it arrives on your desk, Mr. President?”"
+            },
+            "position": {
+                "x": 18900,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I would be very interested in supporting it once it is finished.”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“I'm relieved to hear this.”"
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“To make a decision I would need to evaluate the contents in detail.”"
+            },
+            "position": {
+                "x": 19440,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“It is obvious that the military has been overfunded for a long time. Perhaps it is time to change this trend.”"
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_249",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“It is obvious that the military has been overfunded for a long time and you have promised to change this trend.”"
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_253",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Sounds like a costly bill for such a low-priority issue.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am not necessarily opposed to it. I'm skeptical.”"
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_256",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Times have changed.”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_257",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“This is worth considering, Mr. President.”"
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_258",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“One would hope ideals haven't changed as drastically.”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“We shouldn't miss opportunities like this.”"
+            },
+            "position": {
+                "x": 20790,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Maybe by that time you will have changed your mind on this.”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_261",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I don't think this is the time for such a change, we have bigger issues.”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_262",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe sighed."
+            },
+            "position": {
+                "x": 18630,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_263",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled."
+            },
+            "position": {
+                "x": 18630,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPaskal nodded gravely. This was a subject he knew quite a bit about himself. His best-known books were about the plight of Sordland's less fortunate, drawing from his own past growing up in squalor."
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_282",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy Minister of Health was, ironically, somewhat portly, having gained a few pounds since his breakthrough as a best-selling writer. But his authority on social affairs could not be questioned."
+            },
+            "position": {
+                "x": 270,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Briefing Done\n\nBriefing Done"
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_292",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I believe that is everything.”"
+            },
+            "position": {
+                "x": 21870,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_293",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I believe that is everything.”"
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you, Paskal. Your in-depth briefing is much appreciated.”"
+            },
+            "position": {
+                "x": 21330,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_295",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you, Ciara. I can fill in the blanks from here.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_296",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“Parity among the sexes shouldn't be our first priority. Look at how many high-ranking female politicians our country has.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Think about how Lileas Graf got to her current position. I don't necessarily believe the rumors about her and Soll, but she never could have risen so high if she didn't parrot his cause.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_300",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Gloria Tory -- is it an accident that the first female Assembly speaker is such a staunch conservative?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Meanwhile, those of us who don't use our clout to help powerful men stay in power are denigrated as angry spinsters... I ask you, Mr. President, does anyone care that your strategist Mr. Galade doesn't have a wife?\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I've been wondering about that, actually.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_305",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Leave Lucian out of this.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_306",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You've veered off-topic, Ms. Walda.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_307",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I agree with you completely. Sordland's women deserve better.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_308",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Mr. Beniwoll asked. I answered.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_309",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"All right, Ciara. You've made your point.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_310",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I'm glad to hear that.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Nevertheless, it's worth acknowledging that the corporation contributes substantially to job creation in regions struggling with poverty. Persuading the chairman to make concessions might prove to be a formidable task.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I wish to raise my concerns about your scheduled meeting with the Gasom chairman and former President, Mr. Alphonso.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"While I don't intend to overstep, I can't refrain from commenting on the labor predicaments experienced by workers in Gasom positions.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our imperative is to directly address capital owners in order to champion the welfare of Sordish workers.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Engaging with Alphonso can indeed be challenging, yet we should be prepared to listen to their concerns, even in the most adverse scenarios.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I delved extensively into this topic in one of my books. Confrontation, if not handled prudently, could potentially exacerbate the challenges faced by workers.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Adopting a diplomatic and attentive approach while seeking viable solutions could yield the most favorable outcomes.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Such an accomplishment would undoubtedly receive public acclaim, transcending political affiliations.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_322",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“The matter regarding laborers is close to my heart. I would personally be grateful if you would be able to resolve the concerns raised by Katarina Horten and other laborers.”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 2000
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"In this world, nothing is truly free. I wouldn't anticipate anything less.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Gasom relies on us just as we rely on them. Finding a balanced approach is essential.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Corporations have profited from the labor of workers for far too long. It's time for them to give back.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“We must be cautious about these seemingly generous offers. Beneath the surface, they usually come with hidden costs that further tip the scales in favor of the privileged few.”"
+            },
+            "position": {
+                "x": 24300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_329",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“The laborers deserve their fair share, and it's high time these corporations are held accountable. We shouldn't settle for anything less than a complete overhaul of the exploitative structures they've built.”"
+            },
+            "position": {
+                "x": 24840,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_330",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Despite the potential divergence in interests, the door for dialogue among differing sides should always remain open.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_331",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"It's important that ideology doesn't obscure our capacity to bring about tangible, effective transformation.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_332",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"There are significant considerations regarding the Narbel workforce and the broader community of Gasom blue-collar employees. This could be a strategic juncture to secure a triumph for the labor force.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"My foremost priorities lie in rectifying the economy, a pivotal task. Once that is achieved, upward mobility will naturally follow suit.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_335",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Considering our need for greater energy security, collaboration opportunities might arise.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Energy security is vital, indeed, but we mustn't forget the strings attached to such collaborations. Often, these arrangements disproportionately favor the corporations while placing the burden on the common people.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_337",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n“We shall keep you no longer. Thank you both for the discussions.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm encouraged by the willingness of Mr. Manger and Mr. Alphonso to engage in dialogue. It's a step forward.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Balancing different viewpoints is never easy, but it's crucial for finding common ground.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_341",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I've never given up in the face of adversity, especially when dealing with those who cling to power.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_199",
+            "source": "node_1",
+            "target": "node_199",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_198",
+            "source": "node_4",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_283",
+            "source": "node_5",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_180",
+            "source": "node_6",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_227",
+            "source": "node_7",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_149",
+            "source": "node_10",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_284",
+            "source": "node_13",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_58",
+            "source": "node_14",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_55",
+            "source": "node_15",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_40",
+            "source": "node_16",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_41",
+            "source": "node_17",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_18",
+            "source": "node_26",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_45",
+            "source": "node_28",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_29",
+            "source": "node_31",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_33",
+            "source": "node_38",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_47",
+            "source": "node_40",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_61",
+            "source": "node_41",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_73",
+            "source": "node_43",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_76",
+            "source": "node_44",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_80",
+            "source": "node_45",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_14",
+            "source": "node_46",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_181",
+            "source": "node_50",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_14",
+            "source": "node_53",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_295",
+            "source": "node_59",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_53",
+            "source": "node_62",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_53",
+            "source": "node_68",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_87",
+            "source": "node_69",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_71",
+            "source": "node_72",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_75",
+            "source": "node_73",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_128",
+            "source": "node_74",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_128",
+            "source": "node_75",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_77",
+            "source": "node_76",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_71",
+            "source": "node_78",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_152",
+            "source": "node_79",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_289",
+            "source": "node_83",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_146",
+            "source": "node_85",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_129",
+            "source": "node_95",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_129",
+            "source": "node_96",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_129",
+            "source": "node_97",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_315",
+            "source": "node_98",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_207",
+            "source": "node_100",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_274",
+            "source": "node_102",
+            "target": "node_274",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_108",
+            "source": "node_105",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_109",
+            "source": "node_108",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_139",
+            "source": "node_110",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_153",
+            "source": "node_112",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_116",
+            "source": "node_114",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_150",
+            "source": "node_116",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_150",
+            "source": "node_117",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_121",
+            "source": "node_119",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_125",
+            "source": "node_121",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_126",
+            "source": "node_123",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_7",
+            "source": "node_124",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_7",
+            "source": "node_125",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_7",
+            "source": "node_126",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_62",
+            "source": "node_127",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_72",
+            "source": "node_128",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_141",
+            "source": "node_130",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_103",
+            "source": "node_131",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_132",
+            "source": "node_144",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_70",
+            "source": "node_147",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_46",
+            "source": "node_148",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_148",
+            "source": "node_149",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_184",
+            "source": "node_151",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_82",
+            "source": "node_152",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_113",
+            "source": "node_153",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_176",
+            "source": "node_159",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_204",
+            "source": "node_160",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_170",
+            "source": "node_168",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_172",
+            "source": "node_169",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_297",
+            "source": "node_171",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_171",
+            "source": "node_173",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_173",
+            "source": "node_174",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e175_to_171",
+            "source": "node_175",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_175",
+            "source": "node_176",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_6",
+            "source": "node_178",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_251",
+            "source": "node_179",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_179",
+            "source": "node_180",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_52",
+            "source": "node_181",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_129",
+            "source": "node_182",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_188",
+            "source": "node_186",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_140",
+            "source": "node_187",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_140",
+            "source": "node_188",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_98",
+            "source": "node_189",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e190_to_98",
+            "source": "node_190",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_194",
+            "source": "node_191",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_189",
+            "source": "node_194",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_190",
+            "source": "node_195",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_98",
+            "source": "node_197",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_202",
+            "source": "node_198",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_5",
+            "source": "node_199",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_203",
+            "source": "node_201",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_205",
+            "source": "node_202",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_160",
+            "source": "node_203",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_282",
+            "source": "node_204",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_206",
+            "source": "node_205",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_160",
+            "source": "node_206",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_101",
+            "source": "node_207",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_312",
+            "source": "node_208",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_191",
+            "source": "node_221",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_98",
+            "source": "node_223",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_223",
+            "source": "node_224",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_8",
+            "source": "node_225",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_254",
+            "source": "node_227",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_234",
+            "source": "node_229",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_244",
+            "source": "node_230",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_230",
+            "source": "node_231",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e232_to_230",
+            "source": "node_232",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_256",
+            "source": "node_233",
+            "target": "node_256",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_243",
+            "source": "node_239",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_98",
+            "source": "node_242",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_241",
+            "source": "node_243",
+            "target": "node_241",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_262",
+            "source": "node_244",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_246",
+            "source": "node_245",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_264",
+            "source": "node_246",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_225",
+            "source": "node_248",
+            "target": "node_225",
+            "type": "step"
+        },
+        {
+            "id": "e249_to_7",
+            "source": "node_249",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e253_to_249",
+            "source": "node_253",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_235",
+            "source": "node_255",
+            "target": "node_235",
+            "type": "step"
+        },
+        {
+            "id": "e256_to_258",
+            "source": "node_256",
+            "target": "node_258",
+            "type": "step"
+        },
+        {
+            "id": "e257_to_259",
+            "source": "node_257",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e258_to_230",
+            "source": "node_258",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_230",
+            "source": "node_259",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_225",
+            "source": "node_260",
+            "target": "node_225",
+            "type": "step"
+        },
+        {
+            "id": "e261_to_263",
+            "source": "node_261",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e262_to_261",
+            "source": "node_262",
+            "target": "node_261",
+            "type": "step"
+        },
+        {
+            "id": "e263_to_260",
+            "source": "node_263",
+            "target": "node_260",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_313",
+            "source": "node_281",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e282_to_156",
+            "source": "node_282",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_294",
+            "source": "node_286",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e292_to_287",
+            "source": "node_292",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e293_to_292",
+            "source": "node_293",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_288",
+            "source": "node_294",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e295_to_83",
+            "source": "node_295",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e296_to_13",
+            "source": "node_296",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_300",
+            "source": "node_299",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e300_to_301",
+            "source": "node_300",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_304",
+            "source": "node_303",
+            "target": "node_304",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_308",
+            "source": "node_304",
+            "target": "node_308",
+            "type": "step"
+        },
+        {
+            "id": "e305_to_310",
+            "source": "node_305",
+            "target": "node_310",
+            "type": "step"
+        },
+        {
+            "id": "e306_to_310",
+            "source": "node_306",
+            "target": "node_310",
+            "type": "step"
+        },
+        {
+            "id": "e307_to_309",
+            "source": "node_307",
+            "target": "node_309",
+            "type": "step"
+        },
+        {
+            "id": "e308_to_311",
+            "source": "node_308",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e309_to_177",
+            "source": "node_309",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e310_to_177",
+            "source": "node_310",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_2",
+            "source": "node_313",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_319",
+            "source": "node_314",
+            "target": "node_319",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_333",
+            "source": "node_315",
+            "target": "node_333",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_314",
+            "source": "node_316",
+            "target": "node_314",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_320",
+            "source": "node_317",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_322",
+            "source": "node_319",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_323",
+            "source": "node_320",
+            "target": "node_323",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_323",
+            "source": "node_321",
+            "target": "node_323",
+            "type": "step"
+        },
+        {
+            "id": "e322_to_323",
+            "source": "node_322",
+            "target": "node_323",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_327",
+            "source": "node_324",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_328",
+            "source": "node_325",
+            "target": "node_328",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_329",
+            "source": "node_326",
+            "target": "node_329",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_330",
+            "source": "node_327",
+            "target": "node_330",
+            "type": "step"
+        },
+        {
+            "id": "e329_to_331",
+            "source": "node_329",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e330_to_331",
+            "source": "node_330",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e331_to_332",
+            "source": "node_331",
+            "target": "node_332",
+            "type": "step"
+        },
+        {
+            "id": "e332_to_340",
+            "source": "node_332",
+            "target": "node_340",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_316",
+            "source": "node_333",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e335_to_323",
+            "source": "node_335",
+            "target": "node_323",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_337",
+            "source": "node_336",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e337_to_331",
+            "source": "node_337",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_99",
+            "source": "node_338",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_338",
+            "source": "node_339",
+            "target": "node_338",
+            "type": "step"
+        },
+        {
+            "id": "e341_to_338",
+            "source": "node_341",
+            "target": "node_338",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "nodes": [
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe military helicopter gracefully landed on the helipad."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI fixed the collars of my military uniform. I felt comfortable in it. This whole trip reminded me of the good old days at Camp Domus."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Thank you for accepting my request, sire. Welcome to FOB Bull Charge.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter saluting, I shook hands with him. I leaned forward to his ear."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe turned around and saluted the soldiers."
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGeneral Azaro was looking at a table along with other high ranking officers, arguing loudly."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter the protocols, General Azaro approached."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe stopped in front of a soldier, at least 2 meter tall man with many scars in his face. He looked proud and boastful, towering over everyone else."
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe was taken aback. He looked at General Azaro and upon his confirmation with a nod, he got up and saluted me."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGeneral Azaro was surrounded by a few high ranking officers."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Your Majesty. General Azaro.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"General Azaro, please start.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe disgraced general started rolling his wheelchair out."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita got up and gestured at the other military staff present in the tent to leave."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita got up and gestured at the other military staff present in the tent to leave."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe disgraced general started rolling his wheelchair out."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e9_to_194",
+            "source": "node_9",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_193",
+            "source": "node_12",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_39",
+            "source": "node_20",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_68",
+            "source": "node_38",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_25",
+            "source": "node_39",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_192",
+            "source": "node_65",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_110",
+            "source": "node_66",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_31",
+            "source": "node_67",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_67",
+            "source": "node_75",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_119",
+            "source": "node_125",
+            "target": "node_119",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_196",
+            "source": "node_131",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_1",
+            "source": "node_135",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_224",
+            "source": "node_169",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_198",
+            "source": "node_173",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_197",
+            "source": "node_174",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_137",
+            "source": "node_183",
+            "target": "node_137",
+            "type": "step"
+        }
+    ]
+}

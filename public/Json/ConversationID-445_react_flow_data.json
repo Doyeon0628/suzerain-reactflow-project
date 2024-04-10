@@ -1,0 +1,125 @@
+{
+    "nodes": [
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm sorry, but I cannot condone any form of oppression against the Bludish people.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Alright, fine. If you're dead set on gas imports, I'll play along. But just know, we might end up taking a financial dip faster than a lead balloon -- or should I say lead *air ship*, given our present situation.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n\"There's the issue of Bludish migrants  still being allowed to cross your border.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs the sun hung low in the sky, casting long shadows over the empty streets of Wraclawitz, our motorcade wound its way through the heart of Wehlen toward the presidential palace."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n“Titus, what's the meaning of this? Why aren't we heading to the palace as planned?”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n“Well, this is unexpected.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Wiktor Smolak (R)\n\n“But come, let us take our leave so we can talk somewhere more comfortably.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e7_to_19",
+            "source": "node_7",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_7",
+            "source": "node_15",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_33",
+            "source": "node_53",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_484",
+            "source": "node_72",
+            "target": "node_484",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_106",
+            "source": "node_77",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_105",
+            "source": "node_87",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_119",
+            "source": "node_133",
+            "target": "node_119",
+            "type": "step"
+        }
+    ]
+}

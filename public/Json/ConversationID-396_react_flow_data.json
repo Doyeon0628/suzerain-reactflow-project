@@ -1,0 +1,1179 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was late in the evening as I made my way downstairs to discuss our reform plans."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have no problems with that.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"After all, a constitutional monarch does not rule, Your Majesty, but they reign.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I disagree. Even with an empowered parliament, the monarch should retain substantial powers over the government.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I know we had this conversation. But I remain convinced that Rizia will not accept such a drastic change. Maybe someday.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"The constitution has to balance the power structure fairly so that no branch has complete authority over the other. That includes the monarch.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"We can discuss the exact details later.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI'd learned about this place from my father as a kid. It was a space that gave him the isolation he needed at times."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Your Majesty, this is a bold step. I cannot overemphasize how much I respect what you're trying to do.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I see your point. You might be right.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I think we can make it work, Your Majesty. The RPP can write a draft that we can all agree to.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Many officers of the law, as well as military personnel, are sympathetic -- if not outright loyal -- to Azaro family.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I can't know for sure. General Taddeus is in charge of the forces and I'm sure he's keeping his own forces safe and sound.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We are winning the war, Manus. If we can't do it before the war is over, they will have both the means and their reputation as heroes to contest us.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't think they are a threat. They can't simply go against both the will of the people and the monarch at the same time and expect to come out on top.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"With Lucita in prison, their ability to organize is weaker than before. But we have to be careful about her father.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I've already done a lot on that front. Azaros are not in charge of the security forces anymore.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"If you can get her to support us -- then we'd be clear on that front.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Yes, but they still hold significant sway in Montaklar and beyond. But you might be right about their threat being minimal.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Thank you, Your Majesty. But this will not stop their military faction.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I agree.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Hm. Perhaps we can.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Interesting news...\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I hope you are right.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I see...\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"However, you also need to let of your plans of centralization. I doubt the Azaros will be open to have a dialogue if the constitution takes their regional power away.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"But even if that front is covered...\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Don't worry about the Toras family. They are not going to be a problem.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I don't know about that... But I want to trust you, Your Majesty.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"There are also the demands of the Wruhecist community who are backing the movement. You have to give something that makes them happy as well.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"And finally... There is the whole task of uniting the House behind the constitution. But fortunately, I've got that covered.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\nI WILL REVERT THE ROYAL DECREE"
+            },
+            "position": {
+                "x": 14580,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe turned a page on his notebook and looked at me."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Uniting the house behind this power transition is essential.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Who will I appoint as head of government until we can hold an election?\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_235",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I think you have way too many concerns, Manus. You should relax. I will take drastic actions, if need be. Any means are to be considered for democracy.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"She is there to represent and protect the rights of the nobility. How do you plan to get her to our side?\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My intention is to already establish a bicameral legislative with an upper house comprised of the nobility. And I don't intend to abolish the regional structure. Do you think she'll still be against it?\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I agree. I wouldn't trust her with that responsibility.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_275",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Are we going to work on centralizing the system and abolishing the regional structure?\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"How about the legislative? You mentioned establishing an upper house. How would that be structured?\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"And how would the upper house be structured?\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_306",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Maybe it's not the best idea. We will keep the House of Delegates as the sole legislative body.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"And the judiciary?\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We will give the justices immunity so that they cannot be threatened by powerful interests or the acting executive.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I will reach out to you when it's time to act. You should not rock the boat until everything is finished and organized.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_332",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled and we shook hands."
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter going down the creaking stairs, we arrived in a cold, gloomy room with stone walls. There was a single table and a couple of chairs in the middle."
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_334",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thank you, Manus.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_335",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We're here to discuss how we're doing this. You don't need to butter me up.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I wasn't trying.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs we left the space, I thought about what I just got myself into."
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_341",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I will see what I can do.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_343",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"I see.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_353",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, it does. But I still trust Hugo.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_358",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"So, Your Majesty...\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_366",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"We'll need a clear approach and a solid plan.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_378",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Now that my mother is back in the mainland, House Sazon should also be a part of this equation. She still holds enormous sway.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_382",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Now that my mother is back in the mainland, House Sazon should also be a part of this equation. She still holds enormous sway.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_387",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We must lay low and try to mitigate a crisis by controlling the narrative and intercepting the threats before they can happen. We will watch them closely and organize our security as we declare the constitution with the parliament and the Rizian people.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"That is best approach.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_402",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"It's up to you who to involve in the discussions.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_406",
+            "type": "customNode",
+            "data": {
+                "label": "Manus Sazon\n\n\"Now that we're going to be transparent about this, it is important to gather as much support as possible behind the movement in the meantime.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_420",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Good job. I hope everything works according to plan. We'll see each other very soon.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_421",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That's a good idea. She can be instrumental in controlling the narrative. I will ask her if she wants to be involved.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_422",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes. She would be a great asset. I will involve her immediately.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't want a strong judicial branch. We should retain some control over their composition.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_429",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"There will be no constitutional court and the judiciary will not have any political powers.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe only spot of color was a pale blue pocket square on the floor. I picked it up and noticed it was embroidered with the initials M.M."
+            },
+            "position": {
+                "x": 12420,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_429",
+            "source": "node_1",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_25",
+            "source": "node_7",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_234",
+            "source": "node_10",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_440",
+            "source": "node_11",
+            "target": "node_440",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_443",
+            "source": "node_13",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_447",
+            "source": "node_14",
+            "target": "node_447",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_10",
+            "source": "node_25",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_4",
+            "source": "node_63",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_334",
+            "source": "node_65",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_59",
+            "source": "node_70",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_60",
+            "source": "node_82",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_144",
+            "source": "node_103",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_149",
+            "source": "node_105",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_164",
+            "source": "node_121",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_344",
+            "source": "node_123",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_163",
+            "source": "node_124",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_166",
+            "source": "node_137",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_158",
+            "source": "node_144",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_347",
+            "source": "node_145",
+            "target": "node_347",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_170",
+            "source": "node_146",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_172",
+            "source": "node_147",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_346",
+            "source": "node_158",
+            "target": "node_346",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_347",
+            "source": "node_159",
+            "target": "node_347",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_345",
+            "source": "node_162",
+            "target": "node_345",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_343",
+            "source": "node_165",
+            "target": "node_343",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_174",
+            "source": "node_179",
+            "target": "node_174",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_174",
+            "source": "node_183",
+            "target": "node_174",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_356",
+            "source": "node_194",
+            "target": "node_356",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_357",
+            "source": "node_200",
+            "target": "node_357",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_231",
+            "source": "node_218",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_228",
+            "source": "node_222",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_237",
+            "source": "node_224",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_205",
+            "source": "node_229",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_359",
+            "source": "node_230",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_247",
+            "source": "node_231",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e235_to_11",
+            "source": "node_235",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_280",
+            "source": "node_245",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_252",
+            "source": "node_255",
+            "target": "node_252",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_245",
+            "source": "node_272",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e275_to_245",
+            "source": "node_275",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_301",
+            "source": "node_294",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_309",
+            "source": "node_297",
+            "target": "node_309",
+            "type": "step"
+        },
+        {
+            "id": "e306_to_300",
+            "source": "node_306",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_309",
+            "source": "node_315",
+            "target": "node_309",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_428",
+            "source": "node_316",
+            "target": "node_428",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_404",
+            "source": "node_325",
+            "target": "node_404",
+            "type": "step"
+        },
+        {
+            "id": "e332_to_331",
+            "source": "node_332",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_340",
+            "source": "node_333",
+            "target": "node_340",
+            "type": "step"
+        },
+        {
+            "id": "e334_to_433",
+            "source": "node_334",
+            "target": "node_433",
+            "type": "step"
+        },
+        {
+            "id": "e335_to_5",
+            "source": "node_335",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_5",
+            "source": "node_338",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_5",
+            "source": "node_339",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e341_to_432",
+            "source": "node_341",
+            "target": "node_432",
+            "type": "step"
+        },
+        {
+            "id": "e343_to_167",
+            "source": "node_343",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e353_to_195",
+            "source": "node_353",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e358_to_204",
+            "source": "node_358",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e366_to_380",
+            "source": "node_366",
+            "target": "node_380",
+            "type": "step"
+        },
+        {
+            "id": "e378_to_389",
+            "source": "node_378",
+            "target": "node_389",
+            "type": "step"
+        },
+        {
+            "id": "e382_to_367",
+            "source": "node_382",
+            "target": "node_367",
+            "type": "step"
+        },
+        {
+            "id": "e387_to_394",
+            "source": "node_387",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_391",
+            "source": "node_397",
+            "target": "node_391",
+            "type": "step"
+        },
+        {
+            "id": "e402_to_224",
+            "source": "node_402",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e406_to_326",
+            "source": "node_406",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e420_to_327",
+            "source": "node_420",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e421_to_331",
+            "source": "node_421",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e422_to_426",
+            "source": "node_422",
+            "target": "node_426",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_420",
+            "source": "node_427",
+            "target": "node_420",
+            "type": "step"
+        },
+        {
+            "id": "e429_to_3",
+            "source": "node_429",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_2",
+            "source": "node_432",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

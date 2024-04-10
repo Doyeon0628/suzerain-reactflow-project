@@ -1,0 +1,40 @@
+{
+    "nodes": [
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci (R)\n\n\"King Romus, what an honor to meet you. I'm Deivid Wisci, Foreign Minister of Sordland. Allow me to introduce President Anton Rayne.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci (R)\n\n\"A splendid idea, Laurento. Let's find a spot where we can talk more comfortably.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e7_to_146",
+            "source": "node_7",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_9",
+            "source": "node_146",
+            "target": "node_9",
+            "type": "step"
+        }
+    ]
+}

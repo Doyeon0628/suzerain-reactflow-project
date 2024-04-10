@@ -1,0 +1,3287 @@
+{
+    "nodes": [
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe door opened and Lucian entered."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"He is in the White Room.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Mr. President. I'll cut to the chase.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Mr. President. I'll cut to the chase.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I see. You are trying to sabotage me before the elections.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'm afraid we can't calm down. I'm sorry, Mr. President but this is the end of the road. We simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I'm afraid we can't calm down. I'm sorry, Mr. President but this is the end of the road. We simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"That is not why. We simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"That is not why. We simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"That is not why. We simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Exactly what it looks like. We are resigning from our positions in the cabinet. We have our own reasons, but we simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Exactly what it looks like. We are resigning from our positions in the cabinet. We have our own reasons, but we simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Exactly what it looks like. We are resigning from our positions in the cabinet. We have our own reasons, but we simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're betraying me, then.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Talk to me. What can I do? How can I help you better?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'm sorry, but everyone in this room has already made their decision and we won't turn back from it.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I'm sorry, but everyone in this room has already made their decision and we won't turn back from it.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I'm sorry, but everyone in this room has already made their decision and we won't turn back from it.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"This is nothing as grandiose as a betrayal but...\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"This is nothing as grandiose as a betrayal but...\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I suppose we owe your our reasons.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I suppose we owe your our reasons.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I don't even know why I joined the cabinet at this point. You managed to bring education in this country 20 years back in time.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Thanks to you, gender inequality is at an all-time high in Sordland. We are falling way behind modern countries and I don't see that changing anytime soon with leadership like this!\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_254",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Or about how you deceived your cabinet and your entire country.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"You will reform the country by turning it into a dictatorship? You are delusional.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Not until we say our final words.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_261",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Why don't we talk about the permanent *emergency* situation that you have put our country under?\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_268",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Your puppeteers have you so brainwashed that you forgot you have a mind of your own!\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_269",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"There is only one threat in Sordland and that's you.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_273",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"The government has not done enough and now we have polio cases popping up everywhere around Sordland.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_279",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This is because you have brought this to my attention so late.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I am resigning because someone in the government has to admit that we have made mistakes. Our people are dying, Mr. President.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_282",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We can fix our mistakes if we work together.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"What is more important than education? Attending unnecessary speeches? Shaking hands with priests?\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I'm sorry, Mr. President.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_292",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"I have failed my mission as the Minister of Economy.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"During our term, instead of stopping the recession, we have made it even worse and entered the 'Sordish Depression'.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_307",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Please don't do this, Symon. I am to blame, not you.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_308",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I will hand you my resignation once our term is done, Mr. President.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_309",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"I will resign at the end of our term.\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_310",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Thank you, Mr. President.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_311",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"I'm afraid things are already in motion, Mr. President.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_312",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Likewise, Mr. President.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"I am afraid that I find myself too ideologically different to work as the Minister of Economy for this government.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good. At least you have some dignity.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Please don't do this, Symon. We can overcome our differences.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_322",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you. It's been a pleasure to work with you.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Mr. President.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_337",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I must say that I am very ashamed to be part of a scandal.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_345",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Thank you, Mr. President. It was nice to work with you.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_347",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Mr. President.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_349",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I have to look into other ventures in life and spend some time with my family. It's been a long time since I re-connected with them.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let's keep in touch about more potential investments.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_359",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I have no choice but to accept your resignations.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_372",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Mr. President.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Mr. President.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_374",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Mr. President. I'll cut to the chase.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Mr. President.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_383",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I suppose we owe you an explanation.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_384",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I suppose we owe you an explanation.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I suppose we owe you an explanation.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I suppose we owe you an explanation.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_396",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I suppose I owe your my reasons.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"I'm sorry but I have already made my decision and I won't turn back from it.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_398",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'm sorry but I have already made my decision and I won't turn back from it.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_399",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I'm sorry but I have already made my decision and I won't turn back from it.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_400",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I'm sorry but I have already made my decision and I won't turn back from it.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_401",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I'm sorry but I have already made my decision and I won't turn back from it.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_402",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I'm here to let you know that I will be handing you my resignation shortly.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_403",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Exactly what it looks like. I am resigning from my position in the cabinet. I simply can not go on anymore.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_404",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I'm here to let you know that I will be handing you my resignation shortly.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"This is nothing as grandiose as a betrayal but...\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_413",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"This is nothing as grandiose as a betrayal but...\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_414",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"This is nothing as grandiose as a betrayal but...\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_415",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"This is nothing as grandiose as a betrayal but...\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_416",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"This is nothing as grandiose as a betrayal but...\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_420",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I suppose I owe you an explanation.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_421",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I suppose I owe you an explanation.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_434",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I'm afraid I can't calm down. I'm sorry, Mr. President but this is the end of the road. I simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_439",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I suppose I owe your my reasons.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_440",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I suppose I owe your my reasons.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_450",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I suppose I owe your my reasons.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_451",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"I'm afraid I can't calm down. I'm sorry, Mr. President but this is the end of the road. I simply can not go on anymore.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_452",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I'm afraid I can't calm down. I'm sorry, Mr. President but this is the end of the road. I simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_453",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I'm afraid I can't calm down. I'm sorry, Mr. President but this is the end of the road. I simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_454",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I'm afraid I can't calm down. I'm sorry, Mr. President but this is the end of the road. I simply can not go on anymore.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_455",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"That is not why. I simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_459",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I see. You are trying to sabotage me before the elections.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_460",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Your resignation? What is the meaning of this?\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_461",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"That is not why. I simply can not go on anymore.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_462",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"That is not why. I simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_463",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"That is not why. I simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_464",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"That is not why. I simply can not go on anymore.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Exactly what it looks like. I am resigning from my position in the cabinet. I simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_469",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Exactly what it looks like. I am resigning from my position in the cabinet. I simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_470",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Exactly what it looks like. I am resigning from my position in the cabinet. I simply can not go on anymore after what happened.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_471",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Exactly what it looks like. I am resigning from my position in the cabinet. I simply can not go on anymore.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_487",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Talk to me. What can I do? How can I help you better?\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_488",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"I suppose I owe you an explanation.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_489",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"I suppose I owe you an explanation.\""
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_496",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I suppose I owe you an explanation.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_524",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're betraying me, then.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_525",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"But why? What are your reasons?\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_526",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You are fools if you can't see the real threats. I don't need fools in my cabinet.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_528",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"What is most upsetting is the fact that we would not know any of this if not for these leaks. Your very own cabinet did not know of this!\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_529",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I was going to announce it to the cabinet at one point.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_530",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I did what I have done in order to protect this country.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_531",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Enough. If you don't have what it takes to better this country, then you don't deserve to be in my cabinet.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_535",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I have absolutely no words.\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_536",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Why don't we talk about the permanent *emergency* situation that you have put our country under?\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_537",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Can you not even see that's not the problem? You are beyond hope and salvation.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_538",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"How could you do create the Secret State Police? How dare you attack the very values this country stands on? You will go down the history as a dictator.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_543",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"You have completely changed. I don't know how I could've ever believed in you.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_544",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"This is a direct breach of democratic process and you are responsible for destroying lives of the representatives that this country has picked.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_545",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I guess this is what power does to people.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_546",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Surely you jest! I did all I did for Sordland and Sordland alone!\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_547",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"What emergency? You are just creating enemies out of thin air to firm your grasp on the people.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_549",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I refuse to work under such circumstances.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_554",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Your puppeteers have you so brainwashed that you forgot that you have a mind of your own!\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_555",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A King? That does sound nice, doesn't it?\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_562",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"What is most upsetting is the fact that we would not know any of this if not for these leaks. Your very own cabinet did not know of this!\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_563",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"How could you create the Secret State Police? How dare you attack the very values this country stands on?\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_565",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I was going to announce it to the cabinet at some point.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_567",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Enough. If you don't have what it takes to improve this country, then you don't deserve to be in my cabinet.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_573",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"What is most upsetting is the fact that we would not know any of this if not for these leaks. Your very own cabinet did not know of this.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_574",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Your creation of the Secret State Police is a direct breach of the democratic process.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_576",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I was going to announce it to the cabinet at one point.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_577",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I did what I have done in order to protect this country.\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_578",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Enough. If you don't have what it takes to improve this country, then you don't deserve to be in my cabinet.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_580",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"This seems to serve the position of President more than the country.\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_581",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"You have changed, Mr. President.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_586",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Why don't we talk a bit about your *reforms*?\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_588",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"You will reform the country by turning it into a dictatorship? You are delusional.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_589",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Not until we said our final words.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_590",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Presidential power must be maintained in a country like Sordland. Why don't you understand?\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_591",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"By giving yourself more power? By exploiting the law? You are delusional.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_592",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will not stand by while you accuse me of treachery. Get out.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_593",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Deceived? I brought reforms when no one else could.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_594",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Why don't we talk a bit about your *reforms*?\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_596",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"You will reform the country by turning it into a dictatorship? You are delusional.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_597",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Not until we say our final words.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_598",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Presidential power must be maintained in a country like Sordland. Why don't you understand?\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_599",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"By giving yourself more power? By exploiting the law? You are delusional.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_600",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will not stand by while you accuse me of treachery. Get out.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_601",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Deceived? I brought reforms when no one else could.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_603",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"What emergency? You are just creating enemies out of thin air to firm your grasp on the people.\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_604",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"It's all a ploy to grab more and more power.\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_607",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I have absolutely no words.\""
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_608",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Surely you jest! I did all I did for Sordland and Sordland alone!\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_610",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Your puppeteers have you so brainwashed that you forgot that you have a mind of your own!\""
+            },
+            "position": {
+                "x": 36450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_611",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A King? That does sound nice, doesn't it?\""
+            },
+            "position": {
+                "x": 36720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_618",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at their determined faces."
+            },
+            "position": {
+                "x": 36990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_631",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at Ciara's determined face."
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_632",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at Nia's determined face."
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_633",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at Symon's determined face."
+            },
+            "position": {
+                "x": 37800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_635",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at Paskal's determined face."
+            },
+            "position": {
+                "x": 38070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_636",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I accept your resignation. Now get out of my face.\""
+            },
+            "position": {
+                "x": 37260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_638",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPaskal and Lucian left and I took a seat alone in the White Room."
+            },
+            "position": {
+                "x": 38340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_651",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara and Lucian left and I took a seat alone in the White Room."
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_652",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGus and Lucian left and I took a seat alone in the White Room."
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_653",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia and Lucian left and I took a seat alone in the White Room."
+            },
+            "position": {
+                "x": 39150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_656",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara was too radical for this country anyway."
+            },
+            "position": {
+                "x": 39150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_657",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon had failed his job and could always be replaced by another expert. His departure wouldn't be felt and the damage he has done won't be forgotten."
+            },
+            "position": {
+                "x": 39420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_658",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPaskal's heart was at the right place and it's sad that he is leaving."
+            },
+            "position": {
+                "x": 39690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_659",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMr. Manger didn't leave much of a mark both positive and negative during his time."
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_672",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPeople come and people go. Such is life."
+            },
+            "position": {
+                "x": 40230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_699",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Even though you acted against the epidemic which saved millions of Sords, I cannot and will not stand with your abuse of power.\""
+            },
+            "position": {
+                "x": 40500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_704",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Even worst is the things you did behind closed doors. It shook me to my bones when I heard of the dreadful news.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_705",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"You may have your reasons, Mr. President, that it is for the greater good. But the same line of reasoning will simply lead to more atrocious actions.\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_713",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara was a great asset to the administration."
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_717",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara had accomplished the difficult education reforms. A task many would have failed."
+            },
+            "position": {
+                "x": 41580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_718",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHer ideas were beyond acceptable for the conservative base of Sordland."
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_723",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia was a true moralist. The world would never be perfect or just enough for her."
+            },
+            "position": {
+                "x": 42660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_724",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe just didn't have the guts to do what was necessary to make Sordland a better place."
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_728",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMr. Holl achieved the great economic miracle but still decided to leave. It will be a saddening loss for the administration."
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_732",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe was a true bureaucrat with clear purpose. I respected that about Holl."
+            },
+            "position": {
+                "x": 42930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_733",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy skepticism about Symon had never ceased and this departure was expected."
+            },
+            "position": {
+                "x": 43200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_737",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe got the L-1 project completed with Gus and the mark of that investment was felt in Sordland."
+            },
+            "position": {
+                "x": 43470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_741",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGus provided great investment opportunities but outside of that did little to contribute to the country."
+            },
+            "position": {
+                "x": 43740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_742",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGus was nothing but a leech that survived on connections alone."
+            },
+            "position": {
+                "x": 44010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_746",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMr. Beniwoll helped prevent the Polio Crisis from becoming a regional epidemic or even a global pandemic. For this I will remember them well."
+            },
+            "position": {
+                "x": 44280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_747",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPaskal wasn't that useful to the administration anyway. The polio crisis wasn't fixed during the term and the damages of that were felt in the country."
+            },
+            "position": {
+                "x": 44550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_748",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPaskal could have done much more but decided to leave the administration behind."
+            },
+            "position": {
+                "x": 43740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_758",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Deceived? I brought reforms when no one else could.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_759",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"By giving yourself more power? By exploiting the law? You are delusional.\""
+            },
+            "position": {
+                "x": 45090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_763",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Why don't we talk a bit about your *reforms*?\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_767",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Or about how you deceived your cabinet and your entire country.\""
+            },
+            "position": {
+                "x": 45630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_771",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will not stand by while you accuse me of treachery. Get out.\""
+            },
+            "position": {
+                "x": 45900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_772",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Presidential power must be maintained in a country like Sordland. Why don't you understand?\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_774",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Not until we say our final words.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_831",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I have to look into other ventures in life and spend some time with my family in Anraka. It's been a long time since I re-connected with them.\""
+            },
+            "position": {
+                "x": 46710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_832",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I have to look into other ventures in life and spend some time with my family in Rizia. It's been a long time since I re-connected with them.\""
+            },
+            "position": {
+                "x": 46980,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e22_to_710",
+            "source": "node_22",
+            "target": "node_710",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_33",
+            "source": "node_51",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_95",
+            "source": "node_103",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_116",
+            "source": "node_106",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_162",
+            "source": "node_114",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_170",
+            "source": "node_124",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_170",
+            "source": "node_126",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_121",
+            "source": "node_133",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_170",
+            "source": "node_141",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_170",
+            "source": "node_143",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_138",
+            "source": "node_150",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_170",
+            "source": "node_158",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_170",
+            "source": "node_159",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_155",
+            "source": "node_167",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_380",
+            "source": "node_169",
+            "target": "node_380",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_205",
+            "source": "node_177",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_205",
+            "source": "node_178",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_205",
+            "source": "node_179",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_205",
+            "source": "node_194",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_205",
+            "source": "node_195",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_222",
+            "source": "node_209",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_215",
+            "source": "node_213",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_750",
+            "source": "node_224",
+            "target": "node_750",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_284",
+            "source": "node_245",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e254_to_266",
+            "source": "node_254",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_250",
+            "source": "node_259",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_250",
+            "source": "node_260",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e261_to_250",
+            "source": "node_261",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e268_to_237",
+            "source": "node_268",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e269_to_237",
+            "source": "node_269",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e273_to_294",
+            "source": "node_273",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e279_to_291",
+            "source": "node_279",
+            "target": "node_291",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_289",
+            "source": "node_280",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e282_to_707",
+            "source": "node_282",
+            "target": "node_707",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_271",
+            "source": "node_286",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_707",
+            "source": "node_290",
+            "target": "node_707",
+            "type": "step"
+        },
+        {
+            "id": "e292_to_707",
+            "source": "node_292",
+            "target": "node_707",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_314",
+            "source": "node_302",
+            "target": "node_314",
+            "type": "step"
+        },
+        {
+            "id": "e307_to_313",
+            "source": "node_307",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e308_to_312",
+            "source": "node_308",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e309_to_294",
+            "source": "node_309",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e310_to_306",
+            "source": "node_310",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e311_to_331",
+            "source": "node_311",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e312_to_331",
+            "source": "node_312",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_331",
+            "source": "node_313",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_331",
+            "source": "node_318",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_318",
+            "source": "node_319",
+            "target": "node_318",
+            "type": "step"
+        },
+        {
+            "id": "e322_to_331",
+            "source": "node_322",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_359",
+            "source": "node_333",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e337_to_348",
+            "source": "node_337",
+            "target": "node_348",
+            "type": "step"
+        },
+        {
+            "id": "e345_to_359",
+            "source": "node_345",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e347_to_359",
+            "source": "node_347",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e349_to_829",
+            "source": "node_349",
+            "target": "node_829",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_358",
+            "source": "node_354",
+            "target": "node_358",
+            "type": "step"
+        },
+        {
+            "id": "e359_to_616",
+            "source": "node_359",
+            "target": "node_616",
+            "type": "step"
+        },
+        {
+            "id": "e372_to_377",
+            "source": "node_372",
+            "target": "node_377",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_405",
+            "source": "node_373",
+            "target": "node_405",
+            "type": "step"
+        },
+        {
+            "id": "e374_to_403",
+            "source": "node_374",
+            "target": "node_403",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_408",
+            "source": "node_375",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e383_to_222",
+            "source": "node_383",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e384_to_222",
+            "source": "node_384",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_390",
+            "source": "node_388",
+            "target": "node_390",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_389",
+            "source": "node_395",
+            "target": "node_389",
+            "type": "step"
+        },
+        {
+            "id": "e396_to_222",
+            "source": "node_396",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_533",
+            "source": "node_397",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e398_to_436",
+            "source": "node_398",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e399_to_436",
+            "source": "node_399",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e400_to_436",
+            "source": "node_400",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e401_to_436",
+            "source": "node_401",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e402_to_436",
+            "source": "node_402",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e403_to_409",
+            "source": "node_403",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e404_to_488",
+            "source": "node_404",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_456",
+            "source": "node_412",
+            "target": "node_456",
+            "type": "step"
+        },
+        {
+            "id": "e413_to_436",
+            "source": "node_413",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e414_to_436",
+            "source": "node_414",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e415_to_436",
+            "source": "node_415",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e416_to_436",
+            "source": "node_416",
+            "target": "node_436",
+            "type": "step"
+        },
+        {
+            "id": "e420_to_491",
+            "source": "node_420",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e421_to_533",
+            "source": "node_421",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e434_to_467",
+            "source": "node_434",
+            "target": "node_467",
+            "type": "step"
+        },
+        {
+            "id": "e439_to_533",
+            "source": "node_439",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e440_to_533",
+            "source": "node_440",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e450_to_397",
+            "source": "node_450",
+            "target": "node_397",
+            "type": "step"
+        },
+        {
+            "id": "e451_to_533",
+            "source": "node_451",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e452_to_488",
+            "source": "node_452",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e453_to_488",
+            "source": "node_453",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e454_to_488",
+            "source": "node_454",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e455_to_488",
+            "source": "node_455",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e459_to_466",
+            "source": "node_459",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e460_to_507",
+            "source": "node_460",
+            "target": "node_507",
+            "type": "step"
+        },
+        {
+            "id": "e461_to_482",
+            "source": "node_461",
+            "target": "node_482",
+            "type": "step"
+        },
+        {
+            "id": "e462_to_488",
+            "source": "node_462",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e463_to_488",
+            "source": "node_463",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e464_to_488",
+            "source": "node_464",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_488",
+            "source": "node_465",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e469_to_429",
+            "source": "node_469",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e470_to_488",
+            "source": "node_470",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e471_to_488",
+            "source": "node_471",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e487_to_457",
+            "source": "node_487",
+            "target": "node_457",
+            "type": "step"
+        },
+        {
+            "id": "e488_to_519",
+            "source": "node_488",
+            "target": "node_519",
+            "type": "step"
+        },
+        {
+            "id": "e489_to_533",
+            "source": "node_489",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e496_to_490",
+            "source": "node_496",
+            "target": "node_490",
+            "type": "step"
+        },
+        {
+            "id": "e524_to_426",
+            "source": "node_524",
+            "target": "node_426",
+            "type": "step"
+        },
+        {
+            "id": "e525_to_504",
+            "source": "node_525",
+            "target": "node_504",
+            "type": "step"
+        },
+        {
+            "id": "e526_to_423",
+            "source": "node_526",
+            "target": "node_423",
+            "type": "step"
+        },
+        {
+            "id": "e528_to_779",
+            "source": "node_528",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e529_to_532",
+            "source": "node_529",
+            "target": "node_532",
+            "type": "step"
+        },
+        {
+            "id": "e530_to_538",
+            "source": "node_530",
+            "target": "node_538",
+            "type": "step"
+        },
+        {
+            "id": "e531_to_540",
+            "source": "node_531",
+            "target": "node_540",
+            "type": "step"
+        },
+        {
+            "id": "e535_to_552",
+            "source": "node_535",
+            "target": "node_552",
+            "type": "step"
+        },
+        {
+            "id": "e536_to_779",
+            "source": "node_536",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e537_to_548",
+            "source": "node_537",
+            "target": "node_548",
+            "type": "step"
+        },
+        {
+            "id": "e538_to_546",
+            "source": "node_538",
+            "target": "node_546",
+            "type": "step"
+        },
+        {
+            "id": "e543_to_779",
+            "source": "node_543",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e544_to_546",
+            "source": "node_544",
+            "target": "node_546",
+            "type": "step"
+        },
+        {
+            "id": "e545_to_529",
+            "source": "node_545",
+            "target": "node_529",
+            "type": "step"
+        },
+        {
+            "id": "e546_to_550",
+            "source": "node_546",
+            "target": "node_550",
+            "type": "step"
+        },
+        {
+            "id": "e547_to_555",
+            "source": "node_547",
+            "target": "node_555",
+            "type": "step"
+        },
+        {
+            "id": "e549_to_556",
+            "source": "node_549",
+            "target": "node_556",
+            "type": "step"
+        },
+        {
+            "id": "e554_to_541",
+            "source": "node_554",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e555_to_779",
+            "source": "node_555",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e562_to_575",
+            "source": "node_562",
+            "target": "node_575",
+            "type": "step"
+        },
+        {
+            "id": "e563_to_568",
+            "source": "node_563",
+            "target": "node_568",
+            "type": "step"
+        },
+        {
+            "id": "e565_to_563",
+            "source": "node_565",
+            "target": "node_563",
+            "type": "step"
+        },
+        {
+            "id": "e567_to_570",
+            "source": "node_567",
+            "target": "node_570",
+            "type": "step"
+        },
+        {
+            "id": "e573_to_552",
+            "source": "node_573",
+            "target": "node_552",
+            "type": "step"
+        },
+        {
+            "id": "e574_to_579",
+            "source": "node_574",
+            "target": "node_579",
+            "type": "step"
+        },
+        {
+            "id": "e576_to_574",
+            "source": "node_576",
+            "target": "node_574",
+            "type": "step"
+        },
+        {
+            "id": "e577_to_580",
+            "source": "node_577",
+            "target": "node_580",
+            "type": "step"
+        },
+        {
+            "id": "e578_to_581",
+            "source": "node_578",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e580_to_582",
+            "source": "node_580",
+            "target": "node_582",
+            "type": "step"
+        },
+        {
+            "id": "e581_to_582",
+            "source": "node_581",
+            "target": "node_582",
+            "type": "step"
+        },
+        {
+            "id": "e586_to_823",
+            "source": "node_586",
+            "target": "node_823",
+            "type": "step"
+        },
+        {
+            "id": "e588_to_593",
+            "source": "node_588",
+            "target": "node_593",
+            "type": "step"
+        },
+        {
+            "id": "e589_to_541",
+            "source": "node_589",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e590_to_541",
+            "source": "node_590",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e591_to_589",
+            "source": "node_591",
+            "target": "node_589",
+            "type": "step"
+        },
+        {
+            "id": "e592_to_541",
+            "source": "node_592",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e593_to_590",
+            "source": "node_593",
+            "target": "node_590",
+            "type": "step"
+        },
+        {
+            "id": "e594_to_592",
+            "source": "node_594",
+            "target": "node_592",
+            "type": "step"
+        },
+        {
+            "id": "e596_to_601",
+            "source": "node_596",
+            "target": "node_601",
+            "type": "step"
+        },
+        {
+            "id": "e597_to_541",
+            "source": "node_597",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e598_to_541",
+            "source": "node_598",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e599_to_597",
+            "source": "node_599",
+            "target": "node_597",
+            "type": "step"
+        },
+        {
+            "id": "e600_to_541",
+            "source": "node_600",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e601_to_598",
+            "source": "node_601",
+            "target": "node_598",
+            "type": "step"
+        },
+        {
+            "id": "e603_to_604",
+            "source": "node_603",
+            "target": "node_604",
+            "type": "step"
+        },
+        {
+            "id": "e604_to_605",
+            "source": "node_604",
+            "target": "node_605",
+            "type": "step"
+        },
+        {
+            "id": "e607_to_779",
+            "source": "node_607",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e608_to_779",
+            "source": "node_608",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e610_to_612",
+            "source": "node_610",
+            "target": "node_612",
+            "type": "step"
+        },
+        {
+            "id": "e611_to_779",
+            "source": "node_611",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e618_to_620",
+            "source": "node_618",
+            "target": "node_620",
+            "type": "step"
+        },
+        {
+            "id": "e631_to_636",
+            "source": "node_631",
+            "target": "node_636",
+            "type": "step"
+        },
+        {
+            "id": "e632_to_637",
+            "source": "node_632",
+            "target": "node_637",
+            "type": "step"
+        },
+        {
+            "id": "e633_to_637",
+            "source": "node_633",
+            "target": "node_637",
+            "type": "step"
+        },
+        {
+            "id": "e635_to_637",
+            "source": "node_635",
+            "target": "node_637",
+            "type": "step"
+        },
+        {
+            "id": "e636_to_637",
+            "source": "node_636",
+            "target": "node_637",
+            "type": "step"
+        },
+        {
+            "id": "e638_to_640",
+            "source": "node_638",
+            "target": "node_640",
+            "type": "step"
+        },
+        {
+            "id": "e651_to_788",
+            "source": "node_651",
+            "target": "node_788",
+            "type": "step"
+        },
+        {
+            "id": "e652_to_656",
+            "source": "node_652",
+            "target": "node_656",
+            "type": "step"
+        },
+        {
+            "id": "e653_to_656",
+            "source": "node_653",
+            "target": "node_656",
+            "type": "step"
+        },
+        {
+            "id": "e656_to_822",
+            "source": "node_656",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e657_to_664",
+            "source": "node_657",
+            "target": "node_664",
+            "type": "step"
+        },
+        {
+            "id": "e658_to_661",
+            "source": "node_658",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e659_to_673",
+            "source": "node_659",
+            "target": "node_673",
+            "type": "step"
+        },
+        {
+            "id": "e672_to_664",
+            "source": "node_672",
+            "target": "node_664",
+            "type": "step"
+        },
+        {
+            "id": "e699_to_673",
+            "source": "node_699",
+            "target": "node_673",
+            "type": "step"
+        },
+        {
+            "id": "e704_to_706",
+            "source": "node_704",
+            "target": "node_706",
+            "type": "step"
+        },
+        {
+            "id": "e705_to_309",
+            "source": "node_705",
+            "target": "node_309",
+            "type": "step"
+        },
+        {
+            "id": "e713_to_684",
+            "source": "node_713",
+            "target": "node_684",
+            "type": "step"
+        },
+        {
+            "id": "e717_to_793",
+            "source": "node_717",
+            "target": "node_793",
+            "type": "step"
+        },
+        {
+            "id": "e718_to_664",
+            "source": "node_718",
+            "target": "node_664",
+            "type": "step"
+        },
+        {
+            "id": "e723_to_667",
+            "source": "node_723",
+            "target": "node_667",
+            "type": "step"
+        },
+        {
+            "id": "e724_to_667",
+            "source": "node_724",
+            "target": "node_667",
+            "type": "step"
+        },
+        {
+            "id": "e728_to_723",
+            "source": "node_728",
+            "target": "node_723",
+            "type": "step"
+        },
+        {
+            "id": "e732_to_802",
+            "source": "node_732",
+            "target": "node_802",
+            "type": "step"
+        },
+        {
+            "id": "e733_to_661",
+            "source": "node_733",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e737_to_812",
+            "source": "node_737",
+            "target": "node_812",
+            "type": "step"
+        },
+        {
+            "id": "e741_to_748",
+            "source": "node_741",
+            "target": "node_748",
+            "type": "step"
+        },
+        {
+            "id": "e742_to_697",
+            "source": "node_742",
+            "target": "node_697",
+            "type": "step"
+        },
+        {
+            "id": "e746_to_735",
+            "source": "node_746",
+            "target": "node_735",
+            "type": "step"
+        },
+        {
+            "id": "e747_to_673",
+            "source": "node_747",
+            "target": "node_673",
+            "type": "step"
+        },
+        {
+            "id": "e748_to_673",
+            "source": "node_748",
+            "target": "node_673",
+            "type": "step"
+        },
+        {
+            "id": "e758_to_250",
+            "source": "node_758",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e759_to_760",
+            "source": "node_759",
+            "target": "node_760",
+            "type": "step"
+        },
+        {
+            "id": "e763_to_237",
+            "source": "node_763",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e767_to_776",
+            "source": "node_767",
+            "target": "node_776",
+            "type": "step"
+        },
+        {
+            "id": "e771_to_237",
+            "source": "node_771",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e772_to_775",
+            "source": "node_772",
+            "target": "node_775",
+            "type": "step"
+        },
+        {
+            "id": "e774_to_237",
+            "source": "node_774",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e831_to_834",
+            "source": "node_831",
+            "target": "node_834",
+            "type": "step"
+        },
+        {
+            "id": "e832_to_351",
+            "source": "node_832",
+            "target": "node_351",
+            "type": "step"
+        }
+    ]
+}

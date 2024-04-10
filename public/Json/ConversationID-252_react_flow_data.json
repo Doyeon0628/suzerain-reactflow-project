@@ -1,0 +1,91 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe ex-Justice Heron Garaci entered, as confidently and comfortably as if he were walking into his own house."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n“Thank you, your honor.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You motherfucker...”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Orso Hawker\n\n“Very well. You may leave.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n“Good luck, Mr. President. Enjoy.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_48",
+            "source": "node_2",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_73",
+            "source": "node_8",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_12",
+            "source": "node_23",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_11",
+            "source": "node_67",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_11",
+            "source": "node_68",
+            "target": "node_11",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,771 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Anton.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“Mr. President.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt looked like it was going to rain. Certainly fitting weather for a funeral."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRain drops were running down the car window when Serge opened my door and held an umbrella over my head. As soon as I got out, flashes from the cameras blinded me."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“I just wanted to inform you that the perimeter is clear and secured completely. There is no one getting in or out without our knowledge.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We don't want something similar happening again, do we?”"
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“Absolutely not, Mr. President. The same mistakes will never happen again. I personally made sure of that.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“And trust me Karl. You don't want that.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Petr, you are being inconsiderate.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI gestured at Petr to lower his voice a bit."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“You are right. Sorry.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let them in.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Do you think they pose a security threat?”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“As you command.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen the religious ceremony was done, I was invited by the priest to deliver my speech. I took the podium. I felt like I had a lump in my throat. I couldn't get the daughter's eyes out of my head."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTowards the back of the crowd, I spotted the members of the Red Youth, wearing red shirts and black bands of mourning on their arms. They seemed ruly and were respectfully bowing their heads."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Regardless of his ideology, this was a heinous act made towards a good man. We must end this cycle of violence now.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I interpret this attack as an attack against Sordland and by extension, against me personally.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We will make sure that unfortunate events such as this will never happen ever again.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“He was a true comrade and he fought for what he believed in, his ideal vision of Sordland, in every step of his life. We must learn from him.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“A moment of silence please.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I would now like to recite a part from one of the poems he left us.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Our only strength is the will to survive, knowing that we will perish, knowing nothing more absolute.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I promise you this. The blood of Bernard will not remain on the sacred ground of Sordland.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuring the silence, all that was heard were the ravens."
+            },
+            "position": {
+                "x": 3510,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe widow thanked me with a soft and defeated voice before we dispersed."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI sensed only respect from his voice."
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe was right. We had work to do. So much more to do."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you. I mean it.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“As we bid farewell to Bernard, I want to close with the words every Sord lives by: A Morgna wes core!”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI stepped down from the podium. It was time to leave."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEveryone replied: “Vectern sis da!”. Victory is close."
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs someone once said: 'Even the darkest night will end and the sun will rise.'"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI nodded."
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The tears of the family he left behind have a price that needs to be paid. I will not stop until it is paid in full.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let us all mourn the passing of Bernard Circas and remember him well.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“But, hatred begets hatred. There is only one way to overcome this vicious cycle. We must unite against the evil of this world.”"
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It's time to go.”"
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Hah! Right? I mean, life is full of tragedy. We should try to take it easy if we can.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You are the only one that can make me laugh at a funeral.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I will confess that I disagreed with Bernard Circas almost entirely. But it doesn't mean that he deserved this. Our country can be a better place.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Circas had a dream of a unified Sordland. In these next months we need to fulfill his dream and band together.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHope was still on the horizon."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We rise, toward the sun! Those who died, died fighting. They are now buried in the sun. No need to mourn, there is a raid to the sun.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"They did not let us sing our songs. They are afraid, afraid of the dawn. They are afraid of hope, but our songs will be sung.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_126",
+            "source": "node_3",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_153",
+            "source": "node_5",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_17",
+            "source": "node_6",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_5",
+            "source": "node_8",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_4",
+            "source": "node_16",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_20",
+            "source": "node_17",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_24",
+            "source": "node_21",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_25",
+            "source": "node_24",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_95",
+            "source": "node_26",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_32",
+            "source": "node_28",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_33",
+            "source": "node_30",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_38",
+            "source": "node_36",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_43",
+            "source": "node_38",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_38",
+            "source": "node_40",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_48",
+            "source": "node_49",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_53",
+            "source": "node_51",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_60",
+            "source": "node_56",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_65",
+            "source": "node_57",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_89",
+            "source": "node_58",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_89",
+            "source": "node_59",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_112",
+            "source": "node_60",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_67",
+            "source": "node_62",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_154",
+            "source": "node_63",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_104",
+            "source": "node_64",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_89",
+            "source": "node_65",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_84",
+            "source": "node_68",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_76",
+            "source": "node_74",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_88",
+            "source": "node_75",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_155",
+            "source": "node_77",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_65",
+            "source": "node_82",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_152",
+            "source": "node_83",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_69",
+            "source": "node_84",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_69",
+            "source": "node_86",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_110",
+            "source": "node_87",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_73",
+            "source": "node_88",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_63",
+            "source": "node_89",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_63",
+            "source": "node_90",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_63",
+            "source": "node_91",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_74",
+            "source": "node_93",
+            "target": "node_74",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_33",
+            "source": "node_94",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_94",
+            "source": "node_95",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_149",
+            "source": "node_96",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_98",
+            "source": "node_109",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_65",
+            "source": "node_112",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_61",
+            "source": "node_114",
+            "target": "node_61",
+            "type": "step"
+        }
+    ]
+}

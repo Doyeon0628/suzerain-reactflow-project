@@ -1,0 +1,567 @@
+{
+    "nodes": [
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Moderator\n\n\"My next question concerns Sordland's foreign relations.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Moderator\n\n\"To the non-incumbent candidates, would you maintain the international alliances President Rayne has formed?\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Moderator\n\n\"President Rayne, you haven't formed any strong international alliances during your term. I'd like to know if the other candidates would continue on the same track.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Moderator\n\n\"That's all the time we have for that question.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"By joining ATO, for example.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Certainly not. Sordland can only move forward if we form productive relationships with our neighbors.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"That's right, Suheil. Tow the party line.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"I can't believe we were ever in the same party.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Strategic alliances are all well and good, but President Rayne would practically give Leon Malenyev the shirt off his back.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDenis sat back in his chair, fuming."
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Membership in ATO was always the logical next step for Sordland. I'm looking forward to developing those relationships further.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Moderator\n\n\"Let's move on to the next candidate.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Manoly Suheil\n\n\"Membership in ATO was always the logical next step for Sordland. I'm looking forward to developing those relationships further.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Remus Holstron\n\n\"Of course I would advocate for staying on good terms with Arcasia, but Sordland's strongest ties must be to our tribal cousins in Valgsland and Agnolia.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"I don't need charity from the man who got me imprisoned.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"Of course I would advocate for staying on good terms with Arcasia, but Sordland's strongest ties must be to our tribal cousins in Valgsland and Agnolia.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Manoly Suheil\n\n\"I still believe Sordland's future lies with ATO.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"But it's not impossible to cut ties and regain the trust of Arcasia and ATO.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Kesaro Kibener\n\n\"All this talk of east and west, socialist and capitalist is missing the point.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That'll be enough of that, Kesaro.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"A nice sentiment. A shame we can't ally with Valgsland and Agnolia at the same time.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDenis turned to look at me."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Yeah, shut up, Denis.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI said nothing."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Let him speak.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"Our socialist brothers *and sisters*.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"Absolutely not.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"I can't believe we were ever in the same party.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"May I just add that I managed to defuse a potential war with Rumburg without the help of any international alliances?\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Frens Ricter\n\n\"Certainly not. The alliance with Valgsland was a mistake.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_175",
+            "type": "customNode",
+            "data": {
+                "label": "Manoly Suheil\n\n\"Certainly not. The joint operation with Wehlen was a travesty, and the Valgsland alliance was ill-advised.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Manoly Suheil\n\n\"Certainly not. The Valgsland alliance was ill-advised.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Manoly Suheil\n\n\"Certainly not. I have nothing but respect for the member states of CSP, but I still believe Sordland's future lies with ATO.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e5_to_116",
+            "source": "node_5",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_32",
+            "source": "node_12",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_95",
+            "source": "node_40",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_3",
+            "source": "node_58",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_10",
+            "source": "node_65",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_131",
+            "source": "node_66",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_109",
+            "source": "node_77",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_99",
+            "source": "node_79",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_121",
+            "source": "node_82",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_113",
+            "source": "node_87",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_10",
+            "source": "node_88",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_80",
+            "source": "node_89",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_120",
+            "source": "node_90",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_82",
+            "source": "node_95",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_87",
+            "source": "node_96",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_10",
+            "source": "node_97",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_129",
+            "source": "node_103",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_130",
+            "source": "node_104",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_28",
+            "source": "node_108",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_60",
+            "source": "node_113",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_60",
+            "source": "node_114",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_60",
+            "source": "node_115",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_60",
+            "source": "node_118",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_88",
+            "source": "node_119",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_110",
+            "source": "node_123",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_106",
+            "source": "node_125",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_111",
+            "source": "node_126",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_121",
+            "source": "node_128",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_154",
+            "source": "node_145",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_103",
+            "source": "node_169",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e175_to_105",
+            "source": "node_175",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_104",
+            "source": "node_176",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_130",
+            "source": "node_184",
+            "target": "node_130",
+            "type": "step"
+        }
+    ]
+}

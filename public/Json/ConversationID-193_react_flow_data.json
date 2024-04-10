@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I want their heads, Lucian.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Mrs. Morgna's task force suspected Old Guard members of multiple cases of corruption and lobbying. But when they looked deeper into it, they found something truly shocking.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're joking.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Who was involved in this?\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Of course, when that didn't work, they had other ways of impeding you.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"And they succeeded.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"As you may recall, Karl Greiser hinted at a 'complex web of connections' surrounding the Old Guard as well as multiple cases of corruption and lobbying.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian swallowed."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"And then there are the dozens of Assembly members and thousands of government officials who may have been aware of the assassination plot and helped cover it up.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"The main conspirator was Lileas Graf.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Orso Hawker should be our primary target. He is too dangerous keep around.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Further evidence suggests that they orchestrated the destruction of the Holsord State University archives. We found out their motive was to destroy the employee records and proof regarding all the informants they secretly employed at the university from 1930 until 1953.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Are there any other things they have done?\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Who is the main culprit?\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We must act against this treachery.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e5_to_25",
+            "source": "node_5",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_57",
+            "source": "node_6",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_61",
+            "source": "node_9",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_11",
+            "source": "node_20",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_95",
+            "source": "node_22",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_97",
+            "source": "node_23",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_97",
+            "source": "node_24",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_2",
+            "source": "node_51",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_94",
+            "source": "node_54",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_9",
+            "source": "node_59",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_76",
+            "source": "node_64",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_2",
+            "source": "node_94",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_6",
+            "source": "node_96",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_22",
+            "source": "node_97",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_57",
+            "source": "node_98",
+            "target": "node_57",
+            "type": "step"
+        }
+    ]
+}

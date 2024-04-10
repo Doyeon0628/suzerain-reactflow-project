@@ -1,0 +1,720 @@
+{
+    "nodes": [
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"The troops are eagerly awaiting orders to begin the second operation.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"After the enemy took control of Terador and Fort Ales, we managed to push them back.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"We are back at where we started.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Our troops are trying to push however, the enemy does not yield.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"But, Your Majesty... With the current situation, if we push harder and if it fails, we will be at an even tougher spot than before.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You may have a point. Very well then. We will wait and see.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"As you wish, sire.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"We need to talk about the enemy positions.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Even more so than our initial invasion.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"As for their navy, they seemed to have pulled back south to blockade the seas neighboring Remaz.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"As for their navy, they seemed to have chosen to disperse their battleships.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Lespia is another matter.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"These meddlers...It will be their turn at one point as well.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"These meddlers are a bit too scared to attempt anything, it seems.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"There is still much to discuss about our plans however, this short overview should be it for now.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Lespia can be the deciding factor here.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Do you have any questions for us, Your Majesty?\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Does this mean the war will go on for a long time?\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Those were all my questions.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No, I don't.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"If we can get rid of this gridlock, we can, Your Majesty.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Pales itself is a very well defended city. It will be tough to bring down its walls. Literally and figuratively.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No, I don't.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"I would like to say soon, Your Majesty.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Then thank you for your time, Your Majesty.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Thank you.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Soon, Your Majesty.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Thank you, Your Majesty.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Then thank you for your time, Your Majesty.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Thank you.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe spread multiple strategic maps of the region on the table and leaned over it."
+            },
+            "position": {
+                "x": 4860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe drew a circle around the peninsula and tapped her finger over it a few times."
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe drew a line around the border and tapped her finger over it a few times."
+            },
+            "position": {
+                "x": 0,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThis time another stack of papers were on the table. Some of them having photographs of what it seemed like battleships at night."
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_232",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe pointed at Lespia on the map."
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter putting an X on Pales, she leaned back and crossed her arms."
+            },
+            "position": {
+                "x": 2700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey were both taken aback. They looked like they would protest but their shoulders dropped in obedience."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_237",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"We held and we will continue to do so until our last breath. Rest assured, Your Majesty.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLooking down without meeting my eyes at all, she collected the documents on the table."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No matter what, I thank you for your advice.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Yes, sir.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Good luck to all of us, Your Majesty.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e6_to_230",
+            "source": "node_6",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_39",
+            "source": "node_7",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_229",
+            "source": "node_21",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_231",
+            "source": "node_22",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_41",
+            "source": "node_50",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_235",
+            "source": "node_53",
+            "target": "node_235",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_235",
+            "source": "node_59",
+            "target": "node_235",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_232",
+            "source": "node_62",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_233",
+            "source": "node_83",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_83",
+            "source": "node_111",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_83",
+            "source": "node_112",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_83",
+            "source": "node_113",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_248",
+            "source": "node_126",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_177",
+            "source": "node_127",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_177",
+            "source": "node_128",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_237",
+            "source": "node_133",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_239",
+            "source": "node_137",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_159",
+            "source": "node_141",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_172",
+            "source": "node_162",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_216",
+            "source": "node_163",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_139",
+            "source": "node_165",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_193",
+            "source": "node_176",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_86",
+            "source": "node_197",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_86",
+            "source": "node_198",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_131",
+            "source": "node_215",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_228",
+            "source": "node_216",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_2",
+            "source": "node_223",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_2",
+            "source": "node_224",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_217",
+            "source": "node_226",
+            "target": "node_217",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_217",
+            "source": "node_227",
+            "target": "node_217",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_242",
+            "source": "node_228",
+            "target": "node_242",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_3",
+            "source": "node_229",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_7",
+            "source": "node_230",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_23",
+            "source": "node_231",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e232_to_63",
+            "source": "node_232",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_118",
+            "source": "node_233",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_129",
+            "source": "node_234",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e237_to_134",
+            "source": "node_237",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_50",
+            "source": "node_238",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_138",
+            "source": "node_239",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_2",
+            "source": "node_243",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_2",
+            "source": "node_244",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

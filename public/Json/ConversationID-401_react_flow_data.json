@@ -1,0 +1,346 @@
+{
+    "nodes": [
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"The operation is not going well, sire.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"This operation has been very costly. Around 15 divisions in total have perished in the battlefield.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Around 10 divisions in total have perished in the battlefield.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"Less than 10 divisions in total have perished in the battlefield.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Operation 1 Results Hub\n\nOperation 1 Results Hub"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I heard enough.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Tell me about the numbers. How many do we have? How many did we lose?\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What did we capture so far?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What do Rizian people think about the war?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I see. Go on.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"We have taken Ziqes. New forward operation bases were set up nearby.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe room fell silent. Lucita spoke after a long seconds."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"This operation is officially successful.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Loud and clear.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Thank you.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"The result of the operation is unfortunately clear, Your Majesty.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You will.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Taddeus Azaro\n\n\"As you wish, Your Majesty.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Don't forget that both of you are responsible for this failure.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Can we please continue and get over with this?\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e7_to_247",
+            "source": "node_7",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_62",
+            "source": "node_31",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_62",
+            "source": "node_32",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_62",
+            "source": "node_33",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_62",
+            "source": "node_34",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_98",
+            "source": "node_54",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_139",
+            "source": "node_56",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_49",
+            "source": "node_57",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_51",
+            "source": "node_59",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_139",
+            "source": "node_97",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_140",
+            "source": "node_98",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_35",
+            "source": "node_138",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_181",
+            "source": "node_165",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_210",
+            "source": "node_178",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_210",
+            "source": "node_179",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_210",
+            "source": "node_180",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_213",
+            "source": "node_204",
+            "target": "node_213",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_198",
+            "source": "node_239",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_203",
+            "source": "node_241",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_208",
+            "source": "node_242",
+            "target": "node_208",
+            "type": "step"
+        }
+    ]
+}

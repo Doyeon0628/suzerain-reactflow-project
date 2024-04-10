@@ -1,0 +1,754 @@
+{
+    "nodes": [
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Deana! How is school?\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDeana shrugged."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Where's your mother?\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"They might be.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm starting to get suspicious of them, to be honest.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Sorry I'm late. I was with Sheyna. We were, uh, studying.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You *know* those brats? I was going to ask the guards to have them tear-gassed.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFranc glared at me. He looked like he was about to say something else, but then Deana came down the stairs."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe flung his backpack in a corner and sprawled out in a chair."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe flung his backpack in a corner and sprawled out in a chair."
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Shit, Dad, that parade was a close call. I thought the ball was bad...\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It wasn't a 'close call' for Serge.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The past four years have been the hardest in my life.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"As a first step towards that, I'm retiring from politics at the end of this term.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"But right now, there's no time. We need to get out of Sordland. All of us.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I swear to you all, once I'm retired things will go back to the way they used to be.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"My retirement from politics is going to be the best thing that ever happened to us.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEveryone turned to look at me in shock."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDeana frowned."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Deana\n\n\"Mama? Is that true?\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Deana\n\n\"I'm not surprised, Franc. He hasn't been living in the house for weeks.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Monica, we were going to wait until after the election.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"You're not even running anymore. Why should it matter?\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"All right. I'm leaving tomorrow.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Dad, where are you going to go?\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTears appeared in Monica's eyes."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Monica, we were going to wait until after the election.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fine. But I'm not retiring. History will remember me as the best leader Sordland ever had.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_237",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFranc and Deana were still sitting at the table, looking uncomfortable."
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica sighed heavily."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Uh, I guess... I'll call you soon, Dad.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_252",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFranc and Deana were still sitting at the table, looking uncomfortable."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_253",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Kids, don't listen to her. Everything's going to work out.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_254",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Monica, didn't you hear a word I said? I'm putting politics behind me so we can be a family again.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Monica, we were going to wait until after the election.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_257",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"That was the plan before I learned the truth about what you'd done with your time in office. Along with the rest of Sordland.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_261",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Mom, can't you give him a chance? Things were pretty good before, weren't they?\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_262",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"I'm sorry, Anton. This dinner was a mistake. I think you should go.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_266",
+            "type": "customNode",
+            "data": {
+                "label": "Deana\n\n\"Yeah. I will too!\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica sighed heavily."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Monica, we were going to wait until after the election.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_292",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica refused to meet my gaze. I wondered if this was the last time I would see her -- or any of them."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I swear to you all, I'll learn from my mistakes during the next administration.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_306",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I never thought I would be a pariah.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e17_to_33",
+            "source": "node_17",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_36",
+            "source": "node_21",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_22",
+            "source": "node_32",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_84",
+            "source": "node_62",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_86",
+            "source": "node_64",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_101",
+            "source": "node_66",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_101",
+            "source": "node_68",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_102",
+            "source": "node_82",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_102",
+            "source": "node_83",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_61",
+            "source": "node_84",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_71",
+            "source": "node_85",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_96",
+            "source": "node_87",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_116",
+            "source": "node_111",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_271",
+            "source": "node_120",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_171",
+            "source": "node_121",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_299",
+            "source": "node_125",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_244",
+            "source": "node_126",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_244",
+            "source": "node_127",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_155",
+            "source": "node_141",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_163",
+            "source": "node_156",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_164",
+            "source": "node_168",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_210",
+            "source": "node_171",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_194",
+            "source": "node_182",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_303",
+            "source": "node_188",
+            "target": "node_303",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_295",
+            "source": "node_189",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_296",
+            "source": "node_202",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_218",
+            "source": "node_219",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_238",
+            "source": "node_231",
+            "target": "node_238",
+            "type": "step"
+        },
+        {
+            "id": "e237_to_2",
+            "source": "node_237",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_297",
+            "source": "node_243",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_262",
+            "source": "node_247",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e252_to_263",
+            "source": "node_252",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e253_to_248",
+            "source": "node_253",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e254_to_265",
+            "source": "node_254",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_265",
+            "source": "node_255",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e257_to_248",
+            "source": "node_257",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e261_to_247",
+            "source": "node_261",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e262_to_250",
+            "source": "node_262",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e266_to_257",
+            "source": "node_266",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_297",
+            "source": "node_270",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_275",
+            "source": "node_281",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e292_to_294",
+            "source": "node_292",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_304",
+            "source": "node_297",
+            "target": "node_304",
+            "type": "step"
+        },
+        {
+            "id": "e306_to_122",
+            "source": "node_306",
+            "target": "node_122",
+            "type": "step"
+        }
+    ]
+}

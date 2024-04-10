@@ -1,0 +1,533 @@
+{
+    "nodes": [
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Our priority will be the investigation of the Court. We'll start working on a defence.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We proved our capabilities already. Now we are ready to enact more reforms.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Next, I will start campaigning for a transition to parliamentary democracy.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Soon I'll be enacting major reforms with my new powers.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas spread out her arms and looked at me in disbelief."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe cabinet looked at me with curiosity."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"This is getting ridiculous, Mr. President.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"I believe the decision that led to these investigations was taken without the counsel of Council of Ministers.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will campaign for the transition into a parliamentary system.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia spread out her arms and looked at me in disbelief. Just as she was about to speak, Lileas jumped in."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We will continue our privatization and fully integrate Sordland into the free market.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will hear no discussions. This will be our focus.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"This is getting ridiculous, Mr. President.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You can try to stop me. Don't forget that you are working for me.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You are hurting me, Mrs. Morgna. Do you really see me as an authoritarian?\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I see. Further destruction of our economy.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDeivid looked at Gus."
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"I fully support rewriting the whole Constitution and establish a more democratic parliamentary system in Sordland.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Yes, Mr. President. I will no longer be silent about it.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Whatever you say, *Mr. President*.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Why can't you be more like Lucian, Mrs. Walda?\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian nodded in agreement."
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Frankly, I don't care what you think. Our focus has been decided.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian stepped up."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you Lucian. Please make sure the whole team is on the same page with us.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"With all due respect, I'm not going to respond to that.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian nodded. Nobody else responded."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"Yes sir. It is of utmost importance.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I want to establish peace talks with the group.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"As you wish.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"They are fighting us because the state has never listened to them before.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e11_to_34",
+            "source": "node_11",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_36",
+            "source": "node_18",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_129",
+            "source": "node_30",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_40",
+            "source": "node_31",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_49",
+            "source": "node_39",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_114",
+            "source": "node_41",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_54",
+            "source": "node_42",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_64",
+            "source": "node_48",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_81",
+            "source": "node_54",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_91",
+            "source": "node_60",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_68",
+            "source": "node_62",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_91",
+            "source": "node_64",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_90",
+            "source": "node_65",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_89",
+            "source": "node_71",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_98",
+            "source": "node_72",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_95",
+            "source": "node_87",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_44",
+            "source": "node_90",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_44",
+            "source": "node_95",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_90",
+            "source": "node_99",
+            "target": "node_90",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_44",
+            "source": "node_111",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_95",
+            "source": "node_112",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_44",
+            "source": "node_114",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_44",
+            "source": "node_116",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_112",
+            "source": "node_117",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_113",
+            "source": "node_119",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_115",
+            "source": "node_121",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_116",
+            "source": "node_123",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_116",
+            "source": "node_124",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_130",
+            "source": "node_127",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_126",
+            "source": "node_129",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_44",
+            "source": "node_137",
+            "target": "node_44",
+            "type": "step"
+        }
+    ]
+}

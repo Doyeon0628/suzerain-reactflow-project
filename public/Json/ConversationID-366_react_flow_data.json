@@ -1,0 +1,4579 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nStanding on a remote mountain plateau outside of Naeal, the Silver Garrison was the headquarters of the Derdian government as well as the dwelling place of its leader, Supreme Wiseman Jorga Azmal."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"These are Seekers, Your Majesty. It is said that through their physical labor, they will gain the mental clarity they need to begin their pursuit of Golconda.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Welcome to the Silver Garrison, Your Majesty.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am humbled to be here, Mr. Azmal.\""
+            },
+            "position": {
+                "x": 42120,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Your men are strong, Battle-ready.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"The honor is mine. Never before has any king of Rizia been such a friend to the Golcondists.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"They still have far to go. But thank you.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"We must always be prepared for battle, Your Majesty. But I don't have to tell you that.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're speaking to Romus the Generous here. Bring it on.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I know better than to engage Golcondists in a duel, Mr. Supreme Wiseman.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I have read of this ceremony, Your Majesty. It is a polite show of skill, not an all-out fight.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"No. I will serve as my own champion.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I will be represented by Loran. His participation in this duel shall be his final challenge before his ascension to the rank of Adept.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Your Majesty... This man looks like trouble. Even for me.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal nudged Titus forward. The captain bowed."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"He wouldn't dare hurt the King of Rizia. I'm safe.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI walked over to him."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA short while later, another gong sounded. The Disciples formed a tight circle around Titus and the man Jorga Azmal had called Loran."
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe stepped back into the circle. He and the Disciples began a slow, deep-voiced chant in Derdian as Titus and Loran bowed to one another."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLoran weakly held his hands in front of his face, attempting to concede. Titus ignored him and delivered a final, brutal punch to the jaw."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal signaled for the chanting to stop. He and his champion looked at each other, their triumph mixed with confusion."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe ten minutes were nearing their end. With a glance at me, Titus casually switched his stance from right to left, throwing his opponent off guard and allowing him to land a decisive blow to the jaw."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLoran shook it off and smiled. He held both hands up in the air, signalling his concession."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith disappointment in his eyes, Titus held both hands up in the air, signalling his concession."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took his disciple's hands and kissed him tenderly on the lips. The surrounding crowd erupted into cheers."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Loran, you may not have won, but you are still my champion. You will make a fine Adept.\""
+            },
+            "position": {
+                "x": 52110,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"There's something beautiful about it.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's not my cup of tea. But I won't disparage their culture.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, Titus, what the hell happened?\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Your champion played dirty, Mr. Azmal. He doesn't deserve to become an Adept.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Your man played dirty, Mr. Azmal. He doesn't deserve to become an Adept.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTitus looked around uneasily."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And quite rightly so. It doesn't go against the teachings of St. Wruhec for a man to love another man.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"In most interpretations, it does. The Golcondists' belief in the sanctity of same-sex bonds is quite... unorthodox.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Indeed. Beautiful, isn't it?\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Forgive me, Supreme Wiseman. I got carried away.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe raised an arm, and the Disciples began dispersing."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBut he completed it too slowly. The fraction of a second was just long enough for Loran to land a decisive blow to his jaw."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe turned our attention back to Azmal. The Disciples had begun to disperse."
+            },
+            "position": {
+                "x": 5670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Both are a mockery of Wruhecist values.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"You wanted to talk, we will talk. But your brute must stay outside.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"An auspicious start to our meeting. This way, please.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTitus stood outside as Sal and I followed the Supreme Wiseman through a door at the base of the pillar."
+            },
+            "position": {
+                "x": 8370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The PM of Morella has asked me to speak to you regarding Derdia's violation of her country's borders.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_234",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I wish to strengthen the ties between our two nations.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_235",
+            "type": "customNode",
+            "data": {
+                "label": "Derdian Ban Discussion\n\nDerdian Ban Discussion"
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I see you are falling for Wehlen's lies.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Please understand, Supreme Wiseman. There are good people living in Zille who will suffer if our promises to Wehlen are broken.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_254",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Not to mention your acceptance of sinful man-on-man relations.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_266",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Very well. I will have the border ban on Derdian citizens lifted. But I still can't allow in Bluds from Wehlen.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_269",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Then I'm afraid we are done here.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal stood up. He stared at me coldly."
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_282",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"However, we still have to discuss the acceptance of Golcondists into Rizia's Wruhecist holy sites.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_284",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal grimaced."
+            },
+            "position": {
+                "x": 52110,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_285",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Of course not. In fact, we are allied with one of the Bludish Freedom Front's biggest supporters.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_292",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I care for the lives of my citizens, as you care for yours. Surely we can reach a compromise.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere were no tables or chairs, just a number of comfortable-looking cushions on the carpeted floor. Azmal gestured for us to sit."
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I would not presume to have your religious wisdom. But I do often seek the advice of Grand Wiseman Ignacius.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_308",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Wise words, Your Majesty.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal frowned, but said nothing."
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal nodded solemnly."
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_323",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"To be honest, I've been too busy with state matters to spend time perusing scripture.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Right now, I'm finding solace in 'Armaments of Faith: A Treatise on Battle Preparedness'.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"For every situation, there is a different treatise, Your Majesty.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_343",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"A mistake, Your Majesty. There is always something to learn from scripture, especially in the midst of chaos.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_345",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"However, if it was your people who led you to remove your predecessor's ridiculous blasphemy law, then I must commend them for their judgement.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_346",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Perhaps it was 'On the Embrace of Divine Differences' that led you to remove your predecessor's nonsensical blasphemy law.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal smiled."
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_356",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Your Grand Wiseman has advised you well, Your Majesty. Especially on the lifting of your predecessor's ridiculous blasphemy law.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Our border ban on Bluds and Derdians was not religiously motivated. It was a necessary political concession to Wehlen.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_360",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Our blasphemy laws were passed to protect Rizian Wruhecists' right to observe in peace. I will not apologize for putting my countrypeople's rights before yours.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_367",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Even worse. You are placating Wiktor Smolak, a man who denies Golcondists the right to exist in his country.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_368",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"How dare you presume to educate me on Wruhec's teachings, when your fanatical sect makes a mockery of them?\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_371",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"You would not have come here today if you did not want something from me.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Wruhec and his disciples traveled these lands long before our borders existed, Your Majesty. A worshipper's place of birth should not prohibit him from following the divine path.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_374",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I came up with that idea on my own. I confess it has not made me very popular.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"National borders should not be an obstacle in the path of the devout. That's just common sense.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Your so-called pilgrims were illegally occupying our sacred place of prayer. What else could I have done?\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_383",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Your words will only have meaning when they are followed with actions.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_384",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"It is you who are mocking our saint by refusing to accept the beliefs of others.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_385",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Soon, Your Majesty.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_390",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I do not agree with all aspects of your religion. But I will not interfere with your freedom to practice it.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_408",
+            "type": "customNode",
+            "data": {
+                "label": "Holy Sites Discussion\n\nHoly Sites Discussion"
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_419",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Still, I am pleased that you lifted your predecessor's ridiculous blasphemy law. Whether or not you were divinely motivated to do so.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_420",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"What is it that you would ask of me?\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_422",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If your people want to partake in our prosperity, they must assimilate. Those who seek freedom of religion are welcome to return to Derdia.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_426",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Prosperity? Your kingdom is at war.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I know the strife Rizia is facing. If you would see reason and lift this unjust ban, there is much we in Derdia can do to help you.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You speak of us as though we are a charity case. Is it not Derdia that has been clamoring to end its international isolation?\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_434",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"A truly prosperous kingdom respects the beliefs of all who dwell there, Your Majesty.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_440",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Doesn't enlightenment through violence directly contradict Wruhec's teachings?\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_441",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Go outside, Your Majesty. Ask the women in my community if they feel oppressed.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_442",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Who are we? We are custodians of the resting places of St. Wruhec's most cherished disciples. Therefore, we decide who enters.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_443",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We face no strife, Supreme Wiseman. When we conquer Pales, Rizia will be stronger and more prosperous than ever.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_452",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I cannot control what Derdians do in your country. But I will help you preserve order at the three Archsanctuaries to the extent that I am able.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_459",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I unfortunately have no choice. Mr. Azmal, I will nullify our blasphemy laws in exchange for your country's aid.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_460",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"But I suspect your law has never been only about overcrowding.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_469",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Yet: 'For men or women to stray from the role bestowed on them by the Divine is like the sun blazing at night, or the moon at noon.'\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_475",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My Grand Wiseman speaks the truth as always.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_487",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"If you do not lift this ban, any relationship Derdia has with Rizia will be strictly transactional in nature. If that.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_488",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Every Wruhecist should have the right to tread the same ground our saints once did. Especially those Derdians already living in Rizia.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_492",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe sighed."
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_498",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have allowed your words to poison me for long enough, Grand Wiseman. I am lifting our blasphemy law.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_501",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We must respect our fellow Wruhecists' beliefs. Supreme Wiseman, my kingdom will do as you ask.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_502",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Poison? I--\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_503",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I see, Your Majesty. I will give the order to our Archbishops. We will have Plavo, Benievon and Jales open to Golcondists within a week.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_507",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"There will be no influx. Our laws are staying the same.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_512",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, I agree. I'm sorry, Supreme Wiseman. I cannot do as you ask.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_514",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Thank you, Your Majesty.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_519",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis eyes darkened. He struggled to keep his expression neutral."
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_520",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal struggled to keep his expression neutral."
+            },
+            "position": {
+                "x": 24570,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_524",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe looked at me coldly."
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_530",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Now, Your Majesty. What is it you want?\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_531",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis face tensed."
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_533",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"That will be all for today, Your Majesty.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_539",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Is there anything else you would ask of me?\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_546",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have no requests. I only came here so I could see the Silver Garrison for myself.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_557",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I would not ask anything more of you, Supreme Wiseman.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_558",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Now that you've said it, I would kindly ask that you get out of my compound.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_559",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"To gawk at my followers, as you would animals in a zoo?\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_562",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Then we are done.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_570",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis eyes were fixed on Sal."
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_579",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Is there anything else you would ask of me?\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_597",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It is beautiful. I wish we had such places back home.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_598",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's certainly different from the way we live in Rizia. But I understand why people are drawn to it.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_606",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"It is not too late to repent, Supreme Wiseman.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_609",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe gestured towards the door. Sal stood and looked him in the eye."
+            },
+            "position": {
+                "x": 29970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_613",
+            "type": "customNode",
+            "data": {
+                "label": "Unfriendly Exit\n\nUnfriendly Exit"
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_614",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe and Sal exchanged short bows."
+            },
+            "position": {
+                "x": 27000,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_616",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOutside, we encountered Titus and Loran. The Derdian fighter was coaching my bodyguard as he swung a wooden practice sword."
+            },
+            "position": {
+                "x": 29970,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_617",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Should you embrace the one true form of Wruhecism, we will happily invite you to view the restored Plavo Archsanctuary.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_623",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn seeing us, both men abruptly stopped what they were doing and snapped to attention."
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_624",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOutside, Titus was sitting by himself, his eyes on the group of Disciples exercising some distance away."
+            },
+            "position": {
+                "x": 29700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_626",
+            "type": "customNode",
+            "data": {
+                "label": "Semifriendly Exit\n\nSemifriendly Exit"
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_628",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But I have another favor to ask.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_631",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Splendid. That was all I wanted from you, anyway.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_633",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The Lord will smile on what we have accomplished today.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_635",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe stood and made our way back up the stairs."
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_640",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOutside, we encountered Titus and Loran. The Derdian fighter was coaching my bodyguard as he swung a wooden practice sword."
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_643",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn seeing us, both men abruptly stopped what they were doing and snapped to attention."
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_651",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTitus began swinging the sword in a slow, graceful figure eight pattern, then unexpectedly thrust it forward."
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_652",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal reached out his hand to me."
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_654",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And you are welcome at Palas Rezna, once my country is again at peace.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_659",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI stepped closer to Azmal and kissed him on the lips."
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_665",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe sounds of sung hymns and clashing swords accompanied us as we made our way out of the compound."
+            },
+            "position": {
+                "x": 36720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_666",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It's very... interesting.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_671",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Your Majesty. Shall we go?\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_672",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, we've gotten what we came for.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_673",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, we've wasted enough time here.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_677",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Not so fast. I want to see what he's teaching you.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_681",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTitus swung the wooden sword over his head in a graceful figure eight pattern."
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_683",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Ah, the Anata Strike. The piercing of universal truth through the cycle of infinity.\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_684",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It is not too late to repent, Supreme Wiseman.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_687",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Likewise.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_689",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hope to see you in Porte Drazon soon.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_691",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI pulled him closer and kissed him on the lips."
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_692",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe quickly stepped back in outrage."
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_697",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I am sorry that I could not provide you with the help you seek.\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_698",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe nodded and came over to join us."
+            },
+            "position": {
+                "x": 36450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_700",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal extended his hand to me."
+            },
+            "position": {
+                "x": 34830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_701",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShock blossomed on his face, slowly replaced with a dawning realization."
+            },
+            "position": {
+                "x": 34830,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_703",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nHe returned my handshake with a firm grip."
+            },
+            "position": {
+                "x": 36720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_704",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Please don't mock our sacred traditions, Your Majesty.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_709",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShock blossomed on his face, slowly replaced with a dawning realization."
+            },
+            "position": {
+                "x": 37260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_711",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nHe returned my handshake with a firm grip."
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_712",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"But of course, so is most of Golcondism...\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_717",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Does the Lord have any tips for me, Grand Wiseman?\""
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_720",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy bodyguard spoke in a near-whisper."
+            },
+            "position": {
+                "x": 37530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_724",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Supreme Wiseman stepped between us."
+            },
+            "position": {
+                "x": 37800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_726",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"The duel will last 10 minutes, or until one opponent acknowledges the other's superior skill in combat. Should a fighter draw blood, the duel will be called off immediately, its results void before the Lord.\""
+            },
+            "position": {
+                "x": 37530,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_728",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe stepped back into the circle. He and the Disciples began a slow, deep-voiced chant in Derdian as Loran and I bowed to each other."
+            },
+            "position": {
+                "x": 38070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_730",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I confess that I do not know what to expect, Your Majesty. I have studied Golcondist compounds like these excessively, but never been allowed inside.\""
+            },
+            "position": {
+                "x": 38340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_734",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The Derdians must be happy that Rizia has adopted a more tolerant stance towards their religion.\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_735",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Thinking of converting, Grand Wiseman?\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_736",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Rizia considers their religion blasphemous. We can't expect a warm welcome.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_737",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Forget their communities. I want their weaponry.\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_740",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Let's hope it's a quick visit. I can smell the heresy from here.\""
+            },
+            "position": {
+                "x": 39690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_748",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I do not approve of their warrior culture. But it may indeed be useful in our struggle against Pales.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_750",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Yes, we have gone far to appease them. Perhaps too far.\""
+            },
+            "position": {
+                "x": 40230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_751",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Never. I still dream of the day when our brethren return to the fold.\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_752",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Even if we tolerated Golcondists, I suspect the Derdians would still not be satisfied.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_753",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Do not be so dismissive, Your Majesty. They may yet be convinced to return to the fold.\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_754",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am surprised you studied a religion that you despise so much.\""
+            },
+            "position": {
+                "x": 40500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_761",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"The Disciples. They practice purification of the spirit through strict martial arts regimens.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_762",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I bet Titus could take them all on.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_764",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I know a few Palesians whose spirit they could purify.\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_769",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Where are the Adepts?\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_772",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Adepts work mainly in the spiritual and intellectual realm. They make up the majority of Azmal's council.\""
+            },
+            "position": {
+                "x": 41580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_776",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe emerged into the center of the Garrison. In front of the pillar was a training ground the size of a football field, flanked on either side by white marble temples."
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_778",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nJorga Azmal, dressed in the same robes I'd seen him wear at the Alliance of Nations, stepped out from their midst."
+            },
+            "position": {
+                "x": 42120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_779",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis smile curdled as he turned to Sal."
+            },
+            "position": {
+                "x": 42120,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_784",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Likewise, Supreme Wiseman. Will your Disciples be treating us to a prayer ceremony?\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_786",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"For this special occasion, I had something different in mind. A traditional Derdian Duel of Generosity.\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_798",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I have read of this ceremony, Your Majesty. It need not be you who participates.\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_799",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"A duel? Only if you are prepared to lose.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_800",
+            "type": "customNode",
+            "data": {
+                "label": "Prayer\n\nPrayer"
+            },
+            "position": {
+                "x": 42930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_801",
+            "type": "customNode",
+            "data": {
+                "label": "Friendly Exit\n\nFriendly Exit"
+            },
+            "position": {
+                "x": 8910,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_802",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal bowed his head. He motioned for his Disciples to kneel."
+            },
+            "position": {
+                "x": 33750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_803",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Do you have a specific prayer in mind, Your Majesty?\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_804",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, I do.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_807",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I do not. But my Grand Wiseman has a few words prepared.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_808",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal nodded solemnly."
+            },
+            "position": {
+                "x": 8910,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_812",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Dearly beloved, we have gathered here today to get through this thing called life.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_813",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If I only could, I'd make a deal with God, and I'd get Him to swap our places.\""
+            },
+            "position": {
+                "x": 43740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_814",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal nodded solemnly."
+            },
+            "position": {
+                "x": 44010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_815",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"O Lord, bless the blasphemers, for they too stand beneath the canopy of your boundless compassion.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_818",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"May our hands be steady and our aim be true as we strive to restore the balance of justice you have set forth. Let our struggle be righteous in your eyes, and our victories a testament to Your guiding light.\""
+            },
+            "position": {
+                "x": 44280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_819",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"O Lord, bless the blasphemers, for they too stand beneath the canopy of your boundless compassion.\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_820",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"O Sovereign of the Heavens, who arms the faithful with courage, bless our crusade as we march beneath the banner of your sacred decree.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_822",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Halaita.\""
+            },
+            "position": {
+                "x": 46980,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_823",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"A little harsh.\""
+            },
+            "position": {
+                "x": 45090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_824",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In their defiance, may they find the road to enlightenment, and in your benevolence, may they be guided back to the sanctuary of truth.\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_825",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"God, grant us the serenity to accept the things we cannot change, the courage to change the things we can, and the wisdom to know the difference.\""
+            },
+            "position": {
+                "x": 44820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_826",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"O Sovereign of the Heavens, who arms the faithful with courage, bless our crusade as we march beneath the banner of your sacred decree.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_827",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"A little harsh.\""
+            },
+            "position": {
+                "x": 45900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_828",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"May our hands be steady and our aim be true as we strive to restore the balance of justice you have set forth. Let our struggle be righteous in your eyes, and our victories a testament to Your guiding light.\""
+            },
+            "position": {
+                "x": 44280,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_829",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe looked slowly at Sal, then at me."
+            },
+            "position": {
+                "x": 45900,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_830",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"O eternal spirit of peace and wisdom, we come before you in a humble quest for harmony.\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_834",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe two holy men exchanged smiles."
+            },
+            "position": {
+                "x": 46440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_836",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSal mouthed the words along with me as I finished the prayer. Azmal eyed me sternly."
+            },
+            "position": {
+                "x": 46710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_839",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"An interesting choice.\""
+            },
+            "position": {
+                "x": 46980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_841",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Well chosen, Your Majesty.\""
+            },
+            "position": {
+                "x": 47250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_844",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"Not what I would have selected. But thank you, Supreme Wiseman.\""
+            },
+            "position": {
+                "x": 45090,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_846",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Most obscure indeed.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_851",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Halaita.\""
+            },
+            "position": {
+                "x": 45090,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_854",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe hand-to-hand combat training I'd received in the military was useless against his technique."
+            },
+            "position": {
+                "x": 47520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_864",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYet somehow, miraculously, I was holding my own against the Derdian fighter."
+            },
+            "position": {
+                "x": 38340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_865",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI threw a right hook. He winced as it landed on his shoulder, then smiled."
+            },
+            "position": {
+                "x": 47790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_866",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI threw a jab with my left hand. It hit his shoulder, and he staggered backwards slightly with a smile."
+            },
+            "position": {
+                "x": 48060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_867",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI attempted a roundhouse kick with my good leg. He twisted just in time for my foot to hit his shoulder. He winced, then smiled."
+            },
+            "position": {
+                "x": 48330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_868",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Oh, come on! Is that all you've got?\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_869",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That one was for Rizia!\""
+            },
+            "position": {
+                "x": 48870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_871",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe continued sparring, Loran mostly dodging my blows with ease but occasionally allowing one or two to land."
+            },
+            "position": {
+                "x": 48600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_875",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI said nothing and concentrated on our duel."
+            },
+            "position": {
+                "x": 49140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_876",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLoran smiled uncomfortably. He stepped back and performed a flashy spin kick that missed my face by just a few centimeters."
+            },
+            "position": {
+                "x": 49410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_877",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"FUCK YOUR GOD AND HIT ME! THE KING COMMANDS IT!\""
+            },
+            "position": {
+                "x": 49680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_878",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShock mixed with rage on the Derdian's face. His fist felt like a brick as it connected with the side of my face."
+            },
+            "position": {
+                "x": 49950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_879",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLoran didn't respond. He kept fighting much the same as before."
+            },
+            "position": {
+                "x": 50220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_880",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nWhile his back was still turned, I threw my most forceful punch yet."
+            },
+            "position": {
+                "x": 49140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_881",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe took it on the ribcage with grace and allowed himself to collapse to the ground, holding up both hands in a sign of concession."
+            },
+            "position": {
+                "x": 50490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_882",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA searing jolt of pain radiated through my skull. I collapsed to the ground."
+            },
+            "position": {
+                "x": 50760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_883",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I concede!\""
+            },
+            "position": {
+                "x": 50220,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_884",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Stop the duel!\""
+            },
+            "position": {
+                "x": 51030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_885",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI allowed his punch to land on my ribcage."
+            },
+            "position": {
+                "x": 51300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_886",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI allowed myself to fall to the ground, holding my hands up in a sign of concession."
+            },
+            "position": {
+                "x": 49140,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_887",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAzmal signaled for the circle to stop chanting. He gleefully applauded."
+            },
+            "position": {
+                "x": 51570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_889",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"You fought beautifully, Your Majesty. This bodes well for our two countries.\""
+            },
+            "position": {
+                "x": 51570,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_891",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"The Lord has blessed us with a beautiful fight. Very well done, Your Majesty.\""
+            },
+            "position": {
+                "x": 51840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_893",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'm not done yet!\""
+            },
+            "position": {
+                "x": 52110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_895",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe chanting ceased as Azmal rushed to my side."
+            },
+            "position": {
+                "x": 51300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_896",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It was my fault. I shouldn't have taunted him.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_898",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I admit I was shocked at your disrespect, Your Majesty. But a true Golcondist does not give in to his emotions so easily.\""
+            },
+            "position": {
+                "x": 52380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_899",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Redemption may often be found through pain, Your Majesty. Though I admit I was shocked at your show of disrespect.\""
+            },
+            "position": {
+                "x": 52650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_904",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA Disciple ran over with a medical kit. Once my wound was cleaned and dressed, Azmal helped me to my feet."
+            },
+            "position": {
+                "x": 52650,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_905",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Enough!\""
+            },
+            "position": {
+                "x": 53190,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_906",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"You have failed today's challenge, my champion. Your ascension will come another day.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_907",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI attempted a roundhouse kick. He twisted just in time for my foot to hit his shoulder. He winced, then smiled."
+            },
+            "position": {
+                "x": 53190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_912",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter a lengthy drive up steep, curving roads, our motorcade parked just outside the Garrison's gates. Titus and I met Sal as we exited our respective vehicles."
+            },
+            "position": {
+                "x": 8370,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_913",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe ten minutes were almost up. My opponent turned his back briefly to prepare for his next move."
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_914",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"A brave proposition.\""
+            },
+            "position": {
+                "x": 49140,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_915",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Lo, for He did say: Keep running up that road, running up that hill, running up that building.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_916",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Electric word, life. It means forever, and that's a mighty long time. But I'm here to tell you, there's something else.\""
+            },
+            "position": {
+                "x": 44010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_917",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"There's nothing I can do now to right my wrongs. I want to talk with God, but I'm afraid, because we haven't spoke in so long.\""
+            },
+            "position": {
+                "x": 43740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_918",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy dealings with Derdia were far from over. But I wondered if I would ever see the Silver Garrison again."
+            },
+            "position": {
+                "x": 46980,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_931",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I know a few Wehzeks whose spirit they could purify.\""
+            },
+            "position": {
+                "x": 53460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_932",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"So, Grand Wiseman. We finally meet.\""
+            },
+            "position": {
+                "x": 41850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_934",
+            "type": "customNode",
+            "data": {
+                "label": "Sal Ignacius\n\n\"I have faith they can still be saved.\""
+            },
+            "position": {
+                "x": 53730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_939",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hope Azmal's men didn't give you any trouble while we were gone.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_941",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What's the rush?\""
+            },
+            "position": {
+                "x": 54000,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_946",
+            "source": "node_1",
+            "target": "node_946",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_913",
+            "source": "node_4",
+            "target": "node_913",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_762",
+            "source": "node_21",
+            "target": "node_762",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_779",
+            "source": "node_24",
+            "target": "node_779",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_39",
+            "source": "node_26",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_386",
+            "source": "node_28",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_781",
+            "source": "node_37",
+            "target": "node_781",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_781",
+            "source": "node_43",
+            "target": "node_781",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_790",
+            "source": "node_47",
+            "target": "node_790",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_799",
+            "source": "node_48",
+            "target": "node_799",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_797",
+            "source": "node_50",
+            "target": "node_797",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_111",
+            "source": "node_59",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_203",
+            "source": "node_62",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_915",
+            "source": "node_67",
+            "target": "node_915",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_82",
+            "source": "node_68",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_204",
+            "source": "node_75",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_713",
+            "source": "node_91",
+            "target": "node_713",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_69",
+            "source": "node_111",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_951",
+            "source": "node_115",
+            "target": "node_951",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_958",
+            "source": "node_127",
+            "target": "node_958",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_166",
+            "source": "node_132",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_955",
+            "source": "node_140",
+            "target": "node_955",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_207",
+            "source": "node_142",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_200",
+            "source": "node_144",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_284",
+            "source": "node_153",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_168",
+            "source": "node_154",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_284",
+            "source": "node_155",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_935",
+            "source": "node_157",
+            "target": "node_935",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_189",
+            "source": "node_164",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_194",
+            "source": "node_165",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_193",
+            "source": "node_166",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_188",
+            "source": "node_167",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_171",
+            "source": "node_181",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_208",
+            "source": "node_183",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_208",
+            "source": "node_184",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_220",
+            "source": "node_195",
+            "target": "node_220",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_803",
+            "source": "node_205",
+            "target": "node_803",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_912",
+            "source": "node_206",
+            "target": "node_912",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_145",
+            "source": "node_207",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_227",
+            "source": "node_208",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_226",
+            "source": "node_218",
+            "target": "node_226",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_912",
+            "source": "node_226",
+            "target": "node_912",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_912",
+            "source": "node_227",
+            "target": "node_912",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_396",
+            "source": "node_233",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e234_to_551",
+            "source": "node_234",
+            "target": "node_551",
+            "type": "step"
+        },
+        {
+            "id": "e235_to_572",
+            "source": "node_235",
+            "target": "node_572",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_249",
+            "source": "node_244",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_259",
+            "source": "node_248",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e254_to_275",
+            "source": "node_254",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e266_to_262",
+            "source": "node_266",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e269_to_948",
+            "source": "node_269",
+            "target": "node_948",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_948",
+            "source": "node_270",
+            "target": "node_948",
+            "type": "step"
+        },
+        {
+            "id": "e282_to_421",
+            "source": "node_282",
+            "target": "node_421",
+            "type": "step"
+        },
+        {
+            "id": "e284_to_154",
+            "source": "node_284",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e285_to_178",
+            "source": "node_285",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e292_to_254",
+            "source": "node_292",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_254",
+            "source": "node_294",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_307",
+            "source": "node_297",
+            "target": "node_307",
+            "type": "step"
+        },
+        {
+            "id": "e308_to_326",
+            "source": "node_308",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_346",
+            "source": "node_313",
+            "target": "node_346",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_353",
+            "source": "node_314",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e323_to_339",
+            "source": "node_323",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_316",
+            "source": "node_326",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_382",
+            "source": "node_338",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e343_to_382",
+            "source": "node_343",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e345_to_340",
+            "source": "node_345",
+            "target": "node_340",
+            "type": "step"
+        },
+        {
+            "id": "e346_to_391",
+            "source": "node_346",
+            "target": "node_391",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_420",
+            "source": "node_350",
+            "target": "node_420",
+            "type": "step"
+        },
+        {
+            "id": "e356_to_382",
+            "source": "node_356",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_391",
+            "source": "node_357",
+            "target": "node_391",
+            "type": "step"
+        },
+        {
+            "id": "e360_to_358",
+            "source": "node_360",
+            "target": "node_358",
+            "type": "step"
+        },
+        {
+            "id": "e367_to_383",
+            "source": "node_367",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e368_to_383",
+            "source": "node_368",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e371_to_369",
+            "source": "node_371",
+            "target": "node_369",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_495",
+            "source": "node_373",
+            "target": "node_495",
+            "type": "step"
+        },
+        {
+            "id": "e374_to_383",
+            "source": "node_374",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_394",
+            "source": "node_375",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_393",
+            "source": "node_376",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e383_to_373",
+            "source": "node_383",
+            "target": "node_373",
+            "type": "step"
+        },
+        {
+            "id": "e384_to_383",
+            "source": "node_384",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e385_to_383",
+            "source": "node_385",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e390_to_233",
+            "source": "node_390",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e408_to_589",
+            "source": "node_408",
+            "target": "node_589",
+            "type": "step"
+        },
+        {
+            "id": "e419_to_417",
+            "source": "node_419",
+            "target": "node_417",
+            "type": "step"
+        },
+        {
+            "id": "e420_to_387",
+            "source": "node_420",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e422_to_409",
+            "source": "node_422",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e426_to_433",
+            "source": "node_426",
+            "target": "node_433",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_461",
+            "source": "node_432",
+            "target": "node_461",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_445",
+            "source": "node_433",
+            "target": "node_445",
+            "type": "step"
+        },
+        {
+            "id": "e434_to_451",
+            "source": "node_434",
+            "target": "node_451",
+            "type": "step"
+        },
+        {
+            "id": "e440_to_462",
+            "source": "node_440",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e441_to_465",
+            "source": "node_441",
+            "target": "node_465",
+            "type": "step"
+        },
+        {
+            "id": "e442_to_464",
+            "source": "node_442",
+            "target": "node_464",
+            "type": "step"
+        },
+        {
+            "id": "e443_to_474",
+            "source": "node_443",
+            "target": "node_474",
+            "type": "step"
+        },
+        {
+            "id": "e452_to_516",
+            "source": "node_452",
+            "target": "node_516",
+            "type": "step"
+        },
+        {
+            "id": "e459_to_509",
+            "source": "node_459",
+            "target": "node_509",
+            "type": "step"
+        },
+        {
+            "id": "e460_to_515",
+            "source": "node_460",
+            "target": "node_515",
+            "type": "step"
+        },
+        {
+            "id": "e469_to_443",
+            "source": "node_469",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e475_to_480",
+            "source": "node_475",
+            "target": "node_480",
+            "type": "step"
+        },
+        {
+            "id": "e487_to_417",
+            "source": "node_487",
+            "target": "node_417",
+            "type": "step"
+        },
+        {
+            "id": "e488_to_417",
+            "source": "node_488",
+            "target": "node_417",
+            "type": "step"
+        },
+        {
+            "id": "e492_to_514",
+            "source": "node_492",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e498_to_571",
+            "source": "node_498",
+            "target": "node_571",
+            "type": "step"
+        },
+        {
+            "id": "e501_to_555",
+            "source": "node_501",
+            "target": "node_555",
+            "type": "step"
+        },
+        {
+            "id": "e502_to_515",
+            "source": "node_502",
+            "target": "node_515",
+            "type": "step"
+        },
+        {
+            "id": "e503_to_520",
+            "source": "node_503",
+            "target": "node_520",
+            "type": "step"
+        },
+        {
+            "id": "e507_to_964",
+            "source": "node_507",
+            "target": "node_964",
+            "type": "step"
+        },
+        {
+            "id": "e512_to_525",
+            "source": "node_512",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e514_to_949",
+            "source": "node_514",
+            "target": "node_949",
+            "type": "step"
+        },
+        {
+            "id": "e519_to_514",
+            "source": "node_519",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e520_to_504",
+            "source": "node_520",
+            "target": "node_504",
+            "type": "step"
+        },
+        {
+            "id": "e524_to_490",
+            "source": "node_524",
+            "target": "node_490",
+            "type": "step"
+        },
+        {
+            "id": "e530_to_960",
+            "source": "node_530",
+            "target": "node_960",
+            "type": "step"
+        },
+        {
+            "id": "e531_to_501",
+            "source": "node_531",
+            "target": "node_501",
+            "type": "step"
+        },
+        {
+            "id": "e533_to_614",
+            "source": "node_533",
+            "target": "node_614",
+            "type": "step"
+        },
+        {
+            "id": "e539_to_534",
+            "source": "node_539",
+            "target": "node_534",
+            "type": "step"
+        },
+        {
+            "id": "e546_to_559",
+            "source": "node_546",
+            "target": "node_559",
+            "type": "step"
+        },
+        {
+            "id": "e557_to_600",
+            "source": "node_557",
+            "target": "node_600",
+            "type": "step"
+        },
+        {
+            "id": "e558_to_563",
+            "source": "node_558",
+            "target": "node_563",
+            "type": "step"
+        },
+        {
+            "id": "e559_to_562",
+            "source": "node_559",
+            "target": "node_562",
+            "type": "step"
+        },
+        {
+            "id": "e562_to_614",
+            "source": "node_562",
+            "target": "node_614",
+            "type": "step"
+        },
+        {
+            "id": "e570_to_334",
+            "source": "node_570",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e579_to_634",
+            "source": "node_579",
+            "target": "node_634",
+            "type": "step"
+        },
+        {
+            "id": "e597_to_667",
+            "source": "node_597",
+            "target": "node_667",
+            "type": "step"
+        },
+        {
+            "id": "e598_to_668",
+            "source": "node_598",
+            "target": "node_668",
+            "type": "step"
+        },
+        {
+            "id": "e606_to_614",
+            "source": "node_606",
+            "target": "node_614",
+            "type": "step"
+        },
+        {
+            "id": "e609_to_616",
+            "source": "node_609",
+            "target": "node_616",
+            "type": "step"
+        },
+        {
+            "id": "e613_to_625",
+            "source": "node_613",
+            "target": "node_625",
+            "type": "step"
+        },
+        {
+            "id": "e614_to_610",
+            "source": "node_614",
+            "target": "node_610",
+            "type": "step"
+        },
+        {
+            "id": "e616_to_938",
+            "source": "node_616",
+            "target": "node_938",
+            "type": "step"
+        },
+        {
+            "id": "e617_to_624",
+            "source": "node_617",
+            "target": "node_624",
+            "type": "step"
+        },
+        {
+            "id": "e623_to_609",
+            "source": "node_623",
+            "target": "node_609",
+            "type": "step"
+        },
+        {
+            "id": "e624_to_672",
+            "source": "node_624",
+            "target": "node_672",
+            "type": "step"
+        },
+        {
+            "id": "e626_to_672",
+            "source": "node_626",
+            "target": "node_672",
+            "type": "step"
+        },
+        {
+            "id": "e628_to_694",
+            "source": "node_628",
+            "target": "node_694",
+            "type": "step"
+        },
+        {
+            "id": "e631_to_581",
+            "source": "node_631",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e633_to_581",
+            "source": "node_633",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e635_to_581",
+            "source": "node_635",
+            "target": "node_581",
+            "type": "step"
+        },
+        {
+            "id": "e640_to_939",
+            "source": "node_640",
+            "target": "node_939",
+            "type": "step"
+        },
+        {
+            "id": "e643_to_802",
+            "source": "node_643",
+            "target": "node_802",
+            "type": "step"
+        },
+        {
+            "id": "e651_to_653",
+            "source": "node_651",
+            "target": "node_653",
+            "type": "step"
+        },
+        {
+            "id": "e652_to_683",
+            "source": "node_652",
+            "target": "node_683",
+            "type": "step"
+        },
+        {
+            "id": "e654_to_704",
+            "source": "node_654",
+            "target": "node_704",
+            "type": "step"
+        },
+        {
+            "id": "e659_to_925",
+            "source": "node_659",
+            "target": "node_925",
+            "type": "step"
+        },
+        {
+            "id": "e665_to_925",
+            "source": "node_665",
+            "target": "node_925",
+            "type": "step"
+        },
+        {
+            "id": "e666_to_944",
+            "source": "node_666",
+            "target": "node_944",
+            "type": "step"
+        },
+        {
+            "id": "e671_to_802",
+            "source": "node_671",
+            "target": "node_802",
+            "type": "step"
+        },
+        {
+            "id": "e672_to_942",
+            "source": "node_672",
+            "target": "node_942",
+            "type": "step"
+        },
+        {
+            "id": "e673_to_699",
+            "source": "node_673",
+            "target": "node_699",
+            "type": "step"
+        },
+        {
+            "id": "e677_to_674",
+            "source": "node_677",
+            "target": "node_674",
+            "type": "step"
+        },
+        {
+            "id": "e681_to_940",
+            "source": "node_681",
+            "target": "node_940",
+            "type": "step"
+        },
+        {
+            "id": "e683_to_653",
+            "source": "node_683",
+            "target": "node_653",
+            "type": "step"
+        },
+        {
+            "id": "e684_to_700",
+            "source": "node_684",
+            "target": "node_700",
+            "type": "step"
+        },
+        {
+            "id": "e687_to_685",
+            "source": "node_687",
+            "target": "node_685",
+            "type": "step"
+        },
+        {
+            "id": "e689_to_666",
+            "source": "node_689",
+            "target": "node_666",
+            "type": "step"
+        },
+        {
+            "id": "e691_to_666",
+            "source": "node_691",
+            "target": "node_666",
+            "type": "step"
+        },
+        {
+            "id": "e692_to_706",
+            "source": "node_692",
+            "target": "node_706",
+            "type": "step"
+        },
+        {
+            "id": "e697_to_615",
+            "source": "node_697",
+            "target": "node_615",
+            "type": "step"
+        },
+        {
+            "id": "e698_to_615",
+            "source": "node_698",
+            "target": "node_615",
+            "type": "step"
+        },
+        {
+            "id": "e700_to_701",
+            "source": "node_700",
+            "target": "node_701",
+            "type": "step"
+        },
+        {
+            "id": "e701_to_712",
+            "source": "node_701",
+            "target": "node_712",
+            "type": "step"
+        },
+        {
+            "id": "e703_to_665",
+            "source": "node_703",
+            "target": "node_665",
+            "type": "step"
+        },
+        {
+            "id": "e704_to_925",
+            "source": "node_704",
+            "target": "node_925",
+            "type": "step"
+        },
+        {
+            "id": "e709_to_666",
+            "source": "node_709",
+            "target": "node_666",
+            "type": "step"
+        },
+        {
+            "id": "e711_to_709",
+            "source": "node_711",
+            "target": "node_709",
+            "type": "step"
+        },
+        {
+            "id": "e712_to_666",
+            "source": "node_712",
+            "target": "node_666",
+            "type": "step"
+        },
+        {
+            "id": "e717_to_720",
+            "source": "node_717",
+            "target": "node_720",
+            "type": "step"
+        },
+        {
+            "id": "e720_to_726",
+            "source": "node_720",
+            "target": "node_726",
+            "type": "step"
+        },
+        {
+            "id": "e724_to_726",
+            "source": "node_724",
+            "target": "node_726",
+            "type": "step"
+        },
+        {
+            "id": "e726_to_725",
+            "source": "node_726",
+            "target": "node_725",
+            "type": "step"
+        },
+        {
+            "id": "e728_to_952",
+            "source": "node_728",
+            "target": "node_952",
+            "type": "step"
+        },
+        {
+            "id": "e730_to_864",
+            "source": "node_730",
+            "target": "node_864",
+            "type": "step"
+        },
+        {
+            "id": "e734_to_743",
+            "source": "node_734",
+            "target": "node_743",
+            "type": "step"
+        },
+        {
+            "id": "e735_to_751",
+            "source": "node_735",
+            "target": "node_751",
+            "type": "step"
+        },
+        {
+            "id": "e736_to_752",
+            "source": "node_736",
+            "target": "node_752",
+            "type": "step"
+        },
+        {
+            "id": "e737_to_753",
+            "source": "node_737",
+            "target": "node_753",
+            "type": "step"
+        },
+        {
+            "id": "e740_to_742",
+            "source": "node_740",
+            "target": "node_742",
+            "type": "step"
+        },
+        {
+            "id": "e748_to_738",
+            "source": "node_748",
+            "target": "node_738",
+            "type": "step"
+        },
+        {
+            "id": "e750_to_758",
+            "source": "node_750",
+            "target": "node_758",
+            "type": "step"
+        },
+        {
+            "id": "e751_to_758",
+            "source": "node_751",
+            "target": "node_758",
+            "type": "step"
+        },
+        {
+            "id": "e752_to_758",
+            "source": "node_752",
+            "target": "node_758",
+            "type": "step"
+        },
+        {
+            "id": "e753_to_758",
+            "source": "node_753",
+            "target": "node_758",
+            "type": "step"
+        },
+        {
+            "id": "e754_to_758",
+            "source": "node_754",
+            "target": "node_758",
+            "type": "step"
+        },
+        {
+            "id": "e761_to_5",
+            "source": "node_761",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e762_to_767",
+            "source": "node_762",
+            "target": "node_767",
+            "type": "step"
+        },
+        {
+            "id": "e764_to_777",
+            "source": "node_764",
+            "target": "node_777",
+            "type": "step"
+        },
+        {
+            "id": "e769_to_771",
+            "source": "node_769",
+            "target": "node_771",
+            "type": "step"
+        },
+        {
+            "id": "e772_to_777",
+            "source": "node_772",
+            "target": "node_777",
+            "type": "step"
+        },
+        {
+            "id": "e776_to_932",
+            "source": "node_776",
+            "target": "node_932",
+            "type": "step"
+        },
+        {
+            "id": "e778_to_24",
+            "source": "node_778",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e779_to_937",
+            "source": "node_779",
+            "target": "node_937",
+            "type": "step"
+        },
+        {
+            "id": "e784_to_786",
+            "source": "node_784",
+            "target": "node_786",
+            "type": "step"
+        },
+        {
+            "id": "e786_to_785",
+            "source": "node_786",
+            "target": "node_785",
+            "type": "step"
+        },
+        {
+            "id": "e798_to_53",
+            "source": "node_798",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e799_to_56",
+            "source": "node_799",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e800_to_51",
+            "source": "node_800",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e801_to_804",
+            "source": "node_801",
+            "target": "node_804",
+            "type": "step"
+        },
+        {
+            "id": "e802_to_636",
+            "source": "node_802",
+            "target": "node_636",
+            "type": "step"
+        },
+        {
+            "id": "e803_to_801",
+            "source": "node_803",
+            "target": "node_801",
+            "type": "step"
+        },
+        {
+            "id": "e804_to_808",
+            "source": "node_804",
+            "target": "node_808",
+            "type": "step"
+        },
+        {
+            "id": "e807_to_815",
+            "source": "node_807",
+            "target": "node_815",
+            "type": "step"
+        },
+        {
+            "id": "e808_to_846",
+            "source": "node_808",
+            "target": "node_846",
+            "type": "step"
+        },
+        {
+            "id": "e812_to_833",
+            "source": "node_812",
+            "target": "node_833",
+            "type": "step"
+        },
+        {
+            "id": "e813_to_917",
+            "source": "node_813",
+            "target": "node_917",
+            "type": "step"
+        },
+        {
+            "id": "e814_to_916",
+            "source": "node_814",
+            "target": "node_916",
+            "type": "step"
+        },
+        {
+            "id": "e815_to_821",
+            "source": "node_815",
+            "target": "node_821",
+            "type": "step"
+        },
+        {
+            "id": "e818_to_828",
+            "source": "node_818",
+            "target": "node_828",
+            "type": "step"
+        },
+        {
+            "id": "e819_to_852",
+            "source": "node_819",
+            "target": "node_852",
+            "type": "step"
+        },
+        {
+            "id": "e820_to_825",
+            "source": "node_820",
+            "target": "node_825",
+            "type": "step"
+        },
+        {
+            "id": "e822_to_843",
+            "source": "node_822",
+            "target": "node_843",
+            "type": "step"
+        },
+        {
+            "id": "e823_to_851",
+            "source": "node_823",
+            "target": "node_851",
+            "type": "step"
+        },
+        {
+            "id": "e824_to_845",
+            "source": "node_824",
+            "target": "node_845",
+            "type": "step"
+        },
+        {
+            "id": "e825_to_837",
+            "source": "node_825",
+            "target": "node_837",
+            "type": "step"
+        },
+        {
+            "id": "e826_to_822",
+            "source": "node_826",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e827_to_829",
+            "source": "node_827",
+            "target": "node_829",
+            "type": "step"
+        },
+        {
+            "id": "e828_to_844",
+            "source": "node_828",
+            "target": "node_844",
+            "type": "step"
+        },
+        {
+            "id": "e829_to_838",
+            "source": "node_829",
+            "target": "node_838",
+            "type": "step"
+        },
+        {
+            "id": "e830_to_819",
+            "source": "node_830",
+            "target": "node_819",
+            "type": "step"
+        },
+        {
+            "id": "e834_to_826",
+            "source": "node_834",
+            "target": "node_826",
+            "type": "step"
+        },
+        {
+            "id": "e836_to_842",
+            "source": "node_836",
+            "target": "node_842",
+            "type": "step"
+        },
+        {
+            "id": "e839_to_918",
+            "source": "node_839",
+            "target": "node_918",
+            "type": "step"
+        },
+        {
+            "id": "e841_to_850",
+            "source": "node_841",
+            "target": "node_850",
+            "type": "step"
+        },
+        {
+            "id": "e844_to_848",
+            "source": "node_844",
+            "target": "node_848",
+            "type": "step"
+        },
+        {
+            "id": "e846_to_809",
+            "source": "node_846",
+            "target": "node_809",
+            "type": "step"
+        },
+        {
+            "id": "e851_to_844",
+            "source": "node_851",
+            "target": "node_844",
+            "type": "step"
+        },
+        {
+            "id": "e854_to_801",
+            "source": "node_854",
+            "target": "node_801",
+            "type": "step"
+        },
+        {
+            "id": "e864_to_856",
+            "source": "node_864",
+            "target": "node_856",
+            "type": "step"
+        },
+        {
+            "id": "e865_to_909",
+            "source": "node_865",
+            "target": "node_909",
+            "type": "step"
+        },
+        {
+            "id": "e866_to_871",
+            "source": "node_866",
+            "target": "node_871",
+            "type": "step"
+        },
+        {
+            "id": "e867_to_871",
+            "source": "node_867",
+            "target": "node_871",
+            "type": "step"
+        },
+        {
+            "id": "e868_to_871",
+            "source": "node_868",
+            "target": "node_871",
+            "type": "step"
+        },
+        {
+            "id": "e869_to_873",
+            "source": "node_869",
+            "target": "node_873",
+            "type": "step"
+        },
+        {
+            "id": "e871_to_872",
+            "source": "node_871",
+            "target": "node_872",
+            "type": "step"
+        },
+        {
+            "id": "e875_to_880",
+            "source": "node_875",
+            "target": "node_880",
+            "type": "step"
+        },
+        {
+            "id": "e876_to_914",
+            "source": "node_876",
+            "target": "node_914",
+            "type": "step"
+        },
+        {
+            "id": "e877_to_914",
+            "source": "node_877",
+            "target": "node_914",
+            "type": "step"
+        },
+        {
+            "id": "e878_to_953",
+            "source": "node_878",
+            "target": "node_953",
+            "type": "step"
+        },
+        {
+            "id": "e879_to_883",
+            "source": "node_879",
+            "target": "node_883",
+            "type": "step"
+        },
+        {
+            "id": "e880_to_914",
+            "source": "node_880",
+            "target": "node_914",
+            "type": "step"
+        },
+        {
+            "id": "e881_to_954",
+            "source": "node_881",
+            "target": "node_954",
+            "type": "step"
+        },
+        {
+            "id": "e882_to_892",
+            "source": "node_882",
+            "target": "node_892",
+            "type": "step"
+        },
+        {
+            "id": "e883_to_894",
+            "source": "node_883",
+            "target": "node_894",
+            "type": "step"
+        },
+        {
+            "id": "e884_to_895",
+            "source": "node_884",
+            "target": "node_895",
+            "type": "step"
+        },
+        {
+            "id": "e885_to_895",
+            "source": "node_885",
+            "target": "node_895",
+            "type": "step"
+        },
+        {
+            "id": "e886_to_959",
+            "source": "node_886",
+            "target": "node_959",
+            "type": "step"
+        },
+        {
+            "id": "e887_to_889",
+            "source": "node_887",
+            "target": "node_889",
+            "type": "step"
+        },
+        {
+            "id": "e889_to_888",
+            "source": "node_889",
+            "target": "node_888",
+            "type": "step"
+        },
+        {
+            "id": "e891_to_284",
+            "source": "node_891",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e893_to_284",
+            "source": "node_893",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e895_to_906",
+            "source": "node_895",
+            "target": "node_906",
+            "type": "step"
+        },
+        {
+            "id": "e896_to_901",
+            "source": "node_896",
+            "target": "node_901",
+            "type": "step"
+        },
+        {
+            "id": "e898_to_900",
+            "source": "node_898",
+            "target": "node_900",
+            "type": "step"
+        },
+        {
+            "id": "e899_to_904",
+            "source": "node_899",
+            "target": "node_904",
+            "type": "step"
+        },
+        {
+            "id": "e904_to_928",
+            "source": "node_904",
+            "target": "node_928",
+            "type": "step"
+        },
+        {
+            "id": "e905_to_848",
+            "source": "node_905",
+            "target": "node_848",
+            "type": "step"
+        },
+        {
+            "id": "e906_to_896",
+            "source": "node_906",
+            "target": "node_896",
+            "type": "step"
+        },
+        {
+            "id": "e907_to_905",
+            "source": "node_907",
+            "target": "node_905",
+            "type": "step"
+        },
+        {
+            "id": "e912_to_228",
+            "source": "node_912",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e913_to_936",
+            "source": "node_913",
+            "target": "node_936",
+            "type": "step"
+        },
+        {
+            "id": "e914_to_886",
+            "source": "node_914",
+            "target": "node_886",
+            "type": "step"
+        },
+        {
+            "id": "e915_to_947",
+            "source": "node_915",
+            "target": "node_947",
+            "type": "step"
+        },
+        {
+            "id": "e916_to_822",
+            "source": "node_916",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e917_to_822",
+            "source": "node_917",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e918_to_822",
+            "source": "node_918",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e931_to_903",
+            "source": "node_931",
+            "target": "node_903",
+            "type": "step"
+        },
+        {
+            "id": "e932_to_766",
+            "source": "node_932",
+            "target": "node_766",
+            "type": "step"
+        },
+        {
+            "id": "e934_to_787",
+            "source": "node_934",
+            "target": "node_787",
+            "type": "step"
+        },
+        {
+            "id": "e939_to_637",
+            "source": "node_939",
+            "target": "node_637",
+            "type": "step"
+        },
+        {
+            "id": "e941_to_701",
+            "source": "node_941",
+            "target": "node_701",
+            "type": "step"
+        }
+    ]
+}

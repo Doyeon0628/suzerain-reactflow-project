@@ -1,0 +1,74 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe approached me, her demeanor friendly yet cautious."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I am so sorry about your son.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Angelica Sazon\n\n\"I won't pretend his words never swayed me. But when I became pregnant I realized some things are more important than revolution.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Angelica Sazon\n\n\"A revolution bought with blood will never succeed.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_1312",
+            "source": "node_2",
+            "target": "node_1312",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_40",
+            "source": "node_22",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_28",
+            "source": "node_42",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_52",
+            "source": "node_43",
+            "target": "node_52",
+            "type": "step"
+        }
+    ]
+}

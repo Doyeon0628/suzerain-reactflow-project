@@ -1,0 +1,159 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nKarl Greiser walked in. He took off his hat, stuck it under his arm and gave a stiff bow."
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Ovid Grecer\n\n“Mr. Greiser. In the evidence provided to this court, there are very big claims.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n“We will now ask you a few questions.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Ovid Grecer\n\n“What is the largest task this Secret State Police has handled by the order of the President of Sordland?”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“It was the detainment of Frens Ricter.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You can't even look me in the eye, can you?”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“It was the assassination of Petr Vectern.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“It was the detainment of Petr Vectern.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Karl Greiser\n\n“It was the detainment of Livia Suno.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_110",
+            "source": "node_2",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_121",
+            "source": "node_15",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_18",
+            "source": "node_24",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_124",
+            "source": "node_89",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_91",
+            "source": "node_102",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_2",
+            "source": "node_119",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_100",
+            "source": "node_132",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_108",
+            "source": "node_133",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_108",
+            "source": "node_138",
+            "target": "node_108",
+            "type": "step"
+        }
+    ]
+}

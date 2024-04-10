@@ -1,0 +1,499 @@
+{
+    "nodes": [
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Take a seat, Mr. Wisci.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"That's very good.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm not in the mood for lectures.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"Thank you for taking my advice over the years.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"True. But it changed me for better.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Desperate times require desperate measures.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This was only the beginning. Much more awaits on the horizon.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"I know my student. I know you. You have the capability to do so much more.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We will win. No matter what.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"Best of luck, Anton.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"Before I go, I want to mention something.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"I overheard a conversation the other day near a newspaper stand.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"I overheard a conversation the other day near a newspaper stand.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"They were calling you a die hard Malenyevist.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_235",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"It piqued my interest so I kept listening. They were talking about you.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_236",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"It piqued my interest so I kept listening. They were talking about you.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"It piqued my interest so I kept listening. They were talking about you.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"It piqued my interest so I kept listening. They were talking about you.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I refuse to be called a Malenyevist.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I refuse to be called a Sollist.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_250",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I refuse to be called a capitalist.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"My father, Artor S. Wisci, used to say, 'Always know yourself'.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_312",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"I overheard a conversation the other day near a newspaper stand.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There is no use in denying that. I *am* an authoritarian.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"I overheard a conversation the other day near a newspaper stand.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"They weren't wrong. I *am* a centrist.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe stopped for a moment and took a quick look at his watch."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"It's at least good to know that you do.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_348",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"Mr. President. May I come in?\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e26_to_346",
+            "source": "node_26",
+            "target": "node_346",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_63",
+            "source": "node_49",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_60",
+            "source": "node_53",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_66",
+            "source": "node_58",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_104",
+            "source": "node_84",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_104",
+            "source": "node_86",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_104",
+            "source": "node_88",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_104",
+            "source": "node_93",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_219",
+            "source": "node_104",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_150",
+            "source": "node_131",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_162",
+            "source": "node_152",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_179",
+            "source": "node_217",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_310",
+            "source": "node_230",
+            "target": "node_310",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_243",
+            "source": "node_233",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e235_to_246",
+            "source": "node_235",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e236_to_234",
+            "source": "node_236",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_249",
+            "source": "node_239",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_251",
+            "source": "node_242",
+            "target": "node_251",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_253",
+            "source": "node_245",
+            "target": "node_253",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_256",
+            "source": "node_248",
+            "target": "node_256",
+            "type": "step"
+        },
+        {
+            "id": "e250_to_257",
+            "source": "node_250",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_327",
+            "source": "node_255",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e312_to_320",
+            "source": "node_312",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_255",
+            "source": "node_317",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_328",
+            "source": "node_319",
+            "target": "node_328",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_255",
+            "source": "node_324",
+            "target": "node_255",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_259",
+            "source": "node_326",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_102",
+            "source": "node_327",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e348_to_25",
+            "source": "node_348",
+            "target": "node_25",
+            "type": "step"
+        }
+    ]
+}

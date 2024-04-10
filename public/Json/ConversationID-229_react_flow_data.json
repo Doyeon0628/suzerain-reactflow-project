@@ -1,0 +1,193 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I will hold my own umbrella.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was raining as my car came to a stop by the Holsord Grand Cemetery."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLittle Georg was crying silently next to his sister, Erica."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThey were too young to experience the pain of losing a father."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs the casket hit the ground, mourners sprinkled handfuls of dirt on Serge's grave."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It's okay to cry. Let it all out.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Ms. Wolkner. I will never forget your husband's service and his heroic sacrifice.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You must be strong.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe was wearing an elegant black dress and a beautiful diamond necklace. She thanked me for everything I'd done for her family."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't worry. I'll make sure you and your children are still well cared for.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't worry. I'll make sure the children are still well cared for.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_80",
+            "source": "node_1",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_73",
+            "source": "node_3",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_59",
+            "source": "node_14",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_59",
+            "source": "node_15",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_79",
+            "source": "node_51",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_16",
+            "source": "node_60",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_16",
+            "source": "node_61",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_11",
+            "source": "node_65",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_2",
+            "source": "node_82",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_64",
+            "source": "node_88",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_65",
+            "source": "node_93",
+            "target": "node_65",
+            "type": "step"
+        }
+    ]
+}

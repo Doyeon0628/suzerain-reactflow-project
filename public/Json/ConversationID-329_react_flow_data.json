@@ -1,0 +1,142 @@
+{
+    "nodes": [
+        {
+            "id": "node_0",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 12339348,\n\nNarrator: I reviewed the agreement once more...\nen\n\n\nI reviewed the agreement once more before signing it."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_1",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 12339546,\n\nNarrator: I took my first-class seat in the p...\nen\n\n\nI took my first-class seat in the plane that had been chartered for my return flight from Morella."
+            },
+            "position": {
+                "x": 250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_2",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 12339648,\n\nNarrator: Looking outside of the window, I co...\nen\n\n\nLooking outside of the window, I could see Argno and the mountains."
+            },
+            "position": {
+                "x": 500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 12339750,\n\nNarrator: The future of our relationship with...\nen\n\n\nThe future of our relationship with Morella and the MITZ was in my head."
+            },
+            "position": {
+                "x": 0,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 12339852,\n\nNarrator: I took a look at the papers in fron...\nen\n\n\nI took a look at the papers in front of me."
+            },
+            "position": {
+                "x": 250,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 12339954,\n\nNarrator: The pilot announced that our descen...\nen\n\n\nThe pilot announced that our descent into Porte Drazon had begun."
+            },
+            "position": {
+                "x": 500,
+                "y": 150
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 12340056,\n\nNarrator: I fastened my seatbelt.\nen\n\n\nI fastened my seatbelt."
+            },
+            "position": {
+                "x": 0,
+                "y": 300
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "default",
+            "data": {
+                "label": "LineNo: 12340158,\n\nNarrator: It struck me how much more comforta...\nen\n\n\nIt struck me how much more comfortable this jet was than the ones we had in Rizia."
+            },
+            "position": {
+                "x": 250,
+                "y": 300
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e0",
+            "source": "node_27",
+            "target": "node_28",
+            "animated": true
+        },
+        {
+            "id": "e1",
+            "source": "node_29",
+            "target": "node_2",
+            "animated": true
+        },
+        {
+            "id": "e2",
+            "source": "node_30",
+            "target": "node_37",
+            "animated": true
+        },
+        {
+            "id": "e3",
+            "source": "node_31",
+            "target": "node_32",
+            "animated": true
+        },
+        {
+            "id": "e4",
+            "source": "node_32",
+            "target": "node_33",
+            "animated": true
+        },
+        {
+            "id": "e5",
+            "source": "node_33",
+            "target": "node_3",
+            "animated": true
+        },
+        {
+            "id": "e6",
+            "source": "node_34",
+            "target": "node_35",
+            "animated": true
+        },
+        {
+            "id": "e7",
+            "source": "node_35",
+            "target": "node_29",
+            "animated": true
+        }
+    ]
+}

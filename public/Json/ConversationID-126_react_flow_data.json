@@ -1,0 +1,193 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nRemus responded in a low voice."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Security in Sordland is still concerning. I require your help with boosting our security forces.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I just wanted to ask if everything was going well on your side.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe line dropped dead."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Remus Holstron\n\n\"Mr. Hawker is proving to be an unreliable partner to us as well. I'm not against the idea of sending a message through him.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Maybe you got me wrong, Mr. Holstron. Let's just cancel this whole thing. This was a misunderstanding.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Remus Holstron\n\n\"We can surely help with that, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Come to think of it, maybe this isn't the best idea.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Remus Holstron\n\n\"We can surely help with that, Mr. Rayne.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Come to think of it, maybe this isn't the best idea.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Remus Holstron\n\n\"Is there anything else you need?\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_86",
+            "source": "node_2",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_31",
+            "source": "node_9",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_58",
+            "source": "node_21",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_41",
+            "source": "node_33",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_61",
+            "source": "node_40",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_21",
+            "source": "node_44",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_27",
+            "source": "node_46",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_19",
+            "source": "node_50",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_27",
+            "source": "node_52",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_20",
+            "source": "node_56",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_34",
+            "source": "node_60",
+            "target": "node_34",
+            "type": "step"
+        }
+    ]
+}

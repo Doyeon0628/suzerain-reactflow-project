@@ -1,0 +1,1825 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“The company will be notified today and construction work will begin immediately after.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Some in the Lotherberg Group will be pleased. The contract will be awarded to Underhall Construction.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter a lengthy drive on cliffside roads, we arrived in Lenkurg. There, crowds of cheering citizens greeted us and the local government officials escorted us to the city hall."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGus Manger couldn't make the meeting due to his visit to Rizia, but I had Symon Holl and Lileas Graf by my side."
+            },
+            "position": {
+                "x": 4590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I trust your plan, Symon.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I hope so, Lileas.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Well, one of our promises would be respected. We promised to focus on the planned economy to create jobs.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How was your experience with them?”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you. This concludes the meeting.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“With the highway, we will be well on our way to economically strengthening this weak region.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I am glad to hear that. We should be able to slow down the recession if we finish this project successfully.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I look forward to a positive financial outcome. According to my sources, we'll lift many people in these areas out of poverty.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe meeting ended and we spent the remainder of the day attending events in Lenkurg."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“If we are going to try a different company, this is the most unique.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It would fit our election promises of switching to a free-market economy. Awarding contracts to privately owned corporations would be a step in the right direction.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“This company is completely private and directed by a non-government board. Do we even remember if they worked on a mega-project at all?”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Why should we pick Taurus?”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Do you need additional support?”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Failure during this project is not an option.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What kind of end results do we expect?”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What will it take to stop the recession?”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Why shouldn't we go with Taurus?”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Thank you for the offer.”"
+            },
+            "position": {
+                "x": 14310,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I am not too sure about trusting them with the contract but at least they have worked on several mega-projects and always delivered on time.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Our economic revitalization plan is set to be a success. Failure is indeed not an option.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Out of all three, this is the company I trust the least. They seem to fail at respecting the contract terms of their workers. They're likely to cause trouble.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“The underdeveloped cities of Lenkurg and Arvory will receive a lot more investment after this.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“The SSC is one of our most trusted and honorable companies. They have served us a long time. I have worked with them on several occasions.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“That depends on the government budget. We need to make sure we have enough money to fund critical ministries but still have enough left to invest.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was time to decide which company would be awarded the H-3 Highway contract."
+            },
+            "position": {
+                "x": 5130,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Short-term employment and long-term economic development in the Nargis and Agnland regions.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“They were only involved in smaller-scale regional projects. This doesn't prove their capabilities for larger undertakings that are more complex.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Nonetheless, they subjected their workers to conditions beneath our standards during the Holsord Central Station contract. Which is troubling.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I think that they have been doing relatively well in the private sector, where they are dominating the construction industry with successful projects.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Not as of right now. However, things might come up if the project doesn't go according to plan.”"
+            },
+            "position": {
+                "x": 14310,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“This is just the beginning. We will need to follow this project up with several other economic investments.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Underhall Construction.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Taurus Holding was founded in 1946 and is owned by the entrepreneur Geralt Fais.”"
+            },
+            "position": {
+                "x": 11340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“It would fulfill your initial election promise of using a state-dominant planned economy to improve Sordland's bleak economic prospects.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I have settled on Taurus Holding.”"
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Taurus is definitely worth considering.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I don't feel confident about Taurus Holdings.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Some in the Lotherberg Group won't like this. But the contract will be awarded to Taurus Holding.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The Sordish State Corporation.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I wish the outcome of this meeting was different. But at the end of the day, the success of the project is what matters.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Most importantly the Sordish State Corporation uses outdated methods, resulting in slower construction.”"
+            },
+            "position": {
+                "x": 17820,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I wish you had chosen differently. But at the end of the day, the success of the project is what matters.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Yes.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I'm so glad that you have made this choice. I can tell from my experience that we will be very satisfied with this corporation.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“They have the experience and the manpower to pull off a project like this.”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“The outdated construction methods that they use concern me. They are several decades behind.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I don't agree with your negative statements, Symon. The SSC's record clearly shows completed contracts with thousands of employees who have more than 20 years of experience.”"
+            },
+            "position": {
+                "x": 17280,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am on the fence about the SSC.”"
+            },
+            "position": {
+                "x": 17280,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I like the SSC, but want to hear about the others.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Taurus Holding.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I have the overview of the companies here.”"
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“The respected Sordish State Corporation, also known as the SSC was founded in 1891.”"
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI looked at the files. Three corporations were listed. The Sordish State Corporation, Underhall Construction and Taurus Holding."
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“The real estate and construction giant was founded in 1925 and expanded during the economic boom of the '30s.”"
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“According to them, the tight completion schedule necessitated such bad labor conditions. Which still doesn't justify the situation.”"
+            },
+            "position": {
+                "x": 11340,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I have settled on the SSC.”"
+            },
+            "position": {
+                "x": 14580,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I reviewed them. I also took the liberty of asking the mayor of Arvory to give his opinion on the matter.”"
+            },
+            "position": {
+                "x": 19710,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“But during the station project, we had to extensively negotiate with the union so as to not lose a serious labor law violation case.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am not sure about Underhall Construction.”"
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Underhall seems interesting, but let's hear about the others.”"
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I have settled on Underhall Construction.”"
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Highway Companies Hub\n\nHighway Companies Hub"
+            },
+            "position": {
+                "x": 19710,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“That is great news.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I think we are off to a good start.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Good luck to us.”"
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“The CEO of Underhall is Kris Schar, the mayor of Conriat. He sold half of his shares a few years ago.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It is a new holding company whose subsidiaries use cutting-edge technology from Arcasia to reduce construction costs and prices. They are known to provide for their workers, who are part of the Labour Union of Sordland.”"
+            },
+            "position": {
+                "x": 16200,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Working conditions must be respected. This doesn't inspire confidence.”"
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We need to be able to trust the corporation. This is a base requirement for the contract.”"
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“They indeed did work on three significant infrastructure projects.”"
+            },
+            "position": {
+                "x": 14580,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The experience they bring to the table is beneficial.”"
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The lack of a modern attitude is disappointing.”"
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The regional highway system has no relation to this.”"
+            },
+            "position": {
+                "x": 17280,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They do have a wealth of knowledge in infrastructure.”"
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The innovative aspect is refreshing. Especially if they can deliver.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It seems like they lack the necessary experience.”"
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We shouldn't risk our first project. There is too much at stake here.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Their capabilities matter more than the history they have. We need to make unbiased decisions.”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Picking this corporation would go against our planned economy policy.”"
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Picking this corporation would fit our market economy policy.”"
+            },
+            "position": {
+                "x": 16200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Good that we are staying consistent to our economic strategy.”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Good that we are staying consistent to our economic strategy.”"
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was nice to enjoy the natural beauty of Agnland and to eat some good fish."
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Secondly, they are the only company to have worked in the Agnland region out of all three corporations.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“A simple look at the regional highways shows us the problem.”"
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It won several awards internationally for being one of the fastest growing and advanced companies.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Choosing this company is too much of a risk for such an important project, especially when a proven candidate like the SSC exists.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Very well, Mr. President. The contract will be awarded to Underhall Construction.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Very well, Mr. President. The contract will be awarded to Taurus Holding.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Very well, Mr. President. The contract will be awarded to the Sordish State Corporation.”"
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Some in the Lotherberg Group won't like this, but the contract will be awarded to the Sordish State Corporation.”"
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon signed a certain section of the dossier and fixed his glasses."
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon signed a certain section of the dossier and fixed his glasses."
+            },
+            "position": {
+                "x": 17010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon signed a certain section of the dossier and fixed his glasses."
+            },
+            "position": {
+                "x": 16740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_175",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas sighed."
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“They took a joint contract in Arcasia for restructuring the highway intersection of one of the major cities. It went well but it is their only large-scale success.”"
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas paused for a second."
+            },
+            "position": {
+                "x": 15930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon searched through the documents he was holding and found the one he was looking for."
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“According to the preliminary calculations of the SSC, they would need more resources to finish a project of this size.”"
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Underhall has specifically mentioned their solid track record and highlighted that they do anticipate to go over budget, but that the project will be finished on time.”"
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“The project manager from Taurus Holding mentioned that they would be able to finish the project with the allocated funding. They are the only company who found the budget sufficient, making them a cheaper alternative.”"
+            },
+            "position": {
+                "x": 14580,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I have settled on the SSC.”"
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_193",
+            "source": "node_3",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_212",
+            "source": "node_4",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_179",
+            "source": "node_5",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_43",
+            "source": "node_8",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_52",
+            "source": "node_13",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_21",
+            "source": "node_14",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_19",
+            "source": "node_15",
+            "target": "node_19",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_31",
+            "source": "node_16",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_44",
+            "source": "node_17",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_24",
+            "source": "node_18",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_214",
+            "source": "node_20",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_36",
+            "source": "node_22",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_36",
+            "source": "node_23",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_153",
+            "source": "node_24",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_31",
+            "source": "node_28",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_156",
+            "source": "node_30",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_30",
+            "source": "node_34",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_32",
+            "source": "node_35",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_57",
+            "source": "node_36",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_8",
+            "source": "node_37",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_49",
+            "source": "node_38",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_58",
+            "source": "node_39",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_26",
+            "source": "node_40",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_180",
+            "source": "node_41",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_122",
+            "source": "node_42",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_180",
+            "source": "node_43",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_42",
+            "source": "node_44",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_180",
+            "source": "node_45",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_72",
+            "source": "node_46",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_81",
+            "source": "node_47",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_67",
+            "source": "node_48",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_45",
+            "source": "node_49",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_202",
+            "source": "node_50",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_122",
+            "source": "node_51",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_40",
+            "source": "node_56",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_41",
+            "source": "node_57",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_47",
+            "source": "node_58",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_98",
+            "source": "node_59",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_109",
+            "source": "node_64",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_109",
+            "source": "node_66",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_109",
+            "source": "node_68",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_75",
+            "source": "node_69",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_68",
+            "source": "node_75",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_158",
+            "source": "node_76",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_93",
+            "source": "node_77",
+            "target": "node_93",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_4",
+            "source": "node_78",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_155",
+            "source": "node_79",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_4",
+            "source": "node_80",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_180",
+            "source": "node_81",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_194",
+            "source": "node_83",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_64",
+            "source": "node_85",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_126",
+            "source": "node_86",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_209",
+            "source": "node_87",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_85",
+            "source": "node_88",
+            "target": "node_85",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_85",
+            "source": "node_89",
+            "target": "node_85",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_60",
+            "source": "node_90",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_94",
+            "source": "node_92",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_118",
+            "source": "node_93",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_59",
+            "source": "node_96",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_133",
+            "source": "node_98",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_201",
+            "source": "node_99",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_108",
+            "source": "node_100",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_109",
+            "source": "node_102",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_201",
+            "source": "node_103",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_107",
+            "source": "node_104",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_107",
+            "source": "node_105",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_192",
+            "source": "node_108",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_48",
+            "source": "node_111",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_18",
+            "source": "node_115",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_114",
+            "source": "node_116",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_46",
+            "source": "node_118",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_12",
+            "source": "node_119",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_56",
+            "source": "node_120",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_123",
+            "source": "node_121",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_99",
+            "source": "node_123",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_103",
+            "source": "node_124",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_87",
+            "source": "node_125",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_87",
+            "source": "node_126",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_87",
+            "source": "node_127",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_87",
+            "source": "node_128",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_50",
+            "source": "node_129",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_50",
+            "source": "node_130",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_177",
+            "source": "node_131",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_136",
+            "source": "node_135",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_119",
+            "source": "node_136",
+            "target": "node_119",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_119",
+            "source": "node_137",
+            "target": "node_119",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_174",
+            "source": "node_147",
+            "target": "node_174",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_173",
+            "source": "node_152",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_185",
+            "source": "node_153",
+            "target": "node_185",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_86",
+            "source": "node_154",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_128",
+            "source": "node_155",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_130",
+            "source": "node_156",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_169",
+            "source": "node_168",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_80",
+            "source": "node_169",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_78",
+            "source": "node_170",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_82",
+            "source": "node_171",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_162",
+            "source": "node_172",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_163",
+            "source": "node_173",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_166",
+            "source": "node_174",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e175_to_159",
+            "source": "node_175",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_157",
+            "source": "node_176",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_25",
+            "source": "node_177",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_195",
+            "source": "node_179",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_82",
+            "source": "node_197",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_143",
+            "source": "node_200",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_106",
+            "source": "node_201",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_100",
+            "source": "node_205",
+            "target": "node_100",
+            "type": "step"
+        }
+    ]
+}

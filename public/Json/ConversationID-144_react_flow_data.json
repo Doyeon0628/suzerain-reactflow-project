@@ -1,0 +1,2114 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe city had been of particular importance to the Bludish people ever since the Izzam Incident and the death of Watani Aschraf over two decades ago. Today, we were here to commemorate the anniversary of those events."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOur massive convoy could barely fit through the narrow streets, disrupting local traffic and creating noisy chaos in the usually tranquil city. Pedestrians stared at us in fear as we and our heavily armed security forces drove towards the square."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOur convoy could barely fit through the narrow streets, disrupting local traffic and creating noisy chaos in the usually tranquil city. Pedestrians stared at us with concern as we and our security forces drove towards the square."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I hope so.”"
+            },
+            "position": {
+                "x": 17280,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“It is certainly risky. But if we manage to win some hearts today, it will be worth it.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI heard the chants and shouting from outside. Lucian leaned closer to the window, listening to their voices."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“They seem to be chanting 'Yollak Bluderat'. I believe that means 'Free Bludia' in Bludish, or something of that sort.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA large crowd had assembled in the square. There were probably at least ten thousand people. Most of them were yelling insults and obscenities at me. I heard a few shouts of \"Soll's boot licker!\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOur vehicle came to a stop."
+            },
+            "position": {
+                "x": 21600,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMy driver exited the vehicle and opened the door for me."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe were greeted by Mansoun Leke. He wore a coat over his suit which was marked with the red and turquoise stripes of the Bludish movement's flag. He moved forward to greet us."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“Very perceptive of you. But that is why you are here, if I am correct. To fix this.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe pointed at the security guards with guns."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“Protection from your own citizens? I guess there must be a reason to be fearful.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI held our clasped hands up so that the crowd could see them."
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI heard some applause from the crowd."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“I see. The government must have a reason to fear its own citizens then.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“Mr. Galade. Welcome. Shall we move on to the Sanctuary, then?”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI picked up the red candle for Watani Aschraf."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe also picked up a candle and started walking out. Many others followed suit, including us."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWhen we arrived, he pointed at a huge standing torch above the grave."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI turned around and realized the sheer amount of people who were following us. They were all looking at me, waiting to hear what I would say."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“My fellow citizens.”"
+            },
+            "position": {
+                "x": 22140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Brothers and sisters.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Free people of Bludia.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let me tell you one thing. I dream of a truly united Sordland. A country where being a Blud or a Sord does not matter.”"
+            },
+            "position": {
+                "x": 27540,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI signalled the security guards to detain him. They immediately ran out and the boy disappeared from my sight. Another guard came over to wipe the car window."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI did not do anything."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSeeing the boy get dragged away caused an outcry from the crowd. Hundreds of people rushed at our car."
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They were brave men and women who only wanted to protect their land.”"
+            },
+            "position": {
+                "x": 16740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am not standing before you today as the President. I am standing here as one of you.”"
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I assure you, this administration will do its absolute best to mend the wounds.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Despite attempts to divide us, our people will stand as one. We are Sord. We are Blud. We are all united under one flag.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We are all the same before God. Remember the words: 'Love thy brothers and thy sisters.'”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I feel responsible and ashamed for the actions of my predecessors. Most of all, I feel the desperation to remove this black mark from our history.”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We must always stay together in the face of adversity. Against all odds.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I need help from each and every one of you. To make this country a better place for everyone.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The responsibility falls on all of our shoulders. Because we don't have anyone but each other.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Yollak Bluderat!”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Morning will come!”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you.”"
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAn old man from the crowd yelled: \"Your flag! Your nation!\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI paid no attention."
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“To what end? We need to break this vicious cycle of violence and vengeance for a better future.”"
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI paid no attention."
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI paid no attention."
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Despite these kinds of attempts to divide us, we will be united as one. We will work together!”"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let me finish.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let me finish.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let me finish.”"
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Are you with me?”"
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMansoun leaned in closer to me."
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was immediately surrounded by the security detail I had brought with me. They had drawn their guns and were pointing them at the approaching crowd."
+            },
+            "position": {
+                "x": 23220,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was the deafening noise of machine gun fire. I closed my eyes."
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEverything became a blur. The guards circled around me, shielding me from the chaos."
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“I must admit, Mr. President. That was a good speech.”"
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Just doing my duty.”"
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nInstead of going for the handshake, I spread my arms and hugged him. Suddenly, the whole crowd erupted in applause."
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“Thank you for this, Mr. President. I don't think the people of Erzaren will ever forget this.”"
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Sir, its time to go.”"
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What's the rush?”"
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Exactly my plan.”"
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian grabbed my shoulder."
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_185",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Yes. But I am still worried about our safety.”"
+            },
+            "position": {
+                "x": 19710,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe entered the historic center wearing flak vests, transported by an armored personnel carrier. I gazed out its windows at the city's rundown buildings."
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_190",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was an outcry from the crowd. Hundreds of people shouted slurs at us while keeping their distance. The heavy weaponry that the security carried seemed to have startled them."
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe ceremonies were to be held in the aptly named Izzam Square, several blocks away from Lake Soll and the sunken ruins of the village of Izzam."
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe entered the historic center in the presidential Kadilla. The streets were littered with broken glass and the walls defaced with graffiti. I sensed a heavy regional police presence."
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe local police forces did their best to calm the angry crowd and pushed them away from our vehicle. I suddenly had the feeling that our forces were in danger of being overwhelmed."
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter a few hours' drive, we finally arrived in the ancient walled city of Erzaren."
+            },
+            "position": {
+                "x": 16740,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“They seem to be chanting your name, sir. I believe they are happy with their new autonomy.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe crowd before me had signs in their hands protesting my decision to centralize Bergia."
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“Very perceptive of you. I wonder why that is the case...”"
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI noticed an excessively high amount of regional police, as well as the gendarmerie and local police. They formed a human barricade around the square, staring intimidatingly at the crowd."
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSome people started shouting at me, breaking the silence. One man managed to break the security cordon and ran towards me, screaming."
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNoticing I had no candle in my hand, someone in the crowd shouted at me, breaking the silence."
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_231",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBefore he could get to me, one of my presidential guards grabbed the man and dragged him away."
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_251",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I must say this was a good decision, sir. After giving the Bludish autonomy, this will send a strong message that you are on their side. But I hope bringing this much security won't cause any problems.”"
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I must say this was a good decision, sir. After giving the Bludish autonomy, this will send a strong message that you are on their side.”"
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA large crowd had assembled in the square. There were probably at least ten thousand people. Most of them were yelling insults and obscenities at me."
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“I suppose the governor's huge army wasn't enough. Bergia has already become a police state. A truly *special* zone.”"
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_268",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe pointed at the gendarmerie forces."
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“The man who abuses his authority to oppress Bergia.”"
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_273",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let's just move on, Mr. Leke.”"
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_275",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We are trying our best to contain him, but without changing the laws there's nothing I can do about it.”"
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“My only intention is to stand in solidarity with our Bludish people.”"
+            },
+            "position": {
+                "x": 21600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe raised an eyebrow."
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI put the candle next to the torch."
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_282",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We are here to mourn those who, tragically, lost their lives in Izzam.”"
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_287",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOne man broke the silence and shouted \"Do not listen to murderers!\", and threw a tomato. It hit the ground right in front of me."
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_288",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian rushed over to me."
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_289",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Not everything is about votes.”"
+            },
+            "position": {
+                "x": 24840,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Despite fascists, we keep marching!\" shouted a group of people in the very front, who also started waving the flags of the Workers Party of Bludia."
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_308",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI was immediately surrounded by the local police forces. They had drawn their guns and were pointing them at the approaching crowd."
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_312",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“That was close.”"
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI turned to follow him. Just then, someone yelled \"Yollak Bluderat\" and dashed towards us with a knife."
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe noise stopped. I gathered up the courage to open my eyes again."
+            },
+            "position": {
+                "x": 13500,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at the crowd."
+            },
+            "position": {
+                "x": 24300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nA woman, probably his mother, fell on her knees right next to him and caressed his head. Her scream pierced the panic."
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_328",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n“Thank you, Mr. President.”"
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_331",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The whole trip runs on a schedule, sir. The convoy needs to start driving now, or else we won't make it back in time.”"
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI saw another body on the ground behind him. It was a boy."
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“That boy! Make sure he is okay!”"
+            },
+            "position": {
+                "x": 24300,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_352",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“My God.”"
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_353",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Get an ambulance now!”"
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We have to get out of here.”"
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_398",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn our way to Erzaren, we stopped in Deyr to meet with the Governor of Bergia, Herbert Krull, to discuss the security situation within the Special Zone. He wished us luck at the event and told us to be extremely careful before bidding us farewell."
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_402",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn our way to Erzaren, we stopped in Deyr to meet with the new Governor of Bergia, Ishval Ersen, to discuss the implementation of the autonomous zone. He welcomed us with great sympathy and care, and wished us the best for the event."
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_403",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn our way to inner Erzaren, we stopped to meet with the local police chief, Ionas Fisser, to discuss how the abolishment of the Zone was faring for the locals."
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_411",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI saw many signs that condemned the ban on the Workers' Party of Bludia."
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nJust then, I noticed a few BFF flags waving at the very back of the crowd."
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI signalled to Lucian. He immediately bowed his head towards mine so I could whisper in his ear."
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_435",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Is there something wrong, sir?\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_436",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There are people in the crowd with BFF flags. I thought security wouldn't allow such a thing.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_438",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I saw some BFF flags. Could you please check if everything's all right?\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_441",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Do you want to cancel the speech, sir?\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_442",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe crowd was getting restless."
+            },
+            "position": {
+                "x": 28080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_445",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Good luck, sir.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_450",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian looked at me worriedly. People started walking closer and closer to us, chanting \"Yollak Bluderat.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_454",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThere was a second of silence. Then, the entire crowd erupted."
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_455",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n\"Despite fascists, we keep marching!\" shouted a group of people in the very front, wielding the flags of the Workers Party of Bludia."
+            },
+            "position": {
+                "x": 28890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_463",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<shout>\"You cannot defile our traditions, you racist dog! At least have respect for the dead!\"</shout>"
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_464",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<shout>\"Don't mock the dead, you racist dog! You are defiling that candle in your hands!\"</shout>"
+            },
+            "position": {
+                "x": 18900,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<shout>\"Don't defile Aschraf's spirit, you racist dog! Take your hands off that candle!\"</shout>"
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_392",
+            "source": "node_1",
+            "target": "node_392",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_192",
+            "source": "node_3",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_245",
+            "source": "node_7",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_253",
+            "source": "node_8",
+            "target": "node_253",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_52",
+            "source": "node_14",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_257",
+            "source": "node_22",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_196",
+            "source": "node_24",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_469",
+            "source": "node_25",
+            "target": "node_469",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_61",
+            "source": "node_29",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_200",
+            "source": "node_34",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_200",
+            "source": "node_35",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_204",
+            "source": "node_41",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_266",
+            "source": "node_45",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_60",
+            "source": "node_50",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_43",
+            "source": "node_52",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_43",
+            "source": "node_57",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_43",
+            "source": "node_58",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_262",
+            "source": "node_60",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_76",
+            "source": "node_67",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_147",
+            "source": "node_69",
+            "target": "node_147",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_466",
+            "source": "node_83",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_413",
+            "source": "node_87",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_430",
+            "source": "node_88",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_283",
+            "source": "node_89",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_99",
+            "source": "node_91",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_416",
+            "source": "node_92",
+            "target": "node_416",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_107",
+            "source": "node_93",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_188",
+            "source": "node_94",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_30",
+            "source": "node_95",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_194",
+            "source": "node_96",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_142",
+            "source": "node_97",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_128",
+            "source": "node_100",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_132",
+            "source": "node_101",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_124",
+            "source": "node_102",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_334",
+            "source": "node_104",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_342",
+            "source": "node_105",
+            "target": "node_342",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_140",
+            "source": "node_107",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_284",
+            "source": "node_108",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_284",
+            "source": "node_109",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_420",
+            "source": "node_110",
+            "target": "node_420",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_145",
+            "source": "node_111",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_424",
+            "source": "node_113",
+            "target": "node_424",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_106",
+            "source": "node_117",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_106",
+            "source": "node_118",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_106",
+            "source": "node_119",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_106",
+            "source": "node_120",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_106",
+            "source": "node_121",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_106",
+            "source": "node_122",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_106",
+            "source": "node_135",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_106",
+            "source": "node_136",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_106",
+            "source": "node_137",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_363",
+            "source": "node_152",
+            "target": "node_363",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_292",
+            "source": "node_154",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_318",
+            "source": "node_156",
+            "target": "node_318",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_319",
+            "source": "node_157",
+            "target": "node_319",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_183",
+            "source": "node_159",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_164",
+            "source": "node_161",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_326",
+            "source": "node_165",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_326",
+            "source": "node_166",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_289",
+            "source": "node_169",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_290",
+            "source": "node_172",
+            "target": "node_290",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_332",
+            "source": "node_173",
+            "target": "node_332",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_182",
+            "source": "node_177",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e185_to_12",
+            "source": "node_185",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_15",
+            "source": "node_186",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e190_to_96",
+            "source": "node_190",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_149",
+            "source": "node_191",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_5",
+            "source": "node_192",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_8",
+            "source": "node_193",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_149",
+            "source": "node_194",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_25",
+            "source": "node_198",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_405",
+            "source": "node_202",
+            "target": "node_405",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_42",
+            "source": "node_206",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_31",
+            "source": "node_220",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_31",
+            "source": "node_222",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_464",
+            "source": "node_223",
+            "target": "node_464",
+            "type": "step"
+        },
+        {
+            "id": "e231_to_239",
+            "source": "node_231",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e251_to_10",
+            "source": "node_251",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_185",
+            "source": "node_255",
+            "target": "node_185",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_468",
+            "source": "node_259",
+            "target": "node_468",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_28",
+            "source": "node_260",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e268_to_29",
+            "source": "node_268",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_59",
+            "source": "node_272",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e273_to_276",
+            "source": "node_273",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e275_to_277",
+            "source": "node_275",
+            "target": "node_277",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_29",
+            "source": "node_277",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_277",
+            "source": "node_280",
+            "target": "node_277",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_29",
+            "source": "node_281",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e282_to_88",
+            "source": "node_282",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e287_to_113",
+            "source": "node_287",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e288_to_296",
+            "source": "node_288",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e289_to_170",
+            "source": "node_289",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_427",
+            "source": "node_294",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e308_to_154",
+            "source": "node_308",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e312_to_311",
+            "source": "node_312",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_458",
+            "source": "node_317",
+            "target": "node_458",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_470",
+            "source": "node_318",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_351",
+            "source": "node_320",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_320",
+            "source": "node_321",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e328_to_167",
+            "source": "node_328",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e331_to_289",
+            "source": "node_331",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_143",
+            "source": "node_350",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_322",
+            "source": "node_351",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e352_to_158",
+            "source": "node_352",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e353_to_158",
+            "source": "node_353",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_158",
+            "source": "node_354",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e398_to_195",
+            "source": "node_398",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e402_to_404",
+            "source": "node_402",
+            "target": "node_404",
+            "type": "step"
+        },
+        {
+            "id": "e403_to_195",
+            "source": "node_403",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e411_to_36",
+            "source": "node_411",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_92",
+            "source": "node_432",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_435",
+            "source": "node_433",
+            "target": "node_435",
+            "type": "step"
+        },
+        {
+            "id": "e435_to_92",
+            "source": "node_435",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e436_to_439",
+            "source": "node_436",
+            "target": "node_439",
+            "type": "step"
+        },
+        {
+            "id": "e438_to_442",
+            "source": "node_438",
+            "target": "node_442",
+            "type": "step"
+        },
+        {
+            "id": "e441_to_443",
+            "source": "node_441",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e442_to_443",
+            "source": "node_442",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e445_to_447",
+            "source": "node_445",
+            "target": "node_447",
+            "type": "step"
+        },
+        {
+            "id": "e450_to_455",
+            "source": "node_450",
+            "target": "node_455",
+            "type": "step"
+        },
+        {
+            "id": "e454_to_178",
+            "source": "node_454",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e455_to_451",
+            "source": "node_455",
+            "target": "node_451",
+            "type": "step"
+        },
+        {
+            "id": "e463_to_233",
+            "source": "node_463",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e464_to_228",
+            "source": "node_464",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_233",
+            "source": "node_465",
+            "target": "node_233",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+/* style.css에 추가할 내용 */
+.reactflow-wrapper {
+  width: 100vw; /* 뷰포트 너비의 100% */
+  height: 100vh; /* 뷰포트 높이의 100% */
+  overflow: hidden; /* 컨텐츠가 넘칠 경우 숨김 처리 */
+}
+
+.react-flow__background {
+  background-color: #0F0F0F !important; /* 배경 색상 변경 */
+}
+  
+.react-flow__background .react-flow__background-svg {
+  display: none !important; /* 배경 그리드 숨김 처리 */
+}

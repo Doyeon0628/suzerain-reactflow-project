@@ -1,0 +1,1366 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTracing back the paths of the ships, I looked at the harbour. Lachaven was home to one of the largest harbours in the entire continent. Many dockyard workers were loading or unloading the containers. Work never stopped here."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe door opened. Symon, Mikail and Edith entered the meeting room."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon waited patiently. Once everyone was ready, he adjusted his glasses."
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“Good afternoon, Mr. President.”"
+            },
+            "position": {
+                "x": 14040,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It's great to see you all again.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Before we move ahead and start formulating a plan, we need you to determine our direction, Mr. President.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What if we decrease the taxes for large corporations?”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What does everyone think we should do?”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am ready to make a decision.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "LargeCorpTaxQuestions\n\nLargeCorpTaxQuestions"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Simply put, if we increase the taxes, we will have more government budget to spend which may come in handy. On the other hand, it's not directly helping us revitalise the economy.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Our government is already in debt. This might be a way to get out of that debt.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Our government budget will be hit. But in return, due to the sheer size of the economic contribution coming from these companies, it should be helpful in curbing the recession.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I am of the opinion that if we don't make any changes, nothing will change. To stop the recession, we need to do something.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“My personal opinion is that we should decrease the taxes for large corporations. Although in short term it would cost us, in the long run it would be the most helpful option in ending the recession.”"
+            },
+            "position": {
+                "x": 16740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“However, there is one problem. The status of our budget. This might not be the greatest idea although it has its benefits. You will have to decide if it's worth the risk.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Especially with the current state of our budget.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“I do believe there is one way to get out of recession. It is through the trade and the economic contribution of large corporations. Increasing their taxes will turn them on you.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“Our international trade is driven mostly by the products of these corporations. They are the backbone of our economy.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They better try to stay on *my* good side.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I have to agree. Being their ally would come in handy.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It goes both ways, Mr. Aven.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“Of course.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Decrease the taxes for large corporations.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Maintain the taxes for large corporations.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Increase the taxes for large corporations.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“You are making a mistake.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon opened his briefcase and swapped out the stack of papers he had in front with another stack."
+            },
+            "position": {
+                "x": 18630,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What if we decrease the taxes for small and medium businesses?”"
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "SmallMediumBusinessTaxQuestions\n\nSmallMediumBusinessTaxQuestions"
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“My personal opinion is, we should increase the taxes for small and medium corporations. It will make people angry, yes. But we can make them happier in the future *after* we end the recession.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Increase the taxes for small and medium businesses.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You might be right.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“People need their hard earned money.”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“They are the backbone of our economy and they are comprised of mostly regular people. If we start demanding more money from them in taxes, it might cause the public to harbour ill will towards the government.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It should be helpful in curbing the recession for sure. Of course that will come at the cost of losing some of our government budget.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Is there any downside to keeping the things as they are?”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Sordland needs change to get out of recession. One way or another. I don't think we will come back on our feet by not doing anything to change our status quo.”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Decrease the taxes for small and medium businesses.”"
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“On the other hand, we need to get out of debt one way or another. This can be a solution for sure.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Our budget is in a good shape. I don't see the need to increase the taxes at the cost of popularity.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Very well.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“In the long run, increasing the taxes for small and medium businesses would make people happier with the services the government provides.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am ready to make a decision.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What does everyone think we should do?”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It is risky when we have no money left, and we still have loans to pay.”"
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“I think increasing taxes for these smaller corporations is a good way to earn some extra capital so that the government can give it back to people in due time.”"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“People tend to be... forgetful as well.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Maintain the taxes for small and medium businesses.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I can't risk the popularity loss.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Well then... Thank you everyone. That will be all for today.”"
+            },
+            "position": {
+                "x": 10260,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI went by the windows again and kept watching the sea in silence for some more time."
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“Workers' Rights Act did not sit well with many business holders.”"
+            },
+            "position": {
+                "x": 12960,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“I heard the same. This has caused these businesses to lose millions of Rens just overnight.”"
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“A good decision I'd say. Especially during a recession.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What is really unfortunate, Ms. Edith, was that this bill was enacted this late.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I don't care about rumours. If someone wants to say something, they can say it to me directly.”"
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNeither of them responded."
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I wanted to sign it but I had to make the right call.”"
+            },
+            "position": {
+                "x": 14040,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNeither of them responded."
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_265",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We could balance it by decreasing taxes of small businesses to put some relief on them.”"
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_267",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I see.”"
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_268",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“So, we can't do it?”"
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I do not advise that though.”"
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I see.”"
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I see. I'm not sure if that's a good idea with the current state of our economy...”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_279",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We could balance it by increasing the taxes of small businesses.”"
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It's not a possibility. Unless if we try and balance it with a tax increase for small and medium businesses...”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_285",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Unfortunately, that's the only thing we can do at this point anyway.”"
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Edith Agnoc\n\n“The economy is completely destroyed, Mr. President. I don't know how we'll get out of this mess...”"
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I don't think we can do anything at this point. Although I would have preferred a decrease in taxes, it doesn't seem to be the best option.”"
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We will be giving people some relief by enacting tax breaks for small and medium businesses. And there will be an increase for large corporation taxes, which will help us sustain our balance.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We'll increase the taxes for large corporations and balance it with a decrease for small businesses.”"
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We'll decrease the taxes for large corporations and balance the budget with an increase for smaller businesses.”"
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_311",
+            "type": "customNode",
+            "data": {
+                "label": "Mikail Aven\n\n“An excellent decision.”"
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I think this will actually have negative effects on our economy. People will suffer... But anyway...”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We will be increasing taxes for smaller businesses. And there will be a tax break large corporations. This will drain a lot from the smaller businesses to balance the state budget.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Unfortunately this is not a possibility. Our state is broke. We are barely functioning with the current taxes.”"
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_368",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI went by the windows again and kept watching the sea in silence for some more time."
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_466",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I didn't want to hamper our businesses and their employment drive.”"
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_470",
+            "source": "node_3",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_4",
+            "source": "node_5",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_157",
+            "source": "node_8",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_12",
+            "source": "node_9",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_8",
+            "source": "node_13",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_22",
+            "source": "node_17",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_261",
+            "source": "node_24",
+            "target": "node_261",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_272",
+            "source": "node_25",
+            "target": "node_272",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_288",
+            "source": "node_26",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_71",
+            "source": "node_27",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_80",
+            "source": "node_43",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_54",
+            "source": "node_44",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_63",
+            "source": "node_45",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_283",
+            "source": "node_51",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_67",
+            "source": "node_52",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_63",
+            "source": "node_57",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_65",
+            "source": "node_58",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_59",
+            "source": "node_62",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_43",
+            "source": "node_68",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_305",
+            "source": "node_71",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_42",
+            "source": "node_72",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_42",
+            "source": "node_73",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_41",
+            "source": "node_75",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_28",
+            "source": "node_81",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_181",
+            "source": "node_82",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_180",
+            "source": "node_83",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_179",
+            "source": "node_84",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_297",
+            "source": "node_93",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_294",
+            "source": "node_99",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_317",
+            "source": "node_100",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_101",
+            "source": "node_107",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_138",
+            "source": "node_108",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_182",
+            "source": "node_109",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_125",
+            "source": "node_110",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_125",
+            "source": "node_111",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_122",
+            "source": "node_112",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_128",
+            "source": "node_113",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_322",
+            "source": "node_114",
+            "target": "node_322",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_150",
+            "source": "node_119",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_107",
+            "source": "node_125",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_137",
+            "source": "node_126",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_121",
+            "source": "node_130",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_120",
+            "source": "node_131",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_149",
+            "source": "node_132",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_131",
+            "source": "node_133",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_101",
+            "source": "node_135",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_121",
+            "source": "node_136",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_132",
+            "source": "node_137",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_133",
+            "source": "node_145",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_101",
+            "source": "node_148",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_125",
+            "source": "node_149",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_374",
+            "source": "node_154",
+            "target": "node_374",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_163",
+            "source": "node_161",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_161",
+            "source": "node_162",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_166",
+            "source": "node_167",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_168",
+            "source": "node_169",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_173",
+            "source": "node_171",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_173",
+            "source": "node_172",
+            "target": "node_173",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_9",
+            "source": "node_173",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_9",
+            "source": "node_177",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e265_to_269",
+            "source": "node_265",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e267_to_63",
+            "source": "node_267",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e268_to_41",
+            "source": "node_268",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_271",
+            "source": "node_270",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_282",
+            "source": "node_277",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_42",
+            "source": "node_278",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e279_to_65",
+            "source": "node_279",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_42",
+            "source": "node_281",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e285_to_52",
+            "source": "node_285",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_287",
+            "source": "node_286",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_291",
+            "source": "node_290",
+            "target": "node_291",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_94",
+            "source": "node_302",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_316",
+            "source": "node_303",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_306",
+            "source": "node_304",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e311_to_334",
+            "source": "node_311",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_314",
+            "source": "node_313",
+            "target": "node_314",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_93",
+            "source": "node_314",
+            "target": "node_93",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_125",
+            "source": "node_320",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e368_to_377",
+            "source": "node_368",
+            "target": "node_377",
+            "type": "step"
+        },
+        {
+            "id": "e466_to_87",
+            "source": "node_466",
+            "target": "node_87",
+            "type": "step"
+        }
+    ]
+}

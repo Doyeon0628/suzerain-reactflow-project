@@ -1,0 +1,74 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr smiled."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"First, I want to hear brief reports from each ministry.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"First, I want to talk about our new focus and some of my plans going forward.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "PlayerAnnounceHub\n\nPlayerAnnounceHub"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_5",
+            "source": "node_2",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_1",
+            "source": "node_10",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_1",
+            "source": "node_11",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_1",
+            "source": "node_29",
+            "target": "node_1",
+            "type": "step"
+        }
+    ]
+}

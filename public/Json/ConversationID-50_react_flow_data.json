@@ -1,0 +1,567 @@
+{
+    "nodes": [
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWe first met with the mayor and took a brief tour in the city."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe meeting ended. The three of us went to the beach of Lenkurg. It was rather rocky, but very pristine. The sunset looked absolutely astonishing over the Markian Sea."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfterwards, we gathered at the city hall. Symon had a worried look on his face."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I'm not so sure what a warning can do to the situation on the ground. The managers already have many issues to tackle.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The state owns the SSC. They can't retaliate and bite off the hand that feeds them.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon took a deep breath and continued."
+            },
+            "position": {
+                "x": 1620,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“With more resources the managers are more likely to hit the deadline. Any other action just hurts Sordland.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I stand in agreement. The construction speed can recover if they expand the workforce and buy new machinery.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Give more money to the construction managers so they can hire more workers and buy machinery to hit the deadline.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“It is very important that we create jobs for our own citizens who are unemployed rather than foreigners.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We can either give the construction managers money, warn them or replace them.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“A cash injection would increase the project costs even further.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“One way or another we have to solve this issue. This can lead to real complications down the line otherwise.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“There is also the chance that the money could be wasted. We already spent so much on this investment.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“The state warning the state doesn't make any sense at all anyway. Their reasons are just.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Officially warning them is a possibility but isn't tangible, we need action.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“If we make the opening ceremony on time the public will cherish our efficiency.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It's good to see that failure isn't rewarded and punished. We will find more competent people through our networks.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It would be a drastic measure but not unreasonable. Replacing them with competent managers would do.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I disagree completely. The SSC managers are the most experienced construction managers in Sordland.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I have concerns about the construction due to progress being slower than expected.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We scheduled the project to finish in late 1955 but the Sordish State Corporation might miss that target with the current trajectory.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The managers should be fired. This is unacceptable.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“But with that comes other issues. We don't want to create chaos in the management team which could create further problems.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How can we increase the construction speed, Symon?”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Why would they? The SSC respects the authorities fully. They would never dare to go against us.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“One of the important issues is their construction management team. The other could be the outdated construction methods used which require more manpower, but we aren't sure if that contributes to the issue.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I don't care about principles, our agreed opening dates must be met.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“This doesn't raise confidence at all. Maybe we shouldn't have picked the SSC.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“We shouldn't be risking lives, Mr. President. The SSC wouldn't slow construction down if it wasn't absolutely necessary.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Worth considering because I'm not confident that they will hit their targets.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I think so too but maybe we should increase their budget to help them buy new machinery to speed up the process.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDozens of people were outside the mansion grounds and chanting party slogans in a show of support."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e9_to_71",
+            "source": "node_9",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_16",
+            "source": "node_10",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_95",
+            "source": "node_15",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_75",
+            "source": "node_18",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_13",
+            "source": "node_19",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_61",
+            "source": "node_20",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_35",
+            "source": "node_21",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_32",
+            "source": "node_27",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_34",
+            "source": "node_28",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_24",
+            "source": "node_31",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_20",
+            "source": "node_32",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_22",
+            "source": "node_33",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_39",
+            "source": "node_34",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_21",
+            "source": "node_37",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_37",
+            "source": "node_39",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_21",
+            "source": "node_40",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_21",
+            "source": "node_42",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_21",
+            "source": "node_43",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_89",
+            "source": "node_44",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_62",
+            "source": "node_46",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_21",
+            "source": "node_49",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_28",
+            "source": "node_51",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_57",
+            "source": "node_54",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_45",
+            "source": "node_55",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_69",
+            "source": "node_57",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_88",
+            "source": "node_60",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_21",
+            "source": "node_61",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_17",
+            "source": "node_63",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_66",
+            "source": "node_64",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_46",
+            "source": "node_65",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_55",
+            "source": "node_67",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_55",
+            "source": "node_68",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_16",
+            "source": "node_73",
+            "target": "node_16",
+            "type": "step"
+        }
+    ]
+}

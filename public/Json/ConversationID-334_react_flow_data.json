@@ -1,0 +1,210 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was a beautiful, sunny day in Pales."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI gestured to an aide and commanded him to rename the castle."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI gestured to an aide and commanded him to rename the castle."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI gestured to an aide and commanded him to rename the castle."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus_Italic\n\nI gestured to an aide and commanded him to rename the castle."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe large doors swung slowly open and I spurred my horse, following the parade."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTitus' men grabbed him roughly and took him away."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at the horizon towards the port of Pales."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"That's it, Your Majesty. You've won. Pales surrenders.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You fought valiantly, Axel.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"Come on. There's no need for--\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI turned around and looked at Pales."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_139",
+            "source": "node_1",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_140",
+            "source": "node_9",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_137",
+            "source": "node_10",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_136",
+            "source": "node_11",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_135",
+            "source": "node_12",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_138",
+            "source": "node_13",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_33",
+            "source": "node_18",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_131",
+            "source": "node_59",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_122",
+            "source": "node_87",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_134",
+            "source": "node_96",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_111",
+            "source": "node_103",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_115",
+            "source": "node_116",
+            "target": "node_115",
+            "type": "step"
+        }
+    ]
+}

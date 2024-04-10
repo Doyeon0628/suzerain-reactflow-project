@@ -1,0 +1,2658 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr gestured at Symon and he immediately stood up."
+            },
+            "position": {
+                "x": 27000,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"The Ministry of Defense has a very important report regarding our situation with Rumburg.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"The recession is still our number one concern. This year we have seen 10 percent decrease in our GDP. A shocking number.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Mr. Vice President was pretty on point with his summary of the current economic status.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"On the other hand, unemployment has greatly declined. We have managed to cut it by almost sixty percent since we took office. It is currently projected to be 6.6 percent this year. A great achievement.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"However, this has not yet reflected well with our debt situation. Our total national debt has increased about 25 billion SR this  year. If we enter a higher deficit over the next years we will face a massive debt crisis which could crash the economy.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"On the other hand, unemployment has declined. Projections display that we have managed to cut it by five percent, from 16 percent to 11.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"We have successfully put millions of people back to work.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"On the other hand, unemployment reports indicate that we are going for a slight increase in employment. We have managed to cut it from 16 percent to 14 percent.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"On the other hand, unemployment reports indicate that we achieved stability by avoiding an increase in joblessness. We are at 16 percent, the same number at the start of our term.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"On the other hand, unemployment has seen no positive changes. On the contrary there has been an increase in joblessness. It is now at 21 percent. This is very worrying.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"On the other hand, unemployment has seen no positive changes. There has been an increase in joblessness. It is now at 26 percent. We have lost control of the situation.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"This is all great news. Are there any concerning developments?\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe paused for a moment."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's good to hear. Are there any concerning developments?\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Okay. I think I've heard enough. Let's hear the next report.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_103",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good. Let's move on to the next report.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I will also keep it very brief, Mr. President.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"The trade deal with Wehlen increased our agricultural exports from the Bergia region.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Investments in the region have greatly increased our agricultural capacity. The investments also led to a decrease in homelessness and unemployment in rural Bergia.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Our investments in Bergia have greatly increased our agricultural capacity. The investments also led to a decrease in homelessness and unemployment in rural Bergia.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"We are slowly but surely, reigniting our agricultural production. Our ministry is aiding the farmers with government subsidies.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"We're sure this will have a positive reflection on our economy in the near future.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"With the completion of the Sarna Agricultural Zone, we expect to see Bergia as a new economic powerhouse.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"We have only recorded some development in the Agnland region, but our farmers in Gelsland and Bergia are still suffering.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good. Let's move on to the next report.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you, Mr. Manger.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That was it?\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's fine. Let's move on.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"Mr. President.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Paskal Beniwoll\n\n\"There are currently no major problems within the Ministry of Health.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you, Mr. Beniwoll.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_165",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"We urgently need to increase our own military production.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I don't think we should escalate. Let's refrain from sending them a response.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n\"Of course, sir. We already started cooperating. But I must highlight that Agnolia cannot stand against Rumburg.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"Mr. President.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"The region is very unstable. With the incidents at Rumburg, Wehlen and Heljiland, we must be very cautious.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"We have since greatly improved our rural education, building new schools and bringing new equipment and books.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_252",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"There is an important report from our intelligence officers.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"There is an important report from our intelligence officers.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_269",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Our forces managed to arrest 53 suspects already. 20 of them had military grade Rumburg-made KA-74s stashed in their private properties.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_276",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Our police is also under pressure from people beginning to protest again.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Oh also... Mr. Greiser had a report for you. Regarding an investigation you wanted him to look at.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Also, Mr. Ricter was arrested and transported to the Antel Rock prison facilities today among heavy protests.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_282",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"And unfortunately, the benefits from our first infrastructure project don't look set to offset that loss.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_283",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Excellent.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_284",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“I'm still working on the proposal and have legal backing for it. I was going to mention it later.”"
+            },
+            "position": {
+                "x": 12690,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“Well, he just might have to agree if the President of Sordland tells him to.”"
+            },
+            "position": {
+                "x": 12690,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_288",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I can't make that promise. Iosef would be furious.”"
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“There is one more important thing to ask of you. I would like to transfer the Gendarmerie under the Ministry of Interior to improve the internal security efforts.”"
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_291",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n“That is unfortunate.”"
+            },
+            "position": {
+                "x": 11340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_292",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I haven't heard of this before.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_293",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“If you need more help I can surely arrange a transfer.”"
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Well if the security situations gets more problematic then it might be necessary.”"
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_298",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am not so sure how this would help.”"
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nGus stood up as soon as Symon sat down."
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_305",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNext up was Paskal."
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"We have successfully put hundreds of thousands back to work.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Hundreds of thousands lost their jobs.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Hundreds of thousands lost their jobs.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"We caused millions of people to lose their jobs.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Thousands lost their jobs.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_323",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Thanks to our balanced budget we are eyeing a sizeable reduction in our national debt at the end of the term. If my economic projections hold up along with the current trends of course.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Thanks to our balanced budget we are eyeing a slight reduction in our national debt at the end of the term. If my economic projections hold up along with the current trends of course.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_337",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"However, this has not yet reflected well with our debt situation. Our total national debt has increased about 55 billion SR this year. If we maintain such a deficit over the next years we will face a massive debt crisis which could crash the economy.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_341",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"The assembly is working on introducing new tax bills which will generate more revenue for the government. These efforts will depend on the government deficit situation.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_342",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"The assembly is working on introducing new tax bills which will generate more revenue for the government. These efforts will depend on the government deficit situation.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_343",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"However, this has not yet reflected well with our debt situation. Our total national debt has increased about 45 billion SR this year. If we enter a higher deficit over the next years we will face a massive debt crisis which could crash the economy.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_358",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"The assembly is working on introducing new tax bills which will generate more revenue for the government. These efforts will depend on the government deficit situation.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_359",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"Thanks to our balanced budget we are eyeing a manageable increase in our national debt at the end of the term. If my economic projections hold up along with the current trends of course.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_364",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"However, this has not yet reflected well with our debt situation. Our total national debt has increased about 65 billion SR this year. If we enter a higher deficit over the next years we will face a massive debt crisis which could crash the economy.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_371",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I also have an update about the abolishment of the Bergia Special Zone.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_386",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Luckily, I have some good news about the abolishment of the Bergia Special Zone.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_387",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Despite not following the extreme policies of his predecessor, Governor Krull is continuing with discriminatory policies against the Bluds in Bergia.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Great work as always. Thank you.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_389",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you, Lileas.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_390",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good to know. I'm expecting them soon, Ms. Graf.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_391",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Since the removal of Governor Bron from office, there have been some positive results for our Bludish citizens in Bergia...\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_392",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Mr. Ersen gained a lot of popularity for his fight against Governor Bron, and is now leading a peaceful ground movement against Governor Krull.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_399",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"However, Governor Krull seems to be looking for new loopholes to continue Bron's racist policies in different ways.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_401",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"The Supreme Court has delayed the Ishval Ersen case again. Indefinitely.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_403",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"In this process, Mr. Ersen gained a lot of popularity and is now leading a peaceful protest movement against Governor Bron.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_408",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"According to the new constitution, Governor Bron should be charged. But with Mr. Hawker leading the Court and delaying the case, our only option to remove him is the removal of the Special Zone.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_413",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"According to the new constitution, Governor Bron should be charged. But with Mr. Hawker leading the Court and delaying the case, my hands are tied.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_417",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Apart from a few small details, the semi-autonomy project is ready to be implemented. We can get rid of the governor soon this way.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_418",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I will send the final documents for you to sign soon, Mr. President.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_420",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you, Nia.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_421",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good to know. I'm expecting them soon, Ms. Morgna.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_425",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Luckily, I've been working on the semi-autonomous zone project for Bergia.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"According to Court ruling, Governor Krull cannot resume Phelix Bron's oppressive policies. But with Mr. Hawker leading the Court, finding loopholes may still be a possibility.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_428",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Apart from a few small details, the project is ready to be implemented. We'll soon be able to get rid of the current governor.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_429",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I will send the final documents for you to sign soon, Mr. President.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_431",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you, Nia.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good to know. I'm expecting them soon, Ms. Morgna.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_442",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I expected some suggestions.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_443",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't worry. We will get rid of the governor after I sign off Ms. Graf's project.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_447",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you all for your reports.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_449",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Duly noted. Thank you, Ms. Morgna.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_450",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"That's the extent of my report.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_451",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas smiled faintly."
+            },
+            "position": {
+                "x": 22140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_453",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Thank you for your reports.\""
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_454",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Do you have anything to share, Mrs. Morgna?\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_455",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Not at this moment, Mr. President. You are already well aware of what's going on.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_461",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia took her seat."
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_462",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I understand.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_464",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nNia shook her head."
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas smiled faintly."
+            },
+            "position": {
+                "x": 25110,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_467",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I can update you more in another meeting.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_468",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I hope so, Mr. President.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_469",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Of course.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_470",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I expected some suggestions.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_471",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't worry. We will get rid of the governor after I sign off Ms. Graf's project.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_472",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"All noted. Thank you, Ms. Morgna.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_475",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I can update you more in another meeting.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_477",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"I hope so, Mr. President.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_478",
+            "type": "customNode",
+            "data": {
+                "label": "Nia Morgna\n\n\"Of course.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_482",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Our raids against BFF targets are continuing with no slowing down.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_483",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"I'm quite shocked that Mr. Ejall's intelligence have been very reliable so far.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_495",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Unfortunately, during a night operation this week, we had Awlan Arge, along with three other leaders of the BFF slip away from our grasp. Our forces are looking for them around the Sordish-Wehzek border.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_502",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"They have assured us that they will be aiding our search from their border.\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_503",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"They have already announced they will cooperate with our forces to finish the BFF off.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_508",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"We might need to implement some new measures soon. We will provide you with a more detailed report at a later date.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_509",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Actually, the circumstances have changed and I want you to hold off the operations against the BFF from now on.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_510",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Good. I'll sign it now. I trust you to eliminate them once and for all.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_511",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"What do you mean, Mr. President?\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_513",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I've been reading your reports and you've already done a good job. I think we can call off the operations now. I don't want to damage our relations with the Bludish community.\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_514",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"We already have very valuable feedback about their plans and hiding locations. You cannot cancel a historic operation like this.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_516",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You might be right but we cannot afford to damage the tense situation in Bergia any longer. Cancel the operation immediately.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_517",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You might be right. I'll trust your judgement and sign the operation off.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_518",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Of course.\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_519",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Thank you.\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_520",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"You can't be serious.\""
+            },
+            "position": {
+                "x": 30240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_523",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Our forces are now getting ready for a much larger operation to finally finish them off. I just need you to sign the order.\""
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_527",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Our raids against BFF targets are continuing with no slowing down.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_529",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Thanks to the emergency powers, we've managed to retain some very sensitive information about the locations of the leaders of the secessionists.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_533",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"The returns have come in from the shares that Sordland recently sold.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_549",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I'm pleased to inform you that we have turned a massive profit from the sale.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_550",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"I'm pleased to inform you that we have turned a significant profit from the sale.\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_551",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"We have turned a medium-sized profit from the sale.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_553",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Unfortunately, we have barely managed to turn a profit from the sale.\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_557",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"However, the President's recent decision to revert the Energy Protection Act to its Soll-era 10 percent cap on foreign ownership had a severe impact on the company.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_562",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Furthermore, the President's recent decision to revert the Energy Protection Act to its Soll-era 10 percent cap on foreign ownership had a severe impact on the company.\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_567",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Furthermore, due to the removal of the Energy Protection Act, the Kingdom of Rumburg now owns a larger stake in Gasom than Sordland does.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_568",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon looked worried."
+            },
+            "position": {
+                "x": 33480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_573",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"However, due to the removal of the Energy Protection Act, the Kingdom of Rumburg now owns a larger stake in Gasom than Sordland does.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_574",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon looked worried."
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_575",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n\"That development is bound to negatively affect energy prices.\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_577",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"That will be all.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_581",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Unfortunately, the President's recent decision to revert the Energy Protection Act to its Soll-era 10 percent cap on foreign ownership had a severe impact on the company.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_585",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Unfortunately, due to the removal of the Energy Protection Act, the Kingdom of Rumburg was able to purchase a large stake in the company.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_593",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Due to the removal of the Energy Protection Act, the country of Anraka was able to purchase a quite large stake in the company.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_595",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Finally, although it is not strictly my purview, I'll provide you all with a quick update on the situation with Gasom.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_596",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Finally, although it is not strictly my purview, I'll provide you all with a quick update on the situation with Gasom.\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_597",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Finally, although it is not strictly my purview, I'll provide you all with a quick update on the situation with Gasom.\""
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_598",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"Finally, although it is not strictly my purview, I'll provide you all with a quick update on the situation with Gasom.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_603",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n\"They have circumvented the embargo by trading through the Kingdom of Rizia and other smaller investment partners.\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_43",
+            "source": "node_2",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_321",
+            "source": "node_8",
+            "target": "node_321",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_339",
+            "source": "node_17",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_353",
+            "source": "node_18",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_10",
+            "source": "node_19",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_325",
+            "source": "node_24",
+            "target": "node_325",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_327",
+            "source": "node_25",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_307",
+            "source": "node_29",
+            "target": "node_307",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_49",
+            "source": "node_30",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_48",
+            "source": "node_32",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_320",
+            "source": "node_40",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_318",
+            "source": "node_45",
+            "target": "node_318",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_319",
+            "source": "node_46",
+            "target": "node_319",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_65",
+            "source": "node_47",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_57",
+            "source": "node_49",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_305",
+            "source": "node_55",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e103_to_305",
+            "source": "node_103",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_305",
+            "source": "node_104",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_115",
+            "source": "node_122",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_118",
+            "source": "node_126",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_106",
+            "source": "node_127",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_106",
+            "source": "node_128",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_71",
+            "source": "node_130",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_531",
+            "source": "node_131",
+            "target": "node_531",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_531",
+            "source": "node_132",
+            "target": "node_531",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_531",
+            "source": "node_133",
+            "target": "node_531",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_306",
+            "source": "node_134",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_306",
+            "source": "node_135",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_306",
+            "source": "node_138",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_306",
+            "source": "node_139",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_142",
+            "source": "node_147",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_141",
+            "source": "node_152",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e165_to_157",
+            "source": "node_165",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_177",
+            "source": "node_171",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_170",
+            "source": "node_174",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_206",
+            "source": "node_201",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_201",
+            "source": "node_205",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_234",
+            "source": "node_227",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e252_to_291",
+            "source": "node_252",
+            "target": "node_291",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_271",
+            "source": "node_264",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e269_to_280",
+            "source": "node_269",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e276_to_375",
+            "source": "node_276",
+            "target": "node_375",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_280",
+            "source": "node_277",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_291",
+            "source": "node_278",
+            "target": "node_291",
+            "type": "step"
+        },
+        {
+            "id": "e282_to_276",
+            "source": "node_282",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e283_to_86",
+            "source": "node_283",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e284_to_394",
+            "source": "node_284",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_284",
+            "source": "node_286",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e288_to_286",
+            "source": "node_288",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_287",
+            "source": "node_290",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e291_to_294",
+            "source": "node_291",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e292_to_394",
+            "source": "node_292",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e293_to_285",
+            "source": "node_293",
+            "target": "node_285",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_299",
+            "source": "node_297",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e298_to_302",
+            "source": "node_298",
+            "target": "node_302",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_289",
+            "source": "node_304",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e305_to_105",
+            "source": "node_305",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_48",
+            "source": "node_315",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_49",
+            "source": "node_316",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_52",
+            "source": "node_317",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_53",
+            "source": "node_318",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_53",
+            "source": "node_319",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e323_to_22",
+            "source": "node_323",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_311",
+            "source": "node_336",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e337_to_334",
+            "source": "node_337",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e341_to_330",
+            "source": "node_341",
+            "target": "node_330",
+            "type": "step"
+        },
+        {
+            "id": "e342_to_311",
+            "source": "node_342",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e343_to_34",
+            "source": "node_343",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e358_to_42",
+            "source": "node_358",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e359_to_42",
+            "source": "node_359",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e364_to_361",
+            "source": "node_364",
+            "target": "node_361",
+            "type": "step"
+        },
+        {
+            "id": "e371_to_250",
+            "source": "node_371",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e386_to_250",
+            "source": "node_386",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e387_to_373",
+            "source": "node_387",
+            "target": "node_373",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_383",
+            "source": "node_388",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e389_to_250",
+            "source": "node_389",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e390_to_250",
+            "source": "node_390",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e391_to_250",
+            "source": "node_391",
+            "target": "node_250",
+            "type": "step"
+        },
+        {
+            "id": "e392_to_400",
+            "source": "node_392",
+            "target": "node_400",
+            "type": "step"
+        },
+        {
+            "id": "e399_to_402",
+            "source": "node_399",
+            "target": "node_402",
+            "type": "step"
+        },
+        {
+            "id": "e401_to_473",
+            "source": "node_401",
+            "target": "node_473",
+            "type": "step"
+        },
+        {
+            "id": "e403_to_404",
+            "source": "node_403",
+            "target": "node_404",
+            "type": "step"
+        },
+        {
+            "id": "e408_to_437",
+            "source": "node_408",
+            "target": "node_437",
+            "type": "step"
+        },
+        {
+            "id": "e413_to_418",
+            "source": "node_413",
+            "target": "node_418",
+            "type": "step"
+        },
+        {
+            "id": "e417_to_440",
+            "source": "node_417",
+            "target": "node_440",
+            "type": "step"
+        },
+        {
+            "id": "e418_to_419",
+            "source": "node_418",
+            "target": "node_419",
+            "type": "step"
+        },
+        {
+            "id": "e420_to_470",
+            "source": "node_420",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e421_to_470",
+            "source": "node_421",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e425_to_451",
+            "source": "node_425",
+            "target": "node_451",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_429",
+            "source": "node_427",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e428_to_401",
+            "source": "node_428",
+            "target": "node_401",
+            "type": "step"
+        },
+        {
+            "id": "e429_to_430",
+            "source": "node_429",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e431_to_479",
+            "source": "node_431",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_479",
+            "source": "node_432",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e442_to_405",
+            "source": "node_442",
+            "target": "node_405",
+            "type": "step"
+        },
+        {
+            "id": "e443_to_468",
+            "source": "node_443",
+            "target": "node_468",
+            "type": "step"
+        },
+        {
+            "id": "e447_to_444",
+            "source": "node_447",
+            "target": "node_444",
+            "type": "step"
+        },
+        {
+            "id": "e449_to_462",
+            "source": "node_449",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e450_to_462",
+            "source": "node_450",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e451_to_449",
+            "source": "node_451",
+            "target": "node_449",
+            "type": "step"
+        },
+        {
+            "id": "e453_to_2",
+            "source": "node_453",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e454_to_2",
+            "source": "node_454",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e455_to_465",
+            "source": "node_455",
+            "target": "node_465",
+            "type": "step"
+        },
+        {
+            "id": "e461_to_462",
+            "source": "node_461",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e462_to_2",
+            "source": "node_462",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e464_to_462",
+            "source": "node_464",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_456",
+            "source": "node_465",
+            "target": "node_456",
+            "type": "step"
+        },
+        {
+            "id": "e467_to_397",
+            "source": "node_467",
+            "target": "node_397",
+            "type": "step"
+        },
+        {
+            "id": "e468_to_462",
+            "source": "node_468",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e469_to_462",
+            "source": "node_469",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e470_to_462",
+            "source": "node_470",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e471_to_477",
+            "source": "node_471",
+            "target": "node_477",
+            "type": "step"
+        },
+        {
+            "id": "e472_to_478",
+            "source": "node_472",
+            "target": "node_478",
+            "type": "step"
+        },
+        {
+            "id": "e475_to_472",
+            "source": "node_475",
+            "target": "node_472",
+            "type": "step"
+        },
+        {
+            "id": "e477_to_462",
+            "source": "node_477",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e478_to_462",
+            "source": "node_478",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e482_to_525",
+            "source": "node_482",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e483_to_484",
+            "source": "node_483",
+            "target": "node_484",
+            "type": "step"
+        },
+        {
+            "id": "e495_to_499",
+            "source": "node_495",
+            "target": "node_499",
+            "type": "step"
+        },
+        {
+            "id": "e502_to_524",
+            "source": "node_502",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e503_to_524",
+            "source": "node_503",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e508_to_509",
+            "source": "node_508",
+            "target": "node_509",
+            "type": "step"
+        },
+        {
+            "id": "e509_to_375",
+            "source": "node_509",
+            "target": "node_375",
+            "type": "step"
+        },
+        {
+            "id": "e510_to_512",
+            "source": "node_510",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e511_to_519",
+            "source": "node_511",
+            "target": "node_519",
+            "type": "step"
+        },
+        {
+            "id": "e513_to_505",
+            "source": "node_513",
+            "target": "node_505",
+            "type": "step"
+        },
+        {
+            "id": "e514_to_512",
+            "source": "node_514",
+            "target": "node_512",
+            "type": "step"
+        },
+        {
+            "id": "e516_to_521",
+            "source": "node_516",
+            "target": "node_521",
+            "type": "step"
+        },
+        {
+            "id": "e517_to_521",
+            "source": "node_517",
+            "target": "node_521",
+            "type": "step"
+        },
+        {
+            "id": "e518_to_520",
+            "source": "node_518",
+            "target": "node_520",
+            "type": "step"
+        },
+        {
+            "id": "e519_to_513",
+            "source": "node_519",
+            "target": "node_513",
+            "type": "step"
+        },
+        {
+            "id": "e520_to_513",
+            "source": "node_520",
+            "target": "node_513",
+            "type": "step"
+        },
+        {
+            "id": "e523_to_375",
+            "source": "node_523",
+            "target": "node_375",
+            "type": "step"
+        },
+        {
+            "id": "e527_to_247",
+            "source": "node_527",
+            "target": "node_247",
+            "type": "step"
+        },
+        {
+            "id": "e529_to_530",
+            "source": "node_529",
+            "target": "node_530",
+            "type": "step"
+        },
+        {
+            "id": "e533_to_535",
+            "source": "node_533",
+            "target": "node_535",
+            "type": "step"
+        },
+        {
+            "id": "e549_to_554",
+            "source": "node_549",
+            "target": "node_554",
+            "type": "step"
+        },
+        {
+            "id": "e550_to_555",
+            "source": "node_550",
+            "target": "node_555",
+            "type": "step"
+        },
+        {
+            "id": "e551_to_555",
+            "source": "node_551",
+            "target": "node_555",
+            "type": "step"
+        },
+        {
+            "id": "e553_to_560",
+            "source": "node_553",
+            "target": "node_560",
+            "type": "step"
+        },
+        {
+            "id": "e557_to_571",
+            "source": "node_557",
+            "target": "node_571",
+            "type": "step"
+        },
+        {
+            "id": "e562_to_565",
+            "source": "node_562",
+            "target": "node_565",
+            "type": "step"
+        },
+        {
+            "id": "e567_to_578",
+            "source": "node_567",
+            "target": "node_578",
+            "type": "step"
+        },
+        {
+            "id": "e568_to_575",
+            "source": "node_568",
+            "target": "node_575",
+            "type": "step"
+        },
+        {
+            "id": "e573_to_578",
+            "source": "node_573",
+            "target": "node_578",
+            "type": "step"
+        },
+        {
+            "id": "e574_to_601",
+            "source": "node_574",
+            "target": "node_601",
+            "type": "step"
+        },
+        {
+            "id": "e575_to_576",
+            "source": "node_575",
+            "target": "node_576",
+            "type": "step"
+        },
+        {
+            "id": "e577_to_600",
+            "source": "node_577",
+            "target": "node_600",
+            "type": "step"
+        },
+        {
+            "id": "e581_to_583",
+            "source": "node_581",
+            "target": "node_583",
+            "type": "step"
+        },
+        {
+            "id": "e585_to_578",
+            "source": "node_585",
+            "target": "node_578",
+            "type": "step"
+        },
+        {
+            "id": "e593_to_598",
+            "source": "node_593",
+            "target": "node_598",
+            "type": "step"
+        },
+        {
+            "id": "e595_to_569",
+            "source": "node_595",
+            "target": "node_569",
+            "type": "step"
+        },
+        {
+            "id": "e596_to_582",
+            "source": "node_596",
+            "target": "node_582",
+            "type": "step"
+        },
+        {
+            "id": "e597_to_586",
+            "source": "node_597",
+            "target": "node_586",
+            "type": "step"
+        },
+        {
+            "id": "e598_to_594",
+            "source": "node_598",
+            "target": "node_594",
+            "type": "step"
+        },
+        {
+            "id": "e603_to_575",
+            "source": "node_603",
+            "target": "node_575",
+            "type": "step"
+        }
+    ]
+}

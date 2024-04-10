@@ -1,0 +1,533 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou managed to gather a military force in Valenqiris. \\n\\nSoon after, they started engaging in direct battles with the rebel forces led by the {RiziaDLCText.WarEnemies}."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n...made a public call to the country to take up arms in your name."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou managed to gather the loyalist forces together in the capital.\\n\\nSoon after, they started engaging in direct battles with the rebel forces led by the {RiziaDLCText.WarEnemies}.\\n\\nYou..."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou managed to gather the loyalist forces together in the capital.\\n\\nSoon after, they started engaging in direct battles with the {RiziaDLCText.WarEnemies}."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter several weeks of violent clashes with the {RiziaDLCText.WarEnemies} forces, the army managed to completely secure Valenqiris from the enemy. \\n\\nHowever, the capital was now under the complete control of {RiziaDLCText.CoupLeader}."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou assumed the role of a commander and led the army against the {RiziaDLCText.WarEnemies} forces.\\n\\nDespite initial gains, you quickly realized there would be no easy victory in this. The scale of the civil war encapsulated the whole country and the enemy was focused on controlling the supply lines."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter your call to arms, thousands of people from the democratic movement as well as Toras loyalists took to the streets.\\n\\nAfter this, the enemy forces turned even more violent and the whole country fell into chaos.\\n\\nDespite initial gains, you quickly realized there would be no easy victory in this."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter several weeks of violent clashes with the {RiziaDLCText.WarEnemies} forces, the army managed to secure key locations around Rizia Imperii. However, the capital was now under the complete control of the enemy.\\n\\nDespite initial gains, you quickly realized there would be no easy victory in this."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter your call to arms, armed divisions from both House Azaro and House Sazon joined the fighting in your support, turning the conflict more violent than before.\\n\\nDespite initial gains, you quickly realized there would be no easy victory in this."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter your call to arms, armed divisions from House Azaro joined the fighting in your support, turning the conflict more violent than before.\\n\\nDespite initial gains, you quickly realized there would be no easy victory in this."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter your call to arms, armed divisions from House Sazon joined the fighting in your support, turning the conflict more violent than before.\\n\\nDespite initial gains, you quickly realized there would be no easy victory in this."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSeeing no clear winner in the conflict, the international community hesitated to give their support to you. They rejected to intervene in the country \"at this moment.\"\\n\\nThe only person who offered support was President Smolak, who offered to intervene to keep you on the throne.\\n\\nYou..."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\nYou looked for international support."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDespite your best efforts, the situation kept getting worse. As your casualties kept rising, the enemy's support were increasing.\\n\\nOver the next months, your forces managed to surround the entirety of the capital but couldn't manage to enter the city. The enemy was now receiving massive amounts of aid from the Sudis Sea."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDespite your best efforts, the situation kept getting worse. As your casualties kept rising, the support for the revolutionaries were increasing.\\n\\nOver the next months, your forces managed to surround the entirety of the capital but couldn't manage to enter the city. The enemy was now receiving massive amounts of aid from the Sudis Sea."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\nYou ordered them to storm the capital."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\nYou ordered them to continue their siege."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe following day, headlines in international media declared: \"Civil War Erupts in Rizia.\"\\n\\nYour mother was devastated at the situation and her health was beginning to worsen.\\n\\n{RiziaDLCText.LucitaPabelText}"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n...declined his offer."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe accepted your invitation and announced the Kingdom of Rumburg's intervention on behalf of you.\\n\\nIn the following weeks, thousands of Rumburgian soldiers were deployed to Rizia."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIn the following weeks, thousands of Wehzek soldiers were deployed to Rizia.\\n\\nNot expecting a direct attack from Wehlen, the rebel forces in the north scattered upon the arrival of the Wehzek Armed Forces."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\nVictory was on the horizon."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe offensive continued for weeks with no signs of clear victory. Half of Porte Drazon was now in ruins.\\n\\nSeeing your failure to capture the capital, Lespia announced their support for the new government and ordered their army to intervene in their support."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThousands of civilians perished during your blockade. Millions were now trapped inside the city with no access to food or water. Half of Porte Drazon was now in ruins.\\n\\nAfter condemning your actions to cut aid, Valgsland announced their support for the new revolutionary government and ordered their army to intervene in their support."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\nAnd foreign troops landed on Rizia."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAs a response to the Lespian intervention, Valgsland announced their support of you and declared their intention to send in the Valgish army to Rizia.\\n\\nDuring this tumultuous time, you received news that Lucita gave birth to your son, {RiziaDLCText.KingsSon}."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_254",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOver the next years, Rizia became a playground for the superpowers as both the ATO and the CSP started to intervene directly.\\n\\nEnding this war was now out of the hands of the Rizian people or you."
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_269",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\nYou were hopeful."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_285",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\nThere was no end in sight."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter a few months later, Rumburg cleared the country from your enemies.\\n\\nHowever, the Queen did not relinquish their control of Porte Drazon completely, nor removed her army from Rizia.\\n\\nShe offered to install you as King in exchange for agreeing to be her vassal."
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\nWar never changes."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_160",
+            "source": "node_1",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_77",
+            "source": "node_3",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_38",
+            "source": "node_7",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_45",
+            "source": "node_75",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_105",
+            "source": "node_79",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_307",
+            "source": "node_80",
+            "target": "node_307",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_308",
+            "source": "node_81",
+            "target": "node_308",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_137",
+            "source": "node_85",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_308",
+            "source": "node_124",
+            "target": "node_308",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_308",
+            "source": "node_125",
+            "target": "node_308",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_308",
+            "source": "node_126",
+            "target": "node_308",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_144",
+            "source": "node_129",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_198",
+            "source": "node_130",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_202",
+            "source": "node_136",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_241",
+            "source": "node_140",
+            "target": "node_241",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_143",
+            "source": "node_149",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_312",
+            "source": "node_150",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_305",
+            "source": "node_172",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_42",
+            "source": "node_197",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_83",
+            "source": "node_200",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_263",
+            "source": "node_211",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_310",
+            "source": "node_212",
+            "target": "node_310",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_276",
+            "source": "node_213",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_224",
+            "source": "node_227",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_311",
+            "source": "node_229",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_253",
+            "source": "node_243",
+            "target": "node_253",
+            "type": "step"
+        },
+        {
+            "id": "e254_to_317",
+            "source": "node_254",
+            "target": "node_317",
+            "type": "step"
+        },
+        {
+            "id": "e269_to_297",
+            "source": "node_269",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e285_to_318",
+            "source": "node_285",
+            "target": "node_318",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_321",
+            "source": "node_297",
+            "target": "node_321",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_286",
+            "source": "node_303",
+            "target": "node_286",
+            "type": "step"
+        }
+    ]
+}

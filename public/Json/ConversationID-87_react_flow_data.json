@@ -1,0 +1,601 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nInside the building, I was greeted by Ciara's assistants. They led me to a meeting room where she was waiting inside. She stood and gripped my hand."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara had scheduled a short meeting at the Ministry of Education to discuss the current curriculum taught in schools."
+            },
+            "position": {
+                "x": 6750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I don't agree with teaching our children supernatural nonsense like creationism.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“That would be one way to compromise, yes. But does creationism really help open the minds of our children?”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Children should be encouraged to think critically and ask questions. Creationism and other religious teachings hinder that.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What about this so-called *evolution theory*? Why should children blindly accept that?”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“It's the exact opposite. Evolution is a theory that was created by using observational data over the span of many years.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I might add that evolution is also most likely going to be proven in the future, as there is empirical evidence.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It's not the same thing.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“You know what? This is going nowhere.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Learning about the history of creationism is fine. That's not the problem. The problem is when you see people call ideas like evolution \"dangerous\"."
+            },
+            "position": {
+                "x": 4050,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“My evidence is God. You can look anywhere in the beauty of the world and see the evidence.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“That doesn't change what I think.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Without changing your perspective by learning about new things, how are we going to ever progress?”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“How is that not the same thing? You just said religion brings moral correctness.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Because to change the future, sometimes you need to accept that the past is wrong.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“There is clearly no point in discussing this with you.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How dare you defy the one true law of the universe? God.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Then they should learn about both.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian Galade knocked and entered."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We were just discussing the curriculum. Ciara has made some excellent points.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Continuing from my previous point...”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Advancing women's rights is more than just a pet cause. Both of you gentlemen must know that.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Schools should be able to teach creationism exclusively.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“From now on, creationism shall be banned and only evolution will be taught in schools.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“Excellent decision, Mr. Rayne.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Unfortunate, but it will have a better outcome than banning creationism altogether.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n“I can't believe this.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Rural schools often decide in favor of creationism only, which puts students at a disadvantage when it comes to entering university. The effect is especially noticeable among young women.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"It promotes the blind acceptance of the world as it is, no facts or verification needed.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Ciara Walda\n\n\"Your budget cuts may have put the brakes on our plans for education reform but there is one important change that can still be made.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Ms. Walda, don't bring your pet cause into this. Mr. President, there are other considerations you may not have thought about.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_331",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara had scheduled a short meeting at the Ministry of Education to discuss the current curriculum taught in schools."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_332",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara had scheduled a short meeting at the Ministry of Education to discuss the current curriculum taught in schools."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nCiara had scheduled a short meeting at the Ministry of Education to discuss the current curriculum taught in schools."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_430",
+            "source": "node_1",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_168",
+            "source": "node_4",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_148",
+            "source": "node_20",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_71",
+            "source": "node_23",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_150",
+            "source": "node_27",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_57",
+            "source": "node_30",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_64",
+            "source": "node_32",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_42",
+            "source": "node_33",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_60",
+            "source": "node_37",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_48",
+            "source": "node_38",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_59",
+            "source": "node_39",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_32",
+            "source": "node_40",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_34",
+            "source": "node_42",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_66",
+            "source": "node_46",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_58",
+            "source": "node_47",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_58",
+            "source": "node_53",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_39",
+            "source": "node_58",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_71",
+            "source": "node_59",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_58",
+            "source": "node_63",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_23",
+            "source": "node_70",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_83",
+            "source": "node_77",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_76",
+            "source": "node_82",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_155",
+            "source": "node_90",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_116",
+            "source": "node_109",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_159",
+            "source": "node_119",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_158",
+            "source": "node_131",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_136",
+            "source": "node_132",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_137",
+            "source": "node_133",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_4",
+            "source": "node_147",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_22",
+            "source": "node_149",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_28",
+            "source": "node_150",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_16",
+            "source": "node_154",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e331_to_382",
+            "source": "node_331",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e332_to_383",
+            "source": "node_332",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_384",
+            "source": "node_333",
+            "target": "node_384",
+            "type": "step"
+        }
+    ]
+}

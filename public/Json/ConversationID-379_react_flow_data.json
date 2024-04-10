@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I suggest that you take advantage of Rumburg's contacts within the Bludish Freedom Front.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"The Bluds? But they're terrorists.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"I am still loathe to suggest violence as a solution to the Zille conundrum. But in the absence of an agreement with President Smolak, an internal resistance might be our last hope.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"They are a persecuted minority fighting an oppressive government.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"And their struggle can, conveniently, be channeled towards Zille.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Try to see past their religion and empathize with their struggle against the Wehzek government.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't want the BFF getting in the way of our existing resistance plans.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I'd love to agree to this. But I don't have the budget for it.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Oh, my.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"As valuable as religion is to me personally, it must be separated from the state if my nation is to be taken seriously. I'm surprised Mr. Esquibel hasn't told you the same.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLaurento grew indignant."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"His Majesty has turned down your offer. Let's leave it at that.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe leaned forward and spoke confidentially."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"We still have a chance to get Zille back fair and square. If that fails, you might hear from me again.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"At any rate, Your Excellency, thank you for this offer. And for entrusting us with such sensitive information.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_1374",
+            "source": "node_2",
+            "target": "node_1374",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_10",
+            "source": "node_3",
+            "target": "node_10",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_91",
+            "source": "node_15",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_91",
+            "source": "node_20",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_101",
+            "source": "node_22",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_101",
+            "source": "node_23",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_101",
+            "source": "node_25",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_98",
+            "source": "node_45",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_88",
+            "source": "node_46",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_95",
+            "source": "node_62",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_104",
+            "source": "node_66",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_12",
+            "source": "node_74",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_104",
+            "source": "node_75",
+            "target": "node_104",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_41",
+            "source": "node_86",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_55",
+            "source": "node_101",
+            "target": "node_55",
+            "type": "step"
+        }
+    ]
+}

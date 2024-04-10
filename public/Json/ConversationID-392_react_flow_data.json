@@ -1,0 +1,57 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMaartin van Hoorten, Prime Minister of Agnolia was summoned to the stage."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Maartin Van Hoorten (R)\n\n\"Aye.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was finally my turn to cast a vote."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_30",
+            "source": "node_2",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_49",
+            "source": "node_53",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_40",
+            "source": "node_54",
+            "target": "node_40",
+            "type": "step"
+        }
+    ]
+}

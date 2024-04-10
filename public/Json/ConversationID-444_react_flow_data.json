@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe lost the volume of his voice and quickly stopped himself."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e28_to_18",
+            "source": "node_28",
+            "target": "node_18",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“They are trying to economically weaken us.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_35",
+            "source": "node_2",
+            "target": "node_35",
+            "type": "step"
+        }
+    ]
+}

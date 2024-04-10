@@ -1,0 +1,1434 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI arrived home from work, hung my jacket up, and put my briefcase in the hall."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Darling, what's wrong?\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI sat down on the couch next to Monica."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"It's from the Department of Education. Franc's university exam results are in.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Why are you so worried, then?\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"He failed, didn't he?\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Maybe it'll be good for him to learn from his mistakes.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"No, but he should be back from school soon.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"I just don't understand. Franc's a smart boy -- why would he sabotage himself like this?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI waited for Monica to start the conversation."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"I... I need a moment.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"How could you let us down like this?\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"I know, I know, I can't do anything right!\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So it seems.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Anton. Isn't there *anything* you can do?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"I'm going upstairs after him.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica went upstairs after Franc and I started reading documents before dinner."
+            },
+            "position": {
+                "x": 17010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"With enough money, I could get you into Harcard in Arcasia. It's one of the best universities in the world.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"United People's University in United Contana is free. It also has an excellent medical program.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Communism, I can dig that.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's been decided. You're going to United Contana, Franc.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"He must have made us proud.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica briefly rested her head on my shoulder, then handed me the letter."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"You know what this means -- he's going to have to join the military. He could die, Anton!\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"He did this to get back at you, you know. Maybe if you had been there for him more often...\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Mom? Dad? What's going on?\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_91",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Franc! Language!\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're a disappointment to this family, Franc.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Do you think I give a fuck?\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Right, you should've taken a break from running the country to help your loser son!\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"It's all about you, isn't it? You don't care that I bombed the test. You just care how it makes you look!\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"My image doesn't matter. This is your future we're talking about.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. The President of Sordland cannot have a failure for a son!\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica put her hand on his shoulder. She glared at me."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"It's going to be okay. But you really should have studied harder, Franc.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Yes!\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm not going to take life lessons from Ewald Alphonso.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I do have connections to the board.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It would be nice to have him closer to home.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"I guess it's the army for me, then...\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"So, what am I supposed to do now?\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You'll go to military school, of course. It's the only place that will have you.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica surprised me with her enthusiasm."
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"If you're going to abuse your power to get me into a school, I want it to be as far away from this family as possible.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Wait. You could also study abroad...\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's true, you could study abroad...\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. I won't influence your life. You've got to live with what you've done.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Really? President Anton Rayne suddenly refuses to influence his family members' lives? After banning his wife from politics?\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"I don't want to cause any more trouble than I already have. I'll go to military school.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"I'm sick of this house and I'm sick of both of you. I'll go to military school.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"I'm sick of this house and I'm sick of both of you. I'll join the goddamn army.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"I understand principles are important. But, Anton, which is more important? Your principles or your son's future?\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Franc, wait--\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"My principles, of course.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"Then I believe you will make the right choice.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"If it's so important to you, I'll go to goddamn military school. I won't be around to disgrace you any further.\""
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, I've made my decision. You're joining the army, Franc.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fine. Let me think about this.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"All right, Dad. Serves me right for not studying.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There's Holsord State, or you could study abroad...\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Holsord State University is the right decision after all.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I won't influence your life, Franc. The military is the right choice.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Military Convo\n\nMilitary Convo"
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Monica\n\n\"What do you think, Anton?\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There's also Harcard in Arcasia. It's one of the best universities in the world. With enough money, I could get you in.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"On second thought, I'd rather send Franc to Harcard in Arcasia.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's been decided. I'll pay for Franc to go to Harcard.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Study Abroad Decided\n\nStudy Abroad Decided"
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_305",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Holsord State University is the right decision after all. It will cost a little extra due to the privatization changes.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_318",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. I won't influence your life. You've got to live with what you've done.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_329",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Terrific. Holsord State it is, then. Though, It going to cost us a little bit extra due to the privatization changes.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_331",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Unfortunately, Holsord is a no go. We don't have the money, right now.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You could also study abroad...\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_337",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, I've made my decision. I'm sending you to Holsord State.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_347",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You could also study abroad...\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_348",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. Besides, We don't have the money for Holsord, right now.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No, I've made my decision. I'm sending you to Holsord State, even if it is going to cost us a little bit extra due to the privatization changes.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_352",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So, I guess, you've got to live with what you've done.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"All thanks to you and your privatization changes!\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Wow, you're the best dad, ever!\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_356",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFranc sneered at my statement."
+            },
+            "position": {
+                "x": 20790,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFranc sneered at my statement."
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_359",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Actually... nevermind.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_367",
+            "type": "customNode",
+            "data": {
+                "label": "Franc\n\n\"Holsord State would be amazing! A bunch of my friends are going there, I could still come home to do my laundry.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_289",
+            "source": "node_1",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_66",
+            "source": "node_3",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_78",
+            "source": "node_5",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_78",
+            "source": "node_6",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_65",
+            "source": "node_8",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_65",
+            "source": "node_9",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_124",
+            "source": "node_14",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_83",
+            "source": "node_18",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_83",
+            "source": "node_19",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_87",
+            "source": "node_21",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_95",
+            "source": "node_27",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_264",
+            "source": "node_31",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_266",
+            "source": "node_35",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_265",
+            "source": "node_36",
+            "target": "node_265",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_113",
+            "source": "node_38",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_123",
+            "source": "node_40",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_294",
+            "source": "node_48",
+            "target": "node_294",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_360",
+            "source": "node_52",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_206",
+            "source": "node_57",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_216",
+            "source": "node_58",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_210",
+            "source": "node_61",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_254",
+            "source": "node_63",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_6",
+            "source": "node_76",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_7",
+            "source": "node_81",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_20",
+            "source": "node_85",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_22",
+            "source": "node_90",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e91_to_22",
+            "source": "node_91",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_313",
+            "source": "node_94",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_28",
+            "source": "node_98",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_103",
+            "source": "node_100",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_112",
+            "source": "node_102",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_314",
+            "source": "node_104",
+            "target": "node_314",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_262",
+            "source": "node_105",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_263",
+            "source": "node_106",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_110",
+            "source": "node_111",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_110",
+            "source": "node_112",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_131",
+            "source": "node_113",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_132",
+            "source": "node_121",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_132",
+            "source": "node_122",
+            "target": "node_132",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_17",
+            "source": "node_126",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_37",
+            "source": "node_127",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_113",
+            "source": "node_129",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_39",
+            "source": "node_130",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_320",
+            "source": "node_135",
+            "target": "node_320",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_341",
+            "source": "node_136",
+            "target": "node_341",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_195",
+            "source": "node_137",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_196",
+            "source": "node_138",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_163",
+            "source": "node_142",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_160",
+            "source": "node_152",
+            "target": "node_160",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_167",
+            "source": "node_154",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_168",
+            "source": "node_155",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_155",
+            "source": "node_162",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_269",
+            "source": "node_164",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_259",
+            "source": "node_168",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_267",
+            "source": "node_170",
+            "target": "node_267",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_167",
+            "source": "node_177",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_189",
+            "source": "node_182",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_190",
+            "source": "node_183",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_164",
+            "source": "node_191",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_164",
+            "source": "node_192",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_58",
+            "source": "node_202",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_214",
+            "source": "node_203",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_215",
+            "source": "node_204",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_140",
+            "source": "node_205",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_315",
+            "source": "node_211",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_59",
+            "source": "node_216",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_226",
+            "source": "node_217",
+            "target": "node_226",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_48",
+            "source": "node_240",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e305_to_203",
+            "source": "node_305",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e318_to_205",
+            "source": "node_318",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e329_to_231",
+            "source": "node_329",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e331_to_326",
+            "source": "node_331",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_335",
+            "source": "node_333",
+            "target": "node_335",
+            "type": "step"
+        },
+        {
+            "id": "e337_to_205",
+            "source": "node_337",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e347_to_194",
+            "source": "node_347",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e348_to_347",
+            "source": "node_348",
+            "target": "node_347",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_231",
+            "source": "node_350",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e352_to_339",
+            "source": "node_352",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_205",
+            "source": "node_354",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_353",
+            "source": "node_355",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e356_to_337",
+            "source": "node_356",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_356",
+            "source": "node_357",
+            "target": "node_356",
+            "type": "step"
+        },
+        {
+            "id": "e359_to_354",
+            "source": "node_359",
+            "target": "node_354",
+            "type": "step"
+        },
+        {
+            "id": "e367_to_272",
+            "source": "node_367",
+            "target": "node_272",
+            "type": "step"
+        }
+    ]
+}

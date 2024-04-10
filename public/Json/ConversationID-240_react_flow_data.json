@@ -1,0 +1,227 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDenis rose from his seat."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"Denis, calm down.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't make me do it again.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe and Denis walked out of the studio. None of the other candidates spoke."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDenis loudly pushed his chair back and stormed out of the studio. None of the other candidates spoke."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"Not to mention the disappearance of one of the most prominent opposition leaders.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Sit back down. Now.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Mr. Stahler. Leave this stage and do not ever show your face in front of me again.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"Abdicating responsibility. A good look for a President.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Guards, this man is a danger to me. Please escort him out of the building at once.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDenis paled slightly."
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"Let's just get this dog and pony show over with.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Denis Stahler\n\n\"I cannot fucking believe this!\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_70",
+            "source": "node_1",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_59",
+            "source": "node_10",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_33",
+            "source": "node_24",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_62",
+            "source": "node_25",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_54",
+            "source": "node_27",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_15",
+            "source": "node_28",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_63",
+            "source": "node_41",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_62",
+            "source": "node_42",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_37",
+            "source": "node_53",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_12",
+            "source": "node_57",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_5",
+            "source": "node_62",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_28",
+            "source": "node_67",
+            "target": "node_28",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_65",
+            "source": "node_69",
+            "target": "node_65",
+            "type": "step"
+        }
+    ]
+}

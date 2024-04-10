@@ -1,0 +1,329 @@
+{
+    "nodes": [
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe thrum of the helicopter engine, the first of its kind in Sordland, was deafening as we touched down on the landing pad of Antel Rock Prison."
+            },
+            "position": {
+                "x": 4590,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAt the back of the building, we came to an elevator. The guards punched in a code, and we rode all the way to the top floor of the prison."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPassing by the rows of cells, I heard prisoners pounding on their doors and pleading me for a pardon."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas had a corner cell, with large windows overlooking the seaside. It was equipped with a comfortable-looking bed and a modest writing desk."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe appeared to be busy writing letters as the guards opened the door to the room."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas blinked and smiled benignly."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Without our interference, who knows what kind of radical change you would have brought.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"And you think you would have done a better job?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Have you always been Soll's puppet? Or just since you entered my cabinet?\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"To hell with Soll, and to hell with you.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Mr. Rayne. Did you really take a helicopter to Antel Rock just to provoke me?\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Your hapless attempts to reform the Constitution have gone against everything this country stands for.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas drew herself up, her back straight as a rod."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Is that what you're writing? An obituary for your beloved Tarquin Soll?\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"Including the decision to sacrifice one man's life to save millions of Sordish people.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Save them from what, Lileas?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLileas' face darkened."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Lileas Graf\n\n\"History will redeem me. Even if you won't.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWould I ever be able to escape Soll's shadow?"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e3_to_162",
+            "source": "node_3",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_45",
+            "source": "node_12",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_13",
+            "source": "node_61",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_13",
+            "source": "node_62",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_176",
+            "source": "node_63",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_89",
+            "source": "node_76",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_115",
+            "source": "node_92",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_134",
+            "source": "node_109",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_134",
+            "source": "node_111",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_82",
+            "source": "node_112",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_124",
+            "source": "node_113",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_95",
+            "source": "node_122",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_95",
+            "source": "node_123",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_114",
+            "source": "node_124",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_81",
+            "source": "node_125",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_138",
+            "source": "node_127",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_114",
+            "source": "node_129",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_81",
+            "source": "node_137",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_3",
+            "source": "node_158",
+            "target": "node_3",
+            "type": "step"
+        }
+    ]
+}

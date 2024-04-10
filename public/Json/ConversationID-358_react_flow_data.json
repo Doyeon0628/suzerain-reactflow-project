@@ -1,0 +1,227 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI sat in my office, waiting to place the call that will change the future of Rizia and Pales."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI placed the phone to my ear. I took a deep breath as Duke Reinhart picked it up."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Duke Reinhart. How pleasing it is to get a chance to speak with you again.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This is the King speaking.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"I'm afraid I don't see it that way, Your Majesty. Especially after what happened.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"It is just part of the protocol, as you know.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well... It doesn't really matter, Your Grace.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Me too, Your Grace. And now, you're going to hear me out.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"I'm listening.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"I'm listening.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Please listen to me very carefully. This is your last chance.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're not complying with my demands, then?\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Axel Reinhart\n\n\"The world knows it was Rizia who was behind the incident at our border, Your Majesty.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_89",
+            "source": "node_1",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_87",
+            "source": "node_3",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_24",
+            "source": "node_5",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_79",
+            "source": "node_6",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_27",
+            "source": "node_16",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_82",
+            "source": "node_19",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_82",
+            "source": "node_20",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_82",
+            "source": "node_21",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_82",
+            "source": "node_28",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_82",
+            "source": "node_29",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_32",
+            "source": "node_34",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_64",
+            "source": "node_71",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_31",
+            "source": "node_84",
+            "target": "node_31",
+            "type": "step"
+        }
+    ]
+}

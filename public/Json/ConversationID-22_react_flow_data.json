@@ -1,0 +1,5548 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Leave the formalities aside, Deivid. Please take a seat.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI gestured at the comfortable-looking leather chair."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Of course! It is a pleasure to see you, Mr. Wisci.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“May I sit down, Mr. President?”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Somehow the inexplicable ebb and flow of life has led us here. To positions where we can change the course of history.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Would you like some tea or water?”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Oh yes, please. Tea and water sounds nice. Thank you very much.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLivia brought two cups of tea along with a glass of water and placed them on the table."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let's begin.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How was your travel to Lachaven?”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“From what I've heard, it will be much faster in the near future when the L-1 high-speed railway is finished.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Blue Mansion in Lachaven hosted us for the important diplomacy gathering."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Ah right. Anton, I am used to titles, diplomacy jobs train oneself.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Good to see you.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Likewise. We have so much ahead of us to accomplish.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“And remember how hard we worked on the Agnolia trade agreement together?”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I still remember the first day you took my class at the Lachaven School of Economics.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I still remember the first day you took my class at Holsord State University.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I still remember the first day you took my class at the Deyr University of Culture.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I'd rather not remember. It felt like a gargantuan task.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“This is our opportunity to shape the future and we will do precisely that.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Countless late nights at the Ministry to finalize. It was an experience for sure.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Everything happens for a reason, Deivid. It was meant to be.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“That accomplishment enabled your rise in the party.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Maybe, maybe not. I don't believe in destiny, but sometimes it feels convenient to do so.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Our work surely contributed. Everybody made sacrifices on some level.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I am looking forward to our new foreign policy.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe slowly sat down, taking care not to aggravate the arthritis in his knees. He'd always had an air of gravitas about him, and old age had only served to deepen that."
+            },
+            "position": {
+                "x": 4050,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Oh, I haven't had any big complications except the usual... After that heart attack earlier this year.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Yes, she has. Spending time with Margi makes me happy. There's still much ahead of her in life.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Has your niece Margi started going to the kindergarten yet?”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How is your health, Deivid?”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“My lovely Cathrin is as energetic as always. Age has hit me harder than her, for sure. She still does her daily jogs unlike me.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“So how is your wife Cathrin doing?”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Monica is really taking to the First Lady role.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Franc never liked the spotlight, so that hasn't changed.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“We'll talk more later, President Rayne. Welcome everyone.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“How is the Rayne family?”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I sometimes wish Cathrin and I had children, but that ship sailed a long time ago.”"
+            },
+            "position": {
+                "x": 2160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We are slowly starting to get used to the routine.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Well then. Since Mr. Vectern doesn't seem to be coming today... I think we are ready to start.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr, however, was missing. I wondered if he was late from all the drinking he did at the party in Lachaven."
+            },
+            "position": {
+                "x": 2700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr arrived late. He looked a little rougher than usual. It must have been the drinking from last night."
+            },
+            "position": {
+                "x": 7020,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Hey there, folks. Excuse my delay. I'm sure I didn't miss anything we didn't already know.”"
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I tend to agree.”"
+            },
+            "position": {
+                "x": 42390,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We are accustomed to the usual rhetoric but this is far more serious.”"
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Punctuality is important. We are talking about serious subjects here.”"
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe meeting concluded and the team dispersed. Our diplomatic action plan officially began."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They have a point, Petr. We should have discipline in the cabinet.”"
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Petr was assigned a task from me, that is why he is late. So let's move on.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI stood in silence, which prompted Petr to answer them."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They are bluffing. We are used to it by now.”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“I'm glad that we are drawing a clear red line. Otherwise they will keep escalating the situation.”"
+            },
+            "position": {
+                "x": 16740,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Ah, yes, yes. It went successfully, sir.”"
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“It was a one-time thing. Let's just get on with it.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Excuse me. It won't happen again.”"
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_92",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr's tone was more serious."
+            },
+            "position": {
+                "x": 17550,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Sir.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Expect a report on your desk tomorrow.”"
+            },
+            "position": {
+                "x": 24300,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_95",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian and Iosef looked at Petr before Deivid moved away from the subject."
+            },
+            "position": {
+                "x": 9180,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Our trade delegation will begin work towards the end of the year. We expect final negotiations and the signings of the trade agreements to happen next year.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Write an official diplomatic response condemning this unreasonable act. Declare that Rumburg aims to destabilize Sordland and the region.”"
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Retaliate by closing the Sordland Consulate in Dome! They think they can bully us. They were never so wrong.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We should talk about the ongoing trade negotiations with our neighbors Wehlen and Agnolia.”"
+            },
+            "position": {
+                "x": 24300,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Have a good day and enjoy Lachaven.”"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Our primary goal will be to successfully sign at least one trade agreement with one of our smaller neighbors.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Rumburg Consul Sir Bran Harrington announced the closure of the 120-year-old consulate. Now their diplomatic staff is leaving this city to go back to Thornbourgh.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Thank you all for coming.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“He blamed the lack of security in Sordland due to the assassination and the subsequent protests. But it is obvious that they are making excuses.”"
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“We have two options with our trade initiative. Starting new negotiations with our old partner Agnolia to the north-east, and forming a new cooperation with Wehlen to the west.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Well, that concludes our meeting, Mr. Rayne.”"
+            },
+            "position": {
+                "x": 12150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Tell me about the trade deal with Agnolia.”"
+            },
+            "position": {
+                "x": 24300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Tell me about the trade deal with Wehlen.”"
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Bastards! First they close their consulate and then they blame our security!?”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I am of the opinion that it is simply too risky. Yes, we would gain resources and immediate capital, but I'm afraid of the consequences.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“As you wish Mr. President. I shall begin work by immediately informing the Ministry of Foreign Affairs and Trade.”"
+            },
+            "position": {
+                "x": 14310,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“I want to state my support for the decision to stick to our old ally, Agnolia. Even though I disagree with their demand to relax immigration, we have cooperated with them on many issues in the past.”"
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“I certainly don't support the decision to become friendlier with Wehlen. We carried their burdens for decades. Their migrants flooded our country and now they are expecting a deal from us.”"
+            },
+            "position": {
+                "x": 20790,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr laughed. Iosef narrowed his eyes and stared at him."
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The security situation is under control. They are playing with us.”"
+            },
+            "position": {
+                "x": 15660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Their concerns could be genuine, but this reaction is unnecessary.”"
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“As you wish Mr. President. I shall begin work by immediately informing the Ministry of Foreign Affairs and Trade.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Agreed. Other diplomatic missions have worked with our security units to increase the protection of staff and buildings.”"
+            },
+            "position": {
+                "x": 14850,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“The people of Sordland must be protected, no matter the cost. I say we respond equally.”"
+            },
+            "position": {
+                "x": 9180,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“There are obviously subjects that we would still need to tackle like our economies, the traded goods and what to do with immigration.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Maintaining influence with Wehlen could prove useful. Yes, it is risky, but think about our influence on a underdeveloped region like that. We could also sell more products and enter their market easily.”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I'm very much looking forward to visiting Staalport and Wraclawitz with party animals like Deivid and Symon! Haha!”"
+            },
+            "position": {
+                "x": 14310,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Agnolia is a solid partner for us, Deivid and the President worked on the previous comprehensive trade agreement in the 30s.”"
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The neglect of President Alphonso, and the chaos of the elections, delayed our diplomatic efforts.”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The downside is that we would need to make concessions. A reality of any trade deal.”"
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“I wish we had reacted more strongly. If we don't confront them, they will keep escalating the situation.”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Now there are only two Rumburg diplomatic missions left in Sordland. One is the consulate in Deyr and the other is the embassy in Holsord.”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I would be open to creating a new agreement that would satisfy all sides.”"
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I think the return is too lucrative to pass on regardless of the risk.”"
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I must display strength to my people. We can't be pushed around.”"
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIosef Lancea was furious. He barely kept himself from slamming the desk."
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The migrant crisis was one of the reasons behind the destabilization of Sordland. I would like to point out that it was due to Wehlen.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Regardless, if we are going to increase our regional influence to previous levels, we might need to make amends with our neighbours.”"
+            },
+            "position": {
+                "x": 17280,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I want to say that an escalation would be risky this early in our Presidency. We should focus on creating a negative image of Rumburg in the international scene.”"
+            },
+            "position": {
+                "x": 21870,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“This is not the usual bluff. The military has also seen unusual build-up in the regions close to the border.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The fact that we are headed towards a planned economy will have an influence.”"
+            },
+            "position": {
+                "x": 15660,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The fact that we are headed towards a market economy will have an influence.”"
+            },
+            "position": {
+                "x": 16200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“We either respond to this aggressive act with a diplomatic condemnation or we retaliate by closing our consulate in Dome.”"
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“There are worrying developments like the smuggled arms and the build-up near the border. Our military must be buffed up to stand against a great power like Rumburg.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“They are playing with fire. Look at what the Wehlen destabilization has done to the region. Sordland breaking apart would tear Merkopa apart.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“They could be. We beat them once before. They might not want to try again.”"
+            },
+            "position": {
+                "x": 17550,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Good negotiators optimize the interests which makes the differences become trivial, allowing both sides to reach a deal.”"
+            },
+            "position": {
+                "x": 16740,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I, on the other hand, am glad that we are taking the more cautious road.”"
+            },
+            "position": {
+                "x": 16200,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I like your determination, Mr. President.”"
+            },
+            "position": {
+                "x": 16470,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“In my entire career I have never seen our Rumburg relations suffer this much. The previous low point was the Annexation of Dome.”"
+            },
+            "position": {
+                "x": 9990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“This is my fear. They might be looking for a casus belli and are slowly spiralling downward to find reasons to wage war.”"
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled."
+            },
+            "position": {
+                "x": 17550,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Hmm.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Exactly. If all goes well, it will be one of our major achievements.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Very well.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Look at you, Anton. The 4th President of Sordland. What a privilege for me.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“As time passes, I realize it more. Family is the most important thing in life. We must take care of them.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Wehlen Agnolia Trade\n\nWehlen Agnolia Trade"
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Our campaign promise to steer Sordland towards the east and United Contana will have an effect on the negotiations.”"
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Especially with Wehlen. As you know the current affairs of Wehlen are partly a result of United Contana's support of Wiktor Smolak. Our promise will come in handy.”"
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Especially with Wehlen. As you know the current affairs of Wehlen are partly a result of United Contana's support of Wiktor Smolak. This will be a problem but definitely worth trying.”"
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“As for Agnolia, this promise has made them cautious, which might make it harder to get a good deal.”"
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“We also need to consider the effects of our economic doctrine plan.”"
+            },
+            "position": {
+                "x": 18900,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Very true, Mr. Vectern. We have a lot of time to prepare before the scheduled visits to Wehlen and Agnolia.”"
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Good work.”"
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“First off, the reason behind this option is more diplomatic than economic, although of course we can't forgo the added economic value. Agnolia is an old ally and a valuable trade partner.”"
+            },
+            "position": {
+                "x": 24300,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Their second main demand is a privileged access to our agricultural market.”"
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Obviously there will be consequences for entering a full alliance. Mainly the issue is around Heljiland. Valgsland has clear intentions on taking over the island one way or another and entering a military alliance with Agnolia will make them furious.”"
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Ultimately the decision will be up to you as always.”"
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“That would be the best outcome.”"
+            },
+            "position": {
+                "x": 21870,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“It might be unsatisfactory in the short run however, it would have real impact on the long run.”"
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We can't position ourselves against Valgsland.”"
+            },
+            "position": {
+                "x": 17010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“That is certainly a valid reason.”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Dealing with a fractured country like Wehlen has its positives and negatives. Although it will be lucrative in the short term, there are risks associated with dealing with such a country.”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“If you decide that Agnolia is a good option, another point is that they have a very democratic system. After the recent elections the PM has a mandate to arrange a fairer deal with us. Maartin Van Hoorten also is an avid supporter of relaxed immigration.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Since we said we will tighten immigration, he might be reluctant.”"
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Starting the highway construction in Agnland plays a part too.”"
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“My opinion is that this is a good deal and we should go for it. The new Agnolian Prime Minister is trying to improve the existing relationship.”"
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“They are proposing co-investment projects and a no-tariff agreement. They are also offering oil in return for attracting foreign capital interests from Sordland.”"
+            },
+            "position": {
+                "x": 15930,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“If we wish to go forward with the deal when the time comes, there is the topic of immigration to consider.”"
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_229",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Wiktor Smolak is a known isolationist. Our promise to tighten our immigration policy will increase the likelihood of the deal. He believes our borders need better security.”"
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_230",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Wiktor Smolak is a known isolationist. Our promise to keep our immigration policy relaxed will not help at all. He blames us for bringing western interests to the region. He also doesn't want his political opponents to flee here.”"
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Agreed.”"
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_235",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Looking at the current advances of Rumburg near our borders, having a coalition against Rumburg would prove extremely useful.”"
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter he settled himself, he regarded me with delight, his blue eyes sparkling."
+            },
+            "position": {
+                "x": 17550,
+                "y": 2000
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“That is because they think that the deal is far too unbalanced as it is. ”"
+            },
+            "position": {
+                "x": 540,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_240",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“All in all, this is a very lucrative deal for us. However, we need to think about the consequences.”"
+            },
+            "position": {
+                "x": 20250,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_255",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I'm interested to hear the intentions of the Kingdom of Rizia.”"
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_256",
+            "type": "customNode",
+            "data": {
+                "label": "Rizia Trade Offer\n\nRizia Trade Offer"
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“There are three trade-related topics to address today. Which topic should we tackle first?”"
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Trade Exit\n\nTrade Exit"
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_279",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“In 1918, King Egmund signed a trade deal with Queen Lyza 'the Great' to save the Kingdom from economic collapse with the support of his key advisors.”"
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_280",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Yes, the Rizian gold invested in Sordland in exchange for different degrees of ownership of state assets strengthened the currency by boosting the Central Bank reserves and averted a full depression after the '51 Recession.”"
+            },
+            "position": {
+                "x": 23760,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_282",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I don't need any further information about Rizia.”"
+            },
+            "position": {
+                "x": 30780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let's discuss the deal potential and what's on the table.”"
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_288",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I'd like to know more about Rizia.”"
+            },
+            "position": {
+                "x": 24030,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Our neutrality strategy would have been seen as positive by nations like Rumburg if we hadn't decided to retaliate aggressively.”"
+            },
+            "position": {
+                "x": 30780,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Our neutrality strategy might ease the tensions with Rumburg, since their primary concern is the strengthening of the superpower blocs.”"
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_297",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“King Romus is interested in increasing energy independence and diversifying his energy assets. Our sources indicate that he wants to acquire control of more natural gas resources.”"
+            },
+            "position": {
+                "x": 30510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_298",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I'm cynical about monarchies. Their time in Merkopa seems to be running out, and their stability is in question.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We are still facing the potential of a recession. New avenues for trade could help keep our books balanced.”"
+            },
+            "position": {
+                "x": 28620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_300",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Isn't this unusual? Aren't you and the Ministry of Foreign Affairs in charge of arranging negotiations?”"
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_301",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“The Toras and Livingston families should be considered allies for the time being. However, from a practical standpoint, they are too far from each other to provide military support.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Classic Wild Gus. Even before we started campaigning, he was in the game non-stop. Gus, connecting people.”"
+            },
+            "position": {
+                "x": 31860,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_303",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Self-reliant monarchies like Rumburg are much more likely to last. But for the time being, many of the international monarchs have close ties and trade with each other to avoid revolution and change.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Both countries are also part of the worldwide network of monarchies known as GRACE. The framework is mostly financially and politically motivated due to the pressures of Malenyevism and democracy.”"
+            },
+            "position": {
+                "x": 33750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_305",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Rizia is a developed nation with a resilient economy thanks to its gold wealth. They can aid Sordland's economic health and the fiscal pain points Minister Holl keeps highlighting.”"
+            },
+            "position": {
+                "x": 31860,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_306",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Usually, yes, but in special scenarios such as this, real and close connections between people can improve the likelihood of a positive outcome. Since Mr. Manger has the strongest relations with the envoy, we have assigned staff to him to help with the talks.”"
+            },
+            "position": {
+                "x": 26460,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_307",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The international web of monarchies and sympathizers across all the continents of Merkopa, Rika, Xina, Contana have united under The Guild of Royal Allies for Commercial Exchange.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_308",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“We must take into account Rizia’s blood ties and de facto alliance with Rumburg. The King married into the Livingston family. Geographically, Rizia and Rumburg are too far to help each other; their only actual link is through sea lanes passing by Sordland.”"
+            },
+            "position": {
+                "x": 28890,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_309",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I'm sure if Gus is involved, the deal will be financially viable. His connections in the business world are vast.”"
+            },
+            "position": {
+                "x": 33750,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_310",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“As Minister Holl rightfully described, we must do everything in our power not to fall into debt with an unhealthy economy.”"
+            },
+            "position": {
+                "x": 26460,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_311",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“But as long as we are getting a good offer, it doesn’t matter who officially leads the negotiation. I’m sure Mr. Wisci doesn’t mind.”"
+            },
+            "position": {
+                "x": 26460,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_312",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“We should be more concerned with-”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Regardless, ideological or political motivations are less of a concern. We need to assess what Sordland stands to benefit from a potential agreement.”"
+            },
+            "position": {
+                "x": 31860,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“If Rizia wants to buy more than 20 percent of shares allowed by the protectionism laws, then the government can step in to make changes to the EPA.”"
+            },
+            "position": {
+                "x": 33750,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_315",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Precisely, but we don’t know if this will be the case. There is a scenario in which they might invest within the EPA limitations; we just have to hear more before weighing the options.”"
+            },
+            "position": {
+                "x": 41310,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_316",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“The military should also be funded appropriately if additional resources are to be acquired.”"
+            },
+            "position": {
+                "x": 41310,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_320",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“We have no close contacts with the Toras royals anymore. It leaves us little option but to use the back channel of Mr. Manger and President Alphonso.”"
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“*Former* President Alphonso.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_323",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Ah, yes, Mr. President. Excuse me. Former President Alphonso.”"
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_324",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Very well.”"
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_325",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“From what we have gathered, there is no clear offer yet. The interest clearly seems to be more control over the gas produced and sold in Sordland. I suspect this must be related to the recent tensions on the coast of Pales.”"
+            },
+            "position": {
+                "x": 27810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“That must be related to Gasom operations. Gus has ties with the people around that corporation. Even though there is another CEO, Ewald Alphonso is still chairman.”"
+            },
+            "position": {
+                "x": 24030,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_327",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I suspect that the corporation isn’t doing too well, and they are seeking investments. Any investment into Gasom will enrich the owners but might also lead to more jobs and growth.”"
+            },
+            "position": {
+                "x": 24030,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_329",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Of course, Mr. President.”"
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Why deal with a monarchy? They've sucked enough blood from the people of Merkopa.”"
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_335",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“From a humanistic standpoint, without the general population participating in governance, equality problems arise. Yet these countries are here to stay.”"
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Mr. Manger is working out the details to get more concrete headline terms soon. Of particular interest are the gas fields in the Narbel area of the Nargis region.”"
+            },
+            "position": {
+                "x": 28890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_337",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We should protect our energy independence, but we don’t know the offer's specifics yet.”"
+            },
+            "position": {
+                "x": 24030,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Affluent Sords don’t stray far from each other.”"
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_340",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I agree, but Gasom is a private corporation. Even though it mostly supplies the government, we have little control over it.”"
+            },
+            "position": {
+                "x": 30240,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_341",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Why would they? Similar circles, similar educational background, companies. Half of the oligarchs are from LBS or Harcard.”"
+            },
+            "position": {
+                "x": 29160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_342",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Gasom is a private corporation, a fact that limits our control over any foreign investment. Tarquin Soll's Energy Protection Act of 1933 specifically limits the purchases of Sordish energy company shares by foreign nations to ten percent.”"
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_343",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“As a sovereign nation, we must protect our resources. Our energy independence is part of our national security concern here; Gasom handles most of our gas production.”"
+            },
+            "position": {
+                "x": 24030,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_346",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I have information that the CEO that replaced Alphonso is a loyalist. Alphonso still is the chairman of Gasom and the de facto key figure. Additionally, National Business Council Chairman Mikail Aven and Minister Gus Manger have shares in the company and preside over the board.”"
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_347",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I look favorably towards a potential investment from Rizia into Sordland.”"
+            },
+            "position": {
+                "x": 30240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_348",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We will have to wait and hear more from Mr. Manger to decide.”"
+            },
+            "position": {
+                "x": 30510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_349",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“There is strong potential for further cooperation, and Rizia previously aided Sordland when it needed foreign help the most.”"
+            },
+            "position": {
+                "x": 39960,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“If there's one thing Gus is good at, it’s making deals.”"
+            },
+            "position": {
+                "x": 30510,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_351",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Thank you. Our support staff and I will be working towards the next steps soon after receiving more context from Mr. Manger.”"
+            },
+            "position": {
+                "x": 39960,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_353",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Our ambassador in Porte Drazon is in communication with Laurento Esquibel, the Rizian Councilor of Foreign Affairs, already.”"
+            },
+            "position": {
+                "x": 39960,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_354",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"The nation south of Lespia is a centralized constitutional monarchy led by King Romus Toras. The grandson of Queen Lyza Toras, 'the Great', and son of King Valero Toras, 'the Frail'.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The Alphonso government signed vital trade agreements with King Romus Toras, benefitting both nations at a time of need. Attempts at further cooperation stalled out due to the King's blood ties to Rumburg.”"
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_356",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr pulled out the ornamental coin and put it on the table. It was so polished that it caught reflections of light in the room. Lucian was clearly frustrated."
+            },
+            "position": {
+                "x": 31050,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_357",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The kingdom is a developed nation that wielded considerable influence in Southern Merkopa before the reign of Valero. The country has lost some territory due to internal strife.”"
+            },
+            "position": {
+                "x": 32130,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_358",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“There is some tension with both. It appears that since Lespia's acceptance into ATO in 1950, most of South Merkopa has been heading towards a boiling point.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_359",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“In the 1930s, King Romus married Princess Lena Livingston, the youngest daughter of King Alfred Livingston the Second, sister of Queen Beatrice Livingston.”"
+            },
+            "position": {
+                "x": 31050,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_360",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What exactly are these blood ties between Rizia and Rumburg?”"
+            },
+            "position": {
+                "x": 31860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_361",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I’m curious how our neighbors Lespia and Wehlen get along with Rizia.”"
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_362",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Actually, a friend of Gus called Rusty gifted me this beautiful piece of full Rizian gold coin. They say it helps you find love. Look.”"
+            },
+            "position": {
+                "x": 31050,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_363",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI took the coin in my hands and looked at the details."
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_364",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Not bad. You can't go wrong with gold.”"
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_365",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr interjected and reached in his pocket."
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_368",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“It was a political marriage that benefitted Rizia, helping save it from downfall. The two nations are close, to say the least.”"
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_369",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“All these kings and queens disagree more than agree, but they're forced to tolerate each other's differences. Imagine if Koronti and the SBC cast the world's remaining monarchs in a soap opera.”"
+            },
+            "position": {
+                "x": 31860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_370",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I would watch the hell out of that.”"
+            },
+            "position": {
+                "x": 31860,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_371",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Lets stay on point.”"
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_372",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“This new engagement regarding the Rizian investment interest is coordinated through our Minister of Agriculture and Rural Development, Gus Manger, and former President Alphonso.”"
+            },
+            "position": {
+                "x": 31860,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Many are not official allies, but have economic pacts to secure global independence.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_374",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The Kingdom was meant to collapse. Nothing could save it, regardless of the effort.”"
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Your father was truly a great man, may he rest in peace.”"
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“In the Tarquin Soll period, we never saw such dependency on foreign nations.”"
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_377",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Looking a few years back, they played a significant role in helping Sordland avoid depression. There is merit to this fact.”"
+            },
+            "position": {
+                "x": 23760,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_378",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Former President Alphonso signed trade agreements with King Romus Toras of Rizia. The previous government revived the older relationship that existed during the days of the Sordish monarchy.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_379",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Yes, with the exceptionally successful SSC bills, the Soll government raised funds for its autarky plans from the Sordish population alone.”"
+            },
+            "position": {
+                "x": 23760,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_383",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Thank you, Anton. I hope our nation never faces the tragedies of those dark days again. He was the best father one could have wanted.”"
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_384",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe room went silent for a moment."
+            },
+            "position": {
+                "x": 34290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_385",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Let's continue our discussion about Rizia.”"
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_386",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“King Egmund was far too isolated and detached. Figures like Heron Walt and Artor S. Wisci spent a great deal of effort attempting to bring him to his senses.”"
+            },
+            "position": {
+                "x": 34020,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_387",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Times change, and any good leader must make an effort to adapt. The Kingdom indeed had structural flaws that led to the Republic my father founded.”"
+            },
+            "position": {
+                "x": 34020,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\nOur Republic stands on firmer footing despite these recent troubles than those days.”"
+            },
+            "position": {
+                "x": 34020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_389",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n\"Edith Agnoc's handling with the Central Bank measures to prevent the depression also deserves credit.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_390",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The relationship between Rizia and Wehlen is more complex than that. They were closely aligned under Valero's rule until Rumburg entered the play.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_391",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Not to mention Wehlen's struggles with the BFF, an organization that we've long suspected to be armed by King Romus' in-laws in Rumburg.”"
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_393",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Merkopan geopolitics are a complexity of another caliber.”"
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I'll bring the popcorn!”"
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_396",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Sure, sure!”"
+            },
+            "position": {
+                "x": 33210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAt the center was the emblem of Rizia, a fierce bull standing on two feet with its horns pointed upwards. In the background was a shield intricately ornamented with leaves and a crown."
+            },
+            "position": {
+                "x": 31860,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_398",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAt the bottom, the letters RRG were engraved."
+            },
+            "position": {
+                "x": 32400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_399",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What is RRG?”"
+            },
+            "position": {
+                "x": 32400,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_400",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Nice piece, Petr.”"
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_401",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Thanks. Maybe I'll turn it into a golden tooth when I get old.”"
+            },
+            "position": {
+                "x": 32400,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_402",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“It's Rizian Royal Gold. The company that mines and processes the high-quality ore used to mint the country's gold.”"
+            },
+            "position": {
+                "x": 32400,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_403",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Sure can't.”"
+            },
+            "position": {
+                "x": 36180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_404",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Some Rizians who settled for the deal in the final years of Kingdom still live in the Old Town of Holsord to this day.”"
+            },
+            "position": {
+                "x": 32670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_405",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“It's good to be informed in the diplomacy field. There is always so much movement.”"
+            },
+            "position": {
+                "x": 23760,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_406",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I think this summarizes all we know and what we stand to gain, Mr. President. What are your thoughts?”"
+            },
+            "position": {
+                "x": 35640,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_407",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I’m curious how it will develop. It’s mostly out of the hands of the Ministry of Foreign Affairs for now.”"
+            },
+            "position": {
+                "x": 39960,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_408",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDeivid hesitated for a brief moment."
+            },
+            "position": {
+                "x": 39960,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_409",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The main negotiator was my father, former president Artor S. Wisci, who, with the Republican faction of the King’s parliament, fought to achieve a rare consensus in the heavily fractured council at the time.”"
+            },
+            "position": {
+                "x": 23760,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_410",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Mot He Vest Peasa.”"
+            },
+            "position": {
+                "x": 23760,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_411",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“It wouldn't be bad to focus on the important job of keeping our farmers and rural population happy.”"
+            },
+            "position": {
+                "x": 23760,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_412",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let's move on.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_422",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Ewald Alphonso adjusted this law in 1948 and increased it to up to 20 percent. Anything above that requires us to change the Energy Protection Act. Ewald holds most of Gasom's cards in his hands still.”"
+            },
+            "position": {
+                "x": 36450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_424",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Remember campaigning for him back in the day? He wouldn't have gotten the USP leadership without us.”"
+            },
+            "position": {
+                "x": 24030,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_425",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Things didn't end amicably between us. I mean, we aggressively destroyed his campaign team one by one.”"
+            },
+            "position": {
+                "x": 36720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_426",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“He was right to open up the country, regardless of what happened in '51. Sordland is in a good position to benefit from world trade.”"
+            },
+            "position": {
+                "x": 36990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_427",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I see a strong case for Tarquin Soll's regulation. Energy security is important for our nation.”"
+            },
+            "position": {
+                "x": 36450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_428",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Gasom is private, but it still sells most of the gas it produces to Sordland, right?”"
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_432",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The way we publicly embarrassed him on national television won't help further dialogue.”"
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_433",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Good thing, we handled the transfer of power within the party diplomatically. I'm sure he will be more open to talk.”"
+            },
+            "position": {
+                "x": 37800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_434",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“His decision not to increase the armed forces budget for the term was unprecedented. President Soll would always fund our troops a little more.”"
+            },
+            "position": {
+                "x": 38880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_435",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“We had to break the status quo to get into government ourselves. I always thought Alphonso was too optimistic about his grand plans.”"
+            },
+            "position": {
+                "x": 38610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_436",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“We helped him get to power, but also led him to his fall. Such a peaceful transition with the '53 elections, however, showed the strength of our democracy.”"
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_437",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I've got to say his team was great to work with. Toppling Tarquin Soll was a historic moment in the USP.”"
+            },
+            "position": {
+                "x": 38610,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_440",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Fueling the Rumburg war machine is indisputably wrong.”"
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_442",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Up to 70 percent goes to Sordland. This used to be higher, but international demand has seen Gasom diversify its deliveries outward.”"
+            },
+            "position": {
+                "x": 39690,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_443",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Rumburg and Lespia are increasing their demand each year. They have hungry industries waiting to be fulfilled.”"
+            },
+            "position": {
+                "x": 39690,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_444",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I think so, yes. Lucian knows more than me.”"
+            },
+            "position": {
+                "x": 39690,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_445",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“This is why I like to stay out of politics.”"
+            },
+            "position": {
+                "x": 39690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_446",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“We reached a successful result and won over the country. The rest is history; it happened. I’m focused on the history we are writing now.”"
+            },
+            "position": {
+                "x": 36990,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_447",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I played little to no part in the last period except for campaigning and helping Anton get the votes.”"
+            },
+            "position": {
+                "x": 36990,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_448",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“It wasn’t my preferred method, Anton, but it worked. I have to say all the bribing, persuading and promise-making we did was exhausting, not to mention expensive.”"
+            },
+            "position": {
+                "x": 36990,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_449",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“The Sordish Council of Radio and Television should prevent disrespectful language, especially towards our elected leaders.”"
+            },
+            "position": {
+                "x": 36990,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_450",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Any good politician wouldn't let that stop them from making a beneficial deal.”"
+            },
+            "position": {
+                "x": 37800,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_451",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“It’s good to have a free and democratic debate in front of the eyes of the people. Even though television ownership still isn't the majority, plenty of radio listeners tuned in.”"
+            },
+            "position": {
+                "x": 37800,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_452",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Any political opponent would have done what we did. There was too much chaos after '51, and everything weakened Alphonso.”"
+            },
+            "position": {
+                "x": 37800,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_453",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“I would still be wary of his and Mr. Manger's intentions.”"
+            },
+            "position": {
+                "x": 37800,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_454",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I wouldn't be surprised if Alphonso would be willing to concede more due to this fact.”"
+            },
+            "position": {
+                "x": 38880,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_455",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Diplomacy is the way, 99 percent of the time.”"
+            },
+            "position": {
+                "x": 38880,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_456",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Yeah, so many people in the party approached me and praised our course of action. They thought the USP was fractured enough and didn't need further tension.”"
+            },
+            "position": {
+                "x": 38880,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_457",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“I think it would be wise to remember that after the civil war, all the global and regional powers wanted a piece of Sordland. Like sharks in the Antacean Sea.”"
+            },
+            "position": {
+                "x": 38880,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_458",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I wouldn't say it worked, Petr. Sordland will truly start working under our leadership very soon.”"
+            },
+            "position": {
+                "x": 36450,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_459",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Such is the nature of geopolitics. Our national self-interest should be preserved with as little damage done to human dignity and rights as possible.”"
+            },
+            "position": {
+                "x": 36450,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_460",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I agree with you, Anton, and I'll always support you, but you know my motto. If something works, don't break it.”"
+            },
+            "position": {
+                "x": 36450,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_461",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“No matter how much people criticize Soll these days, the Colonel is the reason why Sordland can stand mostly independent in this age.\""
+            },
+            "position": {
+                "x": 36450,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_462",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“They smelled weakness, and thanks to initiatives of the Soll government, and the technocrats, the nation survived those hardships.”"
+            },
+            "position": {
+                "x": 37260,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_463",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The energy topic is gaining importance again with the tensions in the Antacean Sea. I'm keeping a close watch on the situation.”"
+            },
+            "position": {
+                "x": 37260,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_464",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We don't want to find ourselves in the energy crisis situation of the early 1930s, where nations like Rumburg and Lespia leeched off our weakened position and charged us triple the cost per cubic ton.”"
+            },
+            "position": {
+                "x": 37260,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian pulled out a pen and took a few notes."
+            },
+            "position": {
+                "x": 37260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_466",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“From our diplomatic channels, we can tell that Lespia is still very interested in Sordish petrol, whereas Rumburg wants more gas resources.”"
+            },
+            "position": {
+                "x": 36450,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_467",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I try to tread that difficult path to the best of my ability.”"
+            },
+            "position": {
+                "x": 36450,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_468",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDeivid coughed a bit and then continued talking."
+            },
+            "position": {
+                "x": 36450,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_469",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe room went silent and no one stepped forward. It was noticeable how much people respected Wisci. He carried the soul of Sordland as a symbol of the past."
+            },
+            "position": {
+                "x": 36450,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_470",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Any further comments, esteemed cabinet members?”"
+            },
+            "position": {
+                "x": 39960,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_471",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The power structure behind the scenes shouldn't matter much to us.”"
+            },
+            "position": {
+                "x": 39960,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_472",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Anytime Rumburg enters the 'play', crap hits the fan.”"
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_473",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I doubt he would allow it. It might hurt his hotel businesses around Port Grim.”"
+            },
+            "position": {
+                "x": 35370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_474",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Well, we can continue official dialogue after this. It might lead to a more substantial agreement.”"
+            },
+            "position": {
+                "x": 40500,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_475",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Alphonso's Minister of Foreign Affairs, Keres, coordinated the previous trade agreement, but is no longer working at the Ministry.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 2000
+            }
+        },
+        {
+            "id": "node_476",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“Of course, we are pushing to establish a stronger relationship. But in the short term, this method is the one that could yield results.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_477",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Haha! One way to put it, Mr. President.”"
+            },
+            "position": {
+                "x": 35100,
+                "y": 2200
+            }
+        },
+        {
+            "id": "node_478",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr kept grinning. The rest of the room wasn't feeling it."
+            },
+            "position": {
+                "x": 35370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_479",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Dung business.”"
+            },
+            "position": {
+                "x": 35370,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_483",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You should bring it up next time you see him, see what he says.”"
+            },
+            "position": {
+                "x": 40500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_484",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I smell an international hit!”"
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_485",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Well, I'd watch the hell out of it.”"
+            },
+            "position": {
+                "x": 40770,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_486",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Speaking of movement, have you seen the latest numbers of refugees from Wehlen?”"
+            },
+            "position": {
+                "x": 40500,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_487",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I heard Smolak also makes sense of things with certain substances.”"
+            },
+            "position": {
+                "x": 35640,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_488",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“We didn't do a good enough job guarding our borders. Now this is causing significant tension that could lead to further friction down the line.”"
+            },
+            "position": {
+                "x": 35910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_489",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“Unbefitting a national leader if true.”"
+            },
+            "position": {
+                "x": 35640,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_490",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian knocked on the table."
+            },
+            "position": {
+                "x": 35910,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_491",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Moving on.”"
+            },
+            "position": {
+                "x": 31860,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_492",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Allowing more market economics to determine the value and output of our energy is aligned with our economic plan.”"
+            },
+            "position": {
+                "x": 32670,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_493",
+            "type": "customNode",
+            "data": {
+                "label": "Iosef Lancea\n\n“A potential mistake when our traders use our dependence on them against us.”"
+            },
+            "position": {
+                "x": 41310,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_494",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I concur with Mr. Lancea. This is a distinct possibility.”"
+            },
+            "position": {
+                "x": 41310,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_495",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“We are at a much stronger position to negotiate either way. Lucian's information gives us an extra edge in talks.”"
+            },
+            "position": {
+                "x": 41310,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_496",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“They never revealed much about their involvement to me, but I always had the feeling that Alphonso's crew was more linked to Gasom than they seemed.”"
+            },
+            "position": {
+                "x": 39960,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_500",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Keeping close control over critical resources is in sync with our planned economy strategy.”"
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_502",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“In theory, centralization works. But it leaves little room for outside help when internal conditions are dire.”"
+            },
+            "position": {
+                "x": 41580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_503",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You don't need help finding love. You've got Evelyn, right?”"
+            },
+            "position": {
+                "x": 41580,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_504",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Yeah, sure. She's the greatest.”"
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_506",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“GRACE has proven more resilient than the international community expected. Rumburg protects the sovereignty of many of these nations.”"
+            },
+            "position": {
+                "x": 42120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_513",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“I am looking forward to present you the latest bill I am working on. The TCPA has turned out to be an initiative that can significantly boost our tourism and culture industry.”"
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_515",
+            "type": "customNode",
+            "data": {
+                "label": "Deivid Wisci\n\n“The GNA and USP factions are supportive too. I really shouldn't have done overtime hours to get it done, but I really care for position and value of our cult-”"
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_23",
+            "source": "node_1",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_24",
+            "source": "node_3",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_25",
+            "source": "node_4",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_26",
+            "source": "node_5",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_67",
+            "source": "node_8",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_41",
+            "source": "node_9",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_62",
+            "source": "node_11",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_162",
+            "source": "node_12",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_62",
+            "source": "node_14",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_169",
+            "source": "node_15",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_66",
+            "source": "node_21",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_168",
+            "source": "node_22",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_7",
+            "source": "node_23",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_50",
+            "source": "node_24",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_50",
+            "source": "node_25",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_9",
+            "source": "node_29",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_37",
+            "source": "node_36",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_27",
+            "source": "node_37",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_27",
+            "source": "node_38",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_27",
+            "source": "node_39",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_46",
+            "source": "node_40",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_49",
+            "source": "node_41",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_48",
+            "source": "node_43",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_9",
+            "source": "node_45",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_9",
+            "source": "node_46",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_514",
+            "source": "node_47",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_514",
+            "source": "node_48",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_514",
+            "source": "node_49",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_239",
+            "source": "node_50",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_57",
+            "source": "node_51",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_63",
+            "source": "node_52",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_52",
+            "source": "node_53",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_51",
+            "source": "node_54",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_64",
+            "source": "node_55",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_61",
+            "source": "node_57",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_171",
+            "source": "node_58",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_171",
+            "source": "node_59",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_15",
+            "source": "node_60",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_8",
+            "source": "node_62",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_61",
+            "source": "node_64",
+            "target": "node_61",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_171",
+            "source": "node_65",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_1",
+            "source": "node_66",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_60",
+            "source": "node_67",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_68",
+            "source": "node_69",
+            "target": "node_68",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_517",
+            "source": "node_73",
+            "target": "node_517",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_226",
+            "source": "node_74",
+            "target": "node_226",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_154",
+            "source": "node_75",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_167",
+            "source": "node_78",
+            "target": "node_167",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_166",
+            "source": "node_79",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_87",
+            "source": "node_80",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_85",
+            "source": "node_81",
+            "target": "node_85",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_86",
+            "source": "node_82",
+            "target": "node_86",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_156",
+            "source": "node_83",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_159",
+            "source": "node_84",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_93",
+            "source": "node_85",
+            "target": "node_93",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_96",
+            "source": "node_86",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e92_to_238",
+            "source": "node_92",
+            "target": "node_238",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_95",
+            "source": "node_93",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_88",
+            "source": "node_94",
+            "target": "node_88",
+            "type": "step"
+        },
+        {
+            "id": "e95_to_97",
+            "source": "node_95",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_107",
+            "source": "node_97",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_237",
+            "source": "node_99",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_92",
+            "source": "node_100",
+            "target": "node_92",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_94",
+            "source": "node_102",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_102",
+            "source": "node_104",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_102",
+            "source": "node_105",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_110",
+            "source": "node_106",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_109",
+            "source": "node_107",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_102",
+            "source": "node_108",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_114",
+            "source": "node_109",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_172",
+            "source": "node_110",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_201",
+            "source": "node_111",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_202",
+            "source": "node_112",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_212",
+            "source": "node_113",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_121",
+            "source": "node_114",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_71",
+            "source": "node_115",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_77",
+            "source": "node_116",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_123",
+            "source": "node_117",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_130",
+            "source": "node_118",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_149",
+            "source": "node_119",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_126",
+            "source": "node_120",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_127",
+            "source": "node_121",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_133",
+            "source": "node_126",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_133",
+            "source": "node_127",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_100",
+            "source": "node_128",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_223",
+            "source": "node_129",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_115",
+            "source": "node_130",
+            "target": "node_115",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_119",
+            "source": "node_131",
+            "target": "node_119",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_129",
+            "source": "node_132",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_150",
+            "source": "node_136",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_210",
+            "source": "node_137",
+            "target": "node_210",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_158",
+            "source": "node_138",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_83",
+            "source": "node_139",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_209",
+            "source": "node_141",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_145",
+            "source": "node_142",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_155",
+            "source": "node_143",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_153",
+            "source": "node_144",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_226",
+            "source": "node_145",
+            "target": "node_226",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_207",
+            "source": "node_146",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_128",
+            "source": "node_147",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_267",
+            "source": "node_149",
+            "target": "node_267",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_157",
+            "source": "node_150",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_157",
+            "source": "node_151",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_147",
+            "source": "node_152",
+            "target": "node_147",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_152",
+            "source": "node_153",
+            "target": "node_152",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_161",
+            "source": "node_155",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_148",
+            "source": "node_156",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_199",
+            "source": "node_157",
+            "target": "node_199",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_266",
+            "source": "node_158",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_266",
+            "source": "node_159",
+            "target": "node_266",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_144",
+            "source": "node_160",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_144",
+            "source": "node_161",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_13",
+            "source": "node_162",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_164",
+            "source": "node_167",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_66",
+            "source": "node_168",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_1",
+            "source": "node_169",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_31",
+            "source": "node_170",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_8",
+            "source": "node_171",
+            "target": "node_8",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_191",
+            "source": "node_188",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_197",
+            "source": "node_193",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_196",
+            "source": "node_194",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_196",
+            "source": "node_195",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_292",
+            "source": "node_197",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_134",
+            "source": "node_198",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_98",
+            "source": "node_200",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_102",
+            "source": "node_201",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_240",
+            "source": "node_203",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_236",
+            "source": "node_205",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_117",
+            "source": "node_206",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_183",
+            "source": "node_207",
+            "target": "node_183",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_213",
+            "source": "node_208",
+            "target": "node_213",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_213",
+            "source": "node_209",
+            "target": "node_213",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_211",
+            "source": "node_210",
+            "target": "node_211",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_213",
+            "source": "node_211",
+            "target": "node_213",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_224",
+            "source": "node_212",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_219",
+            "source": "node_217",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_146",
+            "source": "node_221",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_146",
+            "source": "node_222",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_137",
+            "source": "node_223",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_241",
+            "source": "node_225",
+            "target": "node_241",
+            "type": "step"
+        },
+        {
+            "id": "e229_to_231",
+            "source": "node_229",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e230_to_232",
+            "source": "node_230",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_234",
+            "source": "node_233",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e235_to_182",
+            "source": "node_235",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_122",
+            "source": "node_238",
+            "target": "node_122",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_170",
+            "source": "node_239",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e240_to_204",
+            "source": "node_240",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e255_to_73",
+            "source": "node_255",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e256_to_379",
+            "source": "node_256",
+            "target": "node_379",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_288",
+            "source": "node_264",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_111",
+            "source": "node_272",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e279_to_172",
+            "source": "node_279",
+            "target": "node_172",
+            "type": "step"
+        },
+        {
+            "id": "e280_to_405",
+            "source": "node_280",
+            "target": "node_405",
+            "type": "step"
+        },
+        {
+            "id": "e282_to_290",
+            "source": "node_282",
+            "target": "node_290",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_258",
+            "source": "node_286",
+            "target": "node_258",
+            "type": "step"
+        },
+        {
+            "id": "e288_to_326",
+            "source": "node_288",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_257",
+            "source": "node_290",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_295",
+            "source": "node_294",
+            "target": "node_295",
+            "type": "step"
+        },
+        {
+            "id": "e297_to_350",
+            "source": "node_297",
+            "target": "node_350",
+            "type": "step"
+        },
+        {
+            "id": "e298_to_301",
+            "source": "node_298",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_308",
+            "source": "node_299",
+            "target": "node_308",
+            "type": "step"
+        },
+        {
+            "id": "e300_to_306",
+            "source": "node_300",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e301_to_307",
+            "source": "node_301",
+            "target": "node_307",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_305",
+            "source": "node_302",
+            "target": "node_305",
+            "type": "step"
+        },
+        {
+            "id": "e303_to_412",
+            "source": "node_303",
+            "target": "node_412",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_309",
+            "source": "node_304",
+            "target": "node_309",
+            "type": "step"
+        },
+        {
+            "id": "e305_to_370",
+            "source": "node_305",
+            "target": "node_370",
+            "type": "step"
+        },
+        {
+            "id": "e306_to_311",
+            "source": "node_306",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e307_to_303",
+            "source": "node_307",
+            "target": "node_303",
+            "type": "step"
+        },
+        {
+            "id": "e308_to_507",
+            "source": "node_308",
+            "target": "node_507",
+            "type": "step"
+        },
+        {
+            "id": "e309_to_314",
+            "source": "node_309",
+            "target": "node_314",
+            "type": "step"
+        },
+        {
+            "id": "e310_to_318",
+            "source": "node_310",
+            "target": "node_318",
+            "type": "step"
+        },
+        {
+            "id": "e311_to_310",
+            "source": "node_311",
+            "target": "node_310",
+            "type": "step"
+        },
+        {
+            "id": "e312_to_476",
+            "source": "node_312",
+            "target": "node_476",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_366",
+            "source": "node_313",
+            "target": "node_366",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_257",
+            "source": "node_314",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e315_to_316",
+            "source": "node_315",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e316_to_497",
+            "source": "node_316",
+            "target": "node_497",
+            "type": "step"
+        },
+        {
+            "id": "e320_to_257",
+            "source": "node_320",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_475",
+            "source": "node_321",
+            "target": "node_475",
+            "type": "step"
+        },
+        {
+            "id": "e323_to_325",
+            "source": "node_323",
+            "target": "node_325",
+            "type": "step"
+        },
+        {
+            "id": "e324_to_257",
+            "source": "node_324",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e325_to_257",
+            "source": "node_325",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_337",
+            "source": "node_326",
+            "target": "node_337",
+            "type": "step"
+        },
+        {
+            "id": "e327_to_343",
+            "source": "node_327",
+            "target": "node_343",
+            "type": "step"
+        },
+        {
+            "id": "e329_to_257",
+            "source": "node_329",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_299",
+            "source": "node_333",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e335_to_336",
+            "source": "node_335",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_308",
+            "source": "node_336",
+            "target": "node_308",
+            "type": "step"
+        },
+        {
+            "id": "e337_to_327",
+            "source": "node_337",
+            "target": "node_327",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_341",
+            "source": "node_338",
+            "target": "node_341",
+            "type": "step"
+        },
+        {
+            "id": "e340_to_328",
+            "source": "node_340",
+            "target": "node_328",
+            "type": "step"
+        },
+        {
+            "id": "e341_to_315",
+            "source": "node_341",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e342_to_471",
+            "source": "node_342",
+            "target": "node_471",
+            "type": "step"
+        },
+        {
+            "id": "e343_to_424",
+            "source": "node_343",
+            "target": "node_424",
+            "type": "step"
+        },
+        {
+            "id": "e346_to_315",
+            "source": "node_346",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e347_to_340",
+            "source": "node_347",
+            "target": "node_340",
+            "type": "step"
+        },
+        {
+            "id": "e348_to_297",
+            "source": "node_348",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e349_to_351",
+            "source": "node_349",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_353",
+            "source": "node_350",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e351_to_408",
+            "source": "node_351",
+            "target": "node_408",
+            "type": "step"
+        },
+        {
+            "id": "e353_to_352",
+            "source": "node_353",
+            "target": "node_352",
+            "type": "step"
+        },
+        {
+            "id": "e354_to_282",
+            "source": "node_354",
+            "target": "node_282",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_358",
+            "source": "node_355",
+            "target": "node_358",
+            "type": "step"
+        },
+        {
+            "id": "e356_to_362",
+            "source": "node_356",
+            "target": "node_362",
+            "type": "step"
+        },
+        {
+            "id": "e357_to_413",
+            "source": "node_357",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e358_to_356",
+            "source": "node_358",
+            "target": "node_356",
+            "type": "step"
+        },
+        {
+            "id": "e359_to_392",
+            "source": "node_359",
+            "target": "node_392",
+            "type": "step"
+        },
+        {
+            "id": "e360_to_369",
+            "source": "node_360",
+            "target": "node_369",
+            "type": "step"
+        },
+        {
+            "id": "e361_to_360",
+            "source": "node_361",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e362_to_359",
+            "source": "node_362",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e363_to_357",
+            "source": "node_363",
+            "target": "node_357",
+            "type": "step"
+        },
+        {
+            "id": "e364_to_398",
+            "source": "node_364",
+            "target": "node_398",
+            "type": "step"
+        },
+        {
+            "id": "e365_to_404",
+            "source": "node_365",
+            "target": "node_404",
+            "type": "step"
+        },
+        {
+            "id": "e368_to_257",
+            "source": "node_368",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e369_to_302",
+            "source": "node_369",
+            "target": "node_302",
+            "type": "step"
+        },
+        {
+            "id": "e370_to_372",
+            "source": "node_370",
+            "target": "node_372",
+            "type": "step"
+        },
+        {
+            "id": "e371_to_396",
+            "source": "node_371",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e372_to_397",
+            "source": "node_372",
+            "target": "node_397",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_298",
+            "source": "node_373",
+            "target": "node_298",
+            "type": "step"
+        },
+        {
+            "id": "e374_to_304",
+            "source": "node_374",
+            "target": "node_304",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_388",
+            "source": "node_375",
+            "target": "node_388",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_384",
+            "source": "node_376",
+            "target": "node_384",
+            "type": "step"
+        },
+        {
+            "id": "e377_to_380",
+            "source": "node_377",
+            "target": "node_380",
+            "type": "step"
+        },
+        {
+            "id": "e378_to_281",
+            "source": "node_378",
+            "target": "node_281",
+            "type": "step"
+        },
+        {
+            "id": "e379_to_280",
+            "source": "node_379",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e383_to_378",
+            "source": "node_383",
+            "target": "node_378",
+            "type": "step"
+        },
+        {
+            "id": "e384_to_382",
+            "source": "node_384",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e385_to_386",
+            "source": "node_385",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e386_to_378",
+            "source": "node_386",
+            "target": "node_378",
+            "type": "step"
+        },
+        {
+            "id": "e387_to_389",
+            "source": "node_387",
+            "target": "node_389",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_387",
+            "source": "node_388",
+            "target": "node_387",
+            "type": "step"
+        },
+        {
+            "id": "e389_to_386",
+            "source": "node_389",
+            "target": "node_386",
+            "type": "step"
+        },
+        {
+            "id": "e390_to_373",
+            "source": "node_390",
+            "target": "node_373",
+            "type": "step"
+        },
+        {
+            "id": "e391_to_473",
+            "source": "node_391",
+            "target": "node_473",
+            "type": "step"
+        },
+        {
+            "id": "e393_to_406",
+            "source": "node_393",
+            "target": "node_406",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_488",
+            "source": "node_395",
+            "target": "node_488",
+            "type": "step"
+        },
+        {
+            "id": "e396_to_491",
+            "source": "node_396",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_491",
+            "source": "node_397",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e398_to_399",
+            "source": "node_398",
+            "target": "node_399",
+            "type": "step"
+        },
+        {
+            "id": "e399_to_401",
+            "source": "node_399",
+            "target": "node_401",
+            "type": "step"
+        },
+        {
+            "id": "e400_to_403",
+            "source": "node_400",
+            "target": "node_403",
+            "type": "step"
+        },
+        {
+            "id": "e401_to_402",
+            "source": "node_401",
+            "target": "node_402",
+            "type": "step"
+        },
+        {
+            "id": "e402_to_367",
+            "source": "node_402",
+            "target": "node_367",
+            "type": "step"
+        },
+        {
+            "id": "e403_to_367",
+            "source": "node_403",
+            "target": "node_367",
+            "type": "step"
+        },
+        {
+            "id": "e404_to_492",
+            "source": "node_404",
+            "target": "node_492",
+            "type": "step"
+        },
+        {
+            "id": "e405_to_410",
+            "source": "node_405",
+            "target": "node_410",
+            "type": "step"
+        },
+        {
+            "id": "e406_to_487",
+            "source": "node_406",
+            "target": "node_487",
+            "type": "step"
+        },
+        {
+            "id": "e407_to_349",
+            "source": "node_407",
+            "target": "node_349",
+            "type": "step"
+        },
+        {
+            "id": "e408_to_353",
+            "source": "node_408",
+            "target": "node_353",
+            "type": "step"
+        },
+        {
+            "id": "e409_to_377",
+            "source": "node_409",
+            "target": "node_377",
+            "type": "step"
+        },
+        {
+            "id": "e410_to_411",
+            "source": "node_410",
+            "target": "node_411",
+            "type": "step"
+        },
+        {
+            "id": "e411_to_409",
+            "source": "node_411",
+            "target": "node_409",
+            "type": "step"
+        },
+        {
+            "id": "e412_to_312",
+            "source": "node_412",
+            "target": "node_312",
+            "type": "step"
+        },
+        {
+            "id": "e422_to_427",
+            "source": "node_422",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e424_to_429",
+            "source": "node_424",
+            "target": "node_429",
+            "type": "step"
+        },
+        {
+            "id": "e425_to_438",
+            "source": "node_425",
+            "target": "node_438",
+            "type": "step"
+        },
+        {
+            "id": "e426_to_449",
+            "source": "node_426",
+            "target": "node_449",
+            "type": "step"
+        },
+        {
+            "id": "e427_to_461",
+            "source": "node_427",
+            "target": "node_461",
+            "type": "step"
+        },
+        {
+            "id": "e428_to_465",
+            "source": "node_428",
+            "target": "node_465",
+            "type": "step"
+        },
+        {
+            "id": "e432_to_439",
+            "source": "node_432",
+            "target": "node_439",
+            "type": "step"
+        },
+        {
+            "id": "e433_to_453",
+            "source": "node_433",
+            "target": "node_453",
+            "type": "step"
+        },
+        {
+            "id": "e434_to_457",
+            "source": "node_434",
+            "target": "node_457",
+            "type": "step"
+        },
+        {
+            "id": "e435_to_437",
+            "source": "node_435",
+            "target": "node_437",
+            "type": "step"
+        },
+        {
+            "id": "e436_to_435",
+            "source": "node_436",
+            "target": "node_435",
+            "type": "step"
+        },
+        {
+            "id": "e437_to_466",
+            "source": "node_437",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e440_to_434",
+            "source": "node_440",
+            "target": "node_434",
+            "type": "step"
+        },
+        {
+            "id": "e442_to_466",
+            "source": "node_442",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e443_to_444",
+            "source": "node_443",
+            "target": "node_444",
+            "type": "step"
+        },
+        {
+            "id": "e444_to_442",
+            "source": "node_444",
+            "target": "node_442",
+            "type": "step"
+        },
+        {
+            "id": "e445_to_443",
+            "source": "node_445",
+            "target": "node_443",
+            "type": "step"
+        },
+        {
+            "id": "e446_to_448",
+            "source": "node_446",
+            "target": "node_448",
+            "type": "step"
+        },
+        {
+            "id": "e447_to_446",
+            "source": "node_447",
+            "target": "node_446",
+            "type": "step"
+        },
+        {
+            "id": "e448_to_466",
+            "source": "node_448",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e449_to_447",
+            "source": "node_449",
+            "target": "node_447",
+            "type": "step"
+        },
+        {
+            "id": "e450_to_452",
+            "source": "node_450",
+            "target": "node_452",
+            "type": "step"
+        },
+        {
+            "id": "e451_to_450",
+            "source": "node_451",
+            "target": "node_450",
+            "type": "step"
+        },
+        {
+            "id": "e452_to_466",
+            "source": "node_452",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e453_to_451",
+            "source": "node_453",
+            "target": "node_451",
+            "type": "step"
+        },
+        {
+            "id": "e454_to_456",
+            "source": "node_454",
+            "target": "node_456",
+            "type": "step"
+        },
+        {
+            "id": "e455_to_454",
+            "source": "node_455",
+            "target": "node_454",
+            "type": "step"
+        },
+        {
+            "id": "e456_to_466",
+            "source": "node_456",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e457_to_455",
+            "source": "node_457",
+            "target": "node_455",
+            "type": "step"
+        },
+        {
+            "id": "e458_to_460",
+            "source": "node_458",
+            "target": "node_460",
+            "type": "step"
+        },
+        {
+            "id": "e459_to_458",
+            "source": "node_459",
+            "target": "node_458",
+            "type": "step"
+        },
+        {
+            "id": "e460_to_468",
+            "source": "node_460",
+            "target": "node_468",
+            "type": "step"
+        },
+        {
+            "id": "e461_to_459",
+            "source": "node_461",
+            "target": "node_459",
+            "type": "step"
+        },
+        {
+            "id": "e462_to_464",
+            "source": "node_462",
+            "target": "node_464",
+            "type": "step"
+        },
+        {
+            "id": "e463_to_462",
+            "source": "node_463",
+            "target": "node_462",
+            "type": "step"
+        },
+        {
+            "id": "e464_to_466",
+            "source": "node_464",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_463",
+            "source": "node_465",
+            "target": "node_463",
+            "type": "step"
+        },
+        {
+            "id": "e466_to_469",
+            "source": "node_466",
+            "target": "node_469",
+            "type": "step"
+        },
+        {
+            "id": "e467_to_344",
+            "source": "node_467",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e468_to_466",
+            "source": "node_468",
+            "target": "node_466",
+            "type": "step"
+        },
+        {
+            "id": "e469_to_467",
+            "source": "node_469",
+            "target": "node_467",
+            "type": "step"
+        },
+        {
+            "id": "e470_to_407",
+            "source": "node_470",
+            "target": "node_407",
+            "type": "step"
+        },
+        {
+            "id": "e471_to_470",
+            "source": "node_471",
+            "target": "node_470",
+            "type": "step"
+        },
+        {
+            "id": "e472_to_496",
+            "source": "node_472",
+            "target": "node_496",
+            "type": "step"
+        },
+        {
+            "id": "e473_to_478",
+            "source": "node_473",
+            "target": "node_478",
+            "type": "step"
+        },
+        {
+            "id": "e474_to_486",
+            "source": "node_474",
+            "target": "node_486",
+            "type": "step"
+        },
+        {
+            "id": "e475_to_477",
+            "source": "node_475",
+            "target": "node_477",
+            "type": "step"
+        },
+        {
+            "id": "e476_to_321",
+            "source": "node_476",
+            "target": "node_321",
+            "type": "step"
+        },
+        {
+            "id": "e477_to_257",
+            "source": "node_477",
+            "target": "node_257",
+            "type": "step"
+        },
+        {
+            "id": "e478_to_479",
+            "source": "node_478",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e479_to_480",
+            "source": "node_479",
+            "target": "node_480",
+            "type": "step"
+        },
+        {
+            "id": "e483_to_474",
+            "source": "node_483",
+            "target": "node_474",
+            "type": "step"
+        },
+        {
+            "id": "e484_to_485",
+            "source": "node_484",
+            "target": "node_485",
+            "type": "step"
+        },
+        {
+            "id": "e485_to_491",
+            "source": "node_485",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e486_to_491",
+            "source": "node_486",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e487_to_489",
+            "source": "node_487",
+            "target": "node_489",
+            "type": "step"
+        },
+        {
+            "id": "e488_to_490",
+            "source": "node_488",
+            "target": "node_490",
+            "type": "step"
+        },
+        {
+            "id": "e489_to_491",
+            "source": "node_489",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e490_to_491",
+            "source": "node_490",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e491_to_313",
+            "source": "node_491",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e492_to_367",
+            "source": "node_492",
+            "target": "node_367",
+            "type": "step"
+        },
+        {
+            "id": "e493_to_494",
+            "source": "node_493",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e494_to_495",
+            "source": "node_494",
+            "target": "node_495",
+            "type": "step"
+        },
+        {
+            "id": "e495_to_315",
+            "source": "node_495",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e496_to_471",
+            "source": "node_496",
+            "target": "node_471",
+            "type": "step"
+        },
+        {
+            "id": "e500_to_493",
+            "source": "node_500",
+            "target": "node_493",
+            "type": "step"
+        },
+        {
+            "id": "e502_to_503",
+            "source": "node_502",
+            "target": "node_503",
+            "type": "step"
+        },
+        {
+            "id": "e503_to_315",
+            "source": "node_503",
+            "target": "node_315",
+            "type": "step"
+        },
+        {
+            "id": "e504_to_505",
+            "source": "node_504",
+            "target": "node_505",
+            "type": "step"
+        },
+        {
+            "id": "e506_to_243",
+            "source": "node_506",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e513_to_73",
+            "source": "node_513",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e515_to_516",
+            "source": "node_515",
+            "target": "node_516",
+            "type": "step"
+        }
+    ]
+}

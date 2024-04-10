@@ -1,0 +1,5123 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Let me start by saying that I've made good progress into who may be responsible.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Unfortunately, yes. There were several individuals I initially found highly suspicious.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Then let's hear it.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, go on. Spit it out.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Who?\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita discreetly glanced around as if making sure there was no one else with us."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're conveniently forgetting yourself.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hope you've narrowed it down from there.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My mother? How dare you insinuate such an awful thing.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"You wouldn't have asked me to investigate if you thought I was guilty.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well then, go on. Explain your reasoning.\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_16",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Alright, let's go down the list.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hope you're armed with substantial evidence.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"As a matter of fact, I have.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I meant no offense. You told me to investigate everyone who was at the palace at the time.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"With whom should I begin?\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI nodded, interest piqued."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Intriguing... Please go on.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Leaving his room? This is news to me.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I seriously find that hard to believe.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If your account is accurate, I am truly shocked.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I need to know everything you've discovered regarding my mother's whereabouts on the night of my father passing.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Let's hear why you suspect Titus.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, that's good right?\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Dastnurist? Are you absolutely sure?\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If this is your idea of a joke, I'm not laughing.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, they must have been mistaken.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I find this accusation hard to believe. Titus has been nothing but loyal from day one.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"On the night of King Valero's death, Captain Gordion was charged with guarding his chambers.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"He wasn't at his post? That seems slightly irregular.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Captain Gordion not being at his post seems rather unusual. However, it wasn't strange for my father to receive visitations at odd hours.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Not in the castle? Then where the hell was she?\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I suppose my mother has her own share of secrets, just like any other person. Who would have thought?\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I don't see anything unusual about that. He's often taken it upon himself to personally oversee my security.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Okay, I'm listening.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes. And?\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This only confirms my suspicions that he can't be trusted.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This is troubling news, Lucita. I've always taken Titus to be a loyal protector.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As for Sal, I don't believe there's any inclining on malcontent in him. Your witnesses must have confused him for someone else.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"So tell me about what makes Sal a suspect in your mind? I'm having a hard time wrapping my head around it.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But what I'm most concerned with is where Sal fits into all of this.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Concerning Sal, I'm curious to hear more about why you suspect him. As a holy man, he doesn't fit the murdering type.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"However, I can't say the same for Sal.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Sal, on the other hand, is another story. I've suspected his motivations ever since I took the throne. If what you're saying is true, it only confirms my original misgivings.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Yes, of course. It actually relates to Wiseman Ignacius as well.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"As you already know, on the night of your father's death, Grand Wisman Sal was seen entering his chamber.\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I'm merely presenting the facts, Your Majesty. It's unusual for someone in Pabel's position to be absent for such a long period.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Unaccounted for? Please explain.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"During the time leading up to Valero's death, there was a significant period when he couldn't be accounted for.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_90",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That sounds very un-Pabel.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This news is troubling, to say the least. But we must consider the possibility that even the most loyal individuals can make mistakes or be influenced by circumstances.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"For his sake, I'm relieved, but that puts us no closer to finding the culprit.\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita gave a slight bow and moved toward the door. But before she left, she turned."
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucita bowed and bid me good day before she turned and left my side."
+            },
+            "position": {
+                "x": 14040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Is that all? That doesn't prove he had a hand in anything, let alone make him public enemy number one.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You were right to come to me, however, we mustn't rely on hearsay. We need cold hard facts before jumping to conclusions.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"So I was correct in believing my father's untimely end was no accident.\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"So quickly? Tell me more.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"An eyewitness? How did you discover this?\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If this information is inaccurate in any way, there will  be hell to pay.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This is a lot to process. I'm having a hard time believing any of it.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My God... A Dastnurist service? How can this be?\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Your Majesty, I have reason to believe that Grand Wiseman Sal may have had a motive to harm King Valero.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"As you know, King Valero's decision to suppress the minority religions in our kingdom was met with resistance by many -- including the Grand Wiseman.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I've had my share of disagreements with my father, regarding his religious policies, but I never imagined it could lead to such an outcome.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Do you have any concrete evidence linking Sal to the crime? Because right now, your argument feels a bit thin.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Seems plausible. Do you have any concrete evidence linking Sal to the crime?\""
+            },
+            "position": {
+                "x": 59940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I still have my doubts about your conclusions on the Grand Wiseman. As far as I can tell, his actions were honorable and virtuous. Nevertheless, I will keep an open mind.\""
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Yes, however, it's unusual for someone in Pabel's position to remain absent for an extended duration.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"He has access to the palace's internal operations, which made him a noteworthy figure in my inquiry.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"He possesses knowledge of the palace's internal workings, which rendered him a significant figure in my investigation.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That is odd. Please continue.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Tread carefully. You're speaking of one of the most highly respected men in this kingdom!\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Of course. I meant no offense.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"The evidence is circumstantial, but I believe I can uncover more conclusive information with additional inquiries into him.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Continue your investigation into Titus. But do so discreetly. He has eyes and ears everywhere.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This investigation has gone as far as it can go. Cease all further efforts, effective immediately.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I hate to say it, but keep looking into Sal. There's more to the Wiseman than he's letting on.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Very good, Your Majesty. Rest assured, I will get to the bottom of this as soon as possible.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Very well. But for the record, I still believe their actions warrant further scrutiny, but I won't press the issue further.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"But what I find most concerning is Sal's role in this drama.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Sal, on the other hand, is another story. I've suspected his motivations ever since I took the throne. If what you're saying is true, it only confirms my original misgivings.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Suspect Sal Hub\n\nSuspect Sal Hub"
+            },
+            "position": {
+                "x": 31860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I had a funny feeling about that Golden Guardsman. There was something about him that never sat right with me.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If what you're saying is true, this angers me to no end. I can't believe I trusted him.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIf Titus' apprehensions of misconduct were indeed accurate, particularly involving someone with whom I'd shared an intimate connection, it raised a significant question... who in my inner circle could I rely on?"
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Investigation aside... so about that proper date you owe me.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI assured myself that my decision to investigate Lucita was justified."
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I understand your concern, but I believe there must rational explanations to your alleged transgressions. I'm confident none of them had anything to do with my father's death.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Duly noted.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"For the record, I don't.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Though, I pray your suspicions don't turn out to be true.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I pray that you conclude he's innocent of all of this.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Investigate Hub\n\nInvestigate Hub"
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnd if Lucita's suspicions of wrongdoings turned out to be true -- especially from someone whose sole purpose was to protect the king -- it begged the question...  who could I trust?"
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnd if my suspicions of wrongdoings turned out to be true -- especially for a man of faith -- it begged the question...  who could I trust?"
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI assured myself that my decision to stop investigating was justified."
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Very good, Your Majesty. I'll work diligently to uncover the truth as soon as I can.\""
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Very well. I still believe their actions require closer examination, but I won't push the matter any further.\""
+            },
+            "position": {
+                "x": 25110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_243",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Consider it handled.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_256",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTitus bowed and bid me good day before he turned and left."
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_258",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Allow me to begin by stating that I've made significant headway in identifying potential culprits.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_259",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Regrettably, yes. Multiple individuals raised strong suspicions.\""
+            },
+            "position": {
+                "x": 26190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"My initial list of suspects comprised five individuals. Lucita Azaro, Grand Wiseman Ignacius, your butler, your uncle, and your mother.\""
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_261",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nTitus discreetly looked around, as if making sure there was no one else with us."
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_276",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Yes, sir. That appears to be the case. And I believe I've narrowed it down to a handful of possible suspects.\""
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I've pinpointed several individuals who initially aroused considerable suspicion and warranted closer examination.\""
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"She is only human after all. That said, you might be shocked to learn the nature of her secret outing.\""
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_299",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Not so fast, Your Majesty. This may come as a shock, but as it happens, she was attending a religious service just outside the capital.\""
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_309",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Absolutely. We managed to find credible eyewitnesses who were present at the Dastnurist archsanctuary that night who can verify it.\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_314",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I assure you, it's no joke. We managed to find credible eyewitnesses who were present at the Dastnurist archsanctuary that very night who can verify it.\""
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_319",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"It's not my place to speculate on that, Your Majesty. All I know is that multiple eyewitnesses who were present at the Dastnurist archsanctuary that night can verify it.\""
+            },
+            "position": {
+                "x": 28620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_333",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Dastnurity aside, it's a relief to hear she's no longer a suspect.\""
+            },
+            "position": {
+                "x": 28890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_334",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Sure, but it still doesn't excuse her attendance at a Dastnurist event! It's an affront to our faith!\""
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_335",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Your slow approach to sharing crucial information is frustrating. Get to the point faster next time.\""
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Then I suppose I'll have to find another suspect.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_337",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Needless to say, this proves your mother had an alibi, and had nothing to do with your father's death.\""
+            },
+            "position": {
+                "x": 29970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Needless to say, this establishes an alibi for your mother, and she had no involvement in your father's death.\""
+            },
+            "position": {
+                "x": 44010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Of all the individuals I've been looking into, your Uncle Hugo stands out the most.\""
+            },
+            "position": {
+                "x": 49140,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_347",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"There are witnesses who claim they saw Hugo leaving your father's room on the night of his death, just moments before his body was discovered.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_348",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Believe me, I was just as surprised as you are.\""
+            },
+            "position": {
+                "x": 31050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_353",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Believe it or not, but facts are facts.\""
+            },
+            "position": {
+                "x": 31320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_358",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Forgive me for my bluntness, but what more do you need? We must ascertain the reason for his presence.\""
+            },
+            "position": {
+                "x": 31590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_373",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"And what's most curious is that, according to witnesses, he let Grand Wiseman Ignacius enter your father's chambers without any opposition.\""
+            },
+            "position": {
+                "x": 31860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_374",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Yes, but what is most unusual is that multiple witnesses have claimed to have seen Grand Wiseman Ignacius enter the king's quarters unchallenged.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_375",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"But that's not what I found most interesting...\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_376",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"It is, which raises questions about his loyalty and the circumstances surrounding the king's demise.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_377",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I cannot say for certain, but the fact that such a significant breach in protocol occurred on Captain Gordion's watch is deeply concerning.\""
+            },
+            "position": {
+                "x": 7830,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_378",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Yes, but the timing can't be a coincidence.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_379",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Your admiration of Captain Gordion is notable, but our duty sometimes requires us to question even the most loyal among us.\""
+            },
+            "position": {
+                "x": 32130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_380",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I understand your reservations, but my duty is to uncover the truth, no matter how uncomfortable it may be.\""
+            },
+            "position": {
+                "x": 32400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_381",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I understand. But my responsibility is to unveil the truth, even if it proves to be unsettling.\""
+            },
+            "position": {
+                "x": 32670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_382",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Yes. We proceed with caution.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_383",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I've had my reservations about him as well. It's always best to trust your instincts in such matters.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_384",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I share your frustration. If these allegations hold up, it's a betrayal that none of us could have foreseen.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_385",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As for Sal, I still don't believe there's any inclining on malcontent in him. It doesn't make any sense.\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_388",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I hope so, but that's why we mustn't leave any stone unturned.\""
+            },
+            "position": {
+                "x": 33210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_389",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"That's why it's important to get to the bottom of this.\""
+            },
+            "position": {
+                "x": 33480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_390",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Yes. His action deserves a great deal of scrutiny.\""
+            },
+            "position": {
+                "x": 33750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_391",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"His actions are indeed suspicious.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_392",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Gladly.\""
+            },
+            "position": {
+                "x": 34020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_393",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Happy to.\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_394",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"A possibility, for sure, but I assure you that my witnesses are reliable.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_395",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Yes. His action deserves a great deal of scrutiny.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_396",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Yes. His actions are indeed suspicious.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_397",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Me too. There's good reason to believe they conspired with one another."
+            },
+            "position": {
+                "x": 11610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_404",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Yes, of course. I didn't mean to offend.\""
+            },
+            "position": {
+                "x": 34290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_418",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"As Rizia's councilor on religion, he was a staunch advocate for the rights of individuals to follow their preferred religious beliefs.\""
+            },
+            "position": {
+                "x": 34560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_421",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"It's no secret that your father's hostility towards minority religions drew condemnation from various quarters, the Grand Wiseman among them.\""
+            },
+            "position": {
+                "x": 34830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_424",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Nothing definitive, but I'm confident that conducting further investigations will yield more conclusive information about him.\""
+            },
+            "position": {
+                "x": 35100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_425",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Not yet, but I'm confident that conducting further investigations will yield more conclusive information about him.\""
+            },
+            "position": {
+                "x": 35370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_438",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Having someone of his status go missing for such an extended duration indeed raises suspicions.\""
+            },
+            "position": {
+                "x": 35640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_456",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"He possesses knowledge of the palace's internal workings, which makes him a significant figure in my investigation.\""
+            },
+            "position": {
+                "x": 35910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_457",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"His access to the inner workings of the palace made him a person of interest. It was a detail that couldn't be overlooked.\""
+            },
+            "position": {
+                "x": 36180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_458",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"And with Pabel's grasp of the palace's internal workings, this took on added significance.\""
+            },
+            "position": {
+                "x": 36450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_464",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"In addition, there are other collaborating witnesses who can back me up.\""
+            },
+            "position": {
+                "x": 36720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_465",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Let's hear why you suspect Lucita.\""
+            },
+            "position": {
+                "x": 30780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_471",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"When I returned, I witnessed the Duchess exiting your father's chambers in great haste.\""
+            },
+            "position": {
+                "x": 36990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_472",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're implying they were secret lovers or something?\""
+            },
+            "position": {
+                "x": 37530,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_474",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, what of it?\""
+            },
+            "position": {
+                "x": 37260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_475",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What was she doing there?\""
+            },
+            "position": {
+                "x": 37530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_476",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Don't leave me in suspense. Continue with your story.\""
+            },
+            "position": {
+                "x": 60210,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_477",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I would never suggest such a thing. However...\""
+            },
+            "position": {
+                "x": 60750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_485",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"When we searched your father's chambers later, we found no such letter.\""
+            },
+            "position": {
+                "x": 38340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_486",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"This is deeply troubling. What could Lucita be hiding?\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_488",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You know, your logic might not be so crazy after all. I always suspected that when it came to the throne, House Azaro was out for blood.\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_489",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"My thoughts exactly.\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_490",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Yes. Anyway...\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_491",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"That's what concerned me.\""
+            },
+            "position": {
+                "x": 60750,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_493",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"People can surprise us, for better or for worse. In any case...\""
+            },
+            "position": {
+                "x": 39420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_494",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"That's a question I hope to find out.\""
+            },
+            "position": {
+                "x": 38610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_495",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Keep looking into Lucita's potential motivation. I think you might be onto something there.\""
+            },
+            "position": {
+                "x": 62100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_504",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAlone once again, my thoughts returned to the investigation."
+            },
+            "position": {
+                "x": 59670,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_513",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Trust can be a double-edged sword, and it's disheartening when it's broken.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_514",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Tell me what you've learned about my father's death.\""
+            },
+            "position": {
+                "x": 32940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_515",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Lucita. To what do I owe this pleasure?\""
+            },
+            "position": {
+                "x": 63180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_516",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes? Something on your mind?\""
+            },
+            "position": {
+                "x": 40500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_519",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Please, do tell. I'm eager to know what you've uncovered.\""
+            },
+            "position": {
+                "x": 40770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_520",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Only that I may have some information regarding your predecessor's demise.\""
+            },
+            "position": {
+                "x": 41040,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_521",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Really? In that case, let's hear it.\""
+            },
+            "position": {
+                "x": 41310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_522",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, what are you waiting for? Spit it out.\""
+            },
+            "position": {
+                "x": 41580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_523",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"'This pleasure' happens to be the information you requested about your father's death.\""
+            },
+            "position": {
+                "x": 41850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_524",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnd the city's distant lights shimmered, a testament to life continuing beyond the palace walls."
+            },
+            "position": {
+                "x": 40500,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_525",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHis presence on the balcony hinted at an urgent matter, a reminder that, as a monarch, even moments of solitude could be fleeting."
+            },
+            "position": {
+                "x": 62370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_528",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"To what do I owe the pleasure, Captain?\""
+            },
+            "position": {
+                "x": 42390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_529",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Ah, it's you. Is something the matter?\""
+            },
+            "position": {
+                "x": 42660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_530",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"If you have something to report, make it quick.\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_531",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"The one concerning His Majesty King Valero.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_532",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I'm here to discuss that *personal matter* you asked me to look into.\""
+            },
+            "position": {
+                "x": 43470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_534",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I didn't think much of it until I stumbled across the name and address of a Dastnurist sanctuary handwritten on the inside cover of one such book.\""
+            },
+            "position": {
+                "x": 43740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_537",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"But it wasn't a Wruhecist service. It was a Dastnurist.\""
+            },
+            "position": {
+                "x": 44010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_538",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"The individual of which I speak is one of my most trusted guardsmen. They don't make mistakes.\""
+            },
+            "position": {
+                "x": 28080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_539",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I understand how this news may be difficult to hear, especially since it contradicts the official state religion of Wruhecism. But...\""
+            },
+            "position": {
+                "x": 44280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_543",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I guess Mother's still full of surprises. This should make for an interesting family conversation.\""
+            },
+            "position": {
+                "x": 44550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_550",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"...attending a Dastnurist religious service just outside the capital.\""
+            },
+            "position": {
+                "x": 65340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_551",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Okay, I'm listening...\""
+            },
+            "position": {
+                "x": 65610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_555",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Brace yourself, but it turns out, she was attending a secret religious service just outside the capital.\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_566",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, that's an interesting turn of events. Not what I expected to hear in the slightest. I assume you can verify the accuracy of this information?\""
+            },
+            "position": {
+                "x": 45630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_572",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Which is precisely why I felt it was important for you to be informed right away.\""
+            },
+            "position": {
+                "x": 45900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_577",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I must admit I'm rather surprised by this revelation. If it were to become public knowledge, it could spark quite a scandal.\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_581",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"One of my Golden Guards, who was assigned to protect her, confirmed it.\""
+            },
+            "position": {
+                "x": 46440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_582",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"The information is indeed accurate. The guardsman who accompanied her is among my most trustworthy subordinates.\""
+            },
+            "position": {
+                "x": 46170,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_583",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I understand how unsettling this might be, especially since this contradicts the official state religion of Wruhecism.\""
+            },
+            "position": {
+                "x": 46710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_584",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"And how reliable is this Golden Guardsman of yours?\""
+            },
+            "position": {
+                "x": 46980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_585",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"No mistake. The information is solid.\""
+            },
+            "position": {
+                "x": 47250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_587",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"The individual of which I speak is very reliable.\""
+            },
+            "position": {
+                "x": 48330,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_591",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"The gathered information has undergone rigorous scrutiny. I wouldn't approach you with anything less.\""
+            },
+            "position": {
+                "x": 47790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_592",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I can only imagine.\""
+            },
+            "position": {
+                "x": 48060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_593",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"However, the information is reliable. The guardsman who was with her is one of my most dependable subordinates.\""
+            },
+            "position": {
+                "x": 48330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_597",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Good heavens... this is a lot to process. As a man of faith, forgive me when I say, I have a hard time relying solely on that... faith.\""
+            },
+            "position": {
+                "x": 48600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_602",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Considering her upbringing in Zille, where Dastnurity is the prevailing religion, this revelation is quite understandable.\""
+            },
+            "position": {
+                "x": 48870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_603",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well then, I guess there's no need to place mother in the royal dungeon. I suppose I'll have to find another suspect.\""
+            },
+            "position": {
+                "x": 49140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_611",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That is excellent news indeed! The plot thickens.\""
+            },
+            "position": {
+                "x": 49410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_612",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Hmm, so he won't be the star of our treasonous play after all. The plot thickens.\""
+            },
+            "position": {
+                "x": 49680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_613",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Why didn't you say so in the first place? This is very good news.\""
+            },
+            "position": {
+                "x": 49950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_631",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"My apologies for the delay, Your Majesty.\""
+            },
+            "position": {
+                "x": 50220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_636",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Of course, Your Majesty. We're keeping our eyes on the unfolding drama.\""
+            },
+            "position": {
+                "x": 50490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_641",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Would you like to know the details of his whereabouts anyway?\""
+            },
+            "position": {
+                "x": 50760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_646",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Yes, do tell.\""
+            },
+            "position": {
+                "x": 51030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_648",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Of course, let's hear it.\""
+            },
+            "position": {
+                "x": 51300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_651",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"As previously mentioned, before Valero's death, there was a notable amount of time when we couldn't establish his whereabouts.\""
+            },
+            "position": {
+                "x": 51570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_660",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n“After extensive interviews with palace staff, it was determined that he spent that time in the wine cellar.\""
+            },
+            "position": {
+                "x": 51840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_661",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"That old dog… Good for him! Who was the lucky lady?\""
+            },
+            "position": {
+                "x": 51840,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_662",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What? That's insane. If my butler had a secret lover, I would know.\""
+            },
+            "position": {
+                "x": 52110,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_663",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In the wine cellars? How very unprofessional -- not to mention, inappropriate. With whom was he engaged in this… 'rendezvous?'\""
+            },
+            "position": {
+                "x": 52380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_670",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"In the wine cellar? With whom was he engaged in this… 'rendezvous?'\""
+            },
+            "position": {
+                "x": 52650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_671",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"My faith guides me to condemn such actions. I'm highly disappointed in Pabel's behavior.\""
+            },
+            "position": {
+                "x": 52920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_672",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wow. I'm highly disappointed in Pabel's behavior.\""
+            },
+            "position": {
+                "x": 53190,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_673",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Pabel and I are old friends. I'll bring this up with him myself. No need to drag the law into it.\""
+            },
+            "position": {
+                "x": 52650,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_674",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"More like lucky gentleman, if you catch my meaning...\""
+            },
+            "position": {
+                "x": 53460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_679",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Wait... You mean… he was with a man? As in intimately?\""
+            },
+            "position": {
+                "x": 53730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_685",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I have to confess, I had a feeling about Pabel since our trip to Qalus. I'm not surprised at all.\""
+            },
+            "position": {
+                "x": 54000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_686",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"We didn't turn up any conclusive evidence of what your butler and the courier were doing together. So this is all pure speculation.\""
+            },
+            "position": {
+                "x": 54270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_687",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Let’s keep this information between us. Best to keep this from becoming public knowledge and causing a scandal.\""
+            },
+            "position": {
+                "x": 54540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_689",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Keep an eye on him. The last thing I need is my butler flaunting his criminal lifestyle in front of my nose.\""
+            },
+            "position": {
+                "x": 54810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_693",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I won’t tell anyone. You have my word.\""
+            },
+            "position": {
+                "x": 55080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_701",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"That's your prerogative.\""
+            },
+            "position": {
+                "x": 55350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_702",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Certainly, sir.\""
+            },
+            "position": {
+                "x": 55620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_707",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Very well, sir.\""
+            },
+            "position": {
+                "x": 55890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_714",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As long as it doesn't interfere with his duties, I don’t see an issue. Let's stay focused on the task at hand, please.\""
+            },
+            "position": {
+                "x": 56430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_721",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"A delivery person from Cantuavo vineyards who was dropping off casks of wine.\""
+            },
+            "position": {
+                "x": 56430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_726",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"The alleged other individual in the equation was a delivery person from Cantuavo vineyards. They were dropping off casks of wine.\""
+            },
+            "position": {
+                "x": 56700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_731",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, I’ll see to it that she’s reported for her indiscretion. The Cantuavos should know about her irresponsible actions.\""
+            },
+            "position": {
+                "x": 56970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_732",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Her heedless and disrespectful actions should be conveyed to the Cantuavos.\""
+            },
+            "position": {
+                "x": 57240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_733",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"She should be fired, immediately.\""
+            },
+            "position": {
+                "x": 56970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_739",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"Not 'she.'\""
+            },
+            "position": {
+                "x": 57510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_744",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"He.\""
+            },
+            "position": {
+                "x": 57780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_749",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt took me a moment before the implications hit me."
+            },
+            "position": {
+                "x": 58050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_750",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI shot my eyebrows up in feigned surprise."
+            },
+            "position": {
+                "x": 58050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_752",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As long as Pabel didn't kill my father, I don't care what he was doing that night.\""
+            },
+            "position": {
+                "x": 58320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_753",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Oh, I see what you're getting at now.\""
+            },
+            "position": {
+                "x": 58590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_754",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, this just keeps getting better and better.\""
+            },
+            "position": {
+                "x": 58860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_755",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Ah. I see now.\""
+            },
+            "position": {
+                "x": 58050,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_756",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI raised my eyebrows in astonishment."
+            },
+            "position": {
+                "x": 53730,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_757",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"If this assignation occurred, it was with a courier from the Cantuavo vineyards.\""
+            },
+            "position": {
+                "x": 53730,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_762",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"It was supposedly a man, by the way. A courier from the Cantuavo vineyards.\""
+            },
+            "position": {
+                "x": 59130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_766",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"You might be surprised to know that it was a man. A courier from the Cantuavo vineyards.\""
+            },
+            "position": {
+                "x": 59400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_767",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"As in, with a man? That's disgusting.\""
+            },
+            "position": {
+                "x": 59400,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_776",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Do you intend to present verifiable evidence connecting Sal to the crime? Because as of now, your argument seems quite unsubstantiated.\""
+            },
+            "position": {
+                "x": 59670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_780",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"In fact, Captain Gordion wasn't there at all. Nobody knows where he was.\""
+            },
+            "position": {
+                "x": 59940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_781",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"As is my duty, I was there that night overseeing your father's security. However, I had temporarily left my post to attend to a personal matter, leaving one of my guardsmen in charge.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_782",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Her actions raise questions about the events leading to your father's passing. I believe we should investigate this further, discreetly and meticulously.\""
+            },
+            "position": {
+                "x": 37530,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_783",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I can't attest to that. I'm only presenting what I've been able to gather.\""
+            },
+            "position": {
+                "x": 62100,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_784",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, come on. Spit it out. What was she doing there?\""
+            },
+            "position": {
+                "x": 38880,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_788",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"That's what I've been trying to discern.\""
+            },
+            "position": {
+                "x": 60210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_789",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I do hope you're not suggesting they were doing something... impure.\""
+            },
+            "position": {
+                "x": 60480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_796",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Well, that's one way to make an exit.\""
+            },
+            "position": {
+                "x": 60750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_797",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"So you left your post during your duty? Not the best way to start your case.\""
+            },
+            "position": {
+                "x": 61020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_801",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I suspect she may have been carrying a letter, but I cannot confirm its contents, recipient, or sender.\""
+            },
+            "position": {
+                "x": 61290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_802",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Sounds like a lot of speculation and no sustenance, if you asked me.\""
+            },
+            "position": {
+                "x": 39150,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_804",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I had my suspicions that she might have been carrying letters, but I couldn't ascertain the sender, the recipients, or the contents.\""
+            },
+            "position": {
+                "x": 61560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_805",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Sounds like a lot of speculation and no sustenance, if you asked me. I'm honestly disappointed this is all you can give me on Lucita.\""
+            },
+            "position": {
+                "x": 38340,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_812",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Good heavens, this is deeply troubling. I wonder what Lucita could be hiding.\""
+            },
+            "position": {
+                "x": 61830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_813",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOn the palace balcony, I sought refuge from the relentless affairs of the state."
+            },
+            "position": {
+                "x": 62100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_815",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAmid this tranquil backdrop, I found a brief respite from the responsibilities that weighed on my shoulders."
+            },
+            "position": {
+                "x": 62370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_822",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was during this peaceful interlude that Lucita approached."
+            },
+            "position": {
+                "x": 63720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_829",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe only question was whether she was here for an urgent matter or..."
+            },
+            "position": {
+                "x": 62640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_835",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nBusiness only, it seemed."
+            },
+            "position": {
+                "x": 62910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_836",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"No. Nothing's the matter.\""
+            },
+            "position": {
+                "x": 63180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_837",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"It would be my pleasure.\""
+            },
+            "position": {
+                "x": 42930,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_838",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I apologize if I startled you.\""
+            },
+            "position": {
+                "x": 43200,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_849",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI took no pleasure in investigating a member of my own family, it had to be done."
+            },
+            "position": {
+                "x": 63450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_852",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"A few of these individuals now strike me as particularly suspicious.\""
+            },
+            "position": {
+                "x": 63720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_853",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"A few of these individuals now strike me as particularly suspicious.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_854",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I have doubts about your conclusions on the Grand Wiseman. Nevertheless, I'll keep an open mind.\""
+            },
+            "position": {
+                "x": 39960,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_855",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n“Some suspect him of having a secret rendezvous.\""
+            },
+            "position": {
+                "x": 59670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_856",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n“Some suspect him of having a secret rendezvous.\""
+            },
+            "position": {
+                "x": 63990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_857",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"This was months before your coronation. And the alleged other party hasn't returned to the palace since.\""
+            },
+            "position": {
+                "x": 51840,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_858",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"This was months before your coronation. And the alleged other party hasn't returned to the palace since.\""
+            },
+            "position": {
+                "x": 64260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_859",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"The alleged other party was a delivery man from the Cantuavo vineyards.\""
+            },
+            "position": {
+                "x": 59400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_867",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"I have to confess, I'm not surprised. Your butler is too dapper for his own good.\""
+            },
+            "position": {
+                "x": 64530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_871",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe eyed me closely."
+            },
+            "position": {
+                "x": 64800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_873",
+            "type": "customNode",
+            "data": {
+                "label": "Lucita Azaro\n\n\"With that said... we were unable to turn up any conclusive evidence of what he and the courier were doing in the cellar. It's all pure speculation.\""
+            },
+            "position": {
+                "x": 64800,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_886",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Not in the castle? Well, if she wasn't there, then where was she?\""
+            },
+            "position": {
+                "x": 65070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_887",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I guess Mother's still full of surprises.\""
+            },
+            "position": {
+                "x": 45360,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_892",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"Speaking of surprises, you'll be pleased to know where we found out where she really was...\""
+            },
+            "position": {
+                "x": 65340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_893",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"You're kidding, right?\""
+            },
+            "position": {
+                "x": 65610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_894",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"A Dastnurist service? How can this be?\""
+            },
+            "position": {
+                "x": 65880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_895",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"A part of me hopes this information is inaccurate.\""
+            },
+            "position": {
+                "x": 45630,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_899",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"I understand how unsettling this might be.\""
+            },
+            "position": {
+                "x": 66150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_909",
+            "type": "customNode",
+            "data": {
+                "label": "Titus Gordion\n\n\"My initial list of suspects comprised four individuals. Lucita Azaro, Grand Wiseman Ignacius, your uncle, and your mother.\""
+            },
+            "position": {
+                "x": 66420,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_821",
+            "source": "node_1",
+            "target": "node_821",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_267",
+            "source": "node_4",
+            "target": "node_267",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_280",
+            "source": "node_7",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_280",
+            "source": "node_8",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_280",
+            "source": "node_9",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_280",
+            "source": "node_10",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_911",
+            "source": "node_11",
+            "target": "node_911",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_286",
+            "source": "node_12",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_510",
+            "source": "node_13",
+            "target": "node_510",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_506",
+            "source": "node_14",
+            "target": "node_506",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_853",
+            "source": "node_15",
+            "target": "node_853",
+            "type": "step"
+        },
+        {
+            "id": "e16_to_283",
+            "source": "node_16",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_283",
+            "source": "node_17",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_283",
+            "source": "node_18",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_853",
+            "source": "node_19",
+            "target": "node_853",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_853",
+            "source": "node_20",
+            "target": "node_853",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_341",
+            "source": "node_26",
+            "target": "node_341",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_344",
+            "source": "node_29",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_344",
+            "source": "node_30",
+            "target": "node_344",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_365",
+            "source": "node_31",
+            "target": "node_365",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_355",
+            "source": "node_32",
+            "target": "node_355",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_177",
+            "source": "node_36",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_290",
+            "source": "node_37",
+            "target": "node_290",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_541",
+            "source": "node_40",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_301",
+            "source": "node_41",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_311",
+            "source": "node_42",
+            "target": "node_311",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_316",
+            "source": "node_43",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_69",
+            "source": "node_46",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_382",
+            "source": "node_47",
+            "target": "node_382",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_378",
+            "source": "node_52",
+            "target": "node_378",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_377",
+            "source": "node_53",
+            "target": "node_377",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_38",
+            "source": "node_59",
+            "target": "node_38",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_306",
+            "source": "node_61",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_296",
+            "source": "node_62",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_375",
+            "source": "node_63",
+            "target": "node_375",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_376",
+            "source": "node_64",
+            "target": "node_376",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_374",
+            "source": "node_65",
+            "target": "node_374",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_383",
+            "source": "node_66",
+            "target": "node_383",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_164",
+            "source": "node_74",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_395",
+            "source": "node_75",
+            "target": "node_395",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_393",
+            "source": "node_76",
+            "target": "node_393",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_175",
+            "source": "node_77",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_394",
+            "source": "node_78",
+            "target": "node_394",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_396",
+            "source": "node_79",
+            "target": "node_396",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_397",
+            "source": "node_80",
+            "target": "node_397",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_434",
+            "source": "node_82",
+            "target": "node_434",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_64",
+            "source": "node_84",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_448",
+            "source": "node_87",
+            "target": "node_448",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_445",
+            "source": "node_88",
+            "target": "node_445",
+            "type": "step"
+        },
+        {
+            "id": "e90_to_441",
+            "source": "node_90",
+            "target": "node_441",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_461",
+            "source": "node_93",
+            "target": "node_461",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_619",
+            "source": "node_98",
+            "target": "node_619",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_643",
+            "source": "node_99",
+            "target": "node_643",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_185",
+            "source": "node_100",
+            "target": "node_185",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_254",
+            "source": "node_104",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_360",
+            "source": "node_105",
+            "target": "node_360",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_177",
+            "source": "node_106",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_270",
+            "source": "node_107",
+            "target": "node_270",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_273",
+            "source": "node_108",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_536",
+            "source": "node_109",
+            "target": "node_536",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_328",
+            "source": "node_110",
+            "target": "node_328",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_331",
+            "source": "node_111",
+            "target": "node_331",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_178",
+            "source": "node_116",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_406",
+            "source": "node_119",
+            "target": "node_406",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_778",
+            "source": "node_123",
+            "target": "node_778",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_504",
+            "source": "node_124",
+            "target": "node_504",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_430",
+            "source": "node_125",
+            "target": "node_430",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_427",
+            "source": "node_126",
+            "target": "node_427",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_504",
+            "source": "node_127",
+            "target": "node_504",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_95",
+            "source": "node_132",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_95",
+            "source": "node_134",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_95",
+            "source": "node_135",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_413",
+            "source": "node_136",
+            "target": "node_413",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_410",
+            "source": "node_137",
+            "target": "node_410",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_778",
+            "source": "node_144",
+            "target": "node_778",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_206",
+            "source": "node_151",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_205",
+            "source": "node_152",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_202",
+            "source": "node_153",
+            "target": "node_202",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_211",
+            "source": "node_159",
+            "target": "node_211",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_216",
+            "source": "node_160",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_781",
+            "source": "node_163",
+            "target": "node_781",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_391",
+            "source": "node_172",
+            "target": "node_391",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_35",
+            "source": "node_177",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_400",
+            "source": "node_178",
+            "target": "node_400",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_384",
+            "source": "node_179",
+            "target": "node_384",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_843",
+            "source": "node_183",
+            "target": "node_843",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_822",
+            "source": "node_184",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_220",
+            "source": "node_193",
+            "target": "node_220",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_245",
+            "source": "node_206",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_102",
+            "source": "node_207",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_102",
+            "source": "node_208",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_102",
+            "source": "node_209",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_102",
+            "source": "node_214",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_102",
+            "source": "node_219",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_227",
+            "source": "node_228",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_233",
+            "source": "node_238",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_822",
+            "source": "node_239",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_822",
+            "source": "node_241",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_216",
+            "source": "node_242",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e243_to_209",
+            "source": "node_243",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e256_to_101",
+            "source": "node_256",
+            "target": "node_101",
+            "type": "step"
+        },
+        {
+            "id": "e258_to_505",
+            "source": "node_258",
+            "target": "node_505",
+            "type": "step"
+        },
+        {
+            "id": "e259_to_4",
+            "source": "node_259",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_7",
+            "source": "node_260",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e261_to_12",
+            "source": "node_261",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e276_to_7",
+            "source": "node_276",
+            "target": "node_7",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_9",
+            "source": "node_278",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_541",
+            "source": "node_294",
+            "target": "node_541",
+            "type": "step"
+        },
+        {
+            "id": "e299_to_580",
+            "source": "node_299",
+            "target": "node_580",
+            "type": "step"
+        },
+        {
+            "id": "e309_to_538",
+            "source": "node_309",
+            "target": "node_538",
+            "type": "step"
+        },
+        {
+            "id": "e314_to_595",
+            "source": "node_314",
+            "target": "node_595",
+            "type": "step"
+        },
+        {
+            "id": "e319_to_595",
+            "source": "node_319",
+            "target": "node_595",
+            "type": "step"
+        },
+        {
+            "id": "e333_to_897",
+            "source": "node_333",
+            "target": "node_897",
+            "type": "step"
+        },
+        {
+            "id": "e334_to_176",
+            "source": "node_334",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e335_to_176",
+            "source": "node_335",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_176",
+            "source": "node_336",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e337_to_176",
+            "source": "node_337",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_605",
+            "source": "node_338",
+            "target": "node_605",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_605",
+            "source": "node_339",
+            "target": "node_605",
+            "type": "step"
+        },
+        {
+            "id": "e347_to_465",
+            "source": "node_347",
+            "target": "node_465",
+            "type": "step"
+        },
+        {
+            "id": "e348_to_31",
+            "source": "node_348",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e353_to_370",
+            "source": "node_353",
+            "target": "node_370",
+            "type": "step"
+        },
+        {
+            "id": "e358_to_370",
+            "source": "node_358",
+            "target": "node_370",
+            "type": "step"
+        },
+        {
+            "id": "e373_to_106",
+            "source": "node_373",
+            "target": "node_106",
+            "type": "step"
+        },
+        {
+            "id": "e374_to_781",
+            "source": "node_374",
+            "target": "node_781",
+            "type": "step"
+        },
+        {
+            "id": "e375_to_781",
+            "source": "node_375",
+            "target": "node_781",
+            "type": "step"
+        },
+        {
+            "id": "e376_to_163",
+            "source": "node_376",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e377_to_46",
+            "source": "node_377",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e378_to_46",
+            "source": "node_378",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e379_to_46",
+            "source": "node_379",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e380_to_165",
+            "source": "node_380",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e381_to_165",
+            "source": "node_381",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e382_to_165",
+            "source": "node_382",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e383_to_165",
+            "source": "node_383",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e384_to_165",
+            "source": "node_384",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e385_to_514",
+            "source": "node_385",
+            "target": "node_514",
+            "type": "step"
+        },
+        {
+            "id": "e388_to_181",
+            "source": "node_388",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e389_to_181",
+            "source": "node_389",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e390_to_181",
+            "source": "node_390",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e391_to_181",
+            "source": "node_391",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e392_to_181",
+            "source": "node_392",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e393_to_175",
+            "source": "node_393",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e394_to_175",
+            "source": "node_394",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e395_to_175",
+            "source": "node_395",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e396_to_175",
+            "source": "node_396",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e397_to_175",
+            "source": "node_397",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e404_to_136",
+            "source": "node_404",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e418_to_778",
+            "source": "node_418",
+            "target": "node_778",
+            "type": "step"
+        },
+        {
+            "id": "e421_to_778",
+            "source": "node_421",
+            "target": "node_778",
+            "type": "step"
+        },
+        {
+            "id": "e424_to_778",
+            "source": "node_424",
+            "target": "node_778",
+            "type": "step"
+        },
+        {
+            "id": "e425_to_504",
+            "source": "node_425",
+            "target": "node_504",
+            "type": "step"
+        },
+        {
+            "id": "e438_to_91",
+            "source": "node_438",
+            "target": "node_91",
+            "type": "step"
+        },
+        {
+            "id": "e456_to_95",
+            "source": "node_456",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e457_to_95",
+            "source": "node_457",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e458_to_95",
+            "source": "node_458",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e464_to_624",
+            "source": "node_464",
+            "target": "node_624",
+            "type": "step"
+        },
+        {
+            "id": "e465_to_31",
+            "source": "node_465",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e471_to_782",
+            "source": "node_471",
+            "target": "node_782",
+            "type": "step"
+        },
+        {
+            "id": "e472_to_798",
+            "source": "node_472",
+            "target": "node_798",
+            "type": "step"
+        },
+        {
+            "id": "e474_to_782",
+            "source": "node_474",
+            "target": "node_782",
+            "type": "step"
+        },
+        {
+            "id": "e475_to_782",
+            "source": "node_475",
+            "target": "node_782",
+            "type": "step"
+        },
+        {
+            "id": "e476_to_492",
+            "source": "node_476",
+            "target": "node_492",
+            "type": "step"
+        },
+        {
+            "id": "e477_to_491",
+            "source": "node_477",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e485_to_805",
+            "source": "node_485",
+            "target": "node_805",
+            "type": "step"
+        },
+        {
+            "id": "e486_to_807",
+            "source": "node_486",
+            "target": "node_807",
+            "type": "step"
+        },
+        {
+            "id": "e488_to_494",
+            "source": "node_488",
+            "target": "node_494",
+            "type": "step"
+        },
+        {
+            "id": "e489_to_784",
+            "source": "node_489",
+            "target": "node_784",
+            "type": "step"
+        },
+        {
+            "id": "e490_to_802",
+            "source": "node_490",
+            "target": "node_802",
+            "type": "step"
+        },
+        {
+            "id": "e491_to_479",
+            "source": "node_491",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e493_to_22",
+            "source": "node_493",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e494_to_783",
+            "source": "node_494",
+            "target": "node_783",
+            "type": "step"
+        },
+        {
+            "id": "e495_to_783",
+            "source": "node_495",
+            "target": "node_783",
+            "type": "step"
+        },
+        {
+            "id": "e504_to_146",
+            "source": "node_504",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e513_to_854",
+            "source": "node_513",
+            "target": "node_854",
+            "type": "step"
+        },
+        {
+            "id": "e514_to_165",
+            "source": "node_514",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e515_to_264",
+            "source": "node_515",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e516_to_524",
+            "source": "node_516",
+            "target": "node_524",
+            "type": "step"
+        },
+        {
+            "id": "e519_to_833",
+            "source": "node_519",
+            "target": "node_833",
+            "type": "step"
+        },
+        {
+            "id": "e520_to_264",
+            "source": "node_520",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e521_to_833",
+            "source": "node_521",
+            "target": "node_833",
+            "type": "step"
+        },
+        {
+            "id": "e522_to_264",
+            "source": "node_522",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e523_to_264",
+            "source": "node_523",
+            "target": "node_264",
+            "type": "step"
+        },
+        {
+            "id": "e524_to_833",
+            "source": "node_524",
+            "target": "node_833",
+            "type": "step"
+        },
+        {
+            "id": "e525_to_816",
+            "source": "node_525",
+            "target": "node_816",
+            "type": "step"
+        },
+        {
+            "id": "e528_to_839",
+            "source": "node_528",
+            "target": "node_839",
+            "type": "step"
+        },
+        {
+            "id": "e529_to_533",
+            "source": "node_529",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e530_to_837",
+            "source": "node_530",
+            "target": "node_837",
+            "type": "step"
+        },
+        {
+            "id": "e531_to_838",
+            "source": "node_531",
+            "target": "node_838",
+            "type": "step"
+        },
+        {
+            "id": "e532_to_515",
+            "source": "node_532",
+            "target": "node_515",
+            "type": "step"
+        },
+        {
+            "id": "e534_to_564",
+            "source": "node_534",
+            "target": "node_564",
+            "type": "step"
+        },
+        {
+            "id": "e537_to_338",
+            "source": "node_537",
+            "target": "node_338",
+            "type": "step"
+        },
+        {
+            "id": "e538_to_564",
+            "source": "node_538",
+            "target": "node_564",
+            "type": "step"
+        },
+        {
+            "id": "e539_to_901",
+            "source": "node_539",
+            "target": "node_901",
+            "type": "step"
+        },
+        {
+            "id": "e543_to_888",
+            "source": "node_543",
+            "target": "node_888",
+            "type": "step"
+        },
+        {
+            "id": "e550_to_578",
+            "source": "node_550",
+            "target": "node_578",
+            "type": "step"
+        },
+        {
+            "id": "e551_to_578",
+            "source": "node_551",
+            "target": "node_578",
+            "type": "step"
+        },
+        {
+            "id": "e555_to_887",
+            "source": "node_555",
+            "target": "node_887",
+            "type": "step"
+        },
+        {
+            "id": "e566_to_895",
+            "source": "node_566",
+            "target": "node_895",
+            "type": "step"
+        },
+        {
+            "id": "e572_to_595",
+            "source": "node_572",
+            "target": "node_595",
+            "type": "step"
+        },
+        {
+            "id": "e577_to_582",
+            "source": "node_577",
+            "target": "node_582",
+            "type": "step"
+        },
+        {
+            "id": "e581_to_595",
+            "source": "node_581",
+            "target": "node_595",
+            "type": "step"
+        },
+        {
+            "id": "e582_to_595",
+            "source": "node_582",
+            "target": "node_595",
+            "type": "step"
+        },
+        {
+            "id": "e583_to_901",
+            "source": "node_583",
+            "target": "node_901",
+            "type": "step"
+        },
+        {
+            "id": "e584_to_594",
+            "source": "node_584",
+            "target": "node_594",
+            "type": "step"
+        },
+        {
+            "id": "e585_to_588",
+            "source": "node_585",
+            "target": "node_588",
+            "type": "step"
+        },
+        {
+            "id": "e587_to_535",
+            "source": "node_587",
+            "target": "node_535",
+            "type": "step"
+        },
+        {
+            "id": "e591_to_896",
+            "source": "node_591",
+            "target": "node_896",
+            "type": "step"
+        },
+        {
+            "id": "e592_to_587",
+            "source": "node_592",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e593_to_587",
+            "source": "node_593",
+            "target": "node_587",
+            "type": "step"
+        },
+        {
+            "id": "e597_to_111",
+            "source": "node_597",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e602_to_176",
+            "source": "node_602",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e603_to_339",
+            "source": "node_603",
+            "target": "node_339",
+            "type": "step"
+        },
+        {
+            "id": "e611_to_176",
+            "source": "node_611",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e612_to_638",
+            "source": "node_612",
+            "target": "node_638",
+            "type": "step"
+        },
+        {
+            "id": "e613_to_638",
+            "source": "node_613",
+            "target": "node_638",
+            "type": "step"
+        },
+        {
+            "id": "e631_to_653",
+            "source": "node_631",
+            "target": "node_653",
+            "type": "step"
+        },
+        {
+            "id": "e636_to_653",
+            "source": "node_636",
+            "target": "node_653",
+            "type": "step"
+        },
+        {
+            "id": "e641_to_653",
+            "source": "node_641",
+            "target": "node_653",
+            "type": "step"
+        },
+        {
+            "id": "e646_to_649",
+            "source": "node_646",
+            "target": "node_649",
+            "type": "step"
+        },
+        {
+            "id": "e648_to_650",
+            "source": "node_648",
+            "target": "node_650",
+            "type": "step"
+        },
+        {
+            "id": "e651_to_22",
+            "source": "node_651",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e660_to_661",
+            "source": "node_660",
+            "target": "node_661",
+            "type": "step"
+        },
+        {
+            "id": "e661_to_857",
+            "source": "node_661",
+            "target": "node_857",
+            "type": "step"
+        },
+        {
+            "id": "e662_to_676",
+            "source": "node_662",
+            "target": "node_676",
+            "type": "step"
+        },
+        {
+            "id": "e663_to_764",
+            "source": "node_663",
+            "target": "node_764",
+            "type": "step"
+        },
+        {
+            "id": "e670_to_673",
+            "source": "node_670",
+            "target": "node_673",
+            "type": "step"
+        },
+        {
+            "id": "e671_to_723",
+            "source": "node_671",
+            "target": "node_723",
+            "type": "step"
+        },
+        {
+            "id": "e672_to_728",
+            "source": "node_672",
+            "target": "node_728",
+            "type": "step"
+        },
+        {
+            "id": "e673_to_728",
+            "source": "node_673",
+            "target": "node_728",
+            "type": "step"
+        },
+        {
+            "id": "e674_to_699",
+            "source": "node_674",
+            "target": "node_699",
+            "type": "step"
+        },
+        {
+            "id": "e679_to_757",
+            "source": "node_679",
+            "target": "node_757",
+            "type": "step"
+        },
+        {
+            "id": "e685_to_862",
+            "source": "node_685",
+            "target": "node_862",
+            "type": "step"
+        },
+        {
+            "id": "e686_to_874",
+            "source": "node_686",
+            "target": "node_874",
+            "type": "step"
+        },
+        {
+            "id": "e687_to_869",
+            "source": "node_687",
+            "target": "node_869",
+            "type": "step"
+        },
+        {
+            "id": "e689_to_704",
+            "source": "node_689",
+            "target": "node_704",
+            "type": "step"
+        },
+        {
+            "id": "e693_to_690",
+            "source": "node_693",
+            "target": "node_690",
+            "type": "step"
+        },
+        {
+            "id": "e701_to_703",
+            "source": "node_701",
+            "target": "node_703",
+            "type": "step"
+        },
+        {
+            "id": "e702_to_711",
+            "source": "node_702",
+            "target": "node_711",
+            "type": "step"
+        },
+        {
+            "id": "e707_to_711",
+            "source": "node_707",
+            "target": "node_711",
+            "type": "step"
+        },
+        {
+            "id": "e714_to_22",
+            "source": "node_714",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e721_to_714",
+            "source": "node_721",
+            "target": "node_714",
+            "type": "step"
+        },
+        {
+            "id": "e726_to_733",
+            "source": "node_726",
+            "target": "node_733",
+            "type": "step"
+        },
+        {
+            "id": "e731_to_733",
+            "source": "node_731",
+            "target": "node_733",
+            "type": "step"
+        },
+        {
+            "id": "e732_to_741",
+            "source": "node_732",
+            "target": "node_741",
+            "type": "step"
+        },
+        {
+            "id": "e733_to_736",
+            "source": "node_733",
+            "target": "node_736",
+            "type": "step"
+        },
+        {
+            "id": "e739_to_747",
+            "source": "node_739",
+            "target": "node_747",
+            "type": "step"
+        },
+        {
+            "id": "e744_to_747",
+            "source": "node_744",
+            "target": "node_747",
+            "type": "step"
+        },
+        {
+            "id": "e749_to_750",
+            "source": "node_749",
+            "target": "node_750",
+            "type": "step"
+        },
+        {
+            "id": "e750_to_755",
+            "source": "node_750",
+            "target": "node_755",
+            "type": "step"
+        },
+        {
+            "id": "e752_to_862",
+            "source": "node_752",
+            "target": "node_862",
+            "type": "step"
+        },
+        {
+            "id": "e753_to_862",
+            "source": "node_753",
+            "target": "node_862",
+            "type": "step"
+        },
+        {
+            "id": "e754_to_862",
+            "source": "node_754",
+            "target": "node_862",
+            "type": "step"
+        },
+        {
+            "id": "e755_to_862",
+            "source": "node_755",
+            "target": "node_862",
+            "type": "step"
+        },
+        {
+            "id": "e756_to_759",
+            "source": "node_756",
+            "target": "node_759",
+            "type": "step"
+        },
+        {
+            "id": "e757_to_756",
+            "source": "node_757",
+            "target": "node_756",
+            "type": "step"
+        },
+        {
+            "id": "e762_to_862",
+            "source": "node_762",
+            "target": "node_862",
+            "type": "step"
+        },
+        {
+            "id": "e766_to_859",
+            "source": "node_766",
+            "target": "node_859",
+            "type": "step"
+        },
+        {
+            "id": "e767_to_747",
+            "source": "node_767",
+            "target": "node_747",
+            "type": "step"
+        },
+        {
+            "id": "e776_to_855",
+            "source": "node_776",
+            "target": "node_855",
+            "type": "step"
+        },
+        {
+            "id": "e780_to_125",
+            "source": "node_780",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e781_to_54",
+            "source": "node_781",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e782_to_472",
+            "source": "node_782",
+            "target": "node_472",
+            "type": "step"
+        },
+        {
+            "id": "e783_to_905",
+            "source": "node_783",
+            "target": "node_905",
+            "type": "step"
+        },
+        {
+            "id": "e784_to_905",
+            "source": "node_784",
+            "target": "node_905",
+            "type": "step"
+        },
+        {
+            "id": "e788_to_476",
+            "source": "node_788",
+            "target": "node_476",
+            "type": "step"
+        },
+        {
+            "id": "e789_to_479",
+            "source": "node_789",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e796_to_477",
+            "source": "node_796",
+            "target": "node_477",
+            "type": "step"
+        },
+        {
+            "id": "e797_to_491",
+            "source": "node_797",
+            "target": "node_491",
+            "type": "step"
+        },
+        {
+            "id": "e801_to_479",
+            "source": "node_801",
+            "target": "node_479",
+            "type": "step"
+        },
+        {
+            "id": "e802_to_486",
+            "source": "node_802",
+            "target": "node_486",
+            "type": "step"
+        },
+        {
+            "id": "e804_to_905",
+            "source": "node_804",
+            "target": "node_905",
+            "type": "step"
+        },
+        {
+            "id": "e805_to_486",
+            "source": "node_805",
+            "target": "node_486",
+            "type": "step"
+        },
+        {
+            "id": "e812_to_487",
+            "source": "node_812",
+            "target": "node_487",
+            "type": "step"
+        },
+        {
+            "id": "e813_to_495",
+            "source": "node_813",
+            "target": "node_495",
+            "type": "step"
+        },
+        {
+            "id": "e815_to_525",
+            "source": "node_815",
+            "target": "node_525",
+            "type": "step"
+        },
+        {
+            "id": "e822_to_2",
+            "source": "node_822",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e829_to_832",
+            "source": "node_829",
+            "target": "node_832",
+            "type": "step"
+        },
+        {
+            "id": "e835_to_515",
+            "source": "node_835",
+            "target": "node_515",
+            "type": "step"
+        },
+        {
+            "id": "e836_to_515",
+            "source": "node_836",
+            "target": "node_515",
+            "type": "step"
+        },
+        {
+            "id": "e837_to_533",
+            "source": "node_837",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e838_to_533",
+            "source": "node_838",
+            "target": "node_533",
+            "type": "step"
+        },
+        {
+            "id": "e849_to_221",
+            "source": "node_849",
+            "target": "node_221",
+            "type": "step"
+        },
+        {
+            "id": "e852_to_822",
+            "source": "node_852",
+            "target": "node_822",
+            "type": "step"
+        },
+        {
+            "id": "e853_to_16",
+            "source": "node_853",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e854_to_16",
+            "source": "node_854",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e855_to_504",
+            "source": "node_855",
+            "target": "node_504",
+            "type": "step"
+        },
+        {
+            "id": "e856_to_668",
+            "source": "node_856",
+            "target": "node_668",
+            "type": "step"
+        },
+        {
+            "id": "e857_to_668",
+            "source": "node_857",
+            "target": "node_668",
+            "type": "step"
+        },
+        {
+            "id": "e858_to_763",
+            "source": "node_858",
+            "target": "node_763",
+            "type": "step"
+        },
+        {
+            "id": "e859_to_767",
+            "source": "node_859",
+            "target": "node_767",
+            "type": "step"
+        },
+        {
+            "id": "e867_to_868",
+            "source": "node_867",
+            "target": "node_868",
+            "type": "step"
+        },
+        {
+            "id": "e871_to_873",
+            "source": "node_871",
+            "target": "node_873",
+            "type": "step"
+        },
+        {
+            "id": "e873_to_715",
+            "source": "node_873",
+            "target": "node_715",
+            "type": "step"
+        },
+        {
+            "id": "e886_to_496",
+            "source": "node_886",
+            "target": "node_496",
+            "type": "step"
+        },
+        {
+            "id": "e887_to_306",
+            "source": "node_887",
+            "target": "node_306",
+            "type": "step"
+        },
+        {
+            "id": "e892_to_550",
+            "source": "node_892",
+            "target": "node_550",
+            "type": "step"
+        },
+        {
+            "id": "e893_to_551",
+            "source": "node_893",
+            "target": "node_551",
+            "type": "step"
+        },
+        {
+            "id": "e894_to_316",
+            "source": "node_894",
+            "target": "node_316",
+            "type": "step"
+        },
+        {
+            "id": "e895_to_321",
+            "source": "node_895",
+            "target": "node_321",
+            "type": "step"
+        },
+        {
+            "id": "e899_to_900",
+            "source": "node_899",
+            "target": "node_900",
+            "type": "step"
+        },
+        {
+            "id": "e909_to_910",
+            "source": "node_909",
+            "target": "node_910",
+            "type": "step"
+        }
+    ]
+}

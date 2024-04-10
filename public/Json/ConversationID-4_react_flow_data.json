@@ -1,0 +1,3848 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe door swung open and Lucian Galade, my chief strategist, walked in. He was a compact man with sharp, birdlike features. After briefly surveying the room from wall to wall, he sat down, poured a glass of water and opened his briefcase in a series of quick, graceful movements."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr Vectern arrived a couple of minutes early and sat across from me. He was struggling to hold back his smile."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“But, hey, back in university, did you ever imagine we would be sitting here in the Maroon Palace? We have to celebrate this great victory.”"
+            },
+            "position": {
+                "x": 0,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“This is not the time to celebrate, Petr. We have work to do.”"
+            },
+            "position": {
+                "x": 26460,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We will celebrate at the inaugural ball. Just hang in there until the evening.”"
+            },
+            "position": {
+                "x": 26460,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Let's celebrate then. I got my hands on something special for us. An Erlory Maroon 30-year-old.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Looking forward to it. Evelyn hopes to congratulate you in person there.”"
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Good to know. It's been some time since the last time I saw her.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I'm sure the kids would love to see their Uncle Petr for the first time as the Vice President.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_12",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“That is great to hear! It's crazy how fast the two have grown up. You are a good father.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr had a wistful look in his eyes. He and Evelyn had never been able to have kids of their own. During our campaign, the opposition had floated the rumor that he'd fathered illegitimate children during his wilder years, but it had never been substantiated."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_14",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Yes... I agree. We've got things to do today. We can let loose at the ball.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_15",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Gentlemen.”"
+            },
+            "position": {
+                "x": 26460,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We mostly see eye to eye, but I would want to know what you think.”"
+            },
+            "position": {
+                "x": 26460,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Great. Let's go over this when Lucian arrives.”"
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe tall-case clock in the room struck three o'clock."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_21",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Hello, Petr.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“Damn. You are exactly on time.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian then turned towards me. He very slightly bowed his head."
+            },
+            "position": {
+                "x": 2430,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Another important point. We must be aware of the Lotherberg Group. The Oligarchs convene under this organization to influence economic policies. Konrath led it for a long time before falling ill. The new leader is Mr. Walter Tusk.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“As far as I know, Marcel Koronti has some strong ties to this group. His influence could definitely be an asset for us. But I'm sure he'll want something in return.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I am aware of Mr. Koronti's wide network. That could come in handy.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_27",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The Group's influence is an important force. One that we should use to our administration's advantage.”"
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“That group is dependent on our economic policies. They can't move a finger without us.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“I wouldn't be so optimistic. The capital they represent could do a lot of damage if it was diverted.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian took notes."
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We'll see each other at the ball, then.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I hope things are looking good.”"
+            },
+            "position": {
+                "x": 26460,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“According to reports, some members of the National Business Council are in their pockets. Tusk and the Group will surely try to bribe us in exchange for special economic protections.”"
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian looked at Petr."
+            },
+            "position": {
+                "x": 21600,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“If we can get them to side with us. It all depends on what benefits we can offer and what the leader wants.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We just need to be careful with him. He looks like the lesser evil, but it could very quickly turn out to be the other way around.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“This concludes our political briefing for today. Our next meeting will be about our media strategy.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian and Petr bid their farewells and left. A mysterious amount of smoke was rising far away on the horizon."
+            },
+            "position": {
+                "x": 29700,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Let's start by evaluating our current situation.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“It may create issues for us, yes.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“However, with the reformists gaining more popularity, we may not be in a position to stand against them.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The majority of the Sordish people demand change. They are more concerned about the economy than the Constitution, but they blame the system for their problems.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“It will not be easy.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"People are losing their trust in our democracy. Why do you think radicals like Bernard Circas are becoming more popular? Everyone's expecting us to bring the change the last government did not.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I agree with the reformists. Our responsibility is to democratize our broken system.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We need to listen to the people if we want to serve this country.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“We will need many allies against the Old Guard in the government.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“If we lose power, we won't be able to execute the changes we need to make for the good of the country.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"That's exactly what we campaigned for. A true change that will move the country forward.\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_57",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Lucian. How are you?”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Glad to see you, Lucian.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“It is a privilege to be here, sir.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I am ready and able, sir.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“As you wish, sir.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_63",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“A comprehensive reform that would make the reformists happy would mean maintaining a balance between all branches of government.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I agree. The Old Guard won't like this, though.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_65",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"We need to work with the Supreme Court one way or the other.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Which means removing your absolute veto as well. The reformists demand that all loopholes in the Constitution are closed.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We'll need a comprehensive bill to balance the power structure more fairly.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_68",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The Old Guard will do its best to preserve the Constitution. Chief Justice Hawker and his allied judges have a great influence over the Supreme Court, which will be tough to break.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Mr. Ricter managed to persuade many members of Assembly to give their support for drafting a new Constitution. Reformist politicians are quickly increasing in number.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“While the reformist wing inside our party is still a minority, they could have a tri-partisan majority in the assembly, especially if they unite under Frens Ricter.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I agree. They have too much power over Sordish politics.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We must break the power of the Supreme Court one way or another.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"The reformists' demands are clear. They want to limit the President's veto powers, ensure that the Supreme Court is independent and take away the Court's right to vote on constitutional amendments.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I support the reformists. We need a proper balance of power in this country.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I'd rather not go against them. The risks are too high.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I agree, sir.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_78",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“True. But we can't let the Old Guard manipulate us and then backstab us, like they did with Alphonso.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We must listen to their demands. Otherwise we are no different than the previous administrations.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I won't allow them to influence me. We will shape our own future.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"We need to take away their vote in constitutional legislation. It is absurd that they get to vote for bills when they aren't even elected.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_82",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I agree. We can't ignore the winds of change, after all.\""
+            },
+            "position": {
+                "x": 9450,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We can figure it out. Our party still holds 130 out of 250 seats in the Assembly. We've got the power.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We cannot allow obstructionists to exist.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Looks like we have many challenges ahead.”"
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_86",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We can't underestimate this situation.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We will write a more democratic Constitution with the reformists.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The new Constitution should give the President wide-ranging powers to lead Sordland into the future.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_89",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We could work with the Old Guard to protect our existing extensive powers.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How can we come out of this in the best shape?\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_94",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"That's what we've been preparing for internally. Don't forget that promise is what got us elected.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What do you suggest we do, then?\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_97",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"It will be tough to persuade our base if we work with Ricter and his band of reformists. But everyone agrees we need a new Constitution.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_98",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Cut it out, you two. Are you with me or not?\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_99",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“That will not be accepted by the reformists. This draft has been created with the advice of both our party and PFJP members.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 2400
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"That's very bold. Then we must start with eliminating the Supreme Court's authority over constitutional legislation and perhaps take their immunity away.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 2600
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“You would also be burning bridges with the Reformists and the Old Guard.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Don't forget the reformists want us to address the loopholes in the presidential veto system.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"You must remember that we promised people a democratic Constitution during the elections.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"How? You know the public wants us to enact extensive reforms. And how do we know if the Old Guard would support you?\""
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian opened his dossier."
+            },
+            "position": {
+                "x": 13230,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"If we go against the demands of the people, the reformists will be furious. It could backfire.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What do you suggest we do?\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I don't think you should take the risk, Mr. President.\""
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You might be right.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Only a strong administration can make Sordland great.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I will not limit my veto powers. We need them.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Very well. We will begin to explore how to realistically pass such a constitutional change.\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“They can remain. Some reform is better than none.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_117",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“As you wish. We will move forward on that.\""
+            },
+            "position": {
+                "x": 15120,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_118",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Of course, it will be looked at in detail.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_119",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"That is true, but if we don't evolve we might become part of the problem.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_120",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"However, I must stress that I am not for this.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Yes, sir.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 2800
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Second, the President's absolute veto will be taken away. This can be replaced with a limited veto system by fixing the current loopholes.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We must draft a bill to destroy the power of the judiciary.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 2200
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Taking away the legislative power of the Supreme Court while holding your own absolute authority over legislation would look like an attempt to consolidate your own power.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Yes. The divisions of power need to be rebalanced for a better Sordland.\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Fair enough. Let's work with the reformists.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_127",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We can handle it, just like the previous governments did.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“True, we can't do it. It is too dangerous.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_129",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We must draft a bill with more executive powers.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_130",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"It is not a risk worth taking, Mr. President.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Then I don't intend to pursue constitutional change. We will reach out to the Old Guard.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"It will be a dangerous path to follow.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 4200
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I can handle them. It will be done under the Rayne administration.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Why would you want to work with the Old Guard?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Without the Sollists' support, we have no power.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Keeping your absolute veto over legislation but taking away the Supreme Court's influence over the Assembly would make it look like a power grab.\""
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I need to maintain my powers.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 2800
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"The state is powerful as is. The question is how to approach these constitutional amendments and if it's realistic to pull off.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"You're talking about going against the reformists and public opinion all at once.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Mr. Vice President has a point.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 2000
+            }
+        },
+        {
+            "id": "node_143",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"I understand. We do not have to remove your veto. Instead, we can discuss limiting it with the reformists.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 2200
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"I don't know if we can survive that politically.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 4000
+            }
+        },
+        {
+            "id": "node_145",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What do you suggest we do then? Maybe I can reconsider working with the reformists.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_146",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. This is not happening. I'd rather not include either of these points.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I want to minimize the damage to my seat.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 2400
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I have no problems with these clauses. Let's work with the reformists.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 3800
+            }
+        },
+        {
+            "id": "node_149",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The President needs to be able to exercise his powers with ease to maintain stability.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We must strengthen the state by removing the power of the Old Guard.\""
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The real problem is the judiciary's power, not the president's.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Yes. Of course I'm with you.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We need to address other more important problems, too.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 3400
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What is the best outcome for us then?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 3200
+            }
+        },
+        {
+            "id": "node_155",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"If you are serious about this, I will explore the options for you, Mr. President.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“To clarify before we head in any particular direction, what are your intentions, sir?\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 2600
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The public might be persuaded, but the reformists in the Assembly are not going to fall for that.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 3600
+            }
+        },
+        {
+            "id": "node_158",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“They would try to paint you as yet another strongman trying to grab more power for himself.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What do you suggest, Lucian?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"It would be quite difficult to secure the 166 votes needed to propose such a bill.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“What about you, Petr?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"It will be very difficult to plead that case to the reformists.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 3000
+            }
+        },
+        {
+            "id": "node_166",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Anton, we got elected by promising democratic reforms.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“That would be tough, sir. But I trust your judgement.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"We would lose all reformist support.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"That does include strengthening the Assembly by giving them a chance to override vetoes, as well as ensuring that the judiciary is independent.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We don't need the reformists. We can always work with the NFP.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“As you wish. We will move forward on that.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We can package it as a *democratic* reform.”"
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“However, most people will not be persuaded by that. It would be tough to reach the 166 votes needed to propose such a bill.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You're right. Let's work with the reformists.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_175",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“No matter what you say, I intend to come out of this stronger as the President.”"
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_176",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n\"Well... Let's see what we can do about it.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I somewhat agree with you, sir.\""
+            },
+            "position": {
+                "x": 13230,
+                "y": 3600
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"What everyone's expecting is a rebalance of power between the executive, legislative and judiciary branches.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Of course. We'll have time to discuss everything you want.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_180",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“If it must be done, I will do it.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 3400
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"The reformists are pretty loud about their thoughts on the presidential powers, Anton. You know they think this position breeds dictators.\""
+            },
+            "position": {
+                "x": 15660,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Can't we avoid strengthening the Assembly?\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 3000
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“According to the initial draft we made with the reformists, there are two changes to the Constitution that are not open for their discussion.\""
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_184",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I see that. But we will move towards this direction for now.\""
+            },
+            "position": {
+                "x": 22410,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_185",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I don't care what they think. We can handle them.\""
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“First, the Supreme Court will no longer vote on constitutional amendments.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The entire process will take a long time. But we must start working with a reform committee to evaluate all possibilities for a new Constitution as soon as possible.”"
+            },
+            "position": {
+                "x": 22410,
+                "y": 2000
+            }
+        },
+        {
+            "id": "node_191",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“We will form a reform committee together with all parties and start reaching out to all the stakeholders in the Assembly and the Court for a new Constitution.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“We will form a reform committee and start talking with all stakeholders in the Assembly and the Court to see if such changes to the Constitution would be possible.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_193",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Let us at least work with a reform committee to start talking with all stakeholders in the Assembly and the Court just to query opinions. I'll try to reach out to the Old Guard, in the meantime.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_194",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"By later in the year, we should have an idea of the reform contents and what the other parties want.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_195",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"By later in the year, we should know more about the reform contents and how to balance the clauses of the new Constitution.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_196",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"By later in the year, we should have an idea about the reform contents and what the other parties want. Then we can decide whether to pull the trigger.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_197",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Our party must fall in line with our position. We can't have a strong divide.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The USP reformists aren't wrong to agree that we need change, but we should be in charge.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"We can't let the PFJP leadership take the spotlight on this.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"True. If our party fractures, it's the opposition that will benefit.\""
+            },
+            "position": {
+                "x": 24030,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Mr. Ricter could be a potential ally in our goal to maintain a majority in the Assembly.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_202",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“He's definitely key in this.\""
+            },
+            "position": {
+                "x": 24300,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr looked troubled."
+            },
+            "position": {
+                "x": 24300,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_204",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian raised an eyebrow."
+            },
+            "position": {
+                "x": 22680,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian nodded."
+            },
+            "position": {
+                "x": 13230,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr nodded in agreement."
+            },
+            "position": {
+                "x": 21600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr shook his head."
+            },
+            "position": {
+                "x": 11610,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_208",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian scratched his head."
+            },
+            "position": {
+                "x": 13230,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_209",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I won't be bought, it won't happen.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 3800
+            }
+        },
+        {
+            "id": "node_210",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I will enter a dialogue with them eventually. We need to be diplomatic.”"
+            },
+            "position": {
+                "x": 24570,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_211",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“However, to reform the constitution we must receive a two-thirds majority in the Grand National Assembly, which is 166 votes. *And* a simple majority in the Supreme Court that equates to 6 votes.”"
+            },
+            "position": {
+                "x": 24840,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_212",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“After we have settled on how to proceed, we will need to talk with our party figures. Our first goal must be to get the 150 signatures needed to start the process.”"
+            },
+            "position": {
+                "x": 8370,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Of course.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 1400
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian looked at his watch."
+            },
+            "position": {
+                "x": 18360,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Well then, gentlemen. Precisely 30 minutes.”"
+            },
+            "position": {
+                "x": 29700,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_216",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Talk to you soon, sir. I will keep in touch.”"
+            },
+            "position": {
+                "x": 29700,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“See you both at the next meeting.”"
+            },
+            "position": {
+                "x": 29700,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“True. But we can't let the Old Guard manipulate us and then backstab us, like we did with Alphonso.\""
+            },
+            "position": {
+                "x": 25380,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_222",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Arrives For Political Overview\n\nLucian Arrives For Political Overview"
+            },
+            "position": {
+                "x": 25650,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Frens Ricter, leader of the reformists, believes that true change can only be accomplished by transferring some of our powers to the Assembly. I will move into the details of their demands shortly.\""
+            },
+            "position": {
+                "x": 25920,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We did it Anton, we won! Finally! All those years with our noses to the grindstone paid off.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 2000
+            }
+        },
+        {
+            "id": "node_244",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Following the greenlight from the USP, we will reach out to the other party leaders to see if they would back our draft. The last step is to convince the justices of the Court.”"
+            },
+            "position": {
+                "x": 13230,
+                "y": 3200
+            }
+        },
+        {
+            "id": "node_245",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr's eyes sparkled. The strain of the past months had put a damper on his usual rakish charm, but today he was looking and acting more like his old self. He loosened his tie and undid the top two buttons of his shirt."
+            },
+            "position": {
+                "x": 8370,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"Enjoying the new secretary I picked out for you? Thought you'd appreciate her gorgeous set of... talents. It's a shame the rest of your staff aren't as easy on the eyes.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_247",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe gestured to the slight paunch that protruded over his waistband."
+            },
+            "position": {
+                "x": 26460,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_248",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLucian spoke in soft, clipped tones that immediately drew your attention towards what he had to say. Petr and I waited for him to proceed."
+            },
+            "position": {
+                "x": 26460,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_249",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We did it Anton, we won! Finally! The bribery, the backstabbing -- it's all paid off.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 1200
+            }
+        },
+        {
+            "id": "node_250",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“We did it Anton, we won! Finally! All those games we played with the media paid off.\""
+            },
+            "position": {
+                "x": 26730,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_260",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Our election campaign promised to focus on the military. This was a safe choice. The military and the general staff are a powerful element in the state, and as history tells us, a dangerous one too.”"
+            },
+            "position": {
+                "x": 27000,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_261",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“The military and the general staff are a powerful element in the state, and as history tells us, a dangerous one too. We do have some room to make structural changes -- by reducing their budget, for example. But it is quite limited."
+            },
+            "position": {
+                "x": 27270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_262",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I want to work with them anyway. The new administration will be open to talk to businessmen.”"
+            },
+            "position": {
+                "x": 27000,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_263",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The military can be close allies. And with the Rumburg threat on the horizon, we need them.”"
+            },
+            "position": {
+                "x": 27540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_264",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The Sordish Armed Forces represent our pride as a nation and will be funded as promised.”"
+            },
+            "position": {
+                "x": 27810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_265",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“With the Rumburg threat on the horizon, we can't reduce our defense capability and anger our General Staff.”"
+            },
+            "position": {
+                "x": 28080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_266",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The military has been nothing but a burden on our society. We should do something drastic -- like cutting their funding.”"
+            },
+            "position": {
+                "x": 28350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_268",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Rumburg is a massive threat. One that also requires us to ally with other, stronger nations.”"
+            },
+            "position": {
+                "x": 29700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_269",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“That will ensure they will be on our side unless we do something drastic in the course of our term.”"
+            },
+            "position": {
+                "x": 27810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_270",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“I would advise the same. The budget should be maintained and we should refrain from confronting the military too directly.”"
+            },
+            "position": {
+                "x": 28080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_271",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“That is possible, but we can be sure that there will be a strong negative reaction. If we push the military too far, it could cause real trouble.”"
+            },
+            "position": {
+                "x": 28350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_273",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“If we act strongly against the military, both of those guys will unite against us. I agree with Lucian. We need to tread carefully here.\""
+            },
+            "position": {
+                "x": 29700,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_274",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Defense Minister Iosef Lancea is more loyal to us compared to General Kruger. A fact that obviously can change with our actions. Either way, I see a potential rift between the two since they are clearly of different minds.”"
+            },
+            "position": {
+                "x": 29700,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_275",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“None of us want to live through the 1927 scenario again.”"
+            },
+            "position": {
+                "x": 29700,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_276",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I don't want to die in prison just like Artor S. Wisci did.”"
+            },
+            "position": {
+                "x": 29160,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“It is sound to listen to them but they have very biased and narrow opinions. Nationalism clouds their minds. General Kruger is a specter of the past.”"
+            },
+            "position": {
+                "x": 29160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I want to receive the advice of the military before making up my mind.”"
+            },
+            "position": {
+                "x": 29430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“We won't let these privileged, greedy, and snobby capitalists run the country.”"
+            },
+            "position": {
+                "x": 29700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_283",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“It's always easier for the administration to have businesses' support.”"
+            },
+            "position": {
+                "x": 21600,
+                "y": 1600
+            }
+        },
+        {
+            "id": "node_284",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Alphonso said the same thing. I doubt there was anybody else to turn to in his case.”"
+            },
+            "position": {
+                "x": 27540,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_285",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Wise approach. It's good to understand and see if we can reach a middle ground.”"
+            },
+            "position": {
+                "x": 24570,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_286",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Let's not underestimate their influence. These are not harmless people either.”"
+            },
+            "position": {
+                "x": 24840,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_287",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“He'd be a useful ally as well. Tusk has an incredible network and owns a good amount of Bergia Steel.”"
+            },
+            "position": {
+                "x": 21600,
+                "y": 1800
+            }
+        },
+        {
+            "id": "node_288",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Tusk is heading the group. We should make sure he is on our side.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_289",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr looked troubled."
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That's exactly what I'm aiming to do.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 600
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_4",
+            "source": "node_1",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_16",
+            "source": "node_3",
+            "target": "node_16",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_231",
+            "source": "node_4",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_6",
+            "source": "node_5",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_15",
+            "source": "node_6",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e7_to_9",
+            "source": "node_7",
+            "target": "node_9",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_293",
+            "source": "node_8",
+            "target": "node_293",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_32",
+            "source": "node_9",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_12",
+            "source": "node_10",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e12_to_14",
+            "source": "node_12",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_14",
+            "source": "node_13",
+            "target": "node_14",
+            "type": "step"
+        },
+        {
+            "id": "e14_to_225",
+            "source": "node_14",
+            "target": "node_225",
+            "type": "step"
+        },
+        {
+            "id": "e15_to_34",
+            "source": "node_15",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_18",
+            "source": "node_17",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_224",
+            "source": "node_19",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_224",
+            "source": "node_20",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e21_to_23",
+            "source": "node_21",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_24",
+            "source": "node_22",
+            "target": "node_24",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_22",
+            "source": "node_23",
+            "target": "node_22",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_60",
+            "source": "node_24",
+            "target": "node_60",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_36",
+            "source": "node_25",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_289",
+            "source": "node_26",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e27_to_40",
+            "source": "node_27",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_39",
+            "source": "node_28",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_30",
+            "source": "node_29",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_41",
+            "source": "node_30",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_25",
+            "source": "node_31",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_17",
+            "source": "node_34",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_224",
+            "source": "node_35",
+            "target": "node_224",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_283",
+            "source": "node_36",
+            "target": "node_283",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_292",
+            "source": "node_38",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_41",
+            "source": "node_39",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_258",
+            "source": "node_41",
+            "target": "node_258",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_217",
+            "source": "node_42",
+            "target": "node_217",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_232",
+            "source": "node_43",
+            "target": "node_232",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_47",
+            "source": "node_44",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_46",
+            "source": "node_45",
+            "target": "node_46",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_70",
+            "source": "node_46",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_49",
+            "source": "node_47",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_52",
+            "source": "node_48",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_227",
+            "source": "node_49",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_233",
+            "source": "node_50",
+            "target": "node_233",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_54",
+            "source": "node_51",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_70",
+            "source": "node_52",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_48",
+            "source": "node_56",
+            "target": "node_48",
+            "type": "step"
+        },
+        {
+            "id": "e57_to_52",
+            "source": "node_57",
+            "target": "node_52",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_62",
+            "source": "node_58",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_63",
+            "source": "node_60",
+            "target": "node_63",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_249",
+            "source": "node_61",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_249",
+            "source": "node_62",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e63_to_249",
+            "source": "node_63",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_67",
+            "source": "node_64",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e65_to_64",
+            "source": "node_65",
+            "target": "node_64",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_219",
+            "source": "node_66",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_87",
+            "source": "node_67",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e68_to_65",
+            "source": "node_68",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_71",
+            "source": "node_69",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_77",
+            "source": "node_71",
+            "target": "node_77",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_198",
+            "source": "node_72",
+            "target": "node_198",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_82",
+            "source": "node_73",
+            "target": "node_82",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_73",
+            "source": "node_74",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_81",
+            "source": "node_75",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_83",
+            "source": "node_76",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_66",
+            "source": "node_77",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e78_to_69",
+            "source": "node_78",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_87",
+            "source": "node_79",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_83",
+            "source": "node_80",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_78",
+            "source": "node_81",
+            "target": "node_78",
+            "type": "step"
+        },
+        {
+            "id": "e82_to_87",
+            "source": "node_82",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_69",
+            "source": "node_83",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_212",
+            "source": "node_84",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_84",
+            "source": "node_85",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e86_to_84",
+            "source": "node_86",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_84",
+            "source": "node_87",
+            "target": "node_84",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_234",
+            "source": "node_88",
+            "target": "node_234",
+            "type": "step"
+        },
+        {
+            "id": "e89_to_235",
+            "source": "node_89",
+            "target": "node_235",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_98",
+            "source": "node_93",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e94_to_184",
+            "source": "node_94",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_207",
+            "source": "node_96",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e97_to_184",
+            "source": "node_97",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e98_to_96",
+            "source": "node_98",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e99_to_156",
+            "source": "node_99",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_138",
+            "source": "node_100",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_103",
+            "source": "node_101",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_146",
+            "source": "node_102",
+            "target": "node_146",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_108",
+            "source": "node_106",
+            "target": "node_108",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_205",
+            "source": "node_107",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_205",
+            "source": "node_108",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_187",
+            "source": "node_109",
+            "target": "node_187",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_128",
+            "source": "node_110",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_184",
+            "source": "node_111",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_94",
+            "source": "node_112",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_112",
+            "source": "node_113",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_120",
+            "source": "node_114",
+            "target": "node_120",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_204",
+            "source": "node_115",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_190",
+            "source": "node_116",
+            "target": "node_190",
+            "type": "step"
+        },
+        {
+            "id": "e117_to_204",
+            "source": "node_117",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e118_to_206",
+            "source": "node_118",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e119_to_179",
+            "source": "node_119",
+            "target": "node_179",
+            "type": "step"
+        },
+        {
+            "id": "e120_to_142",
+            "source": "node_120",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_162",
+            "source": "node_121",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_206",
+            "source": "node_122",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_147",
+            "source": "node_123",
+            "target": "node_147",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_237",
+            "source": "node_124",
+            "target": "node_237",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_164",
+            "source": "node_125",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_184",
+            "source": "node_126",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e127_to_239",
+            "source": "node_127",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_134",
+            "source": "node_128",
+            "target": "node_134",
+            "type": "step"
+        },
+        {
+            "id": "e129_to_131",
+            "source": "node_129",
+            "target": "node_131",
+            "type": "step"
+        },
+        {
+            "id": "e130_to_236",
+            "source": "node_130",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_238",
+            "source": "node_132",
+            "target": "node_238",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_240",
+            "source": "node_133",
+            "target": "node_240",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_208",
+            "source": "node_134",
+            "target": "node_208",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_168",
+            "source": "node_135",
+            "target": "node_168",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_114",
+            "source": "node_136",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_142",
+            "source": "node_137",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_182",
+            "source": "node_138",
+            "target": "node_182",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_214",
+            "source": "node_140",
+            "target": "node_214",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_124",
+            "source": "node_141",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_143",
+            "source": "node_142",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e143_to_99",
+            "source": "node_143",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_133",
+            "source": "node_144",
+            "target": "node_133",
+            "type": "step"
+        },
+        {
+            "id": "e145_to_142",
+            "source": "node_145",
+            "target": "node_142",
+            "type": "step"
+        },
+        {
+            "id": "e146_to_184",
+            "source": "node_146",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_100",
+            "source": "node_147",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_144",
+            "source": "node_148",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e149_to_241",
+            "source": "node_149",
+            "target": "node_241",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_144",
+            "source": "node_150",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_141",
+            "source": "node_151",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_178",
+            "source": "node_152",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_177",
+            "source": "node_153",
+            "target": "node_177",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_180",
+            "source": "node_154",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e155_to_184",
+            "source": "node_155",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_121",
+            "source": "node_156",
+            "target": "node_121",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_148",
+            "source": "node_157",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e158_to_159",
+            "source": "node_158",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_135",
+            "source": "node_159",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_184",
+            "source": "node_160",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_102",
+            "source": "node_161",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_244",
+            "source": "node_162",
+            "target": "node_244",
+            "type": "step"
+        },
+        {
+            "id": "e166_to_169",
+            "source": "node_166",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_171",
+            "source": "node_167",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_161",
+            "source": "node_168",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_171",
+            "source": "node_169",
+            "target": "node_171",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_181",
+            "source": "node_170",
+            "target": "node_181",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_290",
+            "source": "node_171",
+            "target": "node_290",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_206",
+            "source": "node_172",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_158",
+            "source": "node_173",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_102",
+            "source": "node_174",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e175_to_242",
+            "source": "node_175",
+            "target": "node_242",
+            "type": "step"
+        },
+        {
+            "id": "e176_to_158",
+            "source": "node_176",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_209",
+            "source": "node_177",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_174",
+            "source": "node_178",
+            "target": "node_174",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_170",
+            "source": "node_179",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e180_to_157",
+            "source": "node_180",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_184",
+            "source": "node_181",
+            "target": "node_184",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_154",
+            "source": "node_182",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_204",
+            "source": "node_183",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e184_to_109",
+            "source": "node_184",
+            "target": "node_109",
+            "type": "step"
+        },
+        {
+            "id": "e185_to_243",
+            "source": "node_185",
+            "target": "node_243",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_157",
+            "source": "node_186",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_123",
+            "source": "node_187",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e191_to_192",
+            "source": "node_191",
+            "target": "node_192",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_195",
+            "source": "node_192",
+            "target": "node_195",
+            "type": "step"
+        },
+        {
+            "id": "e193_to_196",
+            "source": "node_193",
+            "target": "node_196",
+            "type": "step"
+        },
+        {
+            "id": "e194_to_197",
+            "source": "node_194",
+            "target": "node_197",
+            "type": "step"
+        },
+        {
+            "id": "e195_to_31",
+            "source": "node_195",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e196_to_31",
+            "source": "node_196",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e197_to_31",
+            "source": "node_197",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_201",
+            "source": "node_198",
+            "target": "node_201",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_200",
+            "source": "node_199",
+            "target": "node_200",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_75",
+            "source": "node_200",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_75",
+            "source": "node_201",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e202_to_203",
+            "source": "node_202",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_75",
+            "source": "node_203",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e204_to_163",
+            "source": "node_204",
+            "target": "node_163",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_110",
+            "source": "node_205",
+            "target": "node_110",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_191",
+            "source": "node_206",
+            "target": "node_191",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_126",
+            "source": "node_207",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e208_to_136",
+            "source": "node_208",
+            "target": "node_136",
+            "type": "step"
+        },
+        {
+            "id": "e209_to_189",
+            "source": "node_209",
+            "target": "node_189",
+            "type": "step"
+        },
+        {
+            "id": "e210_to_285",
+            "source": "node_210",
+            "target": "node_285",
+            "type": "step"
+        },
+        {
+            "id": "e211_to_286",
+            "source": "node_211",
+            "target": "node_286",
+            "type": "step"
+        },
+        {
+            "id": "e212_to_213",
+            "source": "node_212",
+            "target": "node_213",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_245",
+            "source": "node_213",
+            "target": "node_245",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_157",
+            "source": "node_214",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_216",
+            "source": "node_215",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e216_to_42",
+            "source": "node_216",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_218",
+            "source": "node_217",
+            "target": "node_218",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_79",
+            "source": "node_221",
+            "target": "node_79",
+            "type": "step"
+        },
+        {
+            "id": "e222_to_87",
+            "source": "node_222",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_223",
+            "source": "node_226",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_53",
+            "source": "node_227",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e244_to_153",
+            "source": "node_244",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e245_to_188",
+            "source": "node_245",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_229",
+            "source": "node_246",
+            "target": "node_229",
+            "type": "step"
+        },
+        {
+            "id": "e247_to_248",
+            "source": "node_247",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e248_to_5",
+            "source": "node_248",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e249_to_44",
+            "source": "node_249",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e250_to_246",
+            "source": "node_250",
+            "target": "node_246",
+            "type": "step"
+        },
+        {
+            "id": "e260_to_262",
+            "source": "node_260",
+            "target": "node_262",
+            "type": "step"
+        },
+        {
+            "id": "e261_to_280",
+            "source": "node_261",
+            "target": "node_280",
+            "type": "step"
+        },
+        {
+            "id": "e262_to_267",
+            "source": "node_262",
+            "target": "node_267",
+            "type": "step"
+        },
+        {
+            "id": "e263_to_284",
+            "source": "node_263",
+            "target": "node_284",
+            "type": "step"
+        },
+        {
+            "id": "e264_to_269",
+            "source": "node_264",
+            "target": "node_269",
+            "type": "step"
+        },
+        {
+            "id": "e265_to_270",
+            "source": "node_265",
+            "target": "node_270",
+            "type": "step"
+        },
+        {
+            "id": "e266_to_271",
+            "source": "node_266",
+            "target": "node_271",
+            "type": "step"
+        },
+        {
+            "id": "e268_to_273",
+            "source": "node_268",
+            "target": "node_273",
+            "type": "step"
+        },
+        {
+            "id": "e269_to_275",
+            "source": "node_269",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e270_to_275",
+            "source": "node_270",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e271_to_275",
+            "source": "node_271",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e273_to_275",
+            "source": "node_273",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e274_to_215",
+            "source": "node_274",
+            "target": "node_215",
+            "type": "step"
+        },
+        {
+            "id": "e275_to_274",
+            "source": "node_275",
+            "target": "node_274",
+            "type": "step"
+        },
+        {
+            "id": "e276_to_275",
+            "source": "node_276",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_276",
+            "source": "node_277",
+            "target": "node_276",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_275",
+            "source": "node_278",
+            "target": "node_275",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_268",
+            "source": "node_281",
+            "target": "node_268",
+            "type": "step"
+        },
+        {
+            "id": "e283_to_287",
+            "source": "node_283",
+            "target": "node_287",
+            "type": "step"
+        },
+        {
+            "id": "e284_to_37",
+            "source": "node_284",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e285_to_37",
+            "source": "node_285",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e286_to_37",
+            "source": "node_286",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e287_to_37",
+            "source": "node_287",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e288_to_41",
+            "source": "node_288",
+            "target": "node_41",
+            "type": "step"
+        },
+        {
+            "id": "e289_to_288",
+            "source": "node_289",
+            "target": "node_288",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_168",
+            "source": "node_290",
+            "target": "node_168",
+            "type": "step"
+        }
+    ]
+}

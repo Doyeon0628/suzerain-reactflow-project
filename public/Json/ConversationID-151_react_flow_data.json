@@ -1,0 +1,40 @@
+{
+    "nodes": [
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "...\n\nBFF nuanced some riots"
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_24",
+            "type": "customNode",
+            "data": {
+                "label": "...\n\nblud rebellion, racial tension"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e19_to_25",
+            "source": "node_19",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e24_to_31",
+            "source": "node_24",
+            "target": "node_31",
+            "type": "step"
+        }
+    ]
+}

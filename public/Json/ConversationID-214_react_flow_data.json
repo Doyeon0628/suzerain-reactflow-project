@@ -1,0 +1,108 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith my impeachment trial looming and war on the horizon, I'd practically been sleeping in my office lately. But tonight, I made a deliberate effort to get home early."
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith the election looming, I'd practically been sleeping at the Maroon Palace lately. But tonight, I made a deliberate effort to get home early."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI'd invited Serge over for the occasion. The house was feeling awfully empty these days, and he was the closest thing I had left to a friend. Even if I was paying him."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter much pleading on my part, Monica had given me rare permission to join her and Deana for supper. I couldn't be late."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnd Monica had given me rare permission to join the whole family for supper."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith my impeachment trial looming, I'd practically been sleeping at the Maroon Palace lately. But tonight, I made a deliberate effort to get home early."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_112",
+            "source": "node_1",
+            "target": "node_112",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_42",
+            "source": "node_6",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_1",
+            "source": "node_19",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_1",
+            "source": "node_31",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_1",
+            "source": "node_32",
+            "target": "node_1",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_7",
+            "source": "node_44",
+            "target": "node_7",
+            "type": "step"
+        }
+    ]
+}

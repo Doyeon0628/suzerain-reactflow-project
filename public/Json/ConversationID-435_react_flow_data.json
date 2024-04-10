@@ -1,0 +1,686 @@
+{
+    "nodes": [
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>2,2 million</size></b> people found a job."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_18",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>9,822</size></b> people died due to complications related to Polio."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_30",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>99</size></b> police officers and <b><size=26>640</size></b> Bludish militants were killed in firefights."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuring street clashes <b><size=26>39</size></b> police officers and <b><size=26>109</size></b> protesters were killed, <b><size=26>11,823</size></b> protesters were arrested."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>1,1 million</size></b> civilians have died in the war."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>2,2 million</size></b> civilians have died in the war."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>63 million</size></b> people died during the world war."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nDuring the coup <b><size=26>33</size></b> soldiers and <b><size=26>1,430</size></b> protesters were killed, <b><size=26>146,399</size></b> protesters were detained."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>13,142</size></b> businesses were founded."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_131",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>5 million</size></b> people lost their state healthcare coverage."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>589,112</size></b> Sordish lives were lost during the Rumburg invasion."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_157",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>99,332</size></b> soldiers died during the Rumburg Invasion."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_159",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>189,229</size></b> soldiers died during the Rumburg Invasion."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>433,165</size></b> soldiers died during the Rumburg Invasion."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>86,450</size></b> soldiers became unemployed."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>6,894</size></b> military personnel were forcibly retired."
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>102,345</size></b> conscripts joined the work force."
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>1,314</size></b> conscripts died in training."
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>81,340</size></b> companies declared bankruptcy."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>9,340</size></b> small businesses declared bankruptcy."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nForeign investors have pulled out around <b><size=26>3 billion</size></b> SR from the Sordish market."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>5,143</size></b> news articles were censored."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPrice of bread increased from 0,5 SR to <b><size=26>4 SR.</size></b>"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_217",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>304,754</size></b> people lost their jobs."
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMore than <b><size=26>721,699</size></b> people gained access to healthcare."
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_275",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>13,438</size></b> people died to criminal violence."
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_276",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>779</size></b> people were killed during the clashes between Red Youth and Young Sords."
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_277",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>13,439</size></b> people were detained without trial."
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_278",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>409,784</size></b> jobs were created by four largest companies of Sordland."
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_279",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>15,440</size></b> people were arrested for their suspected ties to Young Sords."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_281",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>22,934</size></b> people were arrested in accordance to the state of emergency."
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_282",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>51,091</size></b> people were arrested in accordance to the state of emergency."
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_283",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>18,220</size></b> people were arrested for protesting the state of emergency."
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_287",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>12,390</size></b> people were arrested for their ties to the Workers Party of Bludia."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_302",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMore than <b><size=26>15,899</size></b> people with Bludish descent were released from prison."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_307",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>11,222</size></b> people with Bludish descent were jailed and <b><size=26>663</size></b> were killed."
+            },
+            "position": {
+                "x": 9450,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>2,2 million</size></b> people found a job."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_330",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n63 million people died during the world war."
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_350",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n<b><size=26>304,754</size></b> people lost their jobs."
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_360",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\n1,5 million civilians have died in the Rummo-Sordish War."
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e9_to_203",
+            "source": "node_9",
+            "target": "node_203",
+            "type": "step"
+        },
+        {
+            "id": "e18_to_219",
+            "source": "node_18",
+            "target": "node_219",
+            "type": "step"
+        },
+        {
+            "id": "e30_to_249",
+            "source": "node_30",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_249",
+            "source": "node_31",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_249",
+            "source": "node_39",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_12",
+            "source": "node_40",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_33",
+            "source": "node_44",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_3",
+            "source": "node_48",
+            "target": "node_3",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_166",
+            "source": "node_108",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e131_to_126",
+            "source": "node_131",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_165",
+            "source": "node_156",
+            "target": "node_165",
+            "type": "step"
+        },
+        {
+            "id": "e157_to_300",
+            "source": "node_157",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e159_to_300",
+            "source": "node_159",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_300",
+            "source": "node_160",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_300",
+            "source": "node_161",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_300",
+            "source": "node_162",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_300",
+            "source": "node_163",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_300",
+            "source": "node_164",
+            "target": "node_300",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_114",
+            "source": "node_177",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_114",
+            "source": "node_178",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_114",
+            "source": "node_179",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_50",
+            "source": "node_200",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_12",
+            "source": "node_213",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e217_to_209",
+            "source": "node_217",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_21",
+            "source": "node_225",
+            "target": "node_21",
+            "type": "step"
+        },
+        {
+            "id": "e275_to_242",
+            "source": "node_275",
+            "target": "node_242",
+            "type": "step"
+        },
+        {
+            "id": "e276_to_249",
+            "source": "node_276",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e277_to_289",
+            "source": "node_277",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e278_to_249",
+            "source": "node_278",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e279_to_114",
+            "source": "node_279",
+            "target": "node_114",
+            "type": "step"
+        },
+        {
+            "id": "e281_to_249",
+            "source": "node_281",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e282_to_249",
+            "source": "node_282",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e283_to_249",
+            "source": "node_283",
+            "target": "node_249",
+            "type": "step"
+        },
+        {
+            "id": "e287_to_139",
+            "source": "node_287",
+            "target": "node_139",
+            "type": "step"
+        },
+        {
+            "id": "e302_to_293",
+            "source": "node_302",
+            "target": "node_293",
+            "type": "step"
+        },
+        {
+            "id": "e307_to_299",
+            "source": "node_307",
+            "target": "node_299",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_336",
+            "source": "node_321",
+            "target": "node_336",
+            "type": "step"
+        },
+        {
+            "id": "e330_to_355",
+            "source": "node_330",
+            "target": "node_355",
+            "type": "step"
+        },
+        {
+            "id": "e350_to_342",
+            "source": "node_350",
+            "target": "node_342",
+            "type": "step"
+        },
+        {
+            "id": "e360_to_324",
+            "source": "node_360",
+            "target": "node_324",
+            "type": "step"
+        }
+    ]
+}

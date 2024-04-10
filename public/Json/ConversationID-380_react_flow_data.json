@@ -1,0 +1,74 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"I suggest that you take advantage of Rumburg's contacts within the Bludish Freedom Front.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_36",
+            "type": "customNode",
+            "data": {
+                "label": "Beatrice Livingston (R)\n\n\"Exactly.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_66",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLaurento grew indignant."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Laurento Esquibel\n\n\"At any rate, Your Excellency, thank you for offering us the opportunity. And for entrusting us with such sensitive information.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_1334",
+            "source": "node_2",
+            "target": "node_1334",
+            "type": "step"
+        },
+        {
+            "id": "e36_to_105",
+            "source": "node_36",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e66_to_102",
+            "source": "node_66",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_2",
+            "source": "node_104",
+            "target": "node_2",
+            "type": "step"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAfter receiving the news of his son's arrest, Uncle Hugo was on his way to talk to me."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThoughts were running through my mind as I paced back and forth in my chambers."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Grand Vizier. Thank you for coming.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"What amends do you seek? Tell me.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Absolutely not. I am definitely not going to trust Rico with the security of our capital.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Very well. I shall return to my duties now.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_96",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHugo leaned forward slightly, his hands clasped together. His voice trembled with emotion when he spoke."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_128",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Your feelings are justified, Hugo. But you are being emotional. Rico is now an enemy of the state. I offer my regret. But that's all I can offer.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"Thank you, Romus. For hearing my plea.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI looked at the oversized key on my desk. A symbolic Key to Iza."
+            },
+            "position": {
+                "x": 1620,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe Sazons had sent it as a token of gratitude for reinstating their Duchess."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_153",
+            "source": "node_1",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_166",
+            "source": "node_4",
+            "target": "node_166",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_97",
+            "source": "node_13",
+            "target": "node_97",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_128",
+            "source": "node_59",
+            "target": "node_128",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_161",
+            "source": "node_69",
+            "target": "node_161",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_87",
+            "source": "node_93",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e96_to_164",
+            "source": "node_96",
+            "target": "node_164",
+            "type": "step"
+        },
+        {
+            "id": "e128_to_65",
+            "source": "node_128",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_95",
+            "source": "node_151",
+            "target": "node_95",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_2",
+            "source": "node_164",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_6",
+            "source": "node_168",
+            "target": "node_6",
+            "type": "step"
+        }
+    ]
+}

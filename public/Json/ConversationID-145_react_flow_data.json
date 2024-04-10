@@ -1,0 +1,856 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was a dark, chilly evening when Petr called and asked if we could meet. He gave no details -- all he said was that it was important."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Not really. It's just an office.”"
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI took a swig as well before passing the bottle back to Petr."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_33",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI walked over to the tower of storage boxes and opened one of them."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI walked over to my old desk, sat down on the squeaky chair and opened the top drawer."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt was a photograph of me and Monica, sitting under a tree. This must've been 10, maybe 15 years ago. We looked so young and so happy. Monica would love to see this."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI put the photograph back into the desk drawer."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_56",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIn one of the storage boxes, I found a heavy object, wrapped safely. I unwrapped it."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI lifted the storage box with the statue in it and put it near the door so I could take it on the way out."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You said you wanted to talk about something on the phone.”"
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I had a feeling about you two.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Shit. What if this causes a scandal?”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I will be blunt. You will fix this or I will remove you from office.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_112",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“All right. It's just an affair, and it's over at that. We can weather this.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWithout waiting for his reaction, I left the rooftop alone and made my way downstairs."
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_124",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI stared at the receiver, wondering what his last statement meant. What was going on that I didn't know about?"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_126",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Yes, Mr. President.”"
+            },
+            "position": {
+                "x": 9720,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_133",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Enough going through old stuff. Let's talk.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nPetr shrugged."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_139",
+            "type": "customNode",
+            "data": {
+                "label": "Lucian Galade\n\n“Thank you for calling me, Mr. President. This serves to confirm some suspicions of my own. We have to meet.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_140",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe line dropped."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_141",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n\"No, I guess you shouldn't be.”"
+            },
+            "position": {
+                "x": 8910,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_142",
+            "type": "customNode",
+            "data": {
+                "label": "Petr Vectern\n\n“It's just, Evelyn hasn't been the same since she lost her job, and Livia was giving me sultry looks from the day I hired her...\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_150",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Well, maybe I can speak to Evelyn and plead your case.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"It's too late. There's still a chance this could get out. I need to talk to Lucian.\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_164",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I've known Evelyn almost as long as you. I'll talk some sense into her.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_168",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Anything for my best friend.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_169",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't mention it. I mean it -- *don't mention it*.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_170",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I haven't done anything yet.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_171",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI turned to face my friend and Vice President. The habits that had gotten him dubbed the \"bad boy of Sordish politics\" when we were young were no longer so charming coming from a middle-aged man. Yet he was still a capable politician, and I couldn't ignore our long history together."
+            },
+            "position": {
+                "x": 7830,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_172",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't worry. Mistakes happen.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Anything for my best friend.\""
+            },
+            "position": {
+                "x": 8370,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_174",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't mention it. I mean it -- *don't mention it*.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI went to bed, but couldn't sleep at all."
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_183",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI slipped into bed, careful not to disturb my sleeping wife. Petr and Evelyn hadn't made it -- were we next? I hadn't cheated on her, but what I had done was arguably worse..."
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_188",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI slipped into bed, careful not to disturb my sleeping wife. Petr and Evelyn hadn't made it -- were we next?"
+            },
+            "position": {
+                "x": 9720,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI slipped into bed, careful not to disturb my sleeping wife. I would tell her the news about Petr and Evelyn tomorrow. I hoped it wouldn't upset her too much."
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_200",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't you understand? Your jealousy could ruin my chances of re-election.\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"He's already ended it. Can't you forgive him?\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_203",
+            "type": "customNode",
+            "data": {
+                "label": "Evelyn Vectern\n\n\"You think this is about jealousy?\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_207",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Preyed on? Livia was a willing participant.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_213",
+            "type": "customNode",
+            "data": {
+                "label": "Evelyn Vectern\n\n\"He said that, did he? Look at whom he goes after. Secretaries. Kitchen staff. Aides -- remember Brenda?\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_214",
+            "type": "customNode",
+            "data": {
+                "label": "Evelyn Vectern\n\n\"I'd go to the media about this if I wasn't persona non grata at the Holsord Post. And if there was a shred of a chance I'd be taken seriously.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI put down the phone and headed to the bedroom. Nobody else had to get involved in this."
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No need to justify. Men will be men, after all.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Ha! That's all? You lucky man!”"
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“No, thank you.”"
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_289",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I... I'm sorry. I don't know what to say.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEvelyn gave a short, sharp laugh."
+            },
+            "position": {
+                "x": 10800,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_296",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I guess I didn't want to know.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_324",
+            "source": "node_1",
+            "target": "node_324",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_13",
+            "source": "node_9",
+            "target": "node_13",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_226",
+            "source": "node_26",
+            "target": "node_226",
+            "type": "step"
+        },
+        {
+            "id": "e33_to_51",
+            "source": "node_33",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_50",
+            "source": "node_34",
+            "target": "node_50",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_130",
+            "source": "node_52",
+            "target": "node_130",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_66",
+            "source": "node_55",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e56_to_69",
+            "source": "node_56",
+            "target": "node_69",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_70",
+            "source": "node_60",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_36",
+            "source": "node_71",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_143",
+            "source": "node_105",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_143",
+            "source": "node_107",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_149",
+            "source": "node_110",
+            "target": "node_149",
+            "type": "step"
+        },
+        {
+            "id": "e112_to_175",
+            "source": "node_112",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_175",
+            "source": "node_115",
+            "target": "node_175",
+            "type": "step"
+        },
+        {
+            "id": "e124_to_230",
+            "source": "node_124",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e126_to_254",
+            "source": "node_126",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e133_to_54",
+            "source": "node_133",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_74",
+            "source": "node_136",
+            "target": "node_74",
+            "type": "step"
+        },
+        {
+            "id": "e139_to_127",
+            "source": "node_139",
+            "target": "node_127",
+            "type": "step"
+        },
+        {
+            "id": "e140_to_178",
+            "source": "node_140",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e141_to_125",
+            "source": "node_141",
+            "target": "node_125",
+            "type": "step"
+        },
+        {
+            "id": "e142_to_102",
+            "source": "node_142",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e150_to_231",
+            "source": "node_150",
+            "target": "node_231",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_159",
+            "source": "node_151",
+            "target": "node_159",
+            "type": "step"
+        },
+        {
+            "id": "e164_to_156",
+            "source": "node_164",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e168_to_116",
+            "source": "node_168",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e169_to_116",
+            "source": "node_169",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e170_to_116",
+            "source": "node_170",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e171_to_116",
+            "source": "node_171",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e172_to_111",
+            "source": "node_172",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_116",
+            "source": "node_173",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e174_to_116",
+            "source": "node_174",
+            "target": "node_116",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_141",
+            "source": "node_182",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e183_to_221",
+            "source": "node_183",
+            "target": "node_221",
+            "type": "step"
+        },
+        {
+            "id": "e188_to_126",
+            "source": "node_188",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_188",
+            "source": "node_189",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e200_to_205",
+            "source": "node_200",
+            "target": "node_205",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_204",
+            "source": "node_201",
+            "target": "node_204",
+            "type": "step"
+        },
+        {
+            "id": "e203_to_291",
+            "source": "node_203",
+            "target": "node_291",
+            "type": "step"
+        },
+        {
+            "id": "e207_to_290",
+            "source": "node_207",
+            "target": "node_290",
+            "type": "step"
+        },
+        {
+            "id": "e213_to_212",
+            "source": "node_213",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e214_to_212",
+            "source": "node_214",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_129",
+            "source": "node_218",
+            "target": "node_129",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_126",
+            "source": "node_221",
+            "target": "node_126",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_151",
+            "source": "node_223",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_143",
+            "source": "node_225",
+            "target": "node_143",
+            "type": "step"
+        },
+        {
+            "id": "e289_to_332",
+            "source": "node_289",
+            "target": "node_332",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_213",
+            "source": "node_290",
+            "target": "node_213",
+            "type": "step"
+        },
+        {
+            "id": "e296_to_212",
+            "source": "node_296",
+            "target": "node_212",
+            "type": "step"
+        }
+    ]
+}

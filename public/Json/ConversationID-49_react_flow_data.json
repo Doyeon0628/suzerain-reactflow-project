@@ -1,0 +1,601 @@
+{
+    "nodes": [
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nLater, we made our way back to Holsord."
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_19",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon looked a little more stressed than usual. Gus was also here to find solutions. He eyed me for a while."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_20",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We scheduled the project to finish in late 1955 but I have concerns about the construction due to progress being slower than expected.”"
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Finding competent managers could work. New blood can move things back on track.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“The incompetent managers should be fired. This is a disgrace.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_28",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“I will personally go and talk to a few SSC managers and tell them of the gravity of the situation.”"
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_29",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“I don't expect them to bite back but maybe they can further slow the construction by protesting.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_31",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSymon took a deep breath and continued."
+            },
+            "position": {
+                "x": 6750,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_32",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“I say we replace them with more competent managers. It should help resolve the resources being handled inefficiently.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_34",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“Couldn't agree more. This shouldn't keep going on any longer.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Warn the construction managers. Send a formal warning from the Ministry of Economy and the Presidency.”"
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“State owned corporations like them never really receive performance penalties and that's why they are incompetent and lack responsibility.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Giving them a serious warning could be the solution. A slap on the wrist can do wonders.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Replace the construction managers with more competent people to ensure the deadline is hit.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“I'll make some calls. Got good contacts that can be added to the potential candidates.”"
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It's good to see that failure isn't rewarded and punished. We will find more competent people through our networks.”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“There is a good chance that they will take this far more seriously and take measures to increase speed.”"
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“One of the important issues is their construction management team. The other could be the outdated construction methods used which require more manpower, but we aren't sure if that contributes to the issue.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_45",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“How can we speed up the construction to get back on track?”"
+            },
+            "position": {
+                "x": 810,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_47",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“That is the million ren question. There are a couple of issues that need to be resolved if we want the SSC to make the deadline.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“A cash injection to hire more workers and buy more machinery could have a positive effect on the construction.”"
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“It might even be necessary for us to hit the opening date.”"
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“That is my theory because they knew about the zones the track passes by. The old SSC construction managers think they are untouchable and that they have no obligations.”"
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“We can either give the construction managers more money, warn them or replace them.”"
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“One way or another we have to solve this issue. This can lead to real complications down the line otherwise.”"
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_58",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“This proves that they have failed at their base contractual agreement. What a shame that we trusted them.”"
+            },
+            "position": {
+                "x": 2970,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_59",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“There is also the chance that the money could be wasted. We already spent so much on this investment.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 1000
+            }
+        },
+        {
+            "id": "node_60",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“Give more money to the construction managers so they can hire more workers and buy machinery to hit the deadline.”"
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_61",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“This extra investment could be just enough to get things back on track. However, it is unfortunate we had to spend more because we need it elsewhere too.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_62",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“The SSC reported that they have been slowed down due to several areas on the way to Gelsord having a potential for landslides that could endanger the workers. My argument is that they should have known about it.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“You were right. The administration won't work with the SSC again.”"
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_69",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“You are right. My advice would be to warn them. There is a chance they might wake up to the situation.”"
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_70",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“I don't know who they will listen to if they aren't listening to the President of Sordland.”"
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Symon Holl\n\n“It would be possible to demand a change in leadership.”"
+            },
+            "position": {
+                "x": 5940,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Gus Manger\n\n“I expected some issue even before we started this. This corporation is full of fossils that don't know how to solve problems reactively.”"
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e17_to_15",
+            "source": "node_17",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e19_to_94",
+            "source": "node_19",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e20_to_5",
+            "source": "node_20",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_54",
+            "source": "node_22",
+            "target": "node_54",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_87",
+            "source": "node_25",
+            "target": "node_87",
+            "type": "step"
+        },
+        {
+            "id": "e28_to_23",
+            "source": "node_28",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e29_to_17",
+            "source": "node_29",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e31_to_30",
+            "source": "node_31",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e32_to_56",
+            "source": "node_32",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e34_to_59",
+            "source": "node_34",
+            "target": "node_59",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_35",
+            "source": "node_37",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_58",
+            "source": "node_38",
+            "target": "node_58",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_26",
+            "source": "node_39",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_44",
+            "source": "node_40",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_36",
+            "source": "node_41",
+            "target": "node_36",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_17",
+            "source": "node_42",
+            "target": "node_17",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_89",
+            "source": "node_43",
+            "target": "node_89",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_32",
+            "source": "node_44",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e45_to_39",
+            "source": "node_45",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e47_to_62",
+            "source": "node_47",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_49",
+            "source": "node_50",
+            "target": "node_49",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_40",
+            "source": "node_51",
+            "target": "node_40",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_32",
+            "source": "node_53",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_45",
+            "source": "node_54",
+            "target": "node_45",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_33",
+            "source": "node_55",
+            "target": "node_33",
+            "type": "step"
+        },
+        {
+            "id": "e58_to_25",
+            "source": "node_58",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e59_to_93",
+            "source": "node_59",
+            "target": "node_93",
+            "type": "step"
+        },
+        {
+            "id": "e60_to_57",
+            "source": "node_60",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e61_to_47",
+            "source": "node_61",
+            "target": "node_47",
+            "type": "step"
+        },
+        {
+            "id": "e62_to_72",
+            "source": "node_62",
+            "target": "node_72",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_71",
+            "source": "node_64",
+            "target": "node_71",
+            "type": "step"
+        },
+        {
+            "id": "e69_to_26",
+            "source": "node_69",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e70_to_31",
+            "source": "node_70",
+            "target": "node_31",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_34",
+            "source": "node_72",
+            "target": "node_34",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_26",
+            "source": "node_73",
+            "target": "node_26",
+            "type": "step"
+        }
+    ]
+}

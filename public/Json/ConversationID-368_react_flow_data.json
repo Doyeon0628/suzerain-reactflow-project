@@ -1,0 +1,176 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Peace between Morella, Rizia and Derdia could be lucrative for all of us. Don't you realize that?\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"After your lip service to Derdia at the Alliance of Nations, you are siding with Morella after all. I shouldn't be surprised.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe sat back on his cushion for a moment."
+            },
+            "position": {
+                "x": 270,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"We are not allies, Your Majesty. This is purely a matter of convenience.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_43",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"I will give her one chance. If she refuses it, the Derdians' holy struggle will continue.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_44",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"Or a way to make sure you still have resources for years to come.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"And we in Derdia have plenty of hearths to keep alit.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_50",
+            "type": "customNode",
+            "data": {
+                "label": "Jorga Azmal\n\n\"His pen was but a conduit for the Divine.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_74",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"I can't do that. Too much could go wrong.\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_79",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe gave Sal and myself an appraising look."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_537",
+            "source": "node_2",
+            "target": "node_537",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_23",
+            "source": "node_8",
+            "target": "node_23",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_67",
+            "source": "node_23",
+            "target": "node_67",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_81",
+            "source": "node_42",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e43_to_81",
+            "source": "node_43",
+            "target": "node_81",
+            "type": "step"
+        },
+        {
+            "id": "e44_to_39",
+            "source": "node_44",
+            "target": "node_39",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_80",
+            "source": "node_49",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e50_to_80",
+            "source": "node_50",
+            "target": "node_80",
+            "type": "step"
+        },
+        {
+            "id": "e74_to_42",
+            "source": "node_74",
+            "target": "node_42",
+            "type": "step"
+        },
+        {
+            "id": "e79_to_45",
+            "source": "node_79",
+            "target": "node_45",
+            "type": "step"
+        }
+    ]
+}

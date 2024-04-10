@@ -1,0 +1,210 @@
+{
+    "nodes": [
+        {
+            "id": "node_7",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYour villa became a gathering point for the Sordland elite."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_8",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWith your presidency behind you, you set out to begin your new life in Erlory.\\n\\nYour villa in Erlory wasn't quite as grand as Petr's, but it was spacious and calm, the perfect refuge after the chaos of Holsord.\\n\\nYou and your family..."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYou and Monica began speaking to each other again, although she refused to consider getting back together."
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_38",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe ensuing scandal cost Monica her political clout. She and Deana moved to a small cottage on the Benfi coast."
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...reconnected with Franc."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_42",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...started writing a memoir."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_48",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n...checked yourself into rehab and began working on your memoir."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_49",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nYour book, titled \"Marooned: How I Quit Both The Presidency And Booze\", was an instant best-seller, lauded for its unflinching honesty.\\n\\nYour fame catapulted you back into Sordland's elite circles, though you were careful not to overdo it with the parties this time around.\\n\\nYou spent the rest of your days at your leafy villa, surrounded by sycophants and a few true friends. Your only regret was that you..."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou happily sampled your own goods."
+            },
+            "position": {
+                "x": 2700,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_55",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\nYou indulged in the party lifestyle."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_80",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFranc, by now living in the Arcasian suburbs with his wife and son, was happy to put whatever differences you'd had aside.\\n\\nYou became a doting grandfather.\\n\\nYou lived out the rest of your days in wealth and comfort, never far from the love of your family. Your only regret was that you..."
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_81",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nFranc, by now living on a commune in United Contana with his wife and son, was happy to put whatever differences you'd had aside.\\n\\nYou became a doting grandfather.\\n\\nYou lived out the rest of your days in wealth and comfort, never far from the love of your family. Your only regret was that you..."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e7_to_56",
+            "source": "node_7",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e8_to_56",
+            "source": "node_8",
+            "target": "node_56",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_96",
+            "source": "node_17",
+            "target": "node_96",
+            "type": "step"
+        },
+        {
+            "id": "e38_to_18",
+            "source": "node_38",
+            "target": "node_18",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_53",
+            "source": "node_41",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e42_to_100",
+            "source": "node_42",
+            "target": "node_100",
+            "type": "step"
+        },
+        {
+            "id": "e48_to_102",
+            "source": "node_48",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e49_to_103",
+            "source": "node_49",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_2",
+            "source": "node_53",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e55_to_15",
+            "source": "node_55",
+            "target": "node_15",
+            "type": "step"
+        },
+        {
+            "id": "e80_to_53",
+            "source": "node_80",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e81_to_53",
+            "source": "node_81",
+            "target": "node_53",
+            "type": "step"
+        }
+    ]
+}

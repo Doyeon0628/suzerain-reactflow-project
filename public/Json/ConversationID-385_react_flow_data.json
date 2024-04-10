@@ -1,0 +1,108 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"With Duchess Azaro now... indisposed, it is imperative that you choose a new security councilor.\""
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"I have no doubt of his loyalty to the Crown. As long as you keep his daughter alive, of course.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_72",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"I don't blame you. House Azaro had qualms about your reign even before you jailed their heiress.\""
+            },
+            "position": {
+                "x": 540,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_83",
+            "type": "customNode",
+            "data": {
+                "label": "Hugo Toras\n\n\"The uprising had many causes. And the General was instrumental in restoring stability afterwards.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_85",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe smiled darkly."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Romus\n\n\"Titus already commands his own security detail. Naming him councilor would only be natural.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_501",
+            "source": "node_2",
+            "target": "node_501",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_66",
+            "source": "node_37",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e72_to_43",
+            "source": "node_72",
+            "target": "node_43",
+            "type": "step"
+        },
+        {
+            "id": "e83_to_62",
+            "source": "node_83",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e85_to_62",
+            "source": "node_85",
+            "target": "node_62",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_62",
+            "source": "node_88",
+            "target": "node_62",
+            "type": "step"
+        }
+    ]
+}

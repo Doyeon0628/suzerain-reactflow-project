@@ -1,0 +1,397 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nOur convoy pulled up to the gates of the Public Cemetery in Erlory -- Petr's hometown. Monica and Deana were beside me in the car."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_3",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMonica's looked numb and empty. Deana appeared to be deep in thought."
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_4",
+            "type": "customNode",
+            "data": {
+                "label": "Deana\n\n“But how did Uncle Petr die? Why won't anyone tell me?”"
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Deana\n\n“Papa? Tell me the truth!”"
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"He... fell. It was an accident.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe driver's window rolled down."
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_35",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n“I can't believe he's gone.”"
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe four of us -- Evelyn, Monica, Deana and I -- took our places towards the front of the crowd."
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_75",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt didn't matter anymore. He was gone."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_76",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nSurprised, I checked my face. My eyes were wet."
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_84",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe coffin was fully lowered and the tombstone placed. The crowd began dispersing."
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI stayed there by myself for another half hour."
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_88",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe sun finally set after painting the sky blood red."
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_101",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe news of Petr's death had hit Franc especially hard. Rather than attend the funeral, he had taken a few days of personal leave from the army to have time to himself."
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_102",
+            "type": "customNode",
+            "data": {
+                "label": "Serge Wolkner\n\n\"My deepest condolences. I know you and Mr. Vectern were very close.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We weren't at the end.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_105",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. We were.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_106",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I know what you mean.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_113",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nIt didn't matter anymore. He was gone. Because of me."
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_114",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI reached over to give Monica a hug."
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_116",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI sat there, silent."
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe hugged me back tightly."
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nThe sun finally set after painting the sky blood red."
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_94",
+            "source": "node_1",
+            "target": "node_94",
+            "type": "step"
+        },
+        {
+            "id": "e3_to_99",
+            "source": "node_3",
+            "target": "node_99",
+            "type": "step"
+        },
+        {
+            "id": "e4_to_144",
+            "source": "node_4",
+            "target": "node_144",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_117",
+            "source": "node_10",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_6",
+            "source": "node_11",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_103",
+            "source": "node_23",
+            "target": "node_103",
+            "type": "step"
+        },
+        {
+            "id": "e35_to_107",
+            "source": "node_35",
+            "target": "node_107",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_123",
+            "source": "node_37",
+            "target": "node_123",
+            "type": "step"
+        },
+        {
+            "id": "e75_to_111",
+            "source": "node_75",
+            "target": "node_111",
+            "type": "step"
+        },
+        {
+            "id": "e76_to_70",
+            "source": "node_76",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e84_to_83",
+            "source": "node_84",
+            "target": "node_83",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_135",
+            "source": "node_87",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e88_to_135",
+            "source": "node_88",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e101_to_98",
+            "source": "node_101",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e102_to_4",
+            "source": "node_102",
+            "target": "node_4",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_25",
+            "source": "node_104",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e105_to_25",
+            "source": "node_105",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e106_to_25",
+            "source": "node_106",
+            "target": "node_25",
+            "type": "step"
+        },
+        {
+            "id": "e113_to_76",
+            "source": "node_113",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e114_to_70",
+            "source": "node_114",
+            "target": "node_70",
+            "type": "step"
+        },
+        {
+            "id": "e116_to_11",
+            "source": "node_116",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_11",
+            "source": "node_121",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_89",
+            "source": "node_137",
+            "target": "node_89",
+            "type": "step"
+        }
+    ]
+}

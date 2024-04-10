@@ -1,0 +1,1723 @@
+{
+    "nodes": [
+        {
+            "id": "node_1",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEarlier in the day, I learned that Frens Ricter's complaint had been accepted by the Supreme Court for review."
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_5",
+            "type": "customNode",
+            "data": {
+                "label": "Livia Suno\n\n\"Sorry to interrupt, Mr. President, but Justice Garaci is here to see you.\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_6",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI called Chief Justice Hawker's office to demand an explanation, but he wasn't in. I sat by the phone, waiting for him to call back."
+            },
+            "position": {
+                "x": 810,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_10",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I told you that I'm expecting an important call. No visitors.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_17",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nShe opened the door for Heron Garaci and closed the door behind her."
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_22",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Busy? I'm a busy man too, Mr. Garaci.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_23",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. I am disappointed.\""
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_25",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What is the Court plotting, Mr. Garaci?\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_26",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Of course you are, Mr. President.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_40",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"...Even though the arguments filed by Ricter are noteworthy and do give us the right to deem your actions as unconstitutional.\""
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_41",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Although, of course, none of us want the act revoked.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_51",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The Court has promised not to act about this clause.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_52",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Don't you dare stab me in the back.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_53",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You and Orso are also implicated in this. Don't forget that.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_54",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Okay, I get it. You have demands.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_64",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"The Court promised not to act on this clause.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_73",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Of course not.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_77",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We are simply a little disappointed about the lack of proper budget for our police and military forces. This Emergency Act has taken a heavy toll on them.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_87",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"There have been countless cases of foreigners joining the fight against our state. We require better border security and a tighter immigration policy.\""
+            },
+            "position": {
+                "x": 4590,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_100",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Our biggest concern, however, regards the Oligarchs. Walter Tusk and Marcel Koronti.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_107",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Then we are on the same page.\""
+            },
+            "position": {
+                "x": 5130,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_108",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We are already in an emergency, Mr. President.\""
+            },
+            "position": {
+                "x": 5400,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I can't disagree with that.\""
+            },
+            "position": {
+                "x": 5670,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_110",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That is too extreme, Mr. Garaci.\""
+            },
+            "position": {
+                "x": 5940,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_111",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"We are already working on market economy reforms. Your little proposal doesn't align with my plans.\""
+            },
+            "position": {
+                "x": 6210,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"In the meantime, the Court will be doing its best. As long as you listen to our concerns, Chief Justice Hawker will be motivated to help you further...\""
+            },
+            "position": {
+                "x": 6480,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_123",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"With that said, they might be persuaded to rule in your favor if certain other judicial concerns were addressed.\""
+            },
+            "position": {
+                "x": 6750,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_125",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I'm on to your shenanigans, Mr. Garaci.\""
+            },
+            "position": {
+                "x": 7020,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_132",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. As we already agreed, you will fix this as soon as possible. I won't cave to your demands.\""
+            },
+            "position": {
+                "x": 7290,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_134",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"There have been countless cases of foreigners joining the fight against our state. We require better border security and a tighter immigration policy.\""
+            },
+            "position": {
+                "x": 7560,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_135",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. We'll definitely tighten immigration.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_136",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We are already in an emergency, Mr. President.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_137",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Our biggest concern, however, regards the Oligarchs. Marcel Koronti and Walter Tusk.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_138",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI did not reply."
+            },
+            "position": {
+                "x": 8100,
+                "y": 600
+            }
+        },
+        {
+            "id": "node_144",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I can't do that.\""
+            },
+            "position": {
+                "x": 8640,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_147",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"That's relieving.\""
+            },
+            "position": {
+                "x": 8910,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_148",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There is no evidence of this.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_151",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What are you suggesting here?\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_152",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"They are in close cooperation with Arcasia and have ties to almost every other country on this continent. And as we all know, they only care about money.\""
+            },
+            "position": {
+                "x": 9180,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_153",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"For example, something has to be done about the Oligarchs. Walter Tusk and Marcel Koronti.\""
+            },
+            "position": {
+                "x": 8100,
+                "y": 800
+            }
+        },
+        {
+            "id": "node_154",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Mr. President, we are worried about the Oligarchs. Marcel Koronti and Walter Tusk.\""
+            },
+            "position": {
+                "x": 4860,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_156",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Anyway, I am not here to argue with you.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_161",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You promised the Court would side with me.\""
+            },
+            "position": {
+                "x": 9720,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_162",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What is the meaning of this!?\""
+            },
+            "position": {
+                "x": 9990,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_163",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"You promised to manage this emergency period as best as you can. Yet our police and military forces took a heavy toll with their lack of proper budget.\""
+            },
+            "position": {
+                "x": 10260,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"Impeach me?\""
+            },
+            "position": {
+                "x": 10530,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_173",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You have balls coming to me like that.\""
+            },
+            "position": {
+                "x": 10800,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_177",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Where are your manners, Mr. President?\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_179",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"You will implement a nationalization plan and seize the assets of the Oligarchs.\""
+            },
+            "position": {
+                "x": 11340,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_181",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You will regret this. Get out of my sight!\""
+            },
+            "position": {
+                "x": 11610,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_182",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What if I don't?\""
+            },
+            "position": {
+                "x": 11880,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_186",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Then it might just be too hard for us to ignore your crimes against the Constitution.\""
+            },
+            "position": {
+                "x": 12150,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_187",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Whatever you say.\""
+            },
+            "position": {
+                "x": 12420,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_189",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"I have to say... You are not so different from President Alphonso.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_192",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Well... For now, I must leave. I hope you'll think long and hard about what we just talked about.\""
+            },
+            "position": {
+                "x": 12960,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_198",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe went out and closed the door behind him."
+            },
+            "position": {
+                "x": 13230,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_199",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe went out and closed the door behind him."
+            },
+            "position": {
+                "x": 12960,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_201",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI decided to comply with Heron's suggestion and started to work on a decree to implement tighter immigration laws."
+            },
+            "position": {
+                "x": 13500,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_205",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI decided to ignore their demands on immigration."
+            },
+            "position": {
+                "x": 13770,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_206",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI leaned back in my chair."
+            },
+            "position": {
+                "x": 19440,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_215",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We are concerned about Walter Tusk and Marcel Koronti.\""
+            },
+            "position": {
+                "x": 14310,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_218",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"What are you suggesting here?\""
+            },
+            "position": {
+                "x": 14580,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_219",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"What evidence do you need when they are the only people who are not affected by these crises? They influence politics in Sordland for their own gains as well as those of foreign interests.\""
+            },
+            "position": {
+                "x": 14850,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_220",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"There is no evidence of this.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_221",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I share the same concerns.\""
+            },
+            "position": {
+                "x": 15390,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_223",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We are already in an emergency, Mr. President.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_224",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Then we are on the same page.\""
+            },
+            "position": {
+                "x": 15930,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_225",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"So here is the deal.\""
+            },
+            "position": {
+                "x": 16200,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_226",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Now you listen to me...\""
+            },
+            "position": {
+                "x": 16470,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_227",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We hope you follow through on this in the next economy meeting. For your own good.\""
+            },
+            "position": {
+                "x": 11070,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_228",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"I have one final request.\""
+            },
+            "position": {
+                "x": 12690,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_232",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We are concerned about Sordland's current immigration laws. We fear too many troublemakers are crossing the border to lend support to militant organizations.\""
+            },
+            "position": {
+                "x": 16740,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_233",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"You're right. We'll definitely tighten immigration.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_237",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"That's a relief.\""
+            },
+            "position": {
+                "x": 17280,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_238",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"There have been countless cases of foreigners joining the fight against our state. We require better border security and a tighter immigration policy.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_239",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We are in an emergency, Mr. President.\""
+            },
+            "position": {
+                "x": 17010,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_241",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nEven if I was wrong, would I be able to get out of this if I wanted?"
+            },
+            "position": {
+                "x": 17820,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_242",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nWas my decision to work with the Old Guard right?"
+            },
+            "position": {
+                "x": 18090,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_246",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We also know that you've been *working* with them.\""
+            },
+            "position": {
+                "x": 18360,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_250",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Remember, Mr. President.\""
+            },
+            "position": {
+                "x": 18630,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_252",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"We also know that you've been *working* with them.\""
+            },
+            "position": {
+                "x": 18900,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_256",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Remember, Mr. President.\""
+            },
+            "position": {
+                "x": 19170,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_261",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nI had promised the people of Sordland that I would open our borders, and I had followed through. Turning back now would mean betraying all that work. On the other hand, so would losing the court case."
+            },
+            "position": {
+                "x": 19440,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_272",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Of course, there are some Justices who believe you were to blame from the beginning. Going against the Constitution was an impeachable offence, after all.\""
+            },
+            "position": {
+                "x": 19710,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_290",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"But it isn't up to me. Unless... a majority of the court could somehow be convinced to take your side.\""
+            },
+            "position": {
+                "x": 19980,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_291",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"In these difficult times when unity is so sorely needed, they pose a great threat to all of Sordland.\""
+            },
+            "position": {
+                "x": 20250,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_294",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Namely Walter Tusk's Bergia Steel and Marcel Koronti's Heart of Sordland.\""
+            },
+            "position": {
+                "x": 20520,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_304",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"You played your cards wrong, Mr. President. Look at you. You have done virtually *everything* that is possible to oppose us.\""
+            },
+            "position": {
+                "x": 20790,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_308",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"They already control much of our economy. They can't be allowed to have that much power.\""
+            },
+            "position": {
+                "x": 21060,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_310",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That would be too extreme, Mr. Garaci.\""
+            },
+            "position": {
+                "x": 21330,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_311",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will think about it.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_313",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"That was my plan anyway.\""
+            },
+            "position": {
+                "x": 21600,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_317",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Firstly, we are concerned about Sordland's current immigration laws. We fear too many troublemakers are crossing the border to lend support to militant organizations.\""
+            },
+            "position": {
+                "x": 21870,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_321",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"You must reverse your ridiculous decision to end mandatory conscription. A large, strong military is the only way to ensure stability in this country.\""
+            },
+            "position": {
+                "x": 22140,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_326",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Personally, I of course believe the emergency was fully justified. It would be a shame if the rest of the Court failed to agree.\""
+            },
+            "position": {
+                "x": 17550,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_336",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nAnd then there was the conscription issue..."
+            },
+            "position": {
+                "x": 22410,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_338",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI decided to comply with Heron's suggestion and bring conscription back."
+            },
+            "position": {
+                "x": 22680,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_339",
+            "type": "customNode",
+            "data": {
+                "label": "Player_Italic\n\nI decided to ignore Heron's demands on conscription."
+            },
+            "position": {
+                "x": 22950,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_349",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"There is more.\""
+            },
+            "position": {
+                "x": 23220,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_353",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"You must reverse your ridiculous decision to end mandatory conscription. A large, strong military is the only way to ensure stability in this country.\""
+            },
+            "position": {
+                "x": 23490,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_355",
+            "type": "customNode",
+            "data": {
+                "label": "Heron Garaci\n\n\"Do that and we will see about the rest.\""
+            },
+            "position": {
+                "x": 23760,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1_to_263",
+            "source": "node_1",
+            "target": "node_263",
+            "type": "step"
+        },
+        {
+            "id": "e5_to_20",
+            "source": "node_5",
+            "target": "node_20",
+            "type": "step"
+        },
+        {
+            "id": "e6_to_12",
+            "source": "node_6",
+            "target": "node_12",
+            "type": "step"
+        },
+        {
+            "id": "e10_to_6",
+            "source": "node_10",
+            "target": "node_6",
+            "type": "step"
+        },
+        {
+            "id": "e17_to_5",
+            "source": "node_17",
+            "target": "node_5",
+            "type": "step"
+        },
+        {
+            "id": "e22_to_26",
+            "source": "node_22",
+            "target": "node_26",
+            "type": "step"
+        },
+        {
+            "id": "e23_to_27",
+            "source": "node_23",
+            "target": "node_27",
+            "type": "step"
+        },
+        {
+            "id": "e25_to_29",
+            "source": "node_25",
+            "target": "node_29",
+            "type": "step"
+        },
+        {
+            "id": "e26_to_30",
+            "source": "node_26",
+            "target": "node_30",
+            "type": "step"
+        },
+        {
+            "id": "e40_to_296",
+            "source": "node_40",
+            "target": "node_296",
+            "type": "step"
+        },
+        {
+            "id": "e41_to_57",
+            "source": "node_41",
+            "target": "node_57",
+            "type": "step"
+        },
+        {
+            "id": "e51_to_66",
+            "source": "node_51",
+            "target": "node_66",
+            "type": "step"
+        },
+        {
+            "id": "e52_to_76",
+            "source": "node_52",
+            "target": "node_76",
+            "type": "step"
+        },
+        {
+            "id": "e53_to_74",
+            "source": "node_53",
+            "target": "node_74",
+            "type": "step"
+        },
+        {
+            "id": "e54_to_75",
+            "source": "node_54",
+            "target": "node_75",
+            "type": "step"
+        },
+        {
+            "id": "e64_to_51",
+            "source": "node_64",
+            "target": "node_51",
+            "type": "step"
+        },
+        {
+            "id": "e73_to_124",
+            "source": "node_73",
+            "target": "node_124",
+            "type": "step"
+        },
+        {
+            "id": "e77_to_359",
+            "source": "node_77",
+            "target": "node_359",
+            "type": "step"
+        },
+        {
+            "id": "e87_to_98",
+            "source": "node_87",
+            "target": "node_98",
+            "type": "step"
+        },
+        {
+            "id": "e100_to_154",
+            "source": "node_100",
+            "target": "node_154",
+            "type": "step"
+        },
+        {
+            "id": "e107_to_212",
+            "source": "node_107",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e108_to_212",
+            "source": "node_108",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_212",
+            "source": "node_109",
+            "target": "node_212",
+            "type": "step"
+        },
+        {
+            "id": "e110_to_117",
+            "source": "node_110",
+            "target": "node_117",
+            "type": "step"
+        },
+        {
+            "id": "e111_to_118",
+            "source": "node_111",
+            "target": "node_118",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_351",
+            "source": "node_121",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e123_to_351",
+            "source": "node_123",
+            "target": "node_351",
+            "type": "step"
+        },
+        {
+            "id": "e125_to_141",
+            "source": "node_125",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e132_to_141",
+            "source": "node_132",
+            "target": "node_141",
+            "type": "step"
+        },
+        {
+            "id": "e134_to_157",
+            "source": "node_134",
+            "target": "node_157",
+            "type": "step"
+        },
+        {
+            "id": "e135_to_145",
+            "source": "node_135",
+            "target": "node_145",
+            "type": "step"
+        },
+        {
+            "id": "e136_to_148",
+            "source": "node_136",
+            "target": "node_148",
+            "type": "step"
+        },
+        {
+            "id": "e137_to_248",
+            "source": "node_137",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e138_to_153",
+            "source": "node_138",
+            "target": "node_153",
+            "type": "step"
+        },
+        {
+            "id": "e144_to_248",
+            "source": "node_144",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e147_to_248",
+            "source": "node_147",
+            "target": "node_248",
+            "type": "step"
+        },
+        {
+            "id": "e148_to_151",
+            "source": "node_148",
+            "target": "node_151",
+            "type": "step"
+        },
+        {
+            "id": "e151_to_138",
+            "source": "node_151",
+            "target": "node_138",
+            "type": "step"
+        },
+        {
+            "id": "e152_to_137",
+            "source": "node_152",
+            "target": "node_137",
+            "type": "step"
+        },
+        {
+            "id": "e153_to_140",
+            "source": "node_153",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e154_to_102",
+            "source": "node_154",
+            "target": "node_102",
+            "type": "step"
+        },
+        {
+            "id": "e156_to_309",
+            "source": "node_156",
+            "target": "node_309",
+            "type": "step"
+        },
+        {
+            "id": "e161_to_366",
+            "source": "node_161",
+            "target": "node_366",
+            "type": "step"
+        },
+        {
+            "id": "e162_to_366",
+            "source": "node_162",
+            "target": "node_366",
+            "type": "step"
+        },
+        {
+            "id": "e163_to_366",
+            "source": "node_163",
+            "target": "node_366",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_170",
+            "source": "node_167",
+            "target": "node_170",
+            "type": "step"
+        },
+        {
+            "id": "e173_to_178",
+            "source": "node_173",
+            "target": "node_178",
+            "type": "step"
+        },
+        {
+            "id": "e177_to_227",
+            "source": "node_177",
+            "target": "node_227",
+            "type": "step"
+        },
+        {
+            "id": "e179_to_216",
+            "source": "node_179",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e181_to_209",
+            "source": "node_181",
+            "target": "node_209",
+            "type": "step"
+        },
+        {
+            "id": "e182_to_188",
+            "source": "node_182",
+            "target": "node_188",
+            "type": "step"
+        },
+        {
+            "id": "e186_to_228",
+            "source": "node_186",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e187_to_228",
+            "source": "node_187",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e189_to_228",
+            "source": "node_189",
+            "target": "node_228",
+            "type": "step"
+        },
+        {
+            "id": "e192_to_199",
+            "source": "node_192",
+            "target": "node_199",
+            "type": "step"
+        },
+        {
+            "id": "e198_to_194",
+            "source": "node_198",
+            "target": "node_194",
+            "type": "step"
+        },
+        {
+            "id": "e199_to_207",
+            "source": "node_199",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e201_to_259",
+            "source": "node_201",
+            "target": "node_259",
+            "type": "step"
+        },
+        {
+            "id": "e205_to_334",
+            "source": "node_205",
+            "target": "node_334",
+            "type": "step"
+        },
+        {
+            "id": "e206_to_301",
+            "source": "node_206",
+            "target": "node_301",
+            "type": "step"
+        },
+        {
+            "id": "e215_to_365",
+            "source": "node_215",
+            "target": "node_365",
+            "type": "step"
+        },
+        {
+            "id": "e218_to_222",
+            "source": "node_218",
+            "target": "node_222",
+            "type": "step"
+        },
+        {
+            "id": "e219_to_281",
+            "source": "node_219",
+            "target": "node_281",
+            "type": "step"
+        },
+        {
+            "id": "e220_to_254",
+            "source": "node_220",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e221_to_220",
+            "source": "node_221",
+            "target": "node_220",
+            "type": "step"
+        },
+        {
+            "id": "e223_to_324",
+            "source": "node_223",
+            "target": "node_324",
+            "type": "step"
+        },
+        {
+            "id": "e224_to_254",
+            "source": "node_224",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e225_to_254",
+            "source": "node_225",
+            "target": "node_254",
+            "type": "step"
+        },
+        {
+            "id": "e226_to_180",
+            "source": "node_226",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e227_to_216",
+            "source": "node_227",
+            "target": "node_216",
+            "type": "step"
+        },
+        {
+            "id": "e228_to_319",
+            "source": "node_228",
+            "target": "node_319",
+            "type": "step"
+        },
+        {
+            "id": "e232_to_193",
+            "source": "node_232",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e233_to_239",
+            "source": "node_233",
+            "target": "node_239",
+            "type": "step"
+        },
+        {
+            "id": "e237_to_326",
+            "source": "node_237",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e238_to_326",
+            "source": "node_238",
+            "target": "node_326",
+            "type": "step"
+        },
+        {
+            "id": "e239_to_285",
+            "source": "node_239",
+            "target": "node_285",
+            "type": "step"
+        },
+        {
+            "id": "e241_to_236",
+            "source": "node_241",
+            "target": "node_236",
+            "type": "step"
+        },
+        {
+            "id": "e242_to_346",
+            "source": "node_242",
+            "target": "node_346",
+            "type": "step"
+        },
+        {
+            "id": "e246_to_292",
+            "source": "node_246",
+            "target": "node_292",
+            "type": "step"
+        },
+        {
+            "id": "e250_to_156",
+            "source": "node_250",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e252_to_156",
+            "source": "node_252",
+            "target": "node_156",
+            "type": "step"
+        },
+        {
+            "id": "e256_to_223",
+            "source": "node_256",
+            "target": "node_223",
+            "type": "step"
+        },
+        {
+            "id": "e261_to_206",
+            "source": "node_261",
+            "target": "node_206",
+            "type": "step"
+        },
+        {
+            "id": "e272_to_297",
+            "source": "node_272",
+            "target": "node_297",
+            "type": "step"
+        },
+        {
+            "id": "e290_to_289",
+            "source": "node_290",
+            "target": "node_289",
+            "type": "step"
+        },
+        {
+            "id": "e291_to_55",
+            "source": "node_291",
+            "target": "node_55",
+            "type": "step"
+        },
+        {
+            "id": "e294_to_113",
+            "source": "node_294",
+            "target": "node_113",
+            "type": "step"
+        },
+        {
+            "id": "e304_to_32",
+            "source": "node_304",
+            "target": "node_32",
+            "type": "step"
+        },
+        {
+            "id": "e308_to_35",
+            "source": "node_308",
+            "target": "node_35",
+            "type": "step"
+        },
+        {
+            "id": "e310_to_314",
+            "source": "node_310",
+            "target": "node_314",
+            "type": "step"
+        },
+        {
+            "id": "e311_to_313",
+            "source": "node_311",
+            "target": "node_313",
+            "type": "step"
+        },
+        {
+            "id": "e313_to_158",
+            "source": "node_313",
+            "target": "node_158",
+            "type": "step"
+        },
+        {
+            "id": "e317_to_135",
+            "source": "node_317",
+            "target": "node_135",
+            "type": "step"
+        },
+        {
+            "id": "e321_to_230",
+            "source": "node_321",
+            "target": "node_230",
+            "type": "step"
+        },
+        {
+            "id": "e326_to_193",
+            "source": "node_326",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e336_to_347",
+            "source": "node_336",
+            "target": "node_347",
+            "type": "step"
+        },
+        {
+            "id": "e338_to_340",
+            "source": "node_338",
+            "target": "node_340",
+            "type": "step"
+        },
+        {
+            "id": "e339_to_330",
+            "source": "node_339",
+            "target": "node_330",
+            "type": "step"
+        },
+        {
+            "id": "e349_to_207",
+            "source": "node_349",
+            "target": "node_207",
+            "type": "step"
+        },
+        {
+            "id": "e353_to_193",
+            "source": "node_353",
+            "target": "node_193",
+            "type": "step"
+        },
+        {
+            "id": "e355_to_193",
+            "source": "node_355",
+            "target": "node_193",
+            "type": "step"
+        }
+    ]
+}

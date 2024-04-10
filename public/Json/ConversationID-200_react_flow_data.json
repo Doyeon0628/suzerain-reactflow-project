@@ -1,0 +1,312 @@
+{
+    "nodes": [
+        {
+            "id": "node_2",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"I'm glad they released the governor.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_9",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"They said they wanted to return the gesture of goodwill.\""
+            },
+            "position": {
+                "x": 270,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_11",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"But they did release Mr. Bron, didn't they? They said they wanted to return the gesture of goodwill.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 200
+            }
+        },
+        {
+            "id": "node_13",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"And luckily, the meeting went well. They even released Mr. Bron, saying they wanted to return the gesture of goodwill.\""
+            },
+            "position": {
+                "x": 810,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_37",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I should have known sending a Blud was a mistake.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 400
+            }
+        },
+        {
+            "id": "node_39",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"So, I'm to blame for this attack?\""
+            },
+            "position": {
+                "x": 1080,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_46",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"Our people have suffered a lot through the short history of this republic.\""
+            },
+            "position": {
+                "x": 1350,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_67",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nHe walked up to me and placed the paper in my hands."
+            },
+            "position": {
+                "x": 1620,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_71",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"They also want the revocation of the ban on the Workers Party of Bludia and the Bludish Freedom Party...\""
+            },
+            "position": {
+                "x": 1890,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_93",
+            "type": "customNode",
+            "data": {
+                "label": "Narrator\n\nMansoun looked at me as if he was trying to figure out if he understood me correctly."
+            },
+            "position": {
+                "x": 2160,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_104",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"No. We'll make a counter offer.\""
+            },
+            "position": {
+                "x": 2430,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_109",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"Should I relay the message?\""
+            },
+            "position": {
+                "x": 2700,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_115",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"I will only accept the amnesty.\""
+            },
+            "position": {
+                "x": 2970,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_121",
+            "type": "customNode",
+            "data": {
+                "label": "Player\n\n\"If they don't, I will have no other choice but to destroy them.\""
+            },
+            "position": {
+                "x": 3240,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_122",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"This will only result in more death and destruction in Bergia.\""
+            },
+            "position": {
+                "x": 3510,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_160",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"But they did release Mr. Krull, didn't they? They said they wanted to return the gesture of goodwill.\""
+            },
+            "position": {
+                "x": 3780,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_167",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"And luckily, the meeting went well. They even released Mr. Krull, saying they wanted to return the gesture of goodwill.\""
+            },
+            "position": {
+                "x": 4050,
+                "y": 0
+            }
+        },
+        {
+            "id": "node_178",
+            "type": "customNode",
+            "data": {
+                "label": "Mansoun Leke\n\n\"These are their demands. They want the centralization of Bergia to be cancelled and the Interior's control over the region to be taken away.\""
+            },
+            "position": {
+                "x": 4320,
+                "y": 0
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "e2_to_37",
+            "source": "node_2",
+            "target": "node_37",
+            "type": "step"
+        },
+        {
+            "id": "e9_to_155",
+            "source": "node_9",
+            "target": "node_155",
+            "type": "step"
+        },
+        {
+            "id": "e11_to_169",
+            "source": "node_11",
+            "target": "node_169",
+            "type": "step"
+        },
+        {
+            "id": "e13_to_162",
+            "source": "node_13",
+            "target": "node_162",
+            "type": "step"
+        },
+        {
+            "id": "e37_to_65",
+            "source": "node_37",
+            "target": "node_65",
+            "type": "step"
+        },
+        {
+            "id": "e39_to_53",
+            "source": "node_39",
+            "target": "node_53",
+            "type": "step"
+        },
+        {
+            "id": "e46_to_73",
+            "source": "node_46",
+            "target": "node_73",
+            "type": "step"
+        },
+        {
+            "id": "e67_to_176",
+            "source": "node_67",
+            "target": "node_176",
+            "type": "step"
+        },
+        {
+            "id": "e71_to_44",
+            "source": "node_71",
+            "target": "node_44",
+            "type": "step"
+        },
+        {
+            "id": "e93_to_105",
+            "source": "node_93",
+            "target": "node_105",
+            "type": "step"
+        },
+        {
+            "id": "e104_to_140",
+            "source": "node_104",
+            "target": "node_140",
+            "type": "step"
+        },
+        {
+            "id": "e109_to_180",
+            "source": "node_109",
+            "target": "node_180",
+            "type": "step"
+        },
+        {
+            "id": "e115_to_150",
+            "source": "node_115",
+            "target": "node_150",
+            "type": "step"
+        },
+        {
+            "id": "e121_to_2",
+            "source": "node_121",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e122_to_2",
+            "source": "node_122",
+            "target": "node_2",
+            "type": "step"
+        },
+        {
+            "id": "e160_to_11",
+            "source": "node_160",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e167_to_11",
+            "source": "node_167",
+            "target": "node_11",
+            "type": "step"
+        },
+        {
+            "id": "e178_to_66",
+            "source": "node_178",
+            "target": "node_66",
+            "type": "step"
+        }
+    ]
+}
